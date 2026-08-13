@@ -14,6 +14,7 @@ import {
   Heart,
 } from "lucide-react";
 import type { AppData } from "../../types/app";
+import { displayImageSrc, nextDisplayFallback } from "../lib/imageUrl";
 
 type GalleryImage = {
   id: string;
@@ -235,8 +236,14 @@ function SectionRow({
               >
                 <img
                   alt="オンボーディング画面のプレビュー"
-                  className="h-full w-full object-cover"
-                  src={image.src}
+                  className="h-full w-full"
+                  decoding="async"
+                  loading="lazy"
+                  src={displayImageSrc(image.src, 'detail')}
+                  onError={(e) => {
+                    const next = nextDisplayFallback(e.currentTarget.currentSrc || e.currentTarget.src, image.src);
+                    if (next) e.currentTarget.src = next;
+                  }}
                 />
                 <HoverActions
                   downloading={isDownloading}
@@ -304,8 +311,13 @@ function ImageModal({
                     <div className="relative h-[min(62vh,580px)] w-auto max-w-[min(82vw,266px)] aspect-[410/893] overflow-hidden rounded-[28px] bg-white md:h-[min(76vh,980px)] md:max-w-[450px] md:rounded-[36px]">
                       <img
                         alt="モーダル拡大プレビュー"
-                        className="h-full w-full object-cover"
-                        src={image.src}
+                        className="h-full w-full"
+                        decoding="async"
+                        src={displayImageSrc(image.src, 'detail')}
+                        onError={(e) => {
+                          const next = nextDisplayFallback(e.currentTarget.currentSrc || e.currentTarget.src, image.src);
+                          if (next) e.currentTarget.src = next;
+                        }}
                       />
                     </div>
                     <button

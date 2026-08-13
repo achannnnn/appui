@@ -1,0 +1,7 @@
+scripts/ocr-text
+inbox/*
+!inbox/.gitkeep
+.DS_Store
+node_modules/
+dist/
+*.log

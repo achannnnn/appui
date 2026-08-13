@@ -2,6 +2,7 @@ export type AppImage = {
   id: string;
   src: string;
   filename: string;
+  components?: string[];
 };
 
 export type AppSection = {

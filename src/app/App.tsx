@@ -7,6 +7,7 @@ import type { AppData } from "../types/app";
 import { ComponentDropdown } from "./components/ComponentDropdown";
 import { DetailScreen } from "./components/DetailScreen";
 import { AdminScreen } from "./components/AdminScreen";
+import { displayImageSrc, nextDisplayFallback } from "./lib/imageUrl";
 
 function Frame22({ onAdminClick }: { onAdminClick?: () => void }) {
   return (
@@ -251,7 +252,7 @@ function Frame20({ layout, onLayoutChange }: { layout: '3column' | '2column'; on
   );
 }
 
-function Frame1({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, onComponentSelect, onCategorySelect, onResetClick, categoryRef, componentRef }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement> }) {
+function Frame1({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, onComponentSelect, onCategorySelect, onResetClick, categoryRef, componentRef, componentOptions }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; componentOptions: string[] }) {
   return (
     <div className="content-stretch flex flex-col md:flex-row md:items-center gap-[20px] md:gap-0 md:justify-between relative shrink-0 w-full">
       <Frame21 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} onResetClick={onResetClick} />
@@ -265,18 +266,18 @@ function Frame1({ onCategoryClick, onComponentClick, showCategoryDropdown, showC
       )}
       {showComponentDropdown && (
         <div ref={componentRef} className="hidden md:block absolute left-0 top-[calc(100%+10px)] z-10">
-          <ComponentDropdown onItemClick={onComponentSelect} />
+          <ComponentDropdown onItemClick={onComponentSelect} items={componentOptions} />
         </div>
       )}
     </div>
   );
 }
 
-function Frame4({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onAdminClick }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onAdminClick?: () => void }) {
+function Frame4({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onAdminClick, componentOptions }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onAdminClick?: () => void; componentOptions: string[] }) {
   return (
     <div className="content-stretch flex flex-col gap-[25px] md:gap-[40px] items-start relative shrink-0 w-full">
       <Frame searchValue={searchValue} onSearchChange={onSearchChange} onAdminClick={onAdminClick} />
-      <Frame1 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} categoryRef={categoryRef} componentRef={componentRef} />
+      <Frame1 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} categoryRef={categoryRef} componentRef={componentRef} componentOptions={componentOptions} />
     </div>
   );
 }
@@ -507,14 +508,14 @@ function Frame36({ layout }: { layout: '3column' | '2column' }) {
 }
 
 function AppCard({ app, layout, onClick }: { app: AppData; layout: '3column' | '2column'; onClick?: () => void }) {
-  const imageHeight = layout === '3column' ? 'md:h-[300px]' : 'md:h-[450px]';
   const allImages = app.sections.flatMap(s => s.images);
   const previewImages = allImages.slice(0, 3);
   const placeholderCount = Math.max(0, 3 - previewImages.length);
+  const screenshotGap = layout === '3column' ? 'gap-[12px] md:gap-[16px]' : 'gap-[14px] md:gap-[18px]';
 
   return (
     <div
-      className={`bg-[#f3efec] flex flex-col gap-[15.5px] p-[10px] rounded-[10px] ${onClick ? 'cursor-pointer hover:opacity-90 transition-opacity' : ''}`}
+      className={`bg-[#f3efec] flex flex-col gap-[16px] p-[12px] md:p-[16px] rounded-[12px] ${onClick ? 'cursor-pointer hover:opacity-90 transition-opacity' : ''}`}
       onClick={onClick}
     >
       <div className="flex gap-[16px] items-center">
@@ -531,24 +532,85 @@ function AppCard({ app, layout, onClick }: { app: AppData; layout: '3column' | '
           </p>
         </div>
       </div>
-      <div className="flex gap-[10px] items-center w-full overflow-hidden">
+      <div className={`flex ${screenshotGap} items-start w-full`}>
         {previewImages.map(img => (
-          <div key={img.id} className={`flex-1 h-auto aspect-[138/300] ${imageHeight} relative rounded-[11.5px] overflow-hidden`}>
-            <img src={img.src} alt="" className="absolute inset-0 w-full h-full object-cover rounded-[11.5px]" />
+          <div key={img.id} className="min-w-0 flex-1 aspect-[390/844] relative rounded-[12px] overflow-hidden">
+            <img
+              src={displayImageSrc(img.src, 'list')}
+              alt=""
+              className="absolute inset-0 w-full h-full"
+              decoding="async"
+              loading="lazy"
+              onError={(e) => {
+                const next = nextDisplayFallback(e.currentTarget.currentSrc || e.currentTarget.src, img.src);
+                if (next) e.currentTarget.src = next;
+              }}
+            />
           </div>
         ))}
         {Array.from({ length: placeholderCount }).map((_, i) => (
-          <div key={`ph-${i}`} className={`bg-[#d9d9d9] flex-1 aspect-[138/300] ${imageHeight} rounded-[11.5px]`} />
+          <div key={`ph-${i}`} className="bg-[#d9d9d9] min-w-0 flex-1 aspect-[390/844] rounded-[12px]" />
         ))}
       </div>
     </div>
   );
 }
 
-function Frame14({ layout, apps, appsLoading, onOpenDetail }: { layout: '3column' | '2column'; apps: AppData[]; appsLoading: boolean; onOpenDetail: (app: AppData) => void }) {
+type FilteredScreenshot = {
+  key: string;
+  app: AppData;
+  sectionTitle: string;
+  imageId: string;
+  imageSrc: string;
+  matchedComponent: string;
+};
+
+function ScreenshotCard({ item, onClick }: { item: FilteredScreenshot; onClick?: () => void }) {
+  return (
+    <div
+      className={`bg-[#f3efec] flex flex-col gap-[12px] p-[12px] md:p-[16px] rounded-[12px] ${onClick ? 'cursor-pointer hover:opacity-90 transition-opacity' : ''}`}
+      onClick={onClick}
+    >
+      <div className="flex gap-[12px] items-center min-w-0">
+        {item.app.iconUrl
+          ? <img src={item.app.iconUrl} alt={`${item.app.name} アイコン`} className="rounded-[9px] shrink-0 size-[42px] object-cover" />
+          : <div className="bg-[#d9d9d9] rounded-[9px] shrink-0 size-[42px]" />
+        }
+        <div className="flex flex-col gap-[2px] min-w-0">
+          <p className="font-['Noto_Sans_JP:Bold',sans-serif] text-[#333] text-[13px] tracking-[0.52px] truncate">
+            {item.app.name}
+          </p>
+          <p className="font-['Noto_Sans_JP:Medium',sans-serif] text-[#717171] text-[11px] tracking-[0.44px] truncate">
+            {item.sectionTitle}
+          </p>
+        </div>
+      </div>
+      <div className="w-full aspect-[390/844] relative rounded-[12px] overflow-hidden bg-[#d9d9d9]">
+        <img
+          src={displayImageSrc(item.imageSrc, 'list')}
+          alt="該当スクリーンショット"
+          className="absolute inset-0 w-full h-full"
+          decoding="async"
+          loading="lazy"
+          onError={(e) => {
+            const next = nextDisplayFallback(e.currentTarget.currentSrc || e.currentTarget.src, item.imageSrc);
+            if (next) e.currentTarget.src = next;
+          }}
+        />
+      </div>
+      <div className="inline-flex items-center w-fit px-2 py-1 rounded-full bg-white border border-[#d5d5d5]">
+        <p className="font-['Noto_Sans_JP:Medium',sans-serif] text-[#4b5563] text-[11px] tracking-[0.44px] truncate">
+          {item.matchedComponent}
+        </p>
+      </div>
+    </div>
+  );
+}
+
+function Frame14({ layout, apps, appsLoading, onOpenDetail, selectedComponent, screenshots }: { layout: '3column' | '2column'; apps: AppData[]; appsLoading: boolean; onOpenDetail: (app: AppData) => void; selectedComponent: string | null; screenshots: FilteredScreenshot[] }) {
   const gridClass = layout === '3column'
-    ? "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-[22px] gap-y-[22px]"
-    : "grid grid-cols-1 md:grid-cols-2 gap-x-[22px] gap-y-[22px]";
+    ? "grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-[20px] gap-y-[24px]"
+    : "grid grid-cols-1 md:grid-cols-2 gap-x-[24px] gap-y-[28px]";
 
   if (appsLoading) {
     return (
@@ -567,6 +629,25 @@ function Frame14({ layout, apps, appsLoading, onOpenDetail }: { layout: '3column
     );
   }
 
+  if (selectedComponent) {
+    if (screenshots.length === 0) {
+      return (
+        <div className="w-full py-20 text-center">
+          <p className="font-['Noto_Sans_JP:Bold',sans-serif] text-[16px] text-[#333] mb-2">該当するスクリーンショットがありません</p>
+          <p className="font-['Noto_Sans_JP:Regular',sans-serif] text-[13px] text-[#737373]">別のコンポーネントを選ぶか、管理画面で画像コンポーネントを追加してください</p>
+        </div>
+      );
+    }
+
+    return (
+      <div className={`${gridClass} relative shrink-0 w-full`}>
+        {screenshots.map((item) => (
+          <ScreenshotCard key={item.key} item={item} onClick={() => onOpenDetail(item.app)} />
+        ))}
+      </div>
+    );
+  }
+
   return (
     <div className={`${gridClass} relative shrink-0 w-full`}>
       {apps.map(app => (
@@ -576,14 +657,14 @@ function Frame14({ layout, apps, appsLoading, onOpenDetail }: { layout: '3column
   );
 }
 
-function Frame12({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, selectedComponent, selectedCategory, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onOpenDetail, onAdminClick, apps, appsLoading }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; selectedComponent: string | null; selectedCategory: string | null; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onOpenDetail: (app: AppData) => void; onAdminClick?: () => void; apps: AppData[]; appsLoading: boolean }) {
+function Frame12({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, selectedComponent, selectedCategory, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onOpenDetail, onAdminClick, apps, appsLoading, screenshots, componentOptions }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; selectedComponent: string | null; selectedCategory: string | null; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onOpenDetail: (app: AppData) => void; onAdminClick?: () => void; apps: AppData[]; appsLoading: boolean; screenshots: FilteredScreenshot[]; componentOptions: string[] }) {
   return (
-    <div className="-translate-x-1/2 absolute content-stretch flex flex-col gap-[30px] md:gap-[51px] items-start left-1/2 top-[20px] md:top-[33px] w-full max-w-[1400px] px-[20px] md:px-0">
-      <Frame4 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} searchValue={searchValue} onSearchChange={onSearchChange} categoryRef={categoryRef} componentRef={componentRef} onAdminClick={onAdminClick} />
+    <div className="mx-auto content-stretch flex flex-col gap-[30px] md:gap-[51px] items-start w-full max-w-[1600px] px-[20px] md:px-[24px] pt-[20px] md:pt-[33px] pb-[40px]">
+      <Frame4 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} searchValue={searchValue} onSearchChange={onSearchChange} categoryRef={categoryRef} componentRef={componentRef} onAdminClick={onAdminClick} componentOptions={componentOptions} />
       {(selectedComponent || selectedCategory) && (
         <h1 className="font-['Noto_Sans_JP:Bold',sans-serif] text-[20px] md:text-[28px] text-[#333] leading-none">{selectedComponent || selectedCategory}</h1>
       )}
-      <Frame14 layout={layout} apps={apps} appsLoading={appsLoading} onOpenDetail={onOpenDetail} />
+      <Frame14 layout={layout} apps={apps} appsLoading={appsLoading} onOpenDetail={onOpenDetail} selectedComponent={selectedComponent} screenshots={screenshots} />
     </div>
   );
 }
@@ -599,6 +680,20 @@ export default function App() {
   const [apps, setApps] = useState<AppData[]>([]);
   const [appsLoading, setAppsLoading] = useState(true);
   const [selectedApp, setSelectedApp] = useState<AppData | null>(null);
+  const [appsVersion, setAppsVersion] = useState(0);
+
+  const normalizeFilterToken = (value: string) => {
+    return value
+      .toLowerCase()
+      .replace(/[\s\u3000]/g, '')
+      .replace(/[\-‐‑‒–—―ー／/・]/g, '');
+  };
+
+  const collectAppComponents = (app: AppData) => {
+    const topLevel = app.components ?? [];
+    const imageLevel = app.sections.flatMap((section) => section.images.flatMap((image) => image.components ?? []));
+    return [...topLevel, ...imageLevel];
+  };
 
   const categoryRef = useRef<HTMLDivElement>(null);
   const componentRef = useRef<HTMLDivElement>(null);
@@ -632,22 +727,78 @@ export default function App() {
     return () => {
       canceled = true;
     };
-  }, []);
+  }, [appsVersion]);
 
   const filteredApps = useMemo(() => {
     return apps.filter((app) => {
       const matchesSearch = !searchValue.trim()
         || app.name.toLowerCase().includes(searchValue.trim().toLowerCase());
 
-      const matchesCategory = !selectedCategory
-        || app.categories.includes(selectedCategory);
+      const selectedCategoryToken = selectedCategory ? normalizeFilterToken(selectedCategory) : null;
+      const selectedComponentToken = selectedComponent ? normalizeFilterToken(selectedComponent) : null;
 
-      const matchesComponent = !selectedComponent
-        || app.components.includes(selectedComponent);
+      const categoryTokens = (app.categories ?? []).map(normalizeFilterToken);
+      const componentTokens = collectAppComponents(app).map(normalizeFilterToken);
+
+      const matchesCategory = !selectedCategoryToken
+        || categoryTokens.some((token) => token.includes(selectedCategoryToken) || selectedCategoryToken.includes(token));
+
+      const matchesComponent = !selectedComponentToken
+        || componentTokens.some((token) => token.includes(selectedComponentToken) || selectedComponentToken.includes(token));
 
       return matchesSearch && matchesCategory && matchesComponent;
     });
   }, [apps, searchValue, selectedCategory, selectedComponent]);
+
+  const filteredScreenshots = useMemo(() => {
+    if (!selectedComponent) {
+      return [];
+    }
+
+    const selectedComponentToken = normalizeFilterToken(selectedComponent);
+
+    return apps.flatMap((app) => {
+      const matchesSearch = !searchValue.trim()
+        || app.name.toLowerCase().includes(searchValue.trim().toLowerCase());
+
+      if (!matchesSearch) {
+        return [];
+      }
+
+      return app.sections.flatMap((section) => section.images.flatMap((image) => {
+        const imageComponents = image.components ?? [];
+        const matchedComponent = imageComponents.find((component) => {
+          const token = normalizeFilterToken(component);
+          return token.includes(selectedComponentToken) || selectedComponentToken.includes(token);
+        });
+
+        if (!matchedComponent) {
+          return [];
+        }
+
+        return [{
+          key: `${app.id}:${section.id}:${image.id}`,
+          app,
+          sectionTitle: section.title || 'セクション未設定',
+          imageId: image.id,
+          imageSrc: image.src,
+          matchedComponent,
+        }];
+      }));
+    });
+  }, [apps, searchValue, selectedComponent]);
+
+  const availableComponents = useMemo(() => {
+    const values = new Set<string>();
+    apps.forEach((app) => {
+      collectAppComponents(app).forEach((component) => {
+        if (component && component.trim()) {
+          values.add(component.trim());
+        }
+      });
+    });
+    return Array.from(values).sort((a, b) => a.localeCompare(b, 'ja'));
+  }, [apps]);
 
   useEffect(() => {
     const handleClickOutside = (event: MouseEvent) => {
@@ -718,8 +869,12 @@ export default function App() {
     setScreen('admin');
   };
 
+  const handleRegistered = () => {
+    setAppsVersion((value) => value + 1);
+  };
+
   if (screen === 'admin') {
-    return <AdminScreen onBack={handleBackToList} />;
+    return <AdminScreen onBack={handleBackToList} onRegistered={handleRegistered} apps={apps} />;
   }
 
   if (screen === 'detail' && selectedApp) {
@@ -728,7 +883,7 @@ export default function App() {
 
   return (
     <div className="bg-[#efede4] relative min-h-screen w-full" data-name="一覧">
-      <Frame12 onCategoryClick={handleCategoryClick} onComponentClick={handleComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={handleLayoutChange} selectedComponent={selectedComponent} selectedCategory={selectedCategory} onComponentSelect={handleComponentSelect} onCategorySelect={handleCategorySelect} onResetClick={handleReset} searchValue={searchValue} onSearchChange={handleSearchChange} categoryRef={categoryRef} componentRef={componentRef} onOpenDetail={handleOpenDetail} onAdminClick={handleOpenAdmin} apps={filteredApps} appsLoading={appsLoading} />
+      <Frame12 onCategoryClick={handleCategoryClick} onComponentClick={handleComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={handleLayoutChange} selectedComponent={selectedComponent} selectedCategory={selectedCategory} onComponentSelect={handleComponentSelect} onCategorySelect={handleCategorySelect} onResetClick={handleReset} searchValue={searchValue} onSearchChange={handleSearchChange} categoryRef={categoryRef} componentRef={componentRef} onOpenDetail={handleOpenDetail} onAdminClick={handleOpenAdmin} apps={filteredApps} appsLoading={appsLoading} screenshots={filteredScreenshots} componentOptions={availableComponents} />
 
       {showCategoryDropdown && (
         <div className="md:hidden fixed inset-0 z-50">
@@ -738,7 +893,7 @@ export default function App() {
             onClick={handleCloseDropdowns}
             type="button"
           />
-          <div ref={categoryRef} className="absolute bottom-0 left-0 right-0 max-h-[82vh] overflow-auto rounded-t-[20px] border border-[#333]/10 bg-white p-4 shadow-[0_-8px_24px_rgba(0,0,0,0.18)] animate-in slide-in-from-bottom duration-200">
+          <div className="absolute bottom-0 left-0 right-0 max-h-[82vh] overflow-auto rounded-t-[20px] border border-[#333]/10 bg-white p-4 shadow-[0_-8px_24px_rgba(0,0,0,0.18)] animate-in slide-in-from-bottom duration-200">
             <CategoryDropdown onItemClick={handleCategorySelect} />
           </div>
         </div>
@@ -752,8 +907,8 @@ export default function App() {
             onClick={handleCloseDropdowns}
             type="button"
           />
-          <div ref={componentRef} className="absolute bottom-0 left-0 right-0 max-h-[82vh] overflow-auto rounded-t-[20px] border border-[#333]/10 bg-white p-4 shadow-[0_-8px_24px_rgba(0,0,0,0.18)] animate-in slide-in-from-bottom duration-200">
-            <ComponentDropdown onItemClick={handleComponentSelect} />
+          <div className="absolute bottom-0 left-0 right-0 max-h-[82vh] overflow-auto rounded-t-[20px] border border-[#333]/10 bg-white p-4 shadow-[0_-8px_24px_rgba(0,0,0,0.18)] animate-in slide-in-from-bottom duration-200">
+            <ComponentDropdown onItemClick={handleComponentSelect} items={availableComponents} />
           </div>
         </div>
       )}
