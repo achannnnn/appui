@@ -1,0 +1,956 @@
+{
+  "id": "timee-1786206087295",
+  "name": "タイミー",
+  "description": "すぐに働ける単発アルバイトが見つかる求人アプリ「タイミー」。スキマ時間で働けるバイトを探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/4a/f6/a94af620-c3a3-76f8-0fe5-736d057f4863/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1409383333",
+  "categories": [
+    "バイト"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "フォーム",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "プロフィール",
+    "カード",
+    "ボトム ナビゲーション",
+    "検索",
+    "フィルター",
+    "タブ・セグメントコントロール",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "q0xebn6",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "iwcs1fh",
+          "src": "/appui-images/timee/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qf233ba",
+          "src": "/appui-images/timee/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5uycruj",
+          "src": "/appui-images/timee/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iu7tzku",
+          "src": "/appui-images/timee/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "osr8zn4",
+          "src": "/appui-images/timee/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nqj07l4",
+          "src": "/appui-images/timee/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i70idfi",
+          "src": "/appui-images/timee/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ndmaf4",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "j4ha18p",
+          "src": "/appui-images/timee/IMG_9643.webp",
+          "filename": "IMG_9643.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "h7qjp9u",
+          "src": "/appui-images/timee/IMG_9644.webp",
+          "filename": "IMG_9644.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "shdx695",
+          "src": "/appui-images/timee/IMG_9645.webp",
+          "filename": "IMG_9645.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0853lvz",
+          "src": "/appui-images/timee/IMG_9646.webp",
+          "filename": "IMG_9646.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltkbsly",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "w26b477",
+          "src": "/appui-images/timee/IMG_9648.webp",
+          "filename": "IMG_9648.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "4gv61cb",
+          "src": "/appui-images/timee/IMG_9649.webp",
+          "filename": "IMG_9649.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "8sso54l",
+          "src": "/appui-images/timee/IMG_9650.webp",
+          "filename": "IMG_9650.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "bcobxix",
+          "src": "/appui-images/timee/IMG_9651.webp",
+          "filename": "IMG_9651.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "xqqdrxw",
+          "src": "/appui-images/timee/IMG_9652.webp",
+          "filename": "IMG_9652.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "uh78qa8",
+          "src": "/appui-images/timee/IMG_9653.webp",
+          "filename": "IMG_9653.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "46m3u6u",
+          "src": "/appui-images/timee/IMG_9654.webp",
+          "filename": "IMG_9654.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "cglrddh",
+          "src": "/appui-images/timee/IMG_9655.webp",
+          "filename": "IMG_9655.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nbf5owm",
+      "title": "本人確認",
+      "images": [
+        {
+          "id": "0zedxfu",
+          "src": "/appui-images/timee/IMG_9656.webp",
+          "filename": "IMG_9656.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "xwkuhu6",
+          "src": "/appui-images/timee/IMG_9685.webp",
+          "filename": "IMG_9685.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "dbcnouv",
+          "src": "/appui-images/timee/IMG_9686.webp",
+          "filename": "IMG_9686.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ia8odh",
+      "title": "希望条件の登録",
+      "images": [
+        {
+          "id": "m50ucvy",
+          "src": "/appui-images/timee/IMG_9657.webp",
+          "filename": "IMG_9657.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        },
+        {
+          "id": "zh3obnr",
+          "src": "/appui-images/timee/IMG_9658.webp",
+          "filename": "IMG_9658.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        },
+        {
+          "id": "vjx5m8g",
+          "src": "/appui-images/timee/IMG_9659.webp",
+          "filename": "IMG_9659.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        },
+        {
+          "id": "9d0vge0",
+          "src": "/appui-images/timee/IMG_9660.webp",
+          "filename": "IMG_9660.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        },
+        {
+          "id": "1safglv",
+          "src": "/appui-images/timee/IMG_9661.webp",
+          "filename": "IMG_9661.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        },
+        {
+          "id": "bw9frgk",
+          "src": "/appui-images/timee/IMG_9662.webp",
+          "filename": "IMG_9662.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        },
+        {
+          "id": "nf3ibaw",
+          "src": "/appui-images/timee/IMG_9663.webp",
+          "filename": "IMG_9663.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z55ymkh",
+      "title": "単発バイト検索",
+      "images": [
+        {
+          "id": "g7rqoet",
+          "src": "/appui-images/timee/IMG_9664.webp",
+          "filename": "IMG_9664.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "qi9pszu",
+          "src": "/appui-images/timee/IMG_9665.webp",
+          "filename": "IMG_9665.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "skatxyk",
+          "src": "/appui-images/timee/IMG_9671.webp",
+          "filename": "IMG_9671.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "gy5wk36",
+          "src": "/appui-images/timee/IMG_9682.webp",
+          "filename": "IMG_9682.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nsnae4e",
+      "title": "勤務詳細",
+      "images": [
+        {
+          "id": "gvxdcbr",
+          "src": "/appui-images/timee/IMG_9666.webp",
+          "filename": "IMG_9666.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vg59hn4",
+          "src": "/appui-images/timee/IMG_9667.webp",
+          "filename": "IMG_9667.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "sxsi7fm",
+          "src": "/appui-images/timee/IMG_9668.webp",
+          "filename": "IMG_9668.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "qrha08p",
+          "src": "/appui-images/timee/IMG_9669.webp",
+          "filename": "IMG_9669.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "v2rgpcp",
+          "src": "/appui-images/timee/IMG_9670.webp",
+          "filename": "IMG_9670.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28b7fmo",
+      "title": "検索フィルター",
+      "images": [
+        {
+          "id": "te1vxgo",
+          "src": "/appui-images/timee/IMG_9672.webp",
+          "filename": "IMG_9672.webp",
+          "components": [
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "mhtuq4a",
+          "src": "/appui-images/timee/IMG_9673.webp",
+          "filename": "IMG_9673.webp",
+          "components": [
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ompm4f2",
+          "src": "/appui-images/timee/IMG_9674.webp",
+          "filename": "IMG_9674.webp",
+          "components": [
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "y29260w",
+          "src": "/appui-images/timee/IMG_9675.webp",
+          "filename": "IMG_9675.webp",
+          "components": [
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "xf6ws8g",
+          "src": "/appui-images/timee/IMG_9676.webp",
+          "filename": "IMG_9676.webp",
+          "components": [
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "cblzem0",
+          "src": "/appui-images/timee/IMG_9677.webp",
+          "filename": "IMG_9677.webp",
+          "components": [
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "venqdoi",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "gdp0v5r",
+          "src": "/appui-images/timee/IMG_9678.webp",
+          "filename": "IMG_9678.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "07g3at9",
+          "src": "/appui-images/timee/IMG_9679.webp",
+          "filename": "IMG_9679.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ngtoev8",
+      "title": "はたらく",
+      "images": [
+        {
+          "id": "d3r0mws",
+          "src": "/appui-images/timee/IMG_9680.webp",
+          "filename": "IMG_9680.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18v6hon",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "onicbqu",
+          "src": "/appui-images/timee/IMG_9681.webp",
+          "filename": "IMG_9681.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k3z85w1",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "2mx52xx",
+          "src": "/appui-images/timee/IMG_9683.webp",
+          "filename": "IMG_9683.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wa14sxo",
+          "src": "/appui-images/timee/IMG_9684.webp",
+          "filename": "IMG_9684.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "axaxjp6",
+          "src": "/appui-images/timee/IMG_9687.webp",
+          "filename": "IMG_9687.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yppnyrh",
+          "src": "/appui-images/timee/IMG_9689.webp",
+          "filename": "IMG_9689.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ey5wg0p",
+          "src": "/appui-images/timee/IMG_9694.webp",
+          "filename": "IMG_9694.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bhwy7uh",
+      "title": "報酬管理",
+      "images": [
+        {
+          "id": "ub7unz8",
+          "src": "/appui-images/timee/IMG_9688.webp",
+          "filename": "IMG_9688.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "vsrmy8q",
+          "src": "/appui-images/timee/IMG_9697.webp",
+          "filename": "IMG_9697.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ke6opoo",
+      "title": "アカウント設定",
+      "images": [
+        {
+          "id": "msdl93v",
+          "src": "/appui-images/timee/IMG_9690.webp",
+          "filename": "IMG_9690.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "kjtwa8r",
+          "src": "/appui-images/timee/IMG_9691.webp",
+          "filename": "IMG_9691.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "hipc2wo",
+          "src": "/appui-images/timee/IMG_9692.webp",
+          "filename": "IMG_9692.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "019in3z",
+          "src": "/appui-images/timee/IMG_9693.webp",
+          "filename": "IMG_9693.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "e4ajfj5",
+          "src": "/appui-images/timee/IMG_9695.webp",
+          "filename": "IMG_9695.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "rsdl1ck",
+          "src": "/appui-images/timee/IMG_9696.webp",
+          "filename": "IMG_9696.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "jf9fcsx",
+          "src": "/appui-images/timee/IMG_9698.webp",
+          "filename": "IMG_9698.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "j9zski6",
+          "src": "/appui-images/timee/IMG_9699.webp",
+          "filename": "IMG_9699.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "カード",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42h4si0",
+      "title": "退会手続き",
+      "images": [
+        {
+          "id": "fjlarpg",
+          "src": "/appui-images/timee/IMG_9701.webp",
+          "filename": "IMG_9701.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xaqjhev",
+          "src": "/appui-images/timee/IMG_9702.webp",
+          "filename": "IMG_9702.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "タイミー"
+}

@@ -1,0 +1,823 @@
+{
+  "id": "sugi-1786626020669",
+  "name": "スギ薬局",
+  "description": "スギ薬局公式アプリ。お店で使える割引クーポンや会員証をまとめられる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/04/0e/27040e02-58e4-f5eb-383a-17fcf1a27e4c/AppIcon-prd-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id853001943",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "オンボーディング",
+    "フォーム",
+    "ボタン",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "カード",
+    "リスト",
+    "ボトム ナビゲーション",
+    "ダッシュボード",
+    "タブ・セグメントコントロール",
+    "フィルター",
+    "検索",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "rlxqnao",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "m44otwh",
+          "src": "/appui-images/sugi/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wfkgm8g",
+          "src": "/appui-images/sugi/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8z95rhi",
+          "src": "/appui-images/sugi/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1flfdso",
+          "src": "/appui-images/sugi/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xt0kwg6",
+          "src": "/appui-images/sugi/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hnk8xbv",
+          "src": "/appui-images/sugi/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x5aryji",
+          "src": "/appui-images/sugi/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "053ed4s",
+          "src": "/appui-images/sugi/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "miugrl9",
+      "title": "起動・オンボーディング",
+      "images": [
+        {
+          "id": "u84l8ck",
+          "src": "/appui-images/sugi/IMG_0533.webp",
+          "filename": "IMG_0533.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "z76zf72",
+          "src": "/appui-images/sugi/IMG_0534.webp",
+          "filename": "IMG_0534.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "mnvbkgm",
+          "src": "/appui-images/sugi/IMG_0535.webp",
+          "filename": "IMG_0535.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "9lcb4eg",
+          "src": "/appui-images/sugi/IMG_0536.webp",
+          "filename": "IMG_0536.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "3tokus6",
+          "src": "/appui-images/sugi/IMG_0537.webp",
+          "filename": "IMG_0537.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhpchxz",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "8se3dec",
+          "src": "/appui-images/sugi/IMG_0538.webp",
+          "filename": "IMG_0538.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "y8vdydo",
+          "src": "/appui-images/sugi/IMG_0539.webp",
+          "filename": "IMG_0539.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "oiydl8q",
+          "src": "/appui-images/sugi/IMG_0540.webp",
+          "filename": "IMG_0540.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "44l7qs9",
+          "src": "/appui-images/sugi/IMG_0551.webp",
+          "filename": "IMG_0551.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ben06m",
+      "title": "クーポン",
+      "images": [
+        {
+          "id": "pe933tz",
+          "src": "/appui-images/sugi/IMG_0545.webp",
+          "filename": "IMG_0545.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "hgwavfs",
+          "src": "/appui-images/sugi/IMG_0546.webp",
+          "filename": "IMG_0546.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "h7drmls",
+          "src": "/appui-images/sugi/IMG_0547.webp",
+          "filename": "IMG_0547.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "75ez7rl",
+          "src": "/appui-images/sugi/IMG_0548.webp",
+          "filename": "IMG_0548.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "h6rso19",
+          "src": "/appui-images/sugi/IMG_0549.webp",
+          "filename": "IMG_0549.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2amb9wx",
+          "src": "/appui-images/sugi/IMG_0552.webp",
+          "filename": "IMG_0552.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "w0i0i8k",
+          "src": "/appui-images/sugi/IMG_0553.webp",
+          "filename": "IMG_0553.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2vr7z0v",
+          "src": "/appui-images/sugi/IMG_0554.webp",
+          "filename": "IMG_0554.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9f4zddz",
+          "src": "/appui-images/sugi/IMG_0555.webp",
+          "filename": "IMG_0555.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "u79hc7d",
+          "src": "/appui-images/sugi/IMG_0556.webp",
+          "filename": "IMG_0556.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "5thoehz",
+          "src": "/appui-images/sugi/IMG_0557.webp",
+          "filename": "IMG_0557.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zaspllc",
+          "src": "/appui-images/sugi/IMG_0558.webp",
+          "filename": "IMG_0558.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "j56dm8u",
+          "src": "/appui-images/sugi/IMG_0559.webp",
+          "filename": "IMG_0559.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フィルター",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kieqg8i",
+      "title": "チラシ",
+      "images": [
+        {
+          "id": "eaxzdv9",
+          "src": "/appui-images/sugi/IMG_0560.webp",
+          "filename": "IMG_0560.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hzm8dwo",
+      "title": "店舗情報",
+      "images": [
+        {
+          "id": "8ycybyz",
+          "src": "/appui-images/sugi/IMG_0561.webp",
+          "filename": "IMG_0561.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "g7n85mp",
+          "src": "/appui-images/sugi/IMG_0562.webp",
+          "filename": "IMG_0562.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "1h2n02n",
+          "src": "/appui-images/sugi/IMG_0563.webp",
+          "filename": "IMG_0563.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "ujb33p5",
+          "src": "/appui-images/sugi/IMG_0564.webp",
+          "filename": "IMG_0564.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "5vhopvf",
+          "src": "/appui-images/sugi/IMG_0565.webp",
+          "filename": "IMG_0565.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "hpgmsna",
+          "src": "/appui-images/sugi/IMG_0566.webp",
+          "filename": "IMG_0566.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "of9j6ag",
+          "src": "/appui-images/sugi/IMG_0567.webp",
+          "filename": "IMG_0567.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vj0j3lc",
+      "title": "スギチャンネル",
+      "images": [
+        {
+          "id": "m2stkd1",
+          "src": "/appui-images/sugi/IMG_0541.webp",
+          "filename": "IMG_0541.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "4mcx9x8",
+          "src": "/appui-images/sugi/IMG_0542.webp",
+          "filename": "IMG_0542.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "5udihg0",
+          "src": "/appui-images/sugi/IMG_0543.webp",
+          "filename": "IMG_0543.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "d4ukn6a",
+          "src": "/appui-images/sugi/IMG_0544.webp",
+          "filename": "IMG_0544.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zyqy4p8",
+      "title": "クチコミ",
+      "images": [
+        {
+          "id": "96l8zvk",
+          "src": "/appui-images/sugi/IMG_0568.webp",
+          "filename": "IMG_0568.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "dixxxoo",
+          "src": "/appui-images/sugi/IMG_0569.webp",
+          "filename": "IMG_0569.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "rro7wpv",
+          "src": "/appui-images/sugi/IMG_0570.webp",
+          "filename": "IMG_0570.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "d4qmmnu",
+          "src": "/appui-images/sugi/IMG_0571.webp",
+          "filename": "IMG_0571.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "1cifd93",
+          "src": "/appui-images/sugi/IMG_0572.webp",
+          "filename": "IMG_0572.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "7iqa85y",
+          "src": "/appui-images/sugi/IMG_0573.webp",
+          "filename": "IMG_0573.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n9s3d8b",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "trkkyv2",
+          "src": "/appui-images/sugi/IMG_0550.webp",
+          "filename": "IMG_0550.webp",
+          "components": [
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n8aaixp",
+      "title": "アプリ設定",
+      "images": [
+        {
+          "id": "7ls7i6g",
+          "src": "/appui-images/sugi/IMG_0574.webp",
+          "filename": "IMG_0574.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "スギ薬局"
+}

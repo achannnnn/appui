@@ -1,0 +1,545 @@
+{
+  "id": "dazn-1786571749751",
+  "name": "DAZN",
+  "description": "スポーツをライブ中継する「DAZN」。サッカーや格闘技など、試合の生中継や見逃し配信が見られる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/67/79/116779ea-82bd-4b4a-041a-9f5f7e191930/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1129523589",
+  "categories": [
+    "スポーツ"
+  ],
+  "components": [
+    "オンボーディング",
+    "ヘッダー",
+    "ダッシュボード",
+    "カード",
+    "リスト",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "モーダル・ボトムシート",
+    "タブ・セグメントコントロール",
+    "フィルター",
+    "検索",
+    "フォーム",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "3y5778p",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "ski4bxb",
+          "src": "/appui-images/dazn/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pv0dykv",
+          "src": "/appui-images/dazn/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8gkalep",
+          "src": "/appui-images/dazn/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ev5yx7m",
+          "src": "/appui-images/dazn/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0ic8h3q",
+          "src": "/appui-images/dazn/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2mw1eb9",
+          "src": "/appui-images/dazn/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w3vudpt",
+          "src": "/appui-images/dazn/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "99opp9t",
+          "src": "/appui-images/dazn/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f48yc7",
+      "title": "起動画面",
+      "images": [
+        {
+          "id": "ejqqtb4",
+          "src": "/appui-images/dazn/IMG_0113.webp",
+          "filename": "IMG_0113.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tgwet9u",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "zncq8xz",
+          "src": "/appui-images/dazn/IMG_0114.webp",
+          "filename": "IMG_0114.webp",
+          "components": [
+            "ヘッダー",
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "v664nd1",
+          "src": "/appui-images/dazn/IMG_0115.webp",
+          "filename": "IMG_0115.webp",
+          "components": [
+            "ヘッダー",
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1w08xkr",
+          "src": "/appui-images/dazn/IMG_0116.webp",
+          "filename": "IMG_0116.webp",
+          "components": [
+            "ヘッダー",
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "luedd4c",
+          "src": "/appui-images/dazn/IMG_0117.webp",
+          "filename": "IMG_0117.webp",
+          "components": [
+            "ヘッダー",
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1hnq82h",
+      "title": "スポーツ一覧",
+      "images": [
+        {
+          "id": "b78my6m",
+          "src": "/appui-images/dazn/IMG_0118.webp",
+          "filename": "IMG_0118.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y15jqg1",
+      "title": "リーグ詳細",
+      "images": [
+        {
+          "id": "jublxu2",
+          "src": "/appui-images/dazn/IMG_0119.webp",
+          "filename": "IMG_0119.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xnv9ezu",
+          "src": "/appui-images/dazn/IMG_0120.webp",
+          "filename": "IMG_0120.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "68ey6ad",
+          "src": "/appui-images/dazn/IMG_0121.webp",
+          "filename": "IMG_0121.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "cl4fnet",
+          "src": "/appui-images/dazn/IMG_0122.webp",
+          "filename": "IMG_0122.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "90voxh3",
+          "src": "/appui-images/dazn/IMG_0123.webp",
+          "filename": "IMG_0123.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "l3i0bli",
+          "src": "/appui-images/dazn/IMG_0124.webp",
+          "filename": "IMG_0124.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4573f6u",
+      "title": "試合再生・プラン加入",
+      "images": [
+        {
+          "id": "lcr2ttb",
+          "src": "/appui-images/dazn/IMG_0125.webp",
+          "filename": "IMG_0125.webp",
+          "components": [
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ihjggp9",
+          "src": "/appui-images/dazn/IMG_0126.webp",
+          "filename": "IMG_0126.webp",
+          "components": [
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2tp44fm",
+      "title": "ライブスコア設定",
+      "images": [
+        {
+          "id": "ao9didn",
+          "src": "/appui-images/dazn/IMG_0127.webp",
+          "filename": "IMG_0127.webp",
+          "components": [
+            "オンボーディング",
+            "検索",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ljpppx6",
+          "src": "/appui-images/dazn/IMG_0128.webp",
+          "filename": "IMG_0128.webp",
+          "components": [
+            "オンボーディング",
+            "検索",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "z7zg37m",
+          "src": "/appui-images/dazn/IMG_0129.webp",
+          "filename": "IMG_0129.webp",
+          "components": [
+            "オンボーディング",
+            "検索",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o8c59cu",
+      "title": "スコア",
+      "images": [
+        {
+          "id": "jrltva1",
+          "src": "/appui-images/dazn/IMG_0130.webp",
+          "filename": "IMG_0130.webp",
+          "components": [
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pl1f0c9",
+          "src": "/appui-images/dazn/IMG_0131.webp",
+          "filename": "IMG_0131.webp",
+          "components": [
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0e59saj",
+          "src": "/appui-images/dazn/IMG_0132.webp",
+          "filename": "IMG_0132.webp",
+          "components": [
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zgpgxxf",
+      "title": "検索",
+      "images": [
+        {
+          "id": "rfv11i1",
+          "src": "/appui-images/dazn/IMG_0133.webp",
+          "filename": "IMG_0133.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6inyl2",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "k2xk9cb",
+          "src": "/appui-images/dazn/IMG_0134.webp",
+          "filename": "IMG_0134.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "oeagaek",
+          "src": "/appui-images/dazn/IMG_0135.webp",
+          "filename": "IMG_0135.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0dmk58y",
+      "title": "通知・フォロー管理",
+      "images": [
+        {
+          "id": "hsyii7y",
+          "src": "/appui-images/dazn/IMG_0136.webp",
+          "filename": "IMG_0136.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "56z015f",
+          "src": "/appui-images/dazn/IMG_0137.webp",
+          "filename": "IMG_0137.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "acbywez",
+      "title": "番組表",
+      "images": [
+        {
+          "id": "dliiwb6",
+          "src": "/appui-images/dazn/IMG_0138.webp",
+          "filename": "IMG_0138.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eicudud",
+      "title": "ニュース",
+      "images": [
+        {
+          "id": "0s5l2sm",
+          "src": "/appui-images/dazn/IMG_0139.webp",
+          "filename": "IMG_0139.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "dazn"
+}

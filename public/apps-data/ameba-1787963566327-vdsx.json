@@ -1,0 +1,103 @@
+{
+  "id": "ameba-1787963566327-vdsx",
+  "name": "Ameba",
+  "description": "【Amebaブログの特徴】 ①飾らず思いのままに 日々の思い出など、好きなことを書いてみましょう。 投稿テーマやテンプレートを活用すると簡単に記事が仕上がります。 ②信じられるタメになる ユーザーのリアルな体験やレビューが集まる場所です。 自分の読みたいものが見つかるかもしれ",
+  "iconUrl": "/appui-images/ameba/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/ameba-%E3%82%A2%E3%83%A1%E3%83%BC%E3%83%90/id349442137?uo=4",
+  "categories": [
+    "ソーシャルネットワーキング"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "vwbuvjk",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "gofu4y4",
+          "src": "/appui-images/ameba/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "uddh9jz",
+          "src": "/appui-images/ameba/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "t5f3wu2",
+          "src": "/appui-images/ameba/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "tc88ep8",
+          "src": "/appui-images/ameba/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3iuz0qt",
+          "src": "/appui-images/ameba/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "5l25r9d",
+          "src": "/appui-images/ameba/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wesaf1c",
+          "src": "/appui-images/ameba/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ameba"
+}

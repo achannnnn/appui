@@ -1,0 +1,413 @@
+{
+  "id": "app-1777717407635",
+  "name": "あすけん ダイエット・ヘルスケアのカロリー計算や体重管理に",
+  "description": "食事のカロリー計算や体重管理に！ダイエットや筋トレにも最適",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/e5/8c/6fe58ce7-25a8-bc15-3ab5-9f4721373456/Placeholder.mill/200x200bb-75.webp 200w",
+  "externalUrl": "https://apps.apple.com/jp/app/あすけん-ダイエット-ヘルスケアのカロリー計算や体重管理に/id687287242",
+  "categories": [
+    "健康・フィットネス"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "kgpplof",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "0g7i5pt",
+          "src": "/appui-images/app-1777717407635/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vyukbfo",
+          "src": "/appui-images/app-1777717407635/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fnz439c",
+          "src": "/appui-images/app-1777717407635/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tq9aau0",
+          "src": "/appui-images/app-1777717407635/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4yo4aho",
+          "src": "/appui-images/app-1777717407635/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "izlkq9m",
+          "src": "/appui-images/app-1777717407635/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9ozoi7h",
+          "src": "/appui-images/app-1777717407635/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bt8ioy7",
+          "src": "/appui-images/app-1777717407635/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ukx5t4e",
+          "src": "/appui-images/app-1777717407635/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dy2zowd",
+          "src": "/appui-images/app-1777717407635/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "siohfvn",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "nfczcyv",
+          "src": "/appui-images/app-1777717407635/IMG_7860-2.webp",
+          "filename": "IMG_7860 2.webp"
+        },
+        {
+          "id": "00xp8rj",
+          "src": "/appui-images/app-1777717407635/IMG_7861-2.webp",
+          "filename": "IMG_7861 2.webp"
+        },
+        {
+          "id": "inqro82",
+          "src": "/appui-images/app-1777717407635/IMG_7862-2.webp",
+          "filename": "IMG_7862 2.webp"
+        },
+        {
+          "id": "c4r9l1k",
+          "src": "/appui-images/app-1777717407635/IMG_7863-2.webp",
+          "filename": "IMG_7863 2.webp"
+        },
+        {
+          "id": "is9m6ey",
+          "src": "/appui-images/app-1777717407635/IMG_7864-2.webp",
+          "filename": "IMG_7864 2.webp"
+        },
+        {
+          "id": "zyp3x85",
+          "src": "/appui-images/app-1777717407635/IMG_7865-2.webp",
+          "filename": "IMG_7865 2.webp"
+        },
+        {
+          "id": "gp919n6",
+          "src": "/appui-images/app-1777717407635/IMG_7866-2.webp",
+          "filename": "IMG_7866 2.webp"
+        },
+        {
+          "id": "1met9md",
+          "src": "/appui-images/app-1777717407635/IMG_7867-2.webp",
+          "filename": "IMG_7867 2.webp"
+        },
+        {
+          "id": "cp2sdq7",
+          "src": "/appui-images/app-1777717407635/IMG_7868-2.webp",
+          "filename": "IMG_7868 2.webp"
+        },
+        {
+          "id": "7mm9815",
+          "src": "/appui-images/app-1777717407635/IMG_7869-2.webp",
+          "filename": "IMG_7869 2.webp"
+        },
+        {
+          "id": "gljn42g",
+          "src": "/appui-images/app-1777717407635/IMG_7870-2.webp",
+          "filename": "IMG_7870 2.webp"
+        },
+        {
+          "id": "sdiqv1p",
+          "src": "/appui-images/app-1777717407635/IMG_7871-2.webp",
+          "filename": "IMG_7871 2.webp"
+        },
+        {
+          "id": "zgqdrn9",
+          "src": "/appui-images/app-1777717407635/IMG_7872-2.webp",
+          "filename": "IMG_7872 2.webp"
+        },
+        {
+          "id": "as57qhc",
+          "src": "/appui-images/app-1777717407635/IMG_7873-2.webp",
+          "filename": "IMG_7873 2.webp"
+        },
+        {
+          "id": "ufqy6yq",
+          "src": "/appui-images/app-1777717407635/IMG_7874-2.webp",
+          "filename": "IMG_7874 2.webp"
+        },
+        {
+          "id": "l4icw05",
+          "src": "/appui-images/app-1777717407635/IMG_7875-2.webp",
+          "filename": "IMG_7875 2.webp"
+        },
+        {
+          "id": "589wppn",
+          "src": "/appui-images/app-1777717407635/IMG_7876-2.webp",
+          "filename": "IMG_7876 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "1iz6vy2",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "3i8xncp",
+          "src": "/appui-images/app-1777717407635/IMG_7878-2.webp",
+          "filename": "IMG_7878 2.webp"
+        },
+        {
+          "id": "ylgvtcu",
+          "src": "/appui-images/app-1777717407635/IMG_7889-2.webp",
+          "filename": "IMG_7889 2.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "l70otzi",
+          "src": "/appui-images/app-1777717407635/IMG_7898-2.webp",
+          "filename": "IMG_7898 2.webp",
+          "components": [
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mzd94mf",
+      "title": "からだ",
+      "images": [
+        {
+          "id": "ph1of9p",
+          "src": "/appui-images/app-1777717407635/IMG_7879-2.webp",
+          "filename": "IMG_7879 2.webp"
+        },
+        {
+          "id": "xmqnnfs",
+          "src": "/appui-images/app-1777717407635/IMG_7880-2.webp",
+          "filename": "IMG_7880 2.webp"
+        },
+        {
+          "id": "9fo34c0",
+          "src": "/appui-images/app-1777717407635/IMG_7881-2.webp",
+          "filename": "IMG_7881 2.webp"
+        },
+        {
+          "id": "6csn04j",
+          "src": "/appui-images/app-1777717407635/IMG_7882-2.webp",
+          "filename": "IMG_7882 2.webp"
+        },
+        {
+          "id": "yh4bzme",
+          "src": "/appui-images/app-1777717407635/IMG_7883-2.webp",
+          "filename": "IMG_7883 2.webp"
+        },
+        {
+          "id": "b43qqye",
+          "src": "/appui-images/app-1777717407635/IMG_7884-2.webp",
+          "filename": "IMG_7884 2.webp"
+        },
+        {
+          "id": "05j43as",
+          "src": "/appui-images/app-1777717407635/IMG_7890-2.webp",
+          "filename": "IMG_7890 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "l1z3r84",
+      "title": "食事",
+      "images": [
+        {
+          "id": "r57mtav",
+          "src": "/appui-images/app-1777717407635/IMG_7885-2.webp",
+          "filename": "IMG_7885 2.webp"
+        },
+        {
+          "id": "q15a9nf",
+          "src": "/appui-images/app-1777717407635/IMG_7886-2.webp",
+          "filename": "IMG_7886 2.webp"
+        },
+        {
+          "id": "ohbczm5",
+          "src": "/appui-images/app-1777717407635/IMG_7887-2.webp",
+          "filename": "IMG_7887 2.webp"
+        },
+        {
+          "id": "nmsfrfm",
+          "src": "/appui-images/app-1777717407635/IMG_7888-2.webp",
+          "filename": "IMG_7888 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "0tlxi3m",
+      "title": "運動",
+      "images": [
+        {
+          "id": "vwh0nba",
+          "src": "/appui-images/app-1777717407635/IMG_7892-2.webp",
+          "filename": "IMG_7892 2.webp"
+        },
+        {
+          "id": "jox0kby",
+          "src": "/appui-images/app-1777717407635/IMG_7893-2.webp",
+          "filename": "IMG_7893 2.webp"
+        },
+        {
+          "id": "lidm49a",
+          "src": "/appui-images/app-1777717407635/IMG_7894-2.webp",
+          "filename": "IMG_7894 2.webp"
+        },
+        {
+          "id": "kd767sf",
+          "src": "/appui-images/app-1777717407635/IMG_7900-2.webp",
+          "filename": "IMG_7900 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "czx1k4r",
+      "title": "チャレンジ",
+      "images": [
+        {
+          "id": "9v309x2",
+          "src": "/appui-images/app-1777717407635/IMG_7895-2.webp",
+          "filename": "IMG_7895 2.webp"
+        },
+        {
+          "id": "dkjecf6",
+          "src": "/appui-images/app-1777717407635/IMG_7896-2.webp",
+          "filename": "IMG_7896 2.webp",
+          "components": [
+            "エンプティステート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0uh8tb3",
+      "title": "おすすめ",
+      "images": [
+        {
+          "id": "hwit8eg",
+          "src": "/appui-images/app-1777717407635/IMG_7897-2.webp",
+          "filename": "IMG_7897 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "ussu0nw",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "xtxz7aq",
+          "src": "/appui-images/app-1777717407635/IMG_7899-2.webp",
+          "filename": "IMG_7899 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "a5kw7ot",
+      "title": "設定",
+      "images": [
+        {
+          "id": "frcvqpy",
+          "src": "/appui-images/app-1777717407635/IMG_7901-2.webp",
+          "filename": "IMG_7901 2.webp"
+        },
+        {
+          "id": "nxd0f1s",
+          "src": "/appui-images/app-1777717407635/IMG_7902-2.webp",
+          "filename": "IMG_7902 2.webp"
+        },
+        {
+          "id": "ddkgedd",
+          "src": "/appui-images/app-1777717407635/IMG_7903-2.webp",
+          "filename": "IMG_7903 2.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "あすけん-ダイエット・ヘルスケアのカロリー計算や体重管理に"
+}

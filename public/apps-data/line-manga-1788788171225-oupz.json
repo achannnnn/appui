@@ -1,0 +1,525 @@
+{
+  "id": "line-manga-1788788171225-oupz",
+  "name": "LINEマンガ",
+  "description": "LINEマンガは毎日無料で人気マンガが読める！少年マンガや少女マンガの人気作品が待てば無料のダウンロード数No.1マンガアプリ！LINEマンガオリジナル作品も独占配信中！ 「LINEマンガ」は、スマートフォンやタブレットで気軽にマンガ作品が…",
+  "iconUrl": "/appui-images/line-manga/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/line%E3%83%9E%E3%83%B3%E3%82%AC/id597088068?uo=4",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "タブ"
+  ],
+  "sections": [
+    {
+      "id": "ljt560t",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "x1zcn54",
+          "src": "/appui-images/line-manga/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qq8ld6o",
+          "src": "/appui-images/line-manga/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vypyo6x",
+          "src": "/appui-images/line-manga/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kt8u4io",
+          "src": "/appui-images/line-manga/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avbp4l0",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "m74n1py",
+          "src": "/appui-images/line-manga/IMG_4394.webp",
+          "filename": "IMG_4394.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2u4b8gg",
+          "src": "/appui-images/line-manga/IMG_4397.webp",
+          "filename": "IMG_4397.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9ev2563",
+          "src": "/appui-images/line-manga/IMG_4410.webp",
+          "filename": "IMG_4410.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tw97bcc",
+          "src": "/appui-images/line-manga/IMG_4415.webp",
+          "filename": "IMG_4415.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qfmaqgf",
+      "title": "ホーム・おすすめ",
+      "images": [
+        {
+          "id": "qweapx1",
+          "src": "/appui-images/line-manga/IMG_4395.webp",
+          "filename": "IMG_4395.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j0rtwma",
+          "src": "/appui-images/line-manga/IMG_4396.webp",
+          "filename": "IMG_4396.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6ru0sw4",
+          "src": "/appui-images/line-manga/IMG_4399.webp",
+          "filename": "IMG_4399.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "75rd2pk",
+          "src": "/appui-images/line-manga/IMG_4400.webp",
+          "filename": "IMG_4400.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zz932um",
+          "src": "/appui-images/line-manga/IMG_4401.webp",
+          "filename": "IMG_4401.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "51fz5sn",
+          "src": "/appui-images/line-manga/IMG_4402.webp",
+          "filename": "IMG_4402.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lt09cyt",
+          "src": "/appui-images/line-manga/IMG_4403.webp",
+          "filename": "IMG_4403.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h3yi58k",
+          "src": "/appui-images/line-manga/IMG_4404.webp",
+          "filename": "IMG_4404.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1orguwp",
+          "src": "/appui-images/line-manga/IMG_4405.webp",
+          "filename": "IMG_4405.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dh4wi4r",
+          "src": "/appui-images/line-manga/IMG_4406.webp",
+          "filename": "IMG_4406.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fue9bch",
+          "src": "/appui-images/line-manga/IMG_4407.webp",
+          "filename": "IMG_4407.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b4nvimn",
+          "src": "/appui-images/line-manga/IMG_4408.webp",
+          "filename": "IMG_4408.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "idfsk1u",
+          "src": "/appui-images/line-manga/IMG_4409.webp",
+          "filename": "IMG_4409.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "slj86cr",
+          "src": "/appui-images/line-manga/IMG_4411.webp",
+          "filename": "IMG_4411.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8mury2j",
+          "src": "/appui-images/line-manga/IMG_4412.webp",
+          "filename": "IMG_4412.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h5nsx7x",
+          "src": "/appui-images/line-manga/IMG_4416.webp",
+          "filename": "IMG_4416.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "04wc8fr",
+          "src": "/appui-images/line-manga/IMG_4417.webp",
+          "filename": "IMG_4417.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4ekxxkf",
+          "src": "/appui-images/line-manga/IMG_4418.webp",
+          "filename": "IMG_4418.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "66mnaha",
+          "src": "/appui-images/line-manga/IMG_4419.webp",
+          "filename": "IMG_4419.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pgtk7kp",
+          "src": "/appui-images/line-manga/IMG_4420.webp",
+          "filename": "IMG_4420.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kop3ach",
+          "src": "/appui-images/line-manga/IMG_4421.webp",
+          "filename": "IMG_4421.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mvp4gun",
+          "src": "/appui-images/line-manga/IMG_4422.webp",
+          "filename": "IMG_4422.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qxyn74f",
+          "src": "/appui-images/line-manga/IMG_4423.webp",
+          "filename": "IMG_4423.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w8j8vhi",
+          "src": "/appui-images/line-manga/IMG_4424.webp",
+          "filename": "IMG_4424.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "26jij17",
+          "src": "/appui-images/line-manga/IMG_4425.webp",
+          "filename": "IMG_4425.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "otrgywv",
+          "src": "/appui-images/line-manga/IMG_4426.webp",
+          "filename": "IMG_4426.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fpd8n9m",
+          "src": "/appui-images/line-manga/IMG_4427.webp",
+          "filename": "IMG_4427.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f5gvyye",
+          "src": "/appui-images/line-manga/IMG_4428.webp",
+          "filename": "IMG_4428.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5n59lmz",
+          "src": "/appui-images/line-manga/IMG_4429.webp",
+          "filename": "IMG_4429.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41h1fr8",
+      "title": "作品・閲覧",
+      "images": [
+        {
+          "id": "qhgnmw3",
+          "src": "/appui-images/line-manga/IMG_4398.webp",
+          "filename": "IMG_4398.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gn74cm3",
+          "src": "/appui-images/line-manga/IMG_4413.webp",
+          "filename": "IMG_4413.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mph9u1b",
+          "src": "/appui-images/line-manga/IMG_4414.webp",
+          "filename": "IMG_4414.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "line-manga"
+}

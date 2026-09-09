@@ -1,0 +1,536 @@
+{
+  "id": "seeklog-1788675506545-9y49",
+  "name": "シークログ",
+  "description": "「誰にも見られない、自分だけのSNS。」 シークログは、SNSのタイムライン風に“ひとりごと・メモ・日記”を残せる、非公開の秘密メモアプリです。 他の誰にも見られないから、好きなことを好きなだけつぶやける。 SNSみたいに気軽に、日記みたい…",
+  "iconUrl": "/appui-images/seeklog/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/sns%E9%A2%A8%E6%97%A5%E8%A8%98-%E3%83%A1%E3%83%A2%E5%B8%B3-%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%B0-%E7%A7%98%E5%AF%86%E3%81%AE%E7%8B%AC%E3%82%8A%E8%A8%80%E3%82%84%E6%8E%A8%E3%81%97%E6%B4%BB/id1603782312?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "6q3gbkt",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "fyujfyf",
+          "src": "/appui-images/seeklog/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iy16e6l",
+          "src": "/appui-images/seeklog/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yaew0q9",
+          "src": "/appui-images/seeklog/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bq93uem",
+          "src": "/appui-images/seeklog/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n6hnx2u",
+          "src": "/appui-images/seeklog/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "thn6vns",
+          "src": "/appui-images/seeklog/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iyl4e6x",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "leghrqa",
+          "src": "/appui-images/seeklog/IMG_3443.webp",
+          "filename": "IMG_3443.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uau0i3j",
+          "src": "/appui-images/seeklog/IMG_3444.webp",
+          "filename": "IMG_3444.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8v211wx",
+      "title": "タイムライン",
+      "images": [
+        {
+          "id": "o48wz5h",
+          "src": "/appui-images/seeklog/IMG_3445.webp",
+          "filename": "IMG_3445.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ollqthn",
+          "src": "/appui-images/seeklog/IMG_3446.webp",
+          "filename": "IMG_3446.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0gppoq7",
+          "src": "/appui-images/seeklog/IMG_3447.webp",
+          "filename": "IMG_3447.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0kzj1gv",
+      "title": "タグ",
+      "images": [
+        {
+          "id": "mo57t7q",
+          "src": "/appui-images/seeklog/IMG_3448.webp",
+          "filename": "IMG_3448.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t4cs58y",
+          "src": "/appui-images/seeklog/IMG_3449.webp",
+          "filename": "IMG_3449.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nuqljw6",
+          "src": "/appui-images/seeklog/IMG_3450.webp",
+          "filename": "IMG_3450.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k3iyntj",
+          "src": "/appui-images/seeklog/IMG_3469.webp",
+          "filename": "IMG_3469.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9k1o3y5",
+      "title": "検索",
+      "images": [
+        {
+          "id": "54meer8",
+          "src": "/appui-images/seeklog/IMG_3451.webp",
+          "filename": "IMG_3451.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6cc6bv2",
+          "src": "/appui-images/seeklog/IMG_3452.webp",
+          "filename": "IMG_3452.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mscaivp",
+          "src": "/appui-images/seeklog/IMG_3453.webp",
+          "filename": "IMG_3453.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sep8aqy",
+          "src": "/appui-images/seeklog/IMG_3454.webp",
+          "filename": "IMG_3454.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nrpv8ok",
+          "src": "/appui-images/seeklog/IMG_3455.webp",
+          "filename": "IMG_3455.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hcqweh9",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "uusyczx",
+          "src": "/appui-images/seeklog/IMG_3456.webp",
+          "filename": "IMG_3456.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "72uvbu6",
+          "src": "/appui-images/seeklog/IMG_3457.webp",
+          "filename": "IMG_3457.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q0w6tf5",
+          "src": "/appui-images/seeklog/IMG_3458.webp",
+          "filename": "IMG_3458.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "r8hhkj2",
+          "src": "/appui-images/seeklog/IMG_3459.webp",
+          "filename": "IMG_3459.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7si1ema",
+      "title": "カレンダー",
+      "images": [
+        {
+          "id": "wyayk3l",
+          "src": "/appui-images/seeklog/IMG_3460.webp",
+          "filename": "IMG_3460.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hnri2z4",
+      "title": "設定",
+      "images": [
+        {
+          "id": "rnhl60d",
+          "src": "/appui-images/seeklog/IMG_3461.webp",
+          "filename": "IMG_3461.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e0bpg2c",
+          "src": "/appui-images/seeklog/IMG_3462.webp",
+          "filename": "IMG_3462.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qlnmsl7",
+          "src": "/appui-images/seeklog/IMG_3463.webp",
+          "filename": "IMG_3463.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "arglg3o",
+          "src": "/appui-images/seeklog/IMG_3464.webp",
+          "filename": "IMG_3464.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5jpl7t3",
+          "src": "/appui-images/seeklog/IMG_3465.webp",
+          "filename": "IMG_3465.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mlq2hnx",
+          "src": "/appui-images/seeklog/IMG_3466.webp",
+          "filename": "IMG_3466.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v10aldi",
+          "src": "/appui-images/seeklog/IMG_3467.webp",
+          "filename": "IMG_3467.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w7e3jys",
+          "src": "/appui-images/seeklog/IMG_3468.webp",
+          "filename": "IMG_3468.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dozgs40",
+          "src": "/appui-images/seeklog/IMG_3470.webp",
+          "filename": "IMG_3470.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7emj443",
+          "src": "/appui-images/seeklog/IMG_3471.webp",
+          "filename": "IMG_3471.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l9wpbey",
+          "src": "/appui-images/seeklog/IMG_3472.webp",
+          "filename": "IMG_3472.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v54pv9v",
+          "src": "/appui-images/seeklog/IMG_3473.webp",
+          "filename": "IMG_3473.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e7x7csb",
+          "src": "/appui-images/seeklog/IMG_3474.webp",
+          "filename": "IMG_3474.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3qrbhc5",
+          "src": "/appui-images/seeklog/IMG_3475.webp",
+          "filename": "IMG_3475.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "seeklog"
+}

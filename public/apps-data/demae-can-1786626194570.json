@@ -1,0 +1,105 @@
+{
+  "id": "demae-can-1786626194570",
+  "name": "出前館",
+  "description": "フードデリバリー「出前館」。お店の価格で宅配・出前を頼める。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/6a/12/506a1277-b8d6-dc19-c78f-d30d78cf6cef/Demaecan-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id405489166",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "wope35p",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "485amcu",
+          "src": "/appui-images/demae-can/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "erpjiv6",
+          "src": "/appui-images/demae-can/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e9inzdx",
+          "src": "/appui-images/demae-can/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wx82jia",
+          "src": "/appui-images/demae-can/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i9y8jcj",
+          "src": "/appui-images/demae-can/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mud88s8",
+          "src": "/appui-images/demae-can/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "出前館"
+}

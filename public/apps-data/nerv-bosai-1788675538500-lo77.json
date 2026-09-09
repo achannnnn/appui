@@ -1,0 +1,566 @@
+{
+  "id": "nerv-bosai-1788675538500-lo77",
+  "name": "NERV防災",
+  "description": "特務機関NERV防災アプリは、地震・津波・噴火・特別警報の速報や洪水や土砂災害といった防災気象情報を、利用者の現在地や登録地点に基づき最適化して配信するスマートフォン用サービスです。 被害が予想される地域に居住する方や訪問者等が的確に状況を…",
+  "iconUrl": "/appui-images/nerv-bosai/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E7%89%B9%E5%8B%99%E6%A9%9F%E9%96%A2nerv%E9%98%B2%E7%81%BD/id1472338480?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "地図"
+  ],
+  "sections": [
+    {
+      "id": "ei54vtw",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "bpm8a9x",
+          "src": "/appui-images/nerv-bosai/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "rkyc6so",
+          "src": "/appui-images/nerv-bosai/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "b1t7wk5",
+          "src": "/appui-images/nerv-bosai/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ttebkkq",
+          "src": "/appui-images/nerv-bosai/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "9kgi3cq",
+          "src": "/appui-images/nerv-bosai/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "3ao4we2",
+          "src": "/appui-images/nerv-bosai/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ksiy4n5",
+          "src": "/appui-images/nerv-bosai/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "vm69gc6",
+          "src": "/appui-images/nerv-bosai/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6uyijtx",
+          "src": "/appui-images/nerv-bosai/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "pu706p9",
+          "src": "/appui-images/nerv-bosai/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8gatyuq",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "gl9915h",
+          "src": "/appui-images/nerv-bosai/IMG_3328.webp",
+          "filename": "IMG_3328.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ogkxoi1",
+          "src": "/appui-images/nerv-bosai/IMG_3329.webp",
+          "filename": "IMG_3329.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "z3pomvi",
+          "src": "/appui-images/nerv-bosai/IMG_3330.webp",
+          "filename": "IMG_3330.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a2i566q",
+          "src": "/appui-images/nerv-bosai/IMG_3331.webp",
+          "filename": "IMG_3331.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "4yn5yzq",
+          "src": "/appui-images/nerv-bosai/IMG_3332.webp",
+          "filename": "IMG_3332.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "30rchuf",
+          "src": "/appui-images/nerv-bosai/IMG_3333.webp",
+          "filename": "IMG_3333.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sapjwp5",
+      "title": "ホーム・タイムライン",
+      "images": [
+        {
+          "id": "q633pt2",
+          "src": "/appui-images/nerv-bosai/IMG_3334.webp",
+          "filename": "IMG_3334.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "seksoaa",
+          "src": "/appui-images/nerv-bosai/IMG_3335.webp",
+          "filename": "IMG_3335.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "zfe6956",
+          "src": "/appui-images/nerv-bosai/IMG_3336.webp",
+          "filename": "IMG_3336.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "w9k74xb",
+          "src": "/appui-images/nerv-bosai/IMG_3337.webp",
+          "filename": "IMG_3337.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "sgyl3vu",
+          "src": "/appui-images/nerv-bosai/IMG_3338.webp",
+          "filename": "IMG_3338.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "3x21fve",
+          "src": "/appui-images/nerv-bosai/IMG_3339.webp",
+          "filename": "IMG_3339.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "s4n05p0",
+          "src": "/appui-images/nerv-bosai/IMG_3349.webp",
+          "filename": "IMG_3349.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v3bdlnm",
+      "title": "メニュー・設定",
+      "images": [
+        {
+          "id": "ff1pdkt",
+          "src": "/appui-images/nerv-bosai/IMG_3340.webp",
+          "filename": "IMG_3340.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "4e8q5ls",
+          "src": "/appui-images/nerv-bosai/IMG_3341.webp",
+          "filename": "IMG_3341.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "j3fb74m",
+          "src": "/appui-images/nerv-bosai/IMG_3342.webp",
+          "filename": "IMG_3342.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "hq37n97",
+          "src": "/appui-images/nerv-bosai/IMG_3343.webp",
+          "filename": "IMG_3343.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "h84r6h3",
+          "src": "/appui-images/nerv-bosai/IMG_3344.webp",
+          "filename": "IMG_3344.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "3vcpffe",
+          "src": "/appui-images/nerv-bosai/IMG_3345.webp",
+          "filename": "IMG_3345.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7w415tk",
+      "title": "サポーターズ",
+      "images": [
+        {
+          "id": "7vxbosm",
+          "src": "/appui-images/nerv-bosai/IMG_3346.webp",
+          "filename": "IMG_3346.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2v56vmi",
+          "src": "/appui-images/nerv-bosai/IMG_3347.webp",
+          "filename": "IMG_3347.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "veebrc9",
+          "src": "/appui-images/nerv-bosai/IMG_3348.webp",
+          "filename": "IMG_3348.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q5kc6vq",
+      "title": "マップ",
+      "images": [
+        {
+          "id": "l9yzp0c",
+          "src": "/appui-images/nerv-bosai/IMG_3350.webp",
+          "filename": "IMG_3350.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "cnbc75c",
+          "src": "/appui-images/nerv-bosai/IMG_3351.webp",
+          "filename": "IMG_3351.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "n6gi6og",
+          "src": "/appui-images/nerv-bosai/IMG_3352.webp",
+          "filename": "IMG_3352.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lnvxjts",
+          "src": "/appui-images/nerv-bosai/IMG_3353.webp",
+          "filename": "IMG_3353.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ywmgjm6",
+          "src": "/appui-images/nerv-bosai/IMG_3354.webp",
+          "filename": "IMG_3354.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8vqrr8z",
+          "src": "/appui-images/nerv-bosai/IMG_3355.webp",
+          "filename": "IMG_3355.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ja1i14l",
+          "src": "/appui-images/nerv-bosai/IMG_3356.webp",
+          "filename": "IMG_3356.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dch5rpm",
+      "title": "天気",
+      "images": [
+        {
+          "id": "bmgxbyr",
+          "src": "/appui-images/nerv-bosai/IMG_3357.webp",
+          "filename": "IMG_3357.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "rh7dcmj",
+          "src": "/appui-images/nerv-bosai/IMG_3358.webp",
+          "filename": "IMG_3358.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "eh7bx1q",
+          "src": "/appui-images/nerv-bosai/IMG_3359.webp",
+          "filename": "IMG_3359.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "nerv-bosai"
+}

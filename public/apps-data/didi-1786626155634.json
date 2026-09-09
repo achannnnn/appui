@@ -1,0 +1,422 @@
+{
+  "id": "didi-1786626155634",
+  "name": "DiDi",
+  "description": "タクシー配車アプリ「DiDi」。近くのタクシーを呼んでアプリで支払える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/d5/9f/5bd59f19-c0c2-1a17-0bcc-b85874dd1135/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1362398401",
+  "categories": [
+    "旅行"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター",
+    "マップ",
+    "エンプティステート"
+  ],
+  "sections": [
+    {
+      "id": "a7y7e15",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "ugjrgh4",
+          "src": "/appui-images/didi/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9oo3trb",
+          "src": "/appui-images/didi/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "832el89",
+          "src": "/appui-images/didi/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "whyjvu3",
+          "src": "/appui-images/didi/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j92tcy5",
+          "src": "/appui-images/didi/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "luft5gg",
+          "src": "/appui-images/didi/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x35tqzg",
+          "src": "/appui-images/didi/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55avvQ",
+      "title": "スプラッシュ",
+      "images": [
+        {
+          "id": "oWEGhw",
+          "src": "/appui-images/didi/IMG_1130.webp",
+          "filename": "IMG_1130.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eDzKYQ",
+      "title": "権限リクエスト",
+      "images": [
+        {
+          "id": "CzP1Og",
+          "src": "/appui-images/didi/IMG_1131.webp",
+          "filename": "IMG_1131.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "KkCqYQ",
+      "title": "ログイン・新規登録",
+      "images": [
+        {
+          "id": "MH7Ktg",
+          "src": "/appui-images/didi/IMG_1132.webp",
+          "filename": "IMG_1132.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "HMAklA",
+          "src": "/appui-images/didi/IMG_1133.webp",
+          "filename": "IMG_1133.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "Epaw0g",
+          "src": "/appui-images/didi/IMG_1134.webp",
+          "filename": "IMG_1134.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RWdBhg",
+      "title": "支払い方法追加",
+      "images": [
+        {
+          "id": "ejFgFQ",
+          "src": "/appui-images/didi/IMG_1135.webp",
+          "filename": "IMG_1135.webp",
+          "components": [
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EhaTKg",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "KspW7A",
+          "src": "/appui-images/didi/IMG_1141.webp",
+          "filename": "IMG_1141.webp",
+          "components": [
+            "検索",
+            "カード",
+            "マップ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BEpBbg",
+      "title": "配車・ルート確認",
+      "images": [
+        {
+          "id": "Fe7pew",
+          "src": "/appui-images/didi/IMG_1137.webp",
+          "filename": "IMG_1137.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2YQH-A",
+          "src": "/appui-images/didi/IMG_1140.webp",
+          "filename": "IMG_1140.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "LNy7_A",
+      "title": "お気に入り・よく使う行き先",
+      "images": [
+        {
+          "id": "O2GG2g",
+          "src": "/appui-images/didi/IMG_1138.webp",
+          "filename": "IMG_1138.webp",
+          "components": [
+            "エンプティステート",
+            "検索",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "gtPhUg",
+          "src": "/appui-images/didi/IMG_1139.webp",
+          "filename": "IMG_1139.webp",
+          "components": [
+            "エンプティステート",
+            "検索",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "QeOwxA",
+          "src": "/appui-images/didi/IMG_1151.webp",
+          "filename": "IMG_1151.webp",
+          "components": [
+            "エンプティステート",
+            "検索",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F7Mj8w",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "KLiWSg",
+          "src": "/appui-images/didi/IMG_1142.webp",
+          "filename": "IMG_1142.webp",
+          "components": [
+            "プロフィール",
+            "リスト",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "X4OZKA",
+      "title": "アカウント情報",
+      "images": [
+        {
+          "id": "EuCACg",
+          "src": "/appui-images/didi/IMG_1143.webp",
+          "filename": "IMG_1143.webp",
+          "components": [
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q-pPbQ",
+      "title": "注文一覧",
+      "images": [
+        {
+          "id": "dDg6GQ",
+          "src": "/appui-images/didi/IMG_1144.webp",
+          "filename": "IMG_1144.webp",
+          "components": [
+            "エンプティステート",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bC0ZA",
+      "title": "お支払い方法",
+      "images": [
+        {
+          "id": "ixTrwA",
+          "src": "/appui-images/didi/IMG_1145.webp",
+          "filename": "IMG_1145.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nibQRA",
+      "title": "お問い合わせ",
+      "images": [
+        {
+          "id": "IQ2MlA",
+          "src": "/appui-images/didi/IMG_1146.webp",
+          "filename": "IMG_1146.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "K850Mg",
+      "title": "セーフティ機能",
+      "images": [
+        {
+          "id": "ijg3ig",
+          "src": "/appui-images/didi/IMG_1147.webp",
+          "filename": "IMG_1147.webp",
+          "components": [
+            "リスト",
+            "エンプティステート",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "7IVHrw",
+          "src": "/appui-images/didi/IMG_1148.webp",
+          "filename": "IMG_1148.webp",
+          "components": [
+            "リスト",
+            "エンプティステート",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "-tFCBA",
+          "src": "/appui-images/didi/IMG_1149.webp",
+          "filename": "IMG_1149.webp",
+          "components": [
+            "リスト",
+            "エンプティステート",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "-FRfiA",
+      "title": "設定",
+      "images": [
+        {
+          "id": "msn88g",
+          "src": "/appui-images/didi/IMG_1150.webp",
+          "filename": "IMG_1150.webp",
+          "components": [
+            "プロフィール",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "didi"
+}

@@ -1,0 +1,338 @@
+{
+  "id": "my-nicca-1788675487824-xzdb",
+  "name": "my nicca",
+  "description": "****************************************** まいにちの「できた」を見える化して なりたい自分になるためのシンプル習慣化アプリ「my nicca」 **************************…",
+  "iconUrl": "/appui-images/my-nicca/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/my-nicca-%E7%9B%AE%E6%A8%99%E9%81%94%E6%88%90%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E7%BF%92%E6%85%A3%E5%8C%96%E3%82%A2%E3%83%97%E3%83%AA/id1623780682?uo=4",
+  "categories": [
+    "健康・フィットネス"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "カレンダー"
+  ],
+  "sections": [
+    {
+      "id": "ust80m8",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "5vsi4cw",
+          "src": "/appui-images/my-nicca/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "11mg64o",
+          "src": "/appui-images/my-nicca/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "sgh1o1x",
+          "src": "/appui-images/my-nicca/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "f2fryrk",
+          "src": "/appui-images/my-nicca/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "m477gtj",
+          "src": "/appui-images/my-nicca/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q799qow",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "w25gpge",
+          "src": "/appui-images/my-nicca/IMG_3402.webp",
+          "filename": "IMG_3402.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "lve1b7u",
+          "src": "/appui-images/my-nicca/IMG_3403.webp",
+          "filename": "IMG_3403.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "adzng21",
+          "src": "/appui-images/my-nicca/IMG_3407.webp",
+          "filename": "IMG_3407.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "gv0bb2l",
+          "src": "/appui-images/my-nicca/IMG_3408.webp",
+          "filename": "IMG_3408.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "1fh3zfz",
+          "src": "/appui-images/my-nicca/IMG_3409.webp",
+          "filename": "IMG_3409.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "e0hisdi",
+          "src": "/appui-images/my-nicca/IMG_3410.webp",
+          "filename": "IMG_3410.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "0ekt10i",
+          "src": "/appui-images/my-nicca/IMG_3413.webp",
+          "filename": "IMG_3413.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34iolbg",
+      "title": "習慣編集",
+      "images": [
+        {
+          "id": "pvajjj7",
+          "src": "/appui-images/my-nicca/IMG_3404.webp",
+          "filename": "IMG_3404.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "5wevxdx",
+          "src": "/appui-images/my-nicca/IMG_3405.webp",
+          "filename": "IMG_3405.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wsn5h4y",
+          "src": "/appui-images/my-nicca/IMG_3406.webp",
+          "filename": "IMG_3406.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "a8v1x8w",
+          "src": "/appui-images/my-nicca/IMG_3412.webp",
+          "filename": "IMG_3412.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "kcwx33p",
+          "src": "/appui-images/my-nicca/IMG_3414.webp",
+          "filename": "IMG_3414.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "iozgj57",
+          "src": "/appui-images/my-nicca/IMG_3415.webp",
+          "filename": "IMG_3415.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ifamp54",
+      "title": "サマリー",
+      "images": [
+        {
+          "id": "ef1jnbj",
+          "src": "/appui-images/my-nicca/IMG_3411.webp",
+          "filename": "IMG_3411.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i83t904",
+      "title": "設定",
+      "images": [
+        {
+          "id": "ctgof0f",
+          "src": "/appui-images/my-nicca/IMG_3416.webp",
+          "filename": "IMG_3416.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "1tzmlsi",
+          "src": "/appui-images/my-nicca/IMG_3417.webp",
+          "filename": "IMG_3417.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "yas83k3",
+          "src": "/appui-images/my-nicca/IMG_3418.webp",
+          "filename": "IMG_3418.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "c08u8e2",
+          "src": "/appui-images/my-nicca/IMG_3419.webp",
+          "filename": "IMG_3419.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "feydgkq",
+          "src": "/appui-images/my-nicca/IMG_3420.webp",
+          "filename": "IMG_3420.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "my-nicca"
+}

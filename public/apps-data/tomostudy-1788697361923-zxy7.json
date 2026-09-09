@@ -1,0 +1,584 @@
+{
+  "id": "tomostudy-1788697361923-zxy7",
+  "name": "tomoStudy",
+  "description": "TomoStudy（トモスタディ） – いつも大勢が勉強中のカメラ付き自習室 一人で勉強を始めても、すぐに集中が切れてしまう。やる気はあるのに、三日坊主で終わってしまう——そんな経験はありませんか？ TomoStudyなら、いつでもどこでも…",
+  "iconUrl": "/appui-images/tomostudy/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/tomostudy-24%E6%99%82%E9%96%93-%E8%AA%B0%E3%81%8B%E3%81%8C%E5%8B%89%E5%BC%B7%E4%B8%AD%E3%81%AE%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%87%AA%E7%BF%92%E5%AE%A4/id6747420037?uo=4",
+  "categories": [
+    "教育"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "タイマー"
+  ],
+  "sections": [
+    {
+      "id": "u1ikjnw",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "z5u89bj",
+          "src": "/appui-images/tomostudy/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "us8vvht",
+          "src": "/appui-images/tomostudy/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "glg3m6x",
+          "src": "/appui-images/tomostudy/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "z63wvks",
+          "src": "/appui-images/tomostudy/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "3jig5ws",
+          "src": "/appui-images/tomostudy/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "2vhgf9r",
+          "src": "/appui-images/tomostudy/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "pk6q1ol",
+          "src": "/appui-images/tomostudy/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zl6dmgc",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "np5g8sj",
+          "src": "/appui-images/tomostudy/IMG_3477.webp",
+          "filename": "IMG_3477.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "vwso6wn",
+          "src": "/appui-images/tomostudy/IMG_3495.webp",
+          "filename": "IMG_3495.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xme45wq",
+      "title": "プロフィール・設定",
+      "images": [
+        {
+          "id": "bh0k861",
+          "src": "/appui-images/tomostudy/IMG_3479.webp",
+          "filename": "IMG_3479.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "sjyfet5",
+          "src": "/appui-images/tomostudy/IMG_3480.webp",
+          "filename": "IMG_3480.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "0u53op9",
+          "src": "/appui-images/tomostudy/IMG_3493.webp",
+          "filename": "IMG_3493.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "p06peac",
+          "src": "/appui-images/tomostudy/IMG_3494.webp",
+          "filename": "IMG_3494.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "mv5uaek",
+          "src": "/appui-images/tomostudy/IMG_3496.webp",
+          "filename": "IMG_3496.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "qhrzzsn",
+          "src": "/appui-images/tomostudy/IMG_3503.webp",
+          "filename": "IMG_3503.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "5vokb8k",
+          "src": "/appui-images/tomostudy/IMG_3513.webp",
+          "filename": "IMG_3513.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jjkqewm",
+      "title": "ホーム・自習室",
+      "images": [
+        {
+          "id": "5t4nsor",
+          "src": "/appui-images/tomostudy/IMG_3481.webp",
+          "filename": "IMG_3481.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "xlsbj34",
+          "src": "/appui-images/tomostudy/IMG_3482.webp",
+          "filename": "IMG_3482.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "u4vh216",
+          "src": "/appui-images/tomostudy/IMG_3483.webp",
+          "filename": "IMG_3483.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "geu8opu",
+          "src": "/appui-images/tomostudy/IMG_3486.webp",
+          "filename": "IMG_3486.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "v0un9vj",
+          "src": "/appui-images/tomostudy/IMG_3488.webp",
+          "filename": "IMG_3488.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "nx6zulc",
+          "src": "/appui-images/tomostudy/IMG_3489.webp",
+          "filename": "IMG_3489.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "xmycq7l",
+          "src": "/appui-images/tomostudy/IMG_3490.webp",
+          "filename": "IMG_3490.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "gbwwq3r",
+          "src": "/appui-images/tomostudy/IMG_3491.webp",
+          "filename": "IMG_3491.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "3qofpyi",
+          "src": "/appui-images/tomostudy/IMG_3492.webp",
+          "filename": "IMG_3492.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "pourr1q",
+          "src": "/appui-images/tomostudy/IMG_3497.webp",
+          "filename": "IMG_3497.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "f2z9whm",
+          "src": "/appui-images/tomostudy/IMG_3498.webp",
+          "filename": "IMG_3498.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "yl4u7m0",
+          "src": "/appui-images/tomostudy/IMG_3499.webp",
+          "filename": "IMG_3499.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "fecooou",
+          "src": "/appui-images/tomostudy/IMG_3500.webp",
+          "filename": "IMG_3500.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "cymmuld",
+          "src": "/appui-images/tomostudy/IMG_3501.webp",
+          "filename": "IMG_3501.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "rvcjgwm",
+          "src": "/appui-images/tomostudy/IMG_3502.webp",
+          "filename": "IMG_3502.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "347nrnx",
+          "src": "/appui-images/tomostudy/IMG_3504.webp",
+          "filename": "IMG_3504.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "f962r3y",
+          "src": "/appui-images/tomostudy/IMG_3506.webp",
+          "filename": "IMG_3506.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "70e8geh",
+          "src": "/appui-images/tomostudy/IMG_3509.webp",
+          "filename": "IMG_3509.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "8h8pdc6",
+          "src": "/appui-images/tomostudy/IMG_3510.webp",
+          "filename": "IMG_3510.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9h5rqe8",
+          "src": "/appui-images/tomostudy/IMG_3511.webp",
+          "filename": "IMG_3511.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8pw40b6",
+      "title": "タイマー・セッション",
+      "images": [
+        {
+          "id": "48m6p2y",
+          "src": "/appui-images/tomostudy/IMG_3484.webp",
+          "filename": "IMG_3484.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9gesghx",
+          "src": "/appui-images/tomostudy/IMG_3485.webp",
+          "filename": "IMG_3485.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "0l2t31d",
+          "src": "/appui-images/tomostudy/IMG_3487.webp",
+          "filename": "IMG_3487.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uaeidma",
+      "title": "ランキング・統計",
+      "images": [
+        {
+          "id": "btzcomf",
+          "src": "/appui-images/tomostudy/IMG_3505.webp",
+          "filename": "IMG_3505.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "gvgmb8a",
+          "src": "/appui-images/tomostudy/IMG_3507.webp",
+          "filename": "IMG_3507.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ejy4xbp",
+          "src": "/appui-images/tomostudy/IMG_3508.webp",
+          "filename": "IMG_3508.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "1vrrx37",
+          "src": "/appui-images/tomostudy/IMG_3512.webp",
+          "filename": "IMG_3512.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "5l85jqe",
+          "src": "/appui-images/tomostudy/IMG_3515.webp",
+          "filename": "IMG_3515.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "tomostudy"
+}

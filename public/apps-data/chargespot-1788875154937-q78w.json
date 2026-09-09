@@ -1,0 +1,699 @@
+{
+  "id": "chargespot-1788875154937-q78w",
+  "name": "CHARGESPOT",
+  "description": "QRスキャンでモバイルバッテリーが手軽に借りられる！ スマホ充電レンタル「CHARGESPOT（チャージスポット）」 スマホの充電切れそう…そんな不安は過去のもの。 あなたのスマホにCHARGESPOTアプリがあれば モバイルバッテリーを手…",
+  "iconUrl": "/appui-images/chargespot/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/chargespot-%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%82%B9%E3%83%9D%E3%83%83%E3%83%88-%E3%82%B9%E3%83%9E%E3%83%9B%E5%85%85%E9%9B%BB%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB/id1272481966?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "地図",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "95oyvzt",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "efpklv3",
+          "src": "/appui-images/chargespot/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "58qsgid",
+          "src": "/appui-images/chargespot/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ffvku8z",
+          "src": "/appui-images/chargespot/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "snbto6g",
+          "src": "/appui-images/chargespot/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "i88vcgb",
+          "src": "/appui-images/chargespot/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6tc8d8f",
+          "src": "/appui-images/chargespot/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "1ndhqqm",
+          "src": "/appui-images/chargespot/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8pchvsu",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "jobpvyh",
+          "src": "/appui-images/chargespot/IMG_4642.webp",
+          "filename": "IMG_4642.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "oqfdg3d",
+          "src": "/appui-images/chargespot/IMG_4643.webp",
+          "filename": "IMG_4643.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "eyec5ok",
+          "src": "/appui-images/chargespot/IMG_4664.webp",
+          "filename": "IMG_4664.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "f20jjyy",
+          "src": "/appui-images/chargespot/IMG_4681.webp",
+          "filename": "IMG_4681.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5kw4ib9",
+          "src": "/appui-images/chargespot/IMG_4682.webp",
+          "filename": "IMG_4682.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hty217t",
+      "title": "レンタル・返却",
+      "images": [
+        {
+          "id": "1itmd6i",
+          "src": "/appui-images/chargespot/IMG_4644.webp",
+          "filename": "IMG_4644.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "f416e2i",
+          "src": "/appui-images/chargespot/IMG_4645.webp",
+          "filename": "IMG_4645.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "t4rmviu",
+          "src": "/appui-images/chargespot/IMG_4646.webp",
+          "filename": "IMG_4646.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "178vh60",
+          "src": "/appui-images/chargespot/IMG_4647.webp",
+          "filename": "IMG_4647.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "rh345x9",
+          "src": "/appui-images/chargespot/IMG_4648.webp",
+          "filename": "IMG_4648.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "1mbxas8",
+          "src": "/appui-images/chargespot/IMG_4651.webp",
+          "filename": "IMG_4651.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "t4mpy6m",
+          "src": "/appui-images/chargespot/IMG_4666.webp",
+          "filename": "IMG_4666.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bo3tryn",
+          "src": "/appui-images/chargespot/IMG_4667.webp",
+          "filename": "IMG_4667.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ereus2g",
+          "src": "/appui-images/chargespot/IMG_4674.webp",
+          "filename": "IMG_4674.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "91hbazf",
+          "src": "/appui-images/chargespot/IMG_4675.webp",
+          "filename": "IMG_4675.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8mbxja1",
+          "src": "/appui-images/chargespot/IMG_4677.webp",
+          "filename": "IMG_4677.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fweimkp",
+      "title": "設定",
+      "images": [
+        {
+          "id": "9w137y4",
+          "src": "/appui-images/chargespot/IMG_4649.webp",
+          "filename": "IMG_4649.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "uv02gld",
+          "src": "/appui-images/chargespot/IMG_4650.webp",
+          "filename": "IMG_4650.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "qnxus9p",
+          "src": "/appui-images/chargespot/IMG_4668.webp",
+          "filename": "IMG_4668.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "dcwxdvz",
+          "src": "/appui-images/chargespot/IMG_4680.webp",
+          "filename": "IMG_4680.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ub3vqod",
+          "src": "/appui-images/chargespot/IMG_4684.webp",
+          "filename": "IMG_4684.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "jgn9734",
+          "src": "/appui-images/chargespot/IMG_4685.webp",
+          "filename": "IMG_4685.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "yy2jk26",
+          "src": "/appui-images/chargespot/IMG_4686.webp",
+          "filename": "IMG_4686.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "h80u0p7",
+          "src": "/appui-images/chargespot/IMG_4687.webp",
+          "filename": "IMG_4687.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2fa1hs8",
+      "title": "履歴・決済",
+      "images": [
+        {
+          "id": "r5c5sbi",
+          "src": "/appui-images/chargespot/IMG_4652.webp",
+          "filename": "IMG_4652.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "iwxf68v",
+          "src": "/appui-images/chargespot/IMG_4653.webp",
+          "filename": "IMG_4653.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lwp57ji",
+          "src": "/appui-images/chargespot/IMG_4654.webp",
+          "filename": "IMG_4654.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ft0wjjz",
+          "src": "/appui-images/chargespot/IMG_4655.webp",
+          "filename": "IMG_4655.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "c0wnsro",
+          "src": "/appui-images/chargespot/IMG_4656.webp",
+          "filename": "IMG_4656.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "vyhl7mv",
+          "src": "/appui-images/chargespot/IMG_4657.webp",
+          "filename": "IMG_4657.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "pbopyf7",
+          "src": "/appui-images/chargespot/IMG_4658.webp",
+          "filename": "IMG_4658.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0wy5i16",
+          "src": "/appui-images/chargespot/IMG_4659.webp",
+          "filename": "IMG_4659.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "c9jzhd1",
+          "src": "/appui-images/chargespot/IMG_4660.webp",
+          "filename": "IMG_4660.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "kzk1dl6",
+          "src": "/appui-images/chargespot/IMG_4661.webp",
+          "filename": "IMG_4661.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a9ey2ea",
+          "src": "/appui-images/chargespot/IMG_4662.webp",
+          "filename": "IMG_4662.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "aopdh9w",
+          "src": "/appui-images/chargespot/IMG_4663.webp",
+          "filename": "IMG_4663.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "zyjzhql",
+          "src": "/appui-images/chargespot/IMG_4665.webp",
+          "filename": "IMG_4665.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6hgsy9v",
+          "src": "/appui-images/chargespot/IMG_4669.webp",
+          "filename": "IMG_4669.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "aen46zo",
+          "src": "/appui-images/chargespot/IMG_4670.webp",
+          "filename": "IMG_4670.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "grr2b3q",
+          "src": "/appui-images/chargespot/IMG_4671.webp",
+          "filename": "IMG_4671.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "wowsy75",
+          "src": "/appui-images/chargespot/IMG_4672.webp",
+          "filename": "IMG_4672.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ezqa4n8",
+          "src": "/appui-images/chargespot/IMG_4673.webp",
+          "filename": "IMG_4673.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "o2gjtob",
+          "src": "/appui-images/chargespot/IMG_4676.webp",
+          "filename": "IMG_4676.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bvymjzh",
+          "src": "/appui-images/chargespot/IMG_4678.webp",
+          "filename": "IMG_4678.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "kbrk7oy",
+          "src": "/appui-images/chargespot/IMG_4679.webp",
+          "filename": "IMG_4679.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0g27qji",
+          "src": "/appui-images/chargespot/IMG_4683.webp",
+          "filename": "IMG_4683.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5mireri",
+          "src": "/appui-images/chargespot/IMG_4688.webp",
+          "filename": "IMG_4688.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "chargespot"
+}

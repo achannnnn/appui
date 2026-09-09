@@ -1,0 +1,725 @@
+{
+  "id": "indeed-1786497666290",
+  "name": "Indeed",
+  "description": "世界No.1の求人検索エンジン「Indeed」。正社員からバイトまで数百万件の求人をまとめて検索できる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/0a/e7/b40ae7b1-cbee-0f2e-77b9-e4922e23ea96/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id309735670",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "フォーム",
+    "ヘッダー",
+    "カード",
+    "検索",
+    "リスト",
+    "ボトム ナビゲーション",
+    "モーダル・ボトムシート",
+    "タブ・セグメントコントロール",
+    "プロフィール",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "qbdvqaz",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "2bzgr6d",
+          "src": "/appui-images/indeed/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cg2wd17",
+          "src": "/appui-images/indeed/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cpfzvga",
+          "src": "/appui-images/indeed/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ae4h4kh",
+          "src": "/appui-images/indeed/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xzrslk8",
+          "src": "/appui-images/indeed/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3xdxli4",
+          "src": "/appui-images/indeed/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vo49yay",
+          "src": "/appui-images/indeed/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f9ncd13",
+      "title": "ログイン・アカウント作成",
+      "images": [
+        {
+          "id": "pgv5qvb",
+          "src": "/appui-images/indeed/IMG_9951.webp",
+          "filename": "IMG_9951.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ife3gef",
+          "src": "/appui-images/indeed/IMG_9952.webp",
+          "filename": "IMG_9952.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "3g95dpy",
+          "src": "/appui-images/indeed/IMG_9953.webp",
+          "filename": "IMG_9953.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xj3bmg3",
+      "title": "オンボーディング（希望条件）",
+      "images": [
+        {
+          "id": "voiwohs",
+          "src": "/appui-images/indeed/IMG_9954.webp",
+          "filename": "IMG_9954.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "o4pbs0n",
+          "src": "/appui-images/indeed/IMG_9955.webp",
+          "filename": "IMG_9955.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "gdz01nc",
+          "src": "/appui-images/indeed/IMG_9956.webp",
+          "filename": "IMG_9956.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "8wvaxz0",
+          "src": "/appui-images/indeed/IMG_9957.webp",
+          "filename": "IMG_9957.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "xojkt38",
+          "src": "/appui-images/indeed/IMG_9958.webp",
+          "filename": "IMG_9958.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4swecy",
+      "title": "オンボーディング（経歴・オファー）",
+      "images": [
+        {
+          "id": "dux0q5m",
+          "src": "/appui-images/indeed/IMG_9959.webp",
+          "filename": "IMG_9959.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "qx0x2g1",
+          "src": "/appui-images/indeed/IMG_9960.webp",
+          "filename": "IMG_9960.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "2q0lass",
+          "src": "/appui-images/indeed/IMG_9961.webp",
+          "filename": "IMG_9961.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "cagebji",
+          "src": "/appui-images/indeed/IMG_9962.webp",
+          "filename": "IMG_9962.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ukvi2kv",
+          "src": "/appui-images/indeed/IMG_9963.webp",
+          "filename": "IMG_9963.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75gg7ux",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "xbcoslh",
+          "src": "/appui-images/indeed/IMG_9964.webp",
+          "filename": "IMG_9964.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "e4kbiyn",
+          "src": "/appui-images/indeed/IMG_9971.webp",
+          "filename": "IMG_9971.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pn5hrmt",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "3aira8q",
+          "src": "/appui-images/indeed/IMG_9965.webp",
+          "filename": "IMG_9965.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "afecrau",
+          "src": "/appui-images/indeed/IMG_9966.webp",
+          "filename": "IMG_9966.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ntxo292",
+          "src": "/appui-images/indeed/IMG_9967.webp",
+          "filename": "IMG_9967.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "cknpuo9",
+          "src": "/appui-images/indeed/IMG_9968.webp",
+          "filename": "IMG_9968.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "j87ze9l",
+          "src": "/appui-images/indeed/IMG_9969.webp",
+          "filename": "IMG_9969.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u1c55sp",
+      "title": "応募",
+      "images": [
+        {
+          "id": "9nvyu2h",
+          "src": "/appui-images/indeed/IMG_9970.webp",
+          "filename": "IMG_9970.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2c2j4k",
+      "title": "オファー",
+      "images": [
+        {
+          "id": "hnc9ng0",
+          "src": "/appui-images/indeed/IMG_9972.webp",
+          "filename": "IMG_9972.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qpyt3yv",
+      "title": "保存・応募管理",
+      "images": [
+        {
+          "id": "vp0xc64",
+          "src": "/appui-images/indeed/IMG_9973.webp",
+          "filename": "IMG_9973.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "b99hxu4",
+          "src": "/appui-images/indeed/IMG_9974.webp",
+          "filename": "IMG_9974.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "aptzndu",
+          "src": "/appui-images/indeed/IMG_9975.webp",
+          "filename": "IMG_9975.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8t5qe0w",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "snaeptj",
+          "src": "/appui-images/indeed/IMG_9976.webp",
+          "filename": "IMG_9976.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "se4by1t",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "b9s8w8k",
+          "src": "/appui-images/indeed/IMG_9977.webp",
+          "filename": "IMG_9977.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "プロフィール",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z87f1xu",
+      "title": "プロフィール・経験とスキル",
+      "images": [
+        {
+          "id": "yfdp6v3",
+          "src": "/appui-images/indeed/IMG_9978.webp",
+          "filename": "IMG_9978.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ewpllzl",
+          "src": "/appui-images/indeed/IMG_9979.webp",
+          "filename": "IMG_9979.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "qaedrhe",
+          "src": "/appui-images/indeed/IMG_9980.webp",
+          "filename": "IMG_9980.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "a87ma0h",
+          "src": "/appui-images/indeed/IMG_9981.webp",
+          "filename": "IMG_9981.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ty1wnpf",
+          "src": "/appui-images/indeed/IMG_9982.webp",
+          "filename": "IMG_9982.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yqx9orz",
+          "src": "/appui-images/indeed/IMG_9983.webp",
+          "filename": "IMG_9983.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "we7aypb",
+          "src": "/appui-images/indeed/IMG_9984.webp",
+          "filename": "IMG_9984.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wu6qpyq",
+          "src": "/appui-images/indeed/IMG_9985.webp",
+          "filename": "IMG_9985.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y8a775y",
+      "title": "通知",
+      "images": [
+        {
+          "id": "avqifk2",
+          "src": "/appui-images/indeed/IMG_9986.webp",
+          "filename": "IMG_9986.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gxazg79",
+      "title": "設定",
+      "images": [
+        {
+          "id": "ime1coz",
+          "src": "/appui-images/indeed/IMG_9987.webp",
+          "filename": "IMG_9987.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "u0xq2bc",
+          "src": "/appui-images/indeed/IMG_9988.webp",
+          "filename": "IMG_9988.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3epf1rm",
+          "src": "/appui-images/indeed/IMG_9989.webp",
+          "filename": "IMG_9989.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "6n9hpc1",
+          "src": "/appui-images/indeed/IMG_9990.webp",
+          "filename": "IMG_9990.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "x0wpq85",
+          "src": "/appui-images/indeed/IMG_9991.webp",
+          "filename": "IMG_9991.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q1el81i",
+      "title": "求人検索",
+      "images": [
+        {
+          "id": "zjdw6bf",
+          "src": "/appui-images/indeed/IMG_9992.webp",
+          "filename": "IMG_9992.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ekrsmub",
+          "src": "/appui-images/indeed/IMG_9993.webp",
+          "filename": "IMG_9993.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "v6060zn",
+          "src": "/appui-images/indeed/IMG_9994.webp",
+          "filename": "IMG_9994.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "v6h7zbs",
+          "src": "/appui-images/indeed/IMG_9995.webp",
+          "filename": "IMG_9995.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "indeed"
+}

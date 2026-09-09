@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="アプリUI図鑑">
+  <rect width="64" height="64" rx="14" fill="#333333"/>
+  <rect x="14" y="10" width="36" height="44" rx="6" fill="#EFEDE4"/>
+  <rect x="20" y="18" width="24" height="4" rx="2" fill="#333333"/>
+  <rect x="20" y="26" width="24" height="18" rx="3" fill="#C9C4B8"/>
+</svg>

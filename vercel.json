@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!api|appui-images|apps-data|assets|.*\\..*).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

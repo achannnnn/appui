@@ -1,0 +1,705 @@
+{
+  "id": "lowya-1788273678136-8qt6",
+  "name": "LOWYA",
+  "description": "4,000商品を超えるアイテムを揃えた家具・インテリアの総合通販 LOWYA（ロウヤ）。 多彩なトレンドを意識したデザインの家具・インテリア商品をロープライスで提供する“ファストインテリア”ブランドです。 ソファ・ベッド・テレビ台・テーブル…",
+  "iconUrl": "/appui-images/lowya/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E5%AE%B6%E5%85%B7-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%81%AE%E3%81%8A%E8%B2%B7%E3%81%84%E7%89%A9%E3%82%A2%E3%83%97%E3%83%AA-lowya-%E3%83%AD%E3%82%A6%E3%83%A4/id1119844429?uo=4",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "3kipjzr",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "lwa8n49",
+          "src": "/appui-images/lowya/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n04jcik",
+          "src": "/appui-images/lowya/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zej8mls",
+          "src": "/appui-images/lowya/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "aau10bu",
+          "src": "/appui-images/lowya/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a09lxkh",
+          "src": "/appui-images/lowya/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fe35u02",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "puvi19r",
+          "src": "/appui-images/lowya/IMG_2684.webp",
+          "filename": "IMG_2684.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9p06hzl",
+          "src": "/appui-images/lowya/IMG_2690.webp",
+          "filename": "IMG_2690.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7j3kfqw",
+          "src": "/appui-images/lowya/IMG_2691.webp",
+          "filename": "IMG_2691.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f51ryvo",
+          "src": "/appui-images/lowya/IMG_2692.webp",
+          "filename": "IMG_2692.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6q6mi62",
+          "src": "/appui-images/lowya/IMG_2712.webp",
+          "filename": "IMG_2712.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1bs8xqd",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "c53p4js",
+          "src": "/appui-images/lowya/IMG_2685.webp",
+          "filename": "IMG_2685.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ry9lyvn",
+          "src": "/appui-images/lowya/IMG_2686.webp",
+          "filename": "IMG_2686.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "41h9y4z",
+          "src": "/appui-images/lowya/IMG_2687.webp",
+          "filename": "IMG_2687.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "me0lcgr",
+          "src": "/appui-images/lowya/IMG_2688.webp",
+          "filename": "IMG_2688.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "upv8icy",
+          "src": "/appui-images/lowya/IMG_2689.webp",
+          "filename": "IMG_2689.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2221uhz",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "ikgi9hl",
+          "src": "/appui-images/lowya/IMG_2694.webp",
+          "filename": "IMG_2694.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dxgk8tc",
+          "src": "/appui-images/lowya/IMG_2695.webp",
+          "filename": "IMG_2695.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h8ygppy",
+          "src": "/appui-images/lowya/IMG_2696.webp",
+          "filename": "IMG_2696.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uwgcpo2",
+          "src": "/appui-images/lowya/IMG_2697.webp",
+          "filename": "IMG_2697.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fskv1qy",
+          "src": "/appui-images/lowya/IMG_2698.webp",
+          "filename": "IMG_2698.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5tqd0e1",
+          "src": "/appui-images/lowya/IMG_2699.webp",
+          "filename": "IMG_2699.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k17jivi",
+          "src": "/appui-images/lowya/IMG_2700.webp",
+          "filename": "IMG_2700.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wyvpky6",
+          "src": "/appui-images/lowya/IMG_2701.webp",
+          "filename": "IMG_2701.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yptcyil",
+          "src": "/appui-images/lowya/IMG_2702.webp",
+          "filename": "IMG_2702.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iwwu5zj",
+          "src": "/appui-images/lowya/IMG_2703.webp",
+          "filename": "IMG_2703.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w760tod",
+          "src": "/appui-images/lowya/IMG_2704.webp",
+          "filename": "IMG_2704.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mcu6ro1",
+          "src": "/appui-images/lowya/IMG_2705.webp",
+          "filename": "IMG_2705.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6igjdmc",
+          "src": "/appui-images/lowya/IMG_2711.webp",
+          "filename": "IMG_2711.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9hplik",
+      "title": "検索",
+      "images": [
+        {
+          "id": "8aarn9x",
+          "src": "/appui-images/lowya/IMG_2713.webp",
+          "filename": "IMG_2713.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0zuyeak",
+          "src": "/appui-images/lowya/IMG_2714.webp",
+          "filename": "IMG_2714.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yghyd2t",
+          "src": "/appui-images/lowya/IMG_2715.webp",
+          "filename": "IMG_2715.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "whuoi4m",
+          "src": "/appui-images/lowya/IMG_2716.webp",
+          "filename": "IMG_2716.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3vnqjci",
+          "src": "/appui-images/lowya/IMG_2717.webp",
+          "filename": "IMG_2717.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o63qtqm",
+      "title": "カテゴリ",
+      "images": [
+        {
+          "id": "8nomgdh",
+          "src": "/appui-images/lowya/IMG_2718.webp",
+          "filename": "IMG_2718.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "44z0r8j",
+          "src": "/appui-images/lowya/IMG_2719.webp",
+          "filename": "IMG_2719.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2osroof",
+          "src": "/appui-images/lowya/IMG_2720.webp",
+          "filename": "IMG_2720.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g8om7gc",
+          "src": "/appui-images/lowya/IMG_2721.webp",
+          "filename": "IMG_2721.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ptcp9oq",
+          "src": "/appui-images/lowya/IMG_2722.webp",
+          "filename": "IMG_2722.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1uvy8gh",
+      "title": "お気に入り・カート",
+      "images": [
+        {
+          "id": "hv232h2",
+          "src": "/appui-images/lowya/IMG_2723.webp",
+          "filename": "IMG_2723.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nsg5qr8",
+          "src": "/appui-images/lowya/IMG_2724.webp",
+          "filename": "IMG_2724.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ehtddo4",
+          "src": "/appui-images/lowya/IMG_2725.webp",
+          "filename": "IMG_2725.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9fwr30d",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "lby7olt",
+          "src": "/appui-images/lowya/IMG_2726.webp",
+          "filename": "IMG_2726.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "675fe66",
+          "src": "/appui-images/lowya/IMG_2727.webp",
+          "filename": "IMG_2727.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fob65ku",
+          "src": "/appui-images/lowya/IMG_2728.webp",
+          "filename": "IMG_2728.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "viwow2x",
+          "src": "/appui-images/lowya/IMG_2729.webp",
+          "filename": "IMG_2729.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6rg4ul3",
+          "src": "/appui-images/lowya/IMG_2730.webp",
+          "filename": "IMG_2730.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9bs7cfl",
+          "src": "/appui-images/lowya/IMG_2732.webp",
+          "filename": "IMG_2732.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4hgslxx",
+          "src": "/appui-images/lowya/IMG_2733.webp",
+          "filename": "IMG_2733.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "elug8ic",
+          "src": "/appui-images/lowya/IMG_2734.webp",
+          "filename": "IMG_2734.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "88dr2h7",
+          "src": "/appui-images/lowya/IMG_2735.webp",
+          "filename": "IMG_2735.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v9vnk3q",
+          "src": "/appui-images/lowya/IMG_2736.webp",
+          "filename": "IMG_2736.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ncoly5f",
+          "src": "/appui-images/lowya/IMG_2737.webp",
+          "filename": "IMG_2737.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pxstook",
+          "src": "/appui-images/lowya/IMG_2738.webp",
+          "filename": "IMG_2738.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "lowya"
+}

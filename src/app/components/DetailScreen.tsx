@@ -9,12 +9,18 @@ import {
   ArrowLeft,
   ChevronLeft,
   ChevronRight,
+  Columns2,
+  Copy,
   Download,
   ExternalLink,
   Heart,
+  Share2,
 } from "lucide-react";
 import type { AppData } from "../../types/app";
 import { displayImageSrc, nextDisplayFallback } from "../lib/imageUrl";
+import { createCompareItem, makeCompareKey, type CompareItem } from "../lib/compare";
+import { isAppFavorited, setAppFavorited } from "../lib/favorites";
+import { Link } from "react-router";
 
 type GalleryImage = {
   id: string;
@@ -31,6 +37,8 @@ type GallerySection = {
 type DetailScreenProps = {
   onBack: () => void;
   app: AppData;
+  compareKeys?: Set<string>;
+  onToggleCompare?: (item: CompareItem) => void;
 };
 
 type IconCircleButtonProps = {
@@ -48,6 +56,8 @@ type HoverActionsProps = {
   onToggleFavorite: () => void;
   onDownload: () => void;
   downloading: boolean;
+  compareActive?: boolean;
+  onToggleCompare?: () => void;
 };
 
 type SectionRowProps = {
@@ -59,6 +69,8 @@ type SectionRowProps = {
   onOpenImage: (id: string) => void;
   downloadingImageId: string | null;
   downloadingSectionId: string | null;
+  isCompared?: (imageId: string) => boolean;
+  onToggleCompare?: (image: GalleryImage, sectionTitle: string) => void;
 };
 
 type ImageModalProps = {
@@ -75,6 +87,8 @@ type ImageModalProps = {
   onOpenExternal: () => void;
   appName: string;
   tags: string[];
+  compareActive?: boolean;
+  onToggleCompare?: () => void;
 };
 
 
@@ -130,10 +144,28 @@ function HoverActions({
   onToggleFavorite,
   onDownload,
   downloading,
+  compareActive,
+  onToggleCompare,
 }: HoverActionsProps) {
   return (
     <div className="pointer-events-none absolute inset-0 rounded-[18px] bg-gradient-to-b from-black/35 via-transparent to-transparent opacity-0 transition-opacity duration-200 group-hover:opacity-100 group-focus-within:opacity-100">
       <div className="absolute right-2 top-2 flex items-center gap-1.5">
+        {onToggleCompare && (
+          <div className="pointer-events-auto hidden md:block">
+            <IconCircleButton
+              active={compareActive}
+              label={compareActive ? "比較から外す" : "比較に追加"}
+              onClick={(event) => {
+                event.stopPropagation();
+                onToggleCompare();
+              }}
+              style="dark"
+              size="lg"
+            >
+              <Columns2 size={18} />
+            </IconCircleButton>
+          </div>
+        )}
         <div className="pointer-events-auto">
           <IconCircleButton
             active={isFavorite}
@@ -167,6 +199,74 @@ function HoverActions({
   );
 }
 
+type OrientedThumbProps = {
+  image: GalleryImage;
+  isFavorite: boolean;
+  isDownloading: boolean;
+  compareActive: boolean;
+  onOpen: () => void;
+  onToggleFavorite: () => void;
+  onDownload: () => void;
+  onToggleCompare?: () => void;
+};
+
+function OrientedThumb({
+  image,
+  isFavorite,
+  isDownloading,
+  compareActive,
+  onOpen,
+  onToggleFavorite,
+  onDownload,
+  onToggleCompare,
+}: OrientedThumbProps) {
+  const [landscape, setLandscape] = useState(false);
+
+  return (
+    <div
+      className={`group relative overflow-hidden rounded-[18px] bg-white ${
+        landscape
+          ? "w-[min(100%,420px)] md:w-[min(100%,520px)]"
+          : "w-[198px] md:w-[270px]"
+      } ${
+        compareActive ? "ring-2 ring-[#333] ring-offset-2 ring-offset-[#efede4]" : ""
+      }`}
+      onClick={onOpen}
+    >
+      <img
+        alt="画面プレビュー"
+        className={`block w-full object-cover ${
+          landscape ? "aspect-[844/390]" : "aspect-[390/844]"
+        }`}
+        decoding="async"
+        loading="lazy"
+        src={displayImageSrc(image.src, "detail")}
+        onLoad={(e) => {
+          const { naturalWidth, naturalHeight } = e.currentTarget;
+          if (naturalWidth > 0 && naturalHeight > 0) {
+            setLandscape(naturalWidth > naturalHeight);
+          }
+        }}
+        onError={(e) => {
+          const next = nextDisplayFallback(
+            e.currentTarget.currentSrc || e.currentTarget.src,
+            image.src,
+          );
+          if (next) e.currentTarget.src = next;
+        }}
+      />
+      <HoverActions
+        compareActive={compareActive}
+        downloading={isDownloading}
+        isFavorite={isFavorite}
+        onDownload={onDownload}
+        onToggleCompare={onToggleCompare}
+        onToggleFavorite={onToggleFavorite}
+      />
+    </div>
+  );
+}
+
 function SectionRow({
   section,
   imageFavorites,
@@ -176,6 +276,8 @@ function SectionRow({
   onOpenImage,
   downloadingImageId,
   downloadingSectionId,
+  isCompared,
+  onToggleCompare,
 }: SectionRowProps) {
   const sectionFavorite = section.images.every((image) => imageFavorites.has(image.id));
 
@@ -223,40 +325,31 @@ function SectionRow({
           </IconCircleButton>
         </div>
       </div>
-      <div className="overflow-x-auto pb-2">
-        <div className="flex min-w-max gap-2 md:gap-3">
-          {section.images.map((image) => {
-            const isFavorite = imageFavorites.has(image.id);
-            const isDownloading = downloadingImageId === image.id;
-            return (
-              <div
-                className="group relative h-[432px] w-[198px] overflow-hidden rounded-[18px] bg-white md:h-[588px] md:w-[270px]"
-                key={image.id}
-                onClick={() => onOpenImage(image.id)}
-              >
-                <img
-                  alt="オンボーディング画面のプレビュー"
-                  className="h-full w-full"
-                  decoding="async"
-                  loading="lazy"
-                  src={displayImageSrc(image.src, 'detail')}
-                  onError={(e) => {
-                    const next = nextDisplayFallback(e.currentTarget.currentSrc || e.currentTarget.src, image.src);
-                    if (next) e.currentTarget.src = next;
-                  }}
-                />
-                <HoverActions
-                  downloading={isDownloading}
-                  isFavorite={isFavorite}
-                  onDownload={() => {
-                    void onDownloadImage(image);
-                  }}
-                  onToggleFavorite={() => onToggleImageFavorite(image.id)}
-                />
-              </div>
-            );
-          })}
-        </div>
+      <div className="flex flex-wrap content-start gap-2 md:gap-3">
+        {section.images.map((image) => {
+          const isFavorite = imageFavorites.has(image.id);
+          const isDownloading = downloadingImageId === image.id;
+          const compareActive = isCompared?.(image.id) ?? false;
+          return (
+            <OrientedThumb
+              compareActive={compareActive}
+              image={image}
+              isDownloading={isDownloading}
+              isFavorite={isFavorite}
+              key={image.id}
+              onDownload={() => {
+                void onDownloadImage(image);
+              }}
+              onOpen={() => onOpenImage(image.id)}
+              onToggleCompare={
+                onToggleCompare
+                  ? () => onToggleCompare(image, section.title)
+                  : undefined
+              }
+              onToggleFavorite={() => onToggleImageFavorite(image.id)}
+            />
+          );
+        })}
       </div>
       <div className="h-px w-full bg-[#b5b2a8]" />
     </section>
@@ -277,7 +370,15 @@ function ImageModal({
   onOpenExternal,
   appName,
   tags,
+  compareActive,
+  onToggleCompare,
 }: ImageModalProps) {
+  const [landscape, setLandscape] = useState(false);
+
+  useEffect(() => {
+    setLandscape(false);
+  }, [image.id]);
+
   return (
     <div className="fixed inset-0 z-50 bg-[#efede4] px-4 pb-8 pt-6 md:px-8 md:pt-8">
       <div className="mx-auto flex h-full w-full max-w-[1460px] flex-col">
@@ -293,7 +394,7 @@ function ImageModal({
         </div>
 
         <div className="mt-4 flex flex-1 items-center justify-center md:mt-6">
-          <div className="relative flex h-full w-full max-w-[980px] items-center justify-center">
+          <div className="relative flex h-full w-full max-w-[1100px] items-center justify-center">
             <div className="flex flex-col items-center gap-4 md:gap-5">
               <div className="relative flex flex-col items-center gap-4">
                 <div className="flex flex-col items-center gap-4">
@@ -308,14 +409,29 @@ function ImageModal({
                     >
                       <ChevronLeft size={22} />
                     </button>
-                    <div className="relative h-[min(62vh,580px)] w-auto max-w-[min(82vw,266px)] aspect-[410/893] overflow-hidden rounded-[28px] bg-white md:h-[min(76vh,980px)] md:max-w-[450px] md:rounded-[36px]">
+                    <div
+                      className={`relative overflow-hidden rounded-[28px] bg-white md:rounded-[36px] ${
+                        landscape
+                          ? "h-auto w-[min(88vw,860px)] aspect-[844/390]"
+                          : "h-[min(62vh,580px)] w-auto max-w-[min(82vw,266px)] aspect-[410/893] md:h-[min(76vh,980px)] md:max-w-[450px]"
+                      }`}
+                    >
                       <img
                         alt="モーダル拡大プレビュー"
-                        className="h-full w-full"
+                        className="h-full w-full object-contain"
                         decoding="async"
-                        src={displayImageSrc(image.src, 'detail')}
+                        src={displayImageSrc(image.src, "detail")}
+                        onLoad={(e) => {
+                          const { naturalWidth, naturalHeight } = e.currentTarget;
+                          if (naturalWidth > 0 && naturalHeight > 0) {
+                            setLandscape(naturalWidth > naturalHeight);
+                          }
+                        }}
                         onError={(e) => {
-                          const next = nextDisplayFallback(e.currentTarget.currentSrc || e.currentTarget.src, image.src);
+                          const next = nextDisplayFallback(
+                            e.currentTarget.currentSrc || e.currentTarget.src,
+                            image.src,
+                          );
                           if (next) e.currentTarget.src = next;
                         }}
                       />
@@ -351,6 +467,16 @@ function ImageModal({
                     ))}
                   </div>
                   <div className="flex items-center gap-2">
+                    {onToggleCompare && (
+                      <IconCircleButton
+                        active={compareActive}
+                        label={compareActive ? "比較から外す" : "比較に追加"}
+                        onClick={onToggleCompare}
+                        size="lg"
+                      >
+                        <Columns2 size={18} />
+                      </IconCircleButton>
+                    )}
                     <IconCircleButton label="外部リンク" onClick={onOpenExternal} size="lg">
                       <ExternalLink size={18} />
                     </IconCircleButton>
@@ -417,7 +543,7 @@ function ImageModal({
   );
 }
 
-export function DetailScreen({ onBack, app }: DetailScreenProps) {
+export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: DetailScreenProps) {
   const APP_FAVORITES_KEY = `ui-zukan:app-favorites:${app.id}`;
   const IMAGE_FAVORITES_KEY = `ui-zukan:image-favorites:${app.id}`;
   const [appFavorites, setAppFavorites] = useState<Set<string>>(new Set());
@@ -428,6 +554,36 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
   const [selectedImageIndex, setSelectedImageIndex] = useState<number | null>(null);
 
   const allImages = useMemo(() => app.sections.flatMap((section) => section.images), [app.sections]);
+
+  const imageSectionTitle = useMemo(() => {
+    const map = new Map<string, string>();
+    for (const section of app.sections) {
+      for (const image of section.images) {
+        map.set(image.id, section.title);
+      }
+    }
+    return map;
+  }, [app.sections]);
+
+  const handleToggleCompareImage = (image: GalleryImage, sectionTitle: string) => {
+    onToggleCompare?.(
+      createCompareItem({
+        appId: app.id,
+        appName: app.name,
+        sectionTitle,
+        imageId: image.id,
+        src: image.src,
+        filename: image.filename,
+      }),
+    );
+  };
+
+  const isCompared = (imageId: string) =>
+    Boolean(compareKeys?.has(makeCompareKey(app.id, imageId)));
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+  }, [app.id]);
 
   useEffect(() => {
     const savedAppFavorites = window.localStorage.getItem(APP_FAVORITES_KEY);
@@ -440,6 +596,8 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
       } catch {
         setAppFavorites(new Set());
       }
+    } else if (isAppFavorited(app.id)) {
+      setAppFavorites(new Set([app.id]));
     }
 
     if (savedImageFavorites) {
@@ -450,7 +608,7 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
         setImageFavorites(new Set());
       }
     }
-  }, []);
+  }, [APP_FAVORITES_KEY, IMAGE_FAVORITES_KEY, app.id]);
 
   useEffect(() => {
     window.localStorage.setItem(APP_FAVORITES_KEY, JSON.stringify(Array.from(appFavorites)));
@@ -463,13 +621,34 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
   const toggleAppFavorite = () => {
     setAppFavorites((previous) => {
       const next = new Set(previous);
-      if (next.has(app.id)) {
-        next.delete(app.id);
-      } else {
+      const favorited = !next.has(app.id);
+      if (favorited) {
         next.add(app.id);
+      } else {
+        next.delete(app.id);
       }
+      setAppFavorited(app.id, favorited);
+      window.dispatchEvent(new Event('appui-favorites-changed'));
       return next;
     });
+  };
+
+  const [shareMessage, setShareMessage] = useState('');
+
+  const copyPageLink = async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      setShareMessage('リンクをコピーしました');
+    } catch {
+      setShareMessage('コピーに失敗しました');
+    }
+    window.setTimeout(() => setShareMessage(''), 2000);
+  };
+
+  const shareOnX = () => {
+    const text = `${app.name}のUI｜アプリUI図鑑`;
+    const url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(window.location.href)}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
   };
 
   const toggleImageFavorite = (imageId: string) => {
@@ -600,7 +779,7 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
               </button>
               <div className="flex items-center gap-3">
                 <p className="whitespace-nowrap font-['Noto_Sans_JP:Bold',sans-serif] text-[16px] tracking-[0.8px] text-[#333] md:text-[18px]">
-                  アプリUI図鑑
+                  <Link to="/" className="hover:opacity-70">アプリUI図鑑</Link>
                 </p>
                 <p className="font-['Noto_Sans_JP:Regular',sans-serif] text-[10px] tracking-[0.44px] text-[#595959]">
                   アプリデザインの参考になる
@@ -631,6 +810,12 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
             <IconCircleButton label="外部リンク" onClick={openExternalAppPage} size="lg">
               <ExternalLink size={18} />
             </IconCircleButton>
+            <IconCircleButton label="リンクをコピー" onClick={() => { void copyPageLink(); }} size="lg">
+              <Copy size={18} />
+            </IconCircleButton>
+            <IconCircleButton label="Xで共有" onClick={shareOnX} size="lg">
+              <Share2 size={18} />
+            </IconCircleButton>
             <IconCircleButton
               active={appFavorite}
               label="アプリをお気に入り保存"
@@ -649,6 +834,9 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
             >
               <Download size={18} />
             </IconCircleButton>
+            {shareMessage ? (
+              <span className="font-['Noto_Sans_JP:Medium',sans-serif] text-[11px] text-[#166534]">{shareMessage}</span>
+            ) : null}
             {[...app.categories, ...app.components].map((tag) => (
               <span
                 key={tag}
@@ -660,16 +848,18 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
           </div>
         </section>
 
-        <div className="flex w-full flex-col gap-8">
+        <div className="flex w-full flex-col gap-8 pb-24 md:pb-28">
           {app.sections.map((section) => (
             <SectionRow
               downloadingImageId={downloadingImageId}
               downloadingSectionId={downloadingSectionId}
               imageFavorites={imageFavorites}
+              isCompared={isCompared}
               key={section.id}
               onDownloadImage={downloadImage}
               onDownloadSection={downloadSectionImages}
               onOpenImage={openImageModal}
+              onToggleCompare={onToggleCompare ? handleToggleCompareImage : undefined}
               onToggleImageFavorite={toggleImageFavorite}
               section={section}
             />
@@ -678,6 +868,7 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
       </div>
       {selectedImage && (
         <ImageModal
+          compareActive={isCompared(selectedImage.id)}
           downloadingImage={selectedImageDownloading}
           image={selectedImage}
           imageCount={allImages.length}
@@ -690,6 +881,15 @@ export function DetailScreen({ onBack, app }: DetailScreenProps) {
           onNext={showNextImage}
           onOpenExternal={openExternalAppPage}
           onPrev={showPreviousImage}
+          onToggleCompare={
+            onToggleCompare
+              ? () =>
+                  handleToggleCompareImage(
+                    selectedImage,
+                    imageSectionTitle.get(selectedImage.id) || "セクション未設定",
+                  )
+              : undefined
+          }
           onToggleImageFavorite={() => toggleImageFavorite(selectedImage.id)}
           appName={app.name}
           tags={[...app.categories, ...app.components]}

@@ -1,0 +1,499 @@
+{
+  "id": "hatena-blog-1787963581397-ysum",
+  "name": "はてなブログ",
+  "description": "はてなブログはしっかり書きたい人のためのブログサービスです。 ささいな日常も、忘れられない出来事も、はてなブログならすべて残すことができます。 サイトはこちら：https://hatenablog.com/ ■ アプリの特長 はてなブログアプリはしっかり書きたい人のために考えて",
+  "iconUrl": "/appui-images/hatena-blog/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0/id583299321?uo=4",
+  "categories": [
+    "ソーシャルネットワーキング"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "オンボーディング",
+    "フォーム",
+    "ダッシュボード",
+    "エディタ",
+    "モーダル・ボトムシート",
+    "カレンダー"
+  ],
+  "sections": [
+    {
+      "id": "gb1ew8s",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "tutwxvn",
+          "src": "/appui-images/hatena-blog/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "gjllki4",
+          "src": "/appui-images/hatena-blog/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xt8dizd",
+          "src": "/appui-images/hatena-blog/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ul1galg",
+          "src": "/appui-images/hatena-blog/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jyx5eb6",
+          "src": "/appui-images/hatena-blog/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cr8ohvj",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "h5mbj0e",
+          "src": "/appui-images/hatena-blog/IMG_2203.webp",
+          "filename": "IMG_2203.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sjmti5f",
+      "title": "ブログ作成",
+      "images": [
+        {
+          "id": "9lpg4f3",
+          "src": "/appui-images/hatena-blog/IMG_2205.webp",
+          "filename": "IMG_2205.webp",
+          "components": [
+            "フォーム",
+            "オンボーディング",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "mvz3v21",
+          "src": "/appui-images/hatena-blog/IMG_2206.webp",
+          "filename": "IMG_2206.webp",
+          "components": [
+            "フォーム",
+            "オンボーディング",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8gp2cqr",
+      "title": "アクセス解析",
+      "images": [
+        {
+          "id": "wmq3f6d",
+          "src": "/appui-images/hatena-blog/IMG_2207.webp",
+          "filename": "IMG_2207.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3a9atbb",
+      "title": "下書き・お題",
+      "images": [
+        {
+          "id": "ap5fixp",
+          "src": "/appui-images/hatena-blog/IMG_2208.webp",
+          "filename": "IMG_2208.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "wa07aa6",
+          "src": "/appui-images/hatena-blog/IMG_2209.webp",
+          "filename": "IMG_2209.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "dzsgrgz",
+          "src": "/appui-images/hatena-blog/IMG_2210.webp",
+          "filename": "IMG_2210.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hbzlp7j",
+      "title": "記事作成・プレビュー",
+      "images": [
+        {
+          "id": "hnpq4d4",
+          "src": "/appui-images/hatena-blog/IMG_2211.webp",
+          "filename": "IMG_2211.webp",
+          "components": [
+            "フォーム",
+            "エディタ",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "lispv9v",
+          "src": "/appui-images/hatena-blog/IMG_2212.webp",
+          "filename": "IMG_2212.webp",
+          "components": [
+            "フォーム",
+            "エディタ",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "c81iymm",
+          "src": "/appui-images/hatena-blog/IMG_2213.webp",
+          "filename": "IMG_2213.webp",
+          "components": [
+            "フォーム",
+            "エディタ",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "4uhg8gf",
+          "src": "/appui-images/hatena-blog/IMG_2214.webp",
+          "filename": "IMG_2214.webp",
+          "components": [
+            "フォーム",
+            "エディタ",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5g9x5z2",
+      "title": "コメント",
+      "images": [
+        {
+          "id": "iv1jh7p",
+          "src": "/appui-images/hatena-blog/IMG_2215.webp",
+          "filename": "IMG_2215.webp",
+          "components": [
+            "リスト",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hcsmup4",
+      "title": "購読",
+      "images": [
+        {
+          "id": "lwk855r",
+          "src": "/appui-images/hatena-blog/IMG_2216.webp",
+          "filename": "IMG_2216.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "j2t5lyj",
+          "src": "/appui-images/hatena-blog/IMG_2217.webp",
+          "filename": "IMG_2217.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tspl69g",
+      "title": "設定",
+      "images": [
+        {
+          "id": "7nrhyvb",
+          "src": "/appui-images/hatena-blog/IMG_2218.webp",
+          "filename": "IMG_2218.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "zvgldw2",
+          "src": "/appui-images/hatena-blog/IMG_2219.webp",
+          "filename": "IMG_2219.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "llmcqf3",
+          "src": "/appui-images/hatena-blog/IMG_2220.webp",
+          "filename": "IMG_2220.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "xy8fajk",
+          "src": "/appui-images/hatena-blog/IMG_2221.webp",
+          "filename": "IMG_2221.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "9m9ndui",
+          "src": "/appui-images/hatena-blog/IMG_2222.webp",
+          "filename": "IMG_2222.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "dwebtbp",
+          "src": "/appui-images/hatena-blog/IMG_2223.webp",
+          "filename": "IMG_2223.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "jt13sga",
+          "src": "/appui-images/hatena-blog/IMG_2224.webp",
+          "filename": "IMG_2224.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "nvxu1yt",
+          "src": "/appui-images/hatena-blog/IMG_2225.webp",
+          "filename": "IMG_2225.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "4cj51xh",
+          "src": "/appui-images/hatena-blog/IMG_2226.webp",
+          "filename": "IMG_2226.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "3cb3zfn",
+          "src": "/appui-images/hatena-blog/IMG_2227.webp",
+          "filename": "IMG_2227.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "od6ych7",
+      "title": "記事設定",
+      "images": [
+        {
+          "id": "bphd9x3",
+          "src": "/appui-images/hatena-blog/IMG_2228.webp",
+          "filename": "IMG_2228.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "37e0ulo",
+          "src": "/appui-images/hatena-blog/IMG_2229.webp",
+          "filename": "IMG_2229.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "4ex8knj",
+          "src": "/appui-images/hatena-blog/IMG_2230.webp",
+          "filename": "IMG_2230.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "wqpkqay",
+          "src": "/appui-images/hatena-blog/IMG_2231.webp",
+          "filename": "IMG_2231.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "jx5pl44",
+          "src": "/appui-images/hatena-blog/IMG_2232.webp",
+          "filename": "IMG_2232.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mf9veso",
+      "title": "公開・編集",
+      "images": [
+        {
+          "id": "pzwyl4z",
+          "src": "/appui-images/hatena-blog/IMG_2233.webp",
+          "filename": "IMG_2233.webp",
+          "components": [
+            "エディタ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xc64oj1",
+          "src": "/appui-images/hatena-blog/IMG_2234.webp",
+          "filename": "IMG_2234.webp",
+          "components": [
+            "エディタ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cnx78vv",
+          "src": "/appui-images/hatena-blog/IMG_2235.webp",
+          "filename": "IMG_2235.webp",
+          "components": [
+            "エディタ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0hrmwur",
+          "src": "/appui-images/hatena-blog/IMG_2236.webp",
+          "filename": "IMG_2236.webp",
+          "components": [
+            "エディタ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "pj3g93s",
+          "src": "/appui-images/hatena-blog/IMG_2237.webp",
+          "filename": "IMG_2237.webp",
+          "components": [
+            "エディタ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "nrvbmb4",
+          "src": "/appui-images/hatena-blog/IMG_2238.webp",
+          "filename": "IMG_2238.webp",
+          "components": [
+            "エディタ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "hatena-blog"
+}

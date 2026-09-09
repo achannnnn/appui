@@ -1,0 +1,717 @@
+{
+  "id": "yamazaki-1788273692519-pg2g",
+  "name": "山﨑実業",
+  "description": "山崎実業の公式アプリがリリースされました。 キッチン・リビング・バスルーム・かさたて・アイロン台など、様々な生活を快適にするアイテムをご用意しております。 人気のtowerシリーズはもちろん、toscaやRINシリーズなどもアプリから検索で…",
+  "iconUrl": "/appui-images/yamazaki/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E5%B1%B1%E5%B4%8E%E5%AE%9F%E6%A5%AD-yamazaki-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E9%9B%91%E8%B2%A8/id1520476752?uo=4",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "12tpv9c",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "4cuxmt3",
+          "src": "/appui-images/yamazaki/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jyf5i1l",
+          "src": "/appui-images/yamazaki/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gyo9heg",
+          "src": "/appui-images/yamazaki/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9bdc0yy",
+          "src": "/appui-images/yamazaki/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tx4furm",
+          "src": "/appui-images/yamazaki/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7vhcdy",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "b958wzu",
+          "src": "/appui-images/yamazaki/IMG_2777.webp",
+          "filename": "IMG_2777.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9b1bgdf",
+          "src": "/appui-images/yamazaki/IMG_2778.webp",
+          "filename": "IMG_2778.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wsf1ai7",
+          "src": "/appui-images/yamazaki/IMG_2779.webp",
+          "filename": "IMG_2779.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gwtvzwy",
+          "src": "/appui-images/yamazaki/IMG_2780.webp",
+          "filename": "IMG_2780.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rivh1s8",
+          "src": "/appui-images/yamazaki/IMG_2781.webp",
+          "filename": "IMG_2781.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tlbwupf",
+          "src": "/appui-images/yamazaki/IMG_2800.webp",
+          "filename": "IMG_2800.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rtthd0c",
+          "src": "/appui-images/yamazaki/IMG_2801.webp",
+          "filename": "IMG_2801.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o80oue8",
+      "title": "検索",
+      "images": [
+        {
+          "id": "yklise2",
+          "src": "/appui-images/yamazaki/IMG_2782.webp",
+          "filename": "IMG_2782.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s2526bt",
+          "src": "/appui-images/yamazaki/IMG_2783.webp",
+          "filename": "IMG_2783.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pbxby4r",
+          "src": "/appui-images/yamazaki/IMG_2804.webp",
+          "filename": "IMG_2804.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i38g02g",
+          "src": "/appui-images/yamazaki/IMG_2805.webp",
+          "filename": "IMG_2805.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cek3dp2",
+          "src": "/appui-images/yamazaki/IMG_2806.webp",
+          "filename": "IMG_2806.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xj6u07l",
+      "title": "ログイン・会員",
+      "images": [
+        {
+          "id": "a6twh19",
+          "src": "/appui-images/yamazaki/IMG_2784.webp",
+          "filename": "IMG_2784.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s45f5u6",
+          "src": "/appui-images/yamazaki/IMG_2785.webp",
+          "filename": "IMG_2785.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "leltwn5",
+          "src": "/appui-images/yamazaki/IMG_2786.webp",
+          "filename": "IMG_2786.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4oocz61",
+          "src": "/appui-images/yamazaki/IMG_2787.webp",
+          "filename": "IMG_2787.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1l4zc6r",
+          "src": "/appui-images/yamazaki/IMG_2788.webp",
+          "filename": "IMG_2788.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hiygskf",
+          "src": "/appui-images/yamazaki/IMG_2815.webp",
+          "filename": "IMG_2815.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "08ic42n",
+          "src": "/appui-images/yamazaki/IMG_2816.webp",
+          "filename": "IMG_2816.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ao1zmgw",
+          "src": "/appui-images/yamazaki/IMG_2817.webp",
+          "filename": "IMG_2817.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gvka0mg",
+          "src": "/appui-images/yamazaki/IMG_2818.webp",
+          "filename": "IMG_2818.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "91g6ox7",
+          "src": "/appui-images/yamazaki/IMG_2819.webp",
+          "filename": "IMG_2819.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xq9gn44",
+          "src": "/appui-images/yamazaki/IMG_2820.webp",
+          "filename": "IMG_2820.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l9bn0nx",
+          "src": "/appui-images/yamazaki/IMG_2821.webp",
+          "filename": "IMG_2821.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2y086up",
+          "src": "/appui-images/yamazaki/IMG_2822.webp",
+          "filename": "IMG_2822.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jpdager",
+          "src": "/appui-images/yamazaki/IMG_2823.webp",
+          "filename": "IMG_2823.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7h9a7lp",
+          "src": "/appui-images/yamazaki/IMG_2824.webp",
+          "filename": "IMG_2824.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t6yks3o",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "pqqpex8",
+          "src": "/appui-images/yamazaki/IMG_2789.webp",
+          "filename": "IMG_2789.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "773wkpg",
+          "src": "/appui-images/yamazaki/IMG_2790.webp",
+          "filename": "IMG_2790.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mddyky6",
+          "src": "/appui-images/yamazaki/IMG_2791.webp",
+          "filename": "IMG_2791.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sa5vb3j",
+          "src": "/appui-images/yamazaki/IMG_2792.webp",
+          "filename": "IMG_2792.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "klazt6h",
+          "src": "/appui-images/yamazaki/IMG_2793.webp",
+          "filename": "IMG_2793.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i6b1qfz",
+          "src": "/appui-images/yamazaki/IMG_2794.webp",
+          "filename": "IMG_2794.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ormds55",
+          "src": "/appui-images/yamazaki/IMG_2802.webp",
+          "filename": "IMG_2802.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zx02ckd",
+          "src": "/appui-images/yamazaki/IMG_2803.webp",
+          "filename": "IMG_2803.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i78l6hp",
+      "title": "カート・決済",
+      "images": [
+        {
+          "id": "2piccae",
+          "src": "/appui-images/yamazaki/IMG_2795.webp",
+          "filename": "IMG_2795.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bix1amu",
+          "src": "/appui-images/yamazaki/IMG_2796.webp",
+          "filename": "IMG_2796.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cm2m06u",
+          "src": "/appui-images/yamazaki/IMG_2797.webp",
+          "filename": "IMG_2797.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l25tqz8",
+          "src": "/appui-images/yamazaki/IMG_2798.webp",
+          "filename": "IMG_2798.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qu96j2p",
+          "src": "/appui-images/yamazaki/IMG_2799.webp",
+          "filename": "IMG_2799.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suxx8xu",
+      "title": "スタンプ",
+      "images": [
+        {
+          "id": "l6p3cq0",
+          "src": "/appui-images/yamazaki/IMG_2807.webp",
+          "filename": "IMG_2807.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8wvcofa",
+          "src": "/appui-images/yamazaki/IMG_2808.webp",
+          "filename": "IMG_2808.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rv0c92d",
+          "src": "/appui-images/yamazaki/IMG_2809.webp",
+          "filename": "IMG_2809.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pz177qj",
+          "src": "/appui-images/yamazaki/IMG_2810.webp",
+          "filename": "IMG_2810.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f2y1i9d",
+          "src": "/appui-images/yamazaki/IMG_2811.webp",
+          "filename": "IMG_2811.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "06w3m99",
+          "src": "/appui-images/yamazaki/IMG_2812.webp",
+          "filename": "IMG_2812.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2b5m32k",
+          "src": "/appui-images/yamazaki/IMG_2813.webp",
+          "filename": "IMG_2813.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nhl3khu",
+          "src": "/appui-images/yamazaki/IMG_2814.webp",
+          "filename": "IMG_2814.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qx8e03k",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "uke7o58",
+          "src": "/appui-images/yamazaki/IMG_2825.webp",
+          "filename": "IMG_2825.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "yamazaki"
+}

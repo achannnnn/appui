@@ -1,0 +1,663 @@
+{
+  "id": "twitch-1788448656074-mt47",
+  "name": "Twitch",
+  "description": "Twitchにある幾千ものコミュニティは、お気に入りのストリーマーを応援したり、大好きなゲームを楽しんだり、笑いを共有したり、仲間をサポートするためにつながることのできる場所。Twitchをダウンロードして、ゲーム、音楽、スポーツ、eスポー…",
+  "iconUrl": "/appui-images/twitch/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/twitch-%E3%83%A9%E3%82%A4%E3%83%96%E9%85%8D%E4%BF%A1/id460177396?uo=4",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "ボトム ナビゲーション"
+  ],
+  "sections": [
+    {
+      "id": "2wzpisx",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "5wgzjgz",
+          "src": "/appui-images/twitch/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "515zj8i",
+          "src": "/appui-images/twitch/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ysdybv9",
+          "src": "/appui-images/twitch/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qz2yz43",
+          "src": "/appui-images/twitch/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pfqfdmv",
+          "src": "/appui-images/twitch/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ykwkh6a",
+          "src": "/appui-images/twitch/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yplq0gt",
+      "title": "ホーム・オンボーディング",
+      "images": [
+        {
+          "id": "gnod0i8",
+          "src": "/appui-images/twitch/IMG_3013.webp",
+          "filename": "IMG_3013.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pgowl8s",
+          "src": "/appui-images/twitch/IMG_3014.webp",
+          "filename": "IMG_3014.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "lqbf2h3",
+          "src": "/appui-images/twitch/IMG_3015.webp",
+          "filename": "IMG_3015.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "syw5lqe",
+          "src": "/appui-images/twitch/IMG_3016.webp",
+          "filename": "IMG_3016.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pvkhoda",
+          "src": "/appui-images/twitch/IMG_3017.webp",
+          "filename": "IMG_3017.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vtom1vv",
+          "src": "/appui-images/twitch/IMG_3018.webp",
+          "filename": "IMG_3018.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s6sehxd",
+      "title": "フォロー中",
+      "images": [
+        {
+          "id": "t76ohsi",
+          "src": "/appui-images/twitch/IMG_3019.webp",
+          "filename": "IMG_3019.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "f6qgz8g",
+          "src": "/appui-images/twitch/IMG_3020.webp",
+          "filename": "IMG_3020.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "fl5qy67",
+          "src": "/appui-images/twitch/IMG_3021.webp",
+          "filename": "IMG_3021.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "zyataxo",
+          "src": "/appui-images/twitch/IMG_3022.webp",
+          "filename": "IMG_3022.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "6bdo2c8",
+          "src": "/appui-images/twitch/IMG_3023.webp",
+          "filename": "IMG_3023.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "4yzvzr9",
+          "src": "/appui-images/twitch/IMG_3024.webp",
+          "filename": "IMG_3024.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "q15h153",
+          "src": "/appui-images/twitch/IMG_3025.webp",
+          "filename": "IMG_3025.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0pnifcq",
+          "src": "/appui-images/twitch/IMG_3026.webp",
+          "filename": "IMG_3026.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "cjr83r6",
+          "src": "/appui-images/twitch/IMG_3027.webp",
+          "filename": "IMG_3027.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "an1sski",
+          "src": "/appui-images/twitch/IMG_3028.webp",
+          "filename": "IMG_3028.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "mx6f06h",
+          "src": "/appui-images/twitch/IMG_3029.webp",
+          "filename": "IMG_3029.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "y5jjo1c",
+          "src": "/appui-images/twitch/IMG_3030.webp",
+          "filename": "IMG_3030.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bzwkika",
+      "title": "検索",
+      "images": [
+        {
+          "id": "avol7l0",
+          "src": "/appui-images/twitch/IMG_3031.webp",
+          "filename": "IMG_3031.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "4fhjryx",
+          "src": "/appui-images/twitch/IMG_3032.webp",
+          "filename": "IMG_3032.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "k6w5meq",
+          "src": "/appui-images/twitch/IMG_3033.webp",
+          "filename": "IMG_3033.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "siz83g9",
+          "src": "/appui-images/twitch/IMG_3034.webp",
+          "filename": "IMG_3034.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "btmwtw4",
+          "src": "/appui-images/twitch/IMG_3035.webp",
+          "filename": "IMG_3035.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "suguqe5",
+          "src": "/appui-images/twitch/IMG_3036.webp",
+          "filename": "IMG_3036.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4r4nmpq",
+      "title": "配信マネージャー",
+      "images": [
+        {
+          "id": "9oxtsej",
+          "src": "/appui-images/twitch/IMG_3037.webp",
+          "filename": "IMG_3037.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "fq5nfmv",
+          "src": "/appui-images/twitch/IMG_3038.webp",
+          "filename": "IMG_3038.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "p0oa610",
+          "src": "/appui-images/twitch/IMG_3039.webp",
+          "filename": "IMG_3039.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "urlf6pv",
+          "src": "/appui-images/twitch/IMG_3040.webp",
+          "filename": "IMG_3040.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5953r87",
+          "src": "/appui-images/twitch/IMG_3041.webp",
+          "filename": "IMG_3041.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "6gztp32",
+          "src": "/appui-images/twitch/IMG_3042.webp",
+          "filename": "IMG_3042.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "p3cckq7",
+          "src": "/appui-images/twitch/IMG_3043.webp",
+          "filename": "IMG_3043.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "wzjbo7l",
+          "src": "/appui-images/twitch/IMG_3044.webp",
+          "filename": "IMG_3044.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "w6mitx2",
+          "src": "/appui-images/twitch/IMG_3045.webp",
+          "filename": "IMG_3045.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "67pcj6h",
+          "src": "/appui-images/twitch/IMG_3046.webp",
+          "filename": "IMG_3046.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "d5joa3d",
+          "src": "/appui-images/twitch/IMG_3047.webp",
+          "filename": "IMG_3047.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xy2i2bt",
+          "src": "/appui-images/twitch/IMG_3048.webp",
+          "filename": "IMG_3048.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "go01kg0",
+      "title": "プロフィール・チャンネル",
+      "images": [
+        {
+          "id": "vljhfy2",
+          "src": "/appui-images/twitch/IMG_3049.webp",
+          "filename": "IMG_3049.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "278it17",
+          "src": "/appui-images/twitch/IMG_3052.webp",
+          "filename": "IMG_3052.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "rn4w0mz",
+          "src": "/appui-images/twitch/IMG_3053.webp",
+          "filename": "IMG_3053.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3lwtwyf",
+          "src": "/appui-images/twitch/IMG_3054.webp",
+          "filename": "IMG_3054.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4dzr90",
+      "title": "設定",
+      "images": [
+        {
+          "id": "khjrfls",
+          "src": "/appui-images/twitch/IMG_3055.webp",
+          "filename": "IMG_3055.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "frmydnb",
+          "src": "/appui-images/twitch/IMG_3057.webp",
+          "filename": "IMG_3057.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "7q0ho03",
+          "src": "/appui-images/twitch/IMG_3058.webp",
+          "filename": "IMG_3058.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "etfz7r1",
+          "src": "/appui-images/twitch/IMG_3059.webp",
+          "filename": "IMG_3059.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "twitch"
+}

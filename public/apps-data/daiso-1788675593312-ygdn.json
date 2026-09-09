@@ -1,0 +1,375 @@
+{
+  "id": "daiso-1788675593312-ygdn",
+  "name": "ダイソー",
+  "description": "お探しの商品の在庫を検索できる「DAISOアプリ」ができました。 気になった商品の在庫をアプリでお手軽にチェックできます。 使い方は簡単。在庫を調べたい店鋪を指定して商品検索するだけ。 他店舗の在庫状況も検索できます。 また、在庫検索だけで…",
+  "iconUrl": "/appui-images/daiso/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/daiso%E3%82%A2%E3%83%97%E3%83%AA/id6466987025?uo=4",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "地図"
+  ],
+  "sections": [
+    {
+      "id": "twaupip",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "79ljdca",
+          "src": "/appui-images/daiso/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t5ijvcs",
+          "src": "/appui-images/daiso/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gtqnph5",
+          "src": "/appui-images/daiso/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1mlaspg",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "svf8nw4",
+          "src": "/appui-images/daiso/IMG_3361.webp",
+          "filename": "IMG_3361.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2a3zv58",
+          "src": "/appui-images/daiso/IMG_3373.webp",
+          "filename": "IMG_3373.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "97ex9dm",
+          "src": "/appui-images/daiso/IMG_3376.webp",
+          "filename": "IMG_3376.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5h4ivaq",
+      "title": "検索・商品",
+      "images": [
+        {
+          "id": "dqlvdb1",
+          "src": "/appui-images/daiso/IMG_3362.webp",
+          "filename": "IMG_3362.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ssd3ium",
+          "src": "/appui-images/daiso/IMG_3363.webp",
+          "filename": "IMG_3363.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eqrkg1m",
+          "src": "/appui-images/daiso/IMG_3364.webp",
+          "filename": "IMG_3364.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jk1fnyu",
+          "src": "/appui-images/daiso/IMG_3365.webp",
+          "filename": "IMG_3365.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2w4cdap",
+          "src": "/appui-images/daiso/IMG_3366.webp",
+          "filename": "IMG_3366.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "prdj1a9",
+          "src": "/appui-images/daiso/IMG_3367.webp",
+          "filename": "IMG_3367.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "aw2jwil",
+          "src": "/appui-images/daiso/IMG_3368.webp",
+          "filename": "IMG_3368.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4dgze3i",
+          "src": "/appui-images/daiso/IMG_3369.webp",
+          "filename": "IMG_3369.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dtk2jdk",
+          "src": "/appui-images/daiso/IMG_3370.webp",
+          "filename": "IMG_3370.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qfv2veh",
+          "src": "/appui-images/daiso/IMG_3371.webp",
+          "filename": "IMG_3371.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "th4f7yv",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "n4unv81",
+          "src": "/appui-images/daiso/IMG_3372.webp",
+          "filename": "IMG_3372.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g4t66kj",
+          "src": "/appui-images/daiso/IMG_3374.webp",
+          "filename": "IMG_3374.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ted80pi",
+          "src": "/appui-images/daiso/IMG_3378.webp",
+          "filename": "IMG_3378.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vg3e9gu",
+          "src": "/appui-images/daiso/IMG_3380.webp",
+          "filename": "IMG_3380.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2rp3xol",
+          "src": "/appui-images/daiso/IMG_3381.webp",
+          "filename": "IMG_3381.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9wudc1v",
+          "src": "/appui-images/daiso/IMG_3382.webp",
+          "filename": "IMG_3382.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jxbsj9b",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "wb5tuqy",
+          "src": "/appui-images/daiso/IMG_3375.webp",
+          "filename": "IMG_3375.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6iyrla9",
+      "title": "お買い物リスト",
+      "images": [
+        {
+          "id": "qa5jkgf",
+          "src": "/appui-images/daiso/IMG_3377.webp",
+          "filename": "IMG_3377.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "511kagl",
+          "src": "/appui-images/daiso/IMG_3383.webp",
+          "filename": "IMG_3383.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pyuxnxg",
+      "title": "登録",
+      "images": [
+        {
+          "id": "5mb0zpi",
+          "src": "/appui-images/daiso/IMG_3379.webp",
+          "filename": "IMG_3379.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "daiso"
+}

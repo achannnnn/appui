@@ -1,0 +1,588 @@
+{
+  "id": "matsukiyo-1786626002042",
+  "name": "マツキヨココカラ",
+  "description": "マツモトキヨシ・ココカラファイン公式アプリ。クーポンとポイントが使える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/c1/1e/d9c11e8a-b417-685f-466b-4b094cd8a58b/AppIcon-production-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id6451037644",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "ヘッダー",
+    "カード",
+    "モーダル・ボトムシート",
+    "ダッシュボード",
+    "フォーム",
+    "リスト",
+    "検索",
+    "タブ・セグメントコントロール",
+    "フィルター",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "caxayde",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "orql6u7",
+          "src": "/appui-images/matsukiyo/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sw88yr5",
+          "src": "/appui-images/matsukiyo/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wb5mjcz",
+          "src": "/appui-images/matsukiyo/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v1etxyq",
+          "src": "/appui-images/matsukiyo/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qxp8qtr",
+          "src": "/appui-images/matsukiyo/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f9ptjs6",
+          "src": "/appui-images/matsukiyo/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p9313y2",
+          "src": "/appui-images/matsukiyo/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12r8ws2",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "g0nst5c",
+          "src": "/appui-images/matsukiyo/IMG_0451.webp",
+          "filename": "IMG_0451.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "v8rxy90",
+          "src": "/appui-images/matsukiyo/IMG_0453.webp",
+          "filename": "IMG_0453.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "6ynnr9b",
+          "src": "/appui-images/matsukiyo/IMG_0454.webp",
+          "filename": "IMG_0454.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kizfa6h",
+      "title": "ホーム・会員証",
+      "images": [
+        {
+          "id": "uanbzy7",
+          "src": "/appui-images/matsukiyo/IMG_0455.webp",
+          "filename": "IMG_0455.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "579skst",
+          "src": "/appui-images/matsukiyo/IMG_0462.webp",
+          "filename": "IMG_0462.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "x58w6wu",
+          "src": "/appui-images/matsukiyo/IMG_0463.webp",
+          "filename": "IMG_0463.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "tpfgu5v",
+          "src": "/appui-images/matsukiyo/IMG_0464.webp",
+          "filename": "IMG_0464.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ehf3kb6",
+      "title": "新規会員登録",
+      "images": [
+        {
+          "id": "xaprmf5",
+          "src": "/appui-images/matsukiyo/IMG_0456.webp",
+          "filename": "IMG_0456.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "5m4z0vd",
+          "src": "/appui-images/matsukiyo/IMG_0457.webp",
+          "filename": "IMG_0457.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "fz71ho2",
+          "src": "/appui-images/matsukiyo/IMG_0458.webp",
+          "filename": "IMG_0458.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "zotvixb",
+          "src": "/appui-images/matsukiyo/IMG_0459.webp",
+          "filename": "IMG_0459.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "aqf8zc7",
+          "src": "/appui-images/matsukiyo/IMG_0460.webp",
+          "filename": "IMG_0460.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "wibflnt",
+          "src": "/appui-images/matsukiyo/IMG_0461.webp",
+          "filename": "IMG_0461.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2g61ide",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "3kx5xyk",
+          "src": "/appui-images/matsukiyo/IMG_0466.webp",
+          "filename": "IMG_0466.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "myyad02",
+          "src": "/appui-images/matsukiyo/IMG_0467.webp",
+          "filename": "IMG_0467.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iekorm6",
+      "title": "店舗検索・チラシ",
+      "images": [
+        {
+          "id": "at24ozk",
+          "src": "/appui-images/matsukiyo/IMG_0465.webp",
+          "filename": "IMG_0465.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ic3fm4m",
+      "title": "運試しルーレット・クーポン詳細",
+      "images": [
+        {
+          "id": "vmji8oa",
+          "src": "/appui-images/matsukiyo/IMG_0468.webp",
+          "filename": "IMG_0468.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1bymncq",
+          "src": "/appui-images/matsukiyo/IMG_0469.webp",
+          "filename": "IMG_0469.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "6rdpn7g",
+          "src": "/appui-images/matsukiyo/IMG_0470.webp",
+          "filename": "IMG_0470.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uxxqyfs",
+          "src": "/appui-images/matsukiyo/IMG_0471.webp",
+          "filename": "IMG_0471.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqtrsq3",
+      "title": "トクする",
+      "images": [
+        {
+          "id": "esfx1bx",
+          "src": "/appui-images/matsukiyo/IMG_0472.webp",
+          "filename": "IMG_0472.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "wapufer",
+          "src": "/appui-images/matsukiyo/IMG_0473.webp",
+          "filename": "IMG_0473.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "08vpgf8",
+          "src": "/appui-images/matsukiyo/IMG_0474.webp",
+          "filename": "IMG_0474.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53mmbvs",
+      "title": "みつける",
+      "images": [
+        {
+          "id": "aomd3sg",
+          "src": "/appui-images/matsukiyo/IMG_0475.webp",
+          "filename": "IMG_0475.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "カード",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "k3mkco9",
+          "src": "/appui-images/matsukiyo/IMG_0476.webp",
+          "filename": "IMG_0476.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "カード",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nntutft",
+      "title": "商品スキャン",
+      "images": [
+        {
+          "id": "1xft0md",
+          "src": "/appui-images/matsukiyo/IMG_0477.webp",
+          "filename": "IMG_0477.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フォーム",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "59d5f8b",
+          "src": "/appui-images/matsukiyo/IMG_0478.webp",
+          "filename": "IMG_0478.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フォーム",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "feokdz6",
+          "src": "/appui-images/matsukiyo/IMG_0479.webp",
+          "filename": "IMG_0479.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フォーム",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vctblus",
+      "title": "買う（オンラインストア）",
+      "images": [
+        {
+          "id": "dj70bf7",
+          "src": "/appui-images/matsukiyo/IMG_0480.webp",
+          "filename": "IMG_0480.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1iubtm6",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "jd0cp3n",
+          "src": "/appui-images/matsukiyo/IMG_0481.webp",
+          "filename": "IMG_0481.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "oaitbw4",
+          "src": "/appui-images/matsukiyo/IMG_0482.webp",
+          "filename": "IMG_0482.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "0lz3k4b",
+          "src": "/appui-images/matsukiyo/IMG_0483.webp",
+          "filename": "IMG_0483.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "プロフィール",
+            "ボトム ナビゲーション",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptmud3k",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "jmtfy77",
+          "src": "/appui-images/matsukiyo/IMG_0484.webp",
+          "filename": "IMG_0484.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "マツキヨココカラ"
+}

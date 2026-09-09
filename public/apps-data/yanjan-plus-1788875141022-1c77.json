@@ -1,0 +1,819 @@
+{
+  "id": "yanjan-plus-1788875141022-1c77",
+  "name": "ヤンジャン+",
+  "description": "面白さ、えりすぐり！ 話題の最新作から不朽の名作まで豪華ラインナップを続々配信！ 「ヤンジャン＋」は、集英社青年誌「週刊ヤングジャンプ」の他、「ヤンジャン＋オリジナル」「グランドジャンプ」「となりのヤングジャンプ」「異世界ヤンジャン」「ウル…",
+  "iconUrl": "/appui-images/yanjan-plus/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%A4%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%B3/id1351283922?uo=4",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "タブ"
+  ],
+  "sections": [
+    {
+      "id": "3ab52uw",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "w0zesie",
+          "src": "/appui-images/yanjan-plus/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1manm2g",
+          "src": "/appui-images/yanjan-plus/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "howtz6k",
+          "src": "/appui-images/yanjan-plus/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tpwlhfn",
+          "src": "/appui-images/yanjan-plus/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hhskkjr",
+          "src": "/appui-images/yanjan-plus/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3s376la",
+          "src": "/appui-images/yanjan-plus/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6im3vs8",
+          "src": "/appui-images/yanjan-plus/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bu9ijq0",
+      "title": "その他",
+      "images": [
+        {
+          "id": "p9aa7ob",
+          "src": "/appui-images/yanjan-plus/IMG_4583.webp",
+          "filename": "IMG_4583.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "axp1ne2",
+      "title": "ホーム・おすすめ",
+      "images": [
+        {
+          "id": "ycbtatp",
+          "src": "/appui-images/yanjan-plus/IMG_4584.webp",
+          "filename": "IMG_4584.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tx7ivh9",
+          "src": "/appui-images/yanjan-plus/IMG_4587.webp",
+          "filename": "IMG_4587.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bz4q7y7",
+          "src": "/appui-images/yanjan-plus/IMG_4588.webp",
+          "filename": "IMG_4588.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5n4d5hp",
+          "src": "/appui-images/yanjan-plus/IMG_4589.webp",
+          "filename": "IMG_4589.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4bf1dgs",
+          "src": "/appui-images/yanjan-plus/IMG_4590.webp",
+          "filename": "IMG_4590.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4eqbjd3",
+          "src": "/appui-images/yanjan-plus/IMG_4591.webp",
+          "filename": "IMG_4591.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6d48u3p",
+          "src": "/appui-images/yanjan-plus/IMG_4592.webp",
+          "filename": "IMG_4592.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9cltq3e",
+          "src": "/appui-images/yanjan-plus/IMG_4593.webp",
+          "filename": "IMG_4593.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h6y7w96",
+          "src": "/appui-images/yanjan-plus/IMG_4594.webp",
+          "filename": "IMG_4594.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j4pawja",
+          "src": "/appui-images/yanjan-plus/IMG_4595.webp",
+          "filename": "IMG_4595.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "26pl97d",
+          "src": "/appui-images/yanjan-plus/IMG_4598.webp",
+          "filename": "IMG_4598.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pskip20",
+          "src": "/appui-images/yanjan-plus/IMG_4601.webp",
+          "filename": "IMG_4601.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ldya3kh",
+          "src": "/appui-images/yanjan-plus/IMG_4603.webp",
+          "filename": "IMG_4603.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "megha5v",
+          "src": "/appui-images/yanjan-plus/IMG_4605.webp",
+          "filename": "IMG_4605.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z40nqpz",
+          "src": "/appui-images/yanjan-plus/IMG_4606.webp",
+          "filename": "IMG_4606.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4zhjfpm",
+          "src": "/appui-images/yanjan-plus/IMG_4608.webp",
+          "filename": "IMG_4608.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jr1dy6h",
+          "src": "/appui-images/yanjan-plus/IMG_4609.webp",
+          "filename": "IMG_4609.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d7z87f1",
+          "src": "/appui-images/yanjan-plus/IMG_4612.webp",
+          "filename": "IMG_4612.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d0o51op",
+          "src": "/appui-images/yanjan-plus/IMG_4613.webp",
+          "filename": "IMG_4613.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qdmh4xc",
+          "src": "/appui-images/yanjan-plus/IMG_4614.webp",
+          "filename": "IMG_4614.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5lpt8p6",
+          "src": "/appui-images/yanjan-plus/IMG_4615.webp",
+          "filename": "IMG_4615.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ip07wu1",
+          "src": "/appui-images/yanjan-plus/IMG_4617.webp",
+          "filename": "IMG_4617.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "doo4jrk",
+          "src": "/appui-images/yanjan-plus/IMG_4618.webp",
+          "filename": "IMG_4618.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w1iuiuw",
+          "src": "/appui-images/yanjan-plus/IMG_4620.webp",
+          "filename": "IMG_4620.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hxao9ms",
+          "src": "/appui-images/yanjan-plus/IMG_4621.webp",
+          "filename": "IMG_4621.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pxbeimp",
+          "src": "/appui-images/yanjan-plus/IMG_4625.webp",
+          "filename": "IMG_4625.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uby61hd",
+          "src": "/appui-images/yanjan-plus/IMG_4627.webp",
+          "filename": "IMG_4627.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ewxj88m",
+          "src": "/appui-images/yanjan-plus/IMG_4630.webp",
+          "filename": "IMG_4630.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0hj14pb",
+          "src": "/appui-images/yanjan-plus/IMG_4636.webp",
+          "filename": "IMG_4636.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m96cwir",
+          "src": "/appui-images/yanjan-plus/IMG_4637.webp",
+          "filename": "IMG_4637.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8bel6fn",
+          "src": "/appui-images/yanjan-plus/IMG_4638.webp",
+          "filename": "IMG_4638.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wrwzpzj",
+          "src": "/appui-images/yanjan-plus/IMG_4639.webp",
+          "filename": "IMG_4639.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2rni2q8",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "mvv2a50",
+          "src": "/appui-images/yanjan-plus/IMG_4585.webp",
+          "filename": "IMG_4585.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8nqzpvr",
+          "src": "/appui-images/yanjan-plus/IMG_4596.webp",
+          "filename": "IMG_4596.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x0kcwsh",
+          "src": "/appui-images/yanjan-plus/IMG_4597.webp",
+          "filename": "IMG_4597.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nf3m4v2",
+          "src": "/appui-images/yanjan-plus/IMG_4599.webp",
+          "filename": "IMG_4599.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "53lgmnl",
+          "src": "/appui-images/yanjan-plus/IMG_4602.webp",
+          "filename": "IMG_4602.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1snbc5y",
+          "src": "/appui-images/yanjan-plus/IMG_4626.webp",
+          "filename": "IMG_4626.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hb4g2jj",
+      "title": "作品・閲覧",
+      "images": [
+        {
+          "id": "dxh5msj",
+          "src": "/appui-images/yanjan-plus/IMG_4600.webp",
+          "filename": "IMG_4600.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qhvzb0l",
+          "src": "/appui-images/yanjan-plus/IMG_4610.webp",
+          "filename": "IMG_4610.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kfjqfni",
+          "src": "/appui-images/yanjan-plus/IMG_4611.webp",
+          "filename": "IMG_4611.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6exfgdn",
+          "src": "/appui-images/yanjan-plus/IMG_4616.webp",
+          "filename": "IMG_4616.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "titov6g",
+          "src": "/appui-images/yanjan-plus/IMG_4619.webp",
+          "filename": "IMG_4619.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7bwvue7",
+          "src": "/appui-images/yanjan-plus/IMG_4631.webp",
+          "filename": "IMG_4631.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fgebgeb",
+          "src": "/appui-images/yanjan-plus/IMG_4632.webp",
+          "filename": "IMG_4632.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "byeplub",
+          "src": "/appui-images/yanjan-plus/IMG_4633.webp",
+          "filename": "IMG_4633.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f8xyjo7",
+          "src": "/appui-images/yanjan-plus/IMG_4634.webp",
+          "filename": "IMG_4634.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g94y608",
+          "src": "/appui-images/yanjan-plus/IMG_4635.webp",
+          "filename": "IMG_4635.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xq2c6d8",
+      "title": "本棚・マイページ",
+      "images": [
+        {
+          "id": "2g9mk80",
+          "src": "/appui-images/yanjan-plus/IMG_4604.webp",
+          "filename": "IMG_4604.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9dzum6c",
+          "src": "/appui-images/yanjan-plus/IMG_4622.webp",
+          "filename": "IMG_4622.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eo1fie1",
+          "src": "/appui-images/yanjan-plus/IMG_4623.webp",
+          "filename": "IMG_4623.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k4wy47s",
+          "src": "/appui-images/yanjan-plus/IMG_4624.webp",
+          "filename": "IMG_4624.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6utuqft",
+          "src": "/appui-images/yanjan-plus/IMG_4628.webp",
+          "filename": "IMG_4628.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3a6rne6",
+          "src": "/appui-images/yanjan-plus/IMG_4629.webp",
+          "filename": "IMG_4629.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q3s82sv",
+      "title": "検索",
+      "images": [
+        {
+          "id": "e0nna1m",
+          "src": "/appui-images/yanjan-plus/IMG_4607.webp",
+          "filename": "IMG_4607.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "yanjan-plus"
+}

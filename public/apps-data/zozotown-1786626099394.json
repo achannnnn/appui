@@ -1,0 +1,1068 @@
+{
+  "id": "zozotown-1786626099394",
+  "name": "ZOZOTOWN",
+  "description": "ファッション通販「ZOZOTOWN」。ブランド横断の検索とコーディネートが特徴。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/b5/6f/31b56f56-014a-a7de-ecb9-8faa6035d598/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id404529222",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "lt1l0gr",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "kd2bf6u",
+          "src": "/appui-images/zozotown/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n9vf2tv",
+          "src": "/appui-images/zozotown/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3kzm6jr",
+          "src": "/appui-images/zozotown/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l2rxyg1",
+          "src": "/appui-images/zozotown/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "czaem28",
+          "src": "/appui-images/zozotown/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "aqw2u12",
+          "src": "/appui-images/zozotown/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u4viy5h",
+          "src": "/appui-images/zozotown/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "unuvzo0",
+          "src": "/appui-images/zozotown/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fuur75w",
+      "title": "起動",
+      "images": [
+        {
+          "id": "ln2wppx",
+          "src": "/appui-images/zozotown/IMG_0847.webp",
+          "filename": "IMG_0847.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ax77rsn",
+      "title": "新規会員登録",
+      "images": [
+        {
+          "id": "ephgnz5",
+          "src": "/appui-images/zozotown/IMG_0848.webp",
+          "filename": "IMG_0848.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "2h333gf",
+          "src": "/appui-images/zozotown/IMG_0849.webp",
+          "filename": "IMG_0849.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "6nuoqh0",
+          "src": "/appui-images/zozotown/IMG_0850.webp",
+          "filename": "IMG_0850.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vum42jz",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "wrylmkw",
+          "src": "/appui-images/zozotown/IMG_0851.webp",
+          "filename": "IMG_0851.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "リスト"
+          ]
+        },
+        {
+          "id": "k7tmfvi",
+          "src": "/appui-images/zozotown/IMG_0852.webp",
+          "filename": "IMG_0852.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "リスト"
+          ]
+        },
+        {
+          "id": "47rheoc",
+          "src": "/appui-images/zozotown/IMG_0853.webp",
+          "filename": "IMG_0853.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "リスト"
+          ]
+        },
+        {
+          "id": "oalxkzp",
+          "src": "/appui-images/zozotown/IMG_0854.webp",
+          "filename": "IMG_0854.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uhqwsfy",
+      "title": "商品一覧",
+      "images": [
+        {
+          "id": "8pmbgji",
+          "src": "/appui-images/zozotown/IMG_0855.webp",
+          "filename": "IMG_0855.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フィルター",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "a37dd7a",
+          "src": "/appui-images/zozotown/IMG_0856.webp",
+          "filename": "IMG_0856.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フィルター",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7qtz1jh",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "8jd4brj",
+          "src": "/appui-images/zozotown/IMG_0857.webp",
+          "filename": "IMG_0857.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "ineqpkr",
+          "src": "/appui-images/zozotown/IMG_0858.webp",
+          "filename": "IMG_0858.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "3je1v1j",
+          "src": "/appui-images/zozotown/IMG_0859.webp",
+          "filename": "IMG_0859.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "c7q2bsp",
+          "src": "/appui-images/zozotown/IMG_0860.webp",
+          "filename": "IMG_0860.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tx2kvif",
+      "title": "カート",
+      "images": [
+        {
+          "id": "ccvs8o6",
+          "src": "/appui-images/zozotown/IMG_0861.webp",
+          "filename": "IMG_0861.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "icx2w0j",
+          "src": "/appui-images/zozotown/IMG_0862.webp",
+          "filename": "IMG_0862.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsj8d0a",
+      "title": "購入手続き",
+      "images": [
+        {
+          "id": "d9hoyq2",
+          "src": "/appui-images/zozotown/IMG_0863.webp",
+          "filename": "IMG_0863.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h94kyn3",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "zijqjqv",
+          "src": "/appui-images/zozotown/IMG_0864.webp",
+          "filename": "IMG_0864.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "カード",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7rgms39",
+          "src": "/appui-images/zozotown/IMG_0865.webp",
+          "filename": "IMG_0865.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "カード",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yy50m7u",
+          "src": "/appui-images/zozotown/IMG_0882.webp",
+          "filename": "IMG_0882.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "カード",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "48381ku",
+          "src": "/appui-images/zozotown/IMG_0883.webp",
+          "filename": "IMG_0883.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "カード",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vaxi6x8",
+      "title": "サイズガイド",
+      "images": [
+        {
+          "id": "w3g14t2",
+          "src": "/appui-images/zozotown/IMG_0866.webp",
+          "filename": "IMG_0866.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "582jc25",
+          "src": "/appui-images/zozotown/IMG_0867.webp",
+          "filename": "IMG_0867.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ngo7rcy",
+          "src": "/appui-images/zozotown/IMG_0868.webp",
+          "filename": "IMG_0868.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2k1wbpo",
+      "title": "キャンペーン",
+      "images": [
+        {
+          "id": "hbjl5ck",
+          "src": "/appui-images/zozotown/IMG_0869.webp",
+          "filename": "IMG_0869.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dedsbas",
+      "title": "年齢認証",
+      "images": [
+        {
+          "id": "4cg33zf",
+          "src": "/appui-images/zozotown/IMG_0870.webp",
+          "filename": "IMG_0870.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "it8a03o",
+          "src": "/appui-images/zozotown/IMG_0871.webp",
+          "filename": "IMG_0871.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d77kin8",
+      "title": "ツケ払い",
+      "images": [
+        {
+          "id": "gs69hbt",
+          "src": "/appui-images/zozotown/IMG_0872.webp",
+          "filename": "IMG_0872.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "zabefq5",
+          "src": "/appui-images/zozotown/IMG_0873.webp",
+          "filename": "IMG_0873.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vpyr2q2",
+          "src": "/appui-images/zozotown/IMG_0874.webp",
+          "filename": "IMG_0874.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zuzuw63",
+      "title": "ZOZOCARD",
+      "images": [
+        {
+          "id": "7ju3i07",
+          "src": "/appui-images/zozotown/IMG_0875.webp",
+          "filename": "IMG_0875.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "o5eey93",
+          "src": "/appui-images/zozotown/IMG_0876.webp",
+          "filename": "IMG_0876.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "mke8bhb",
+          "src": "/appui-images/zozotown/IMG_0877.webp",
+          "filename": "IMG_0877.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "yodsdam",
+          "src": "/appui-images/zozotown/IMG_0878.webp",
+          "filename": "IMG_0878.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "94p3t5g",
+          "src": "/appui-images/zozotown/IMG_0879.webp",
+          "filename": "IMG_0879.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "dldzhyv",
+          "src": "/appui-images/zozotown/IMG_0880.webp",
+          "filename": "IMG_0880.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "ysuy2t0",
+          "src": "/appui-images/zozotown/IMG_0881.webp",
+          "filename": "IMG_0881.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7evf9h4",
+      "title": "探す",
+      "images": [
+        {
+          "id": "0bq0h8w",
+          "src": "/appui-images/zozotown/IMG_0884.webp",
+          "filename": "IMG_0884.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fwb4wz1",
+      "title": "カテゴリ",
+      "images": [
+        {
+          "id": "yxmlunu",
+          "src": "/appui-images/zozotown/IMG_0885.webp",
+          "filename": "IMG_0885.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0w1kxq1",
+      "title": "ブランド",
+      "images": [
+        {
+          "id": "55myequ",
+          "src": "/appui-images/zozotown/IMG_0886.webp",
+          "filename": "IMG_0886.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "検索",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "l3skix4",
+          "src": "/appui-images/zozotown/IMG_0887.webp",
+          "filename": "IMG_0887.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "検索",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "9897l3o",
+          "src": "/appui-images/zozotown/IMG_0888.webp",
+          "filename": "IMG_0888.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "検索",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d2jk6b",
+      "title": "お気に入りショップ",
+      "images": [
+        {
+          "id": "b45rzd3",
+          "src": "/appui-images/zozotown/IMG_0889.webp",
+          "filename": "IMG_0889.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "5gr55f3",
+          "src": "/appui-images/zozotown/IMG_0890.webp",
+          "filename": "IMG_0890.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "mmstjpl",
+          "src": "/appui-images/zozotown/IMG_0891.webp",
+          "filename": "IMG_0891.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "f8b8mdm",
+          "src": "/appui-images/zozotown/IMG_0892.webp",
+          "filename": "IMG_0892.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "17vgbkg",
+          "src": "/appui-images/zozotown/IMG_0893.webp",
+          "filename": "IMG_0893.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "hcumlji",
+          "src": "/appui-images/zozotown/IMG_0894.webp",
+          "filename": "IMG_0894.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f09axw",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "alzl76m",
+          "src": "/appui-images/zozotown/IMG_0895.webp",
+          "filename": "IMG_0895.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        },
+        {
+          "id": "t5jixmr",
+          "src": "/appui-images/zozotown/IMG_0896.webp",
+          "filename": "IMG_0896.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        },
+        {
+          "id": "4v27k5s",
+          "src": "/appui-images/zozotown/IMG_0897.webp",
+          "filename": "IMG_0897.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        },
+        {
+          "id": "zqd0jys",
+          "src": "/appui-images/zozotown/IMG_0898.webp",
+          "filename": "IMG_0898.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pqlfmxw",
+      "title": "設定",
+      "images": [
+        {
+          "id": "6en0t81",
+          "src": "/appui-images/zozotown/IMG_0899.webp",
+          "filename": "IMG_0899.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "qwgsbca",
+          "src": "/appui-images/zozotown/IMG_0900.webp",
+          "filename": "IMG_0900.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "rts9497",
+          "src": "/appui-images/zozotown/IMG_0901.webp",
+          "filename": "IMG_0901.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "itwfuti",
+          "src": "/appui-images/zozotown/IMG_0902.webp",
+          "filename": "IMG_0902.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "fc8d4jw",
+          "src": "/appui-images/zozotown/IMG_0903.webp",
+          "filename": "IMG_0903.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "avi89nn",
+          "src": "/appui-images/zozotown/IMG_0904.webp",
+          "filename": "IMG_0904.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "2scwbsb",
+          "src": "/appui-images/zozotown/IMG_0905.webp",
+          "filename": "IMG_0905.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "3ile5ox",
+          "src": "/appui-images/zozotown/IMG_0906.webp",
+          "filename": "IMG_0906.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "xl8kxp6",
+          "src": "/appui-images/zozotown/IMG_0907.webp",
+          "filename": "IMG_0907.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "kh8zjv7",
+          "src": "/appui-images/zozotown/IMG_0908.webp",
+          "filename": "IMG_0908.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i5grqf9",
+      "title": "退会手続き",
+      "images": [
+        {
+          "id": "bgu4t07",
+          "src": "/appui-images/zozotown/IMG_0909.webp",
+          "filename": "IMG_0909.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yx5omph",
+          "src": "/appui-images/zozotown/IMG_0910.webp",
+          "filename": "IMG_0910.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "zozotown"
+}

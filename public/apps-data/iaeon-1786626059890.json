@@ -1,0 +1,117 @@
+{
+  "id": "iaeon-1786626059890",
+  "name": "iAEON",
+  "description": "イオンの公式アプリ「iAEON」。イオンペイとWAON POINTが使える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/98/0a/2f980a26-4a55-a13f-58e3-30ea3d5982fa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1565489157",
+  "categories": [
+    "金融"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "pk0enne",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "7ala1ix",
+          "src": "/appui-images/iaeon/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3kpesv5",
+          "src": "/appui-images/iaeon/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xl6syp0",
+          "src": "/appui-images/iaeon/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "escyrtk",
+          "src": "/appui-images/iaeon/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "blrm7km",
+          "src": "/appui-images/iaeon/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a7splpc",
+          "src": "/appui-images/iaeon/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v97n2uy",
+          "src": "/appui-images/iaeon/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "iaeon"
+}

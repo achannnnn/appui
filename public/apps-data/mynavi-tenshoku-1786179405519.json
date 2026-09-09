@@ -1,0 +1,1040 @@
+{
+  "id": "mynavi-tenshoku-1786179405519",
+  "name": "マイナビ転職",
+  "description": "毎月の新着求人約20,000件。転職サイト「マイナビ転職」の公式アプリ。未経験歓迎求人が多く、新しい仕事に出会えるチャンスが多いのが特長。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c8/dd/94c8ddca-c350-6c1c-4df7-6abd5f3ae5a2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1155432341",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "dffi26h",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "1122096",
+          "src": "/appui-images/mynavi-tenshoku/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pnqbtwe",
+          "src": "/appui-images/mynavi-tenshoku/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rsj3smj",
+          "src": "/appui-images/mynavi-tenshoku/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8rpl56k",
+          "src": "/appui-images/mynavi-tenshoku/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xhgho3j",
+          "src": "/appui-images/mynavi-tenshoku/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vf1zwog",
+          "src": "/appui-images/mynavi-tenshoku/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ftz9ubn",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "xfwqehl",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9222.webp",
+          "filename": "IMG_9222.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1mkvern",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9223.webp",
+          "filename": "IMG_9223.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "qsej5xy",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9224.webp",
+          "filename": "IMG_9224.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "thgugf6",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9256.webp",
+          "filename": "IMG_9256.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "tzrl9r8",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9257.webp",
+          "filename": "IMG_9257.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7ww8vya",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9258.webp",
+          "filename": "IMG_9258.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hf8ysa8",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9266.webp",
+          "filename": "IMG_9266.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "eaa8dgc",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9269.webp",
+          "filename": "IMG_9269.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4ah0ei",
+      "title": "会員登録・ログイン",
+      "images": [
+        {
+          "id": "e7d4d32",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9225.webp",
+          "filename": "IMG_9225.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "it5zy2l",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9226.webp",
+          "filename": "IMG_9226.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "uvzra0z",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9227.webp",
+          "filename": "IMG_9227.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ijob4sa",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9228.webp",
+          "filename": "IMG_9228.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deglp7e",
+      "title": "プロフィール登録",
+      "images": [
+        {
+          "id": "nkikm8g",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9229.webp",
+          "filename": "IMG_9229.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "vx8ggmc",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9230.webp",
+          "filename": "IMG_9230.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "sa0uzgm",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9231.webp",
+          "filename": "IMG_9231.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "f7kyo68",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9232.webp",
+          "filename": "IMG_9232.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "fi4ysyw",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9233.webp",
+          "filename": "IMG_9233.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "di72t9r",
+      "title": "仕事経験",
+      "images": [
+        {
+          "id": "dn8hikv",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9234.webp",
+          "filename": "IMG_9234.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "bb90kq0",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9235.webp",
+          "filename": "IMG_9235.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "h00vvd4",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9236.webp",
+          "filename": "IMG_9236.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "awvmre2",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9237.webp",
+          "filename": "IMG_9237.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "hpfht1n",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9238.webp",
+          "filename": "IMG_9238.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "qkx59o9",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9239.webp",
+          "filename": "IMG_9239.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7eo47ve",
+      "title": "希望条件",
+      "images": [
+        {
+          "id": "zc7v9n7",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9240.webp",
+          "filename": "IMG_9240.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "53njlnk",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9241.webp",
+          "filename": "IMG_9241.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1dvqoiz",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9242.webp",
+          "filename": "IMG_9242.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5zu71xn",
+      "title": "その他プロフィール",
+      "images": [
+        {
+          "id": "04tuwnw",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9243.webp",
+          "filename": "IMG_9243.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "gvqdedu",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9244.webp",
+          "filename": "IMG_9244.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "k69r7cs",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9245.webp",
+          "filename": "IMG_9245.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "v6nu26b",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9246.webp",
+          "filename": "IMG_9246.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "mp885n0",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9247.webp",
+          "filename": "IMG_9247.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "i0mg3x3",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9248.webp",
+          "filename": "IMG_9248.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "e6ezjlk",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9249.webp",
+          "filename": "IMG_9249.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "4rywxdr",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9250.webp",
+          "filename": "IMG_9250.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "7m0o13l",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9251.webp",
+          "filename": "IMG_9251.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "phbl03a",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9252.webp",
+          "filename": "IMG_9252.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "mic84ge",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9253.webp",
+          "filename": "IMG_9253.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "kbs4kin",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9254.webp",
+          "filename": "IMG_9254.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "hpbogem",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9255.webp",
+          "filename": "IMG_9255.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1dn36ik",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "5326ob2",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9259.webp",
+          "filename": "IMG_9259.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "5wu9qs9",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9260.webp",
+          "filename": "IMG_9260.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vosxqd7",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9261.webp",
+          "filename": "IMG_9261.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "sj2ppfq",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9262.webp",
+          "filename": "IMG_9262.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "p0k5al9",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9263.webp",
+          "filename": "IMG_9263.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "geo2lxt",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9264.webp",
+          "filename": "IMG_9264.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "x514ivi",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9265.webp",
+          "filename": "IMG_9265.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yusn1vo",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9267.webp",
+          "filename": "IMG_9267.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "989jjys",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9268.webp",
+          "filename": "IMG_9268.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4kom1gt",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9270.webp",
+          "filename": "IMG_9270.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "6xr34sf",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9271.webp",
+          "filename": "IMG_9271.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hbs4qdy",
+      "title": "求人検索",
+      "images": [
+        {
+          "id": "ww2trj9",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9272.webp",
+          "filename": "IMG_9272.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "9zmo0et",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9273.webp",
+          "filename": "IMG_9273.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "o8o2lu4",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9274.webp",
+          "filename": "IMG_9274.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "uszxahu",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9275.webp",
+          "filename": "IMG_9275.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "pbkltnv",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9276.webp",
+          "filename": "IMG_9276.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "e3ueqmv",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9277.webp",
+          "filename": "IMG_9277.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4dj8tv",
+      "title": "お役立ち",
+      "images": [
+        {
+          "id": "00594rw",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9278.webp",
+          "filename": "IMG_9278.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "zupdo7v",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9279.webp",
+          "filename": "IMG_9279.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "85mby5h",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9280.webp",
+          "filename": "IMG_9280.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ymy0j70",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9281.webp",
+          "filename": "IMG_9281.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1yz7p9y",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9282.webp",
+          "filename": "IMG_9282.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u2cg9u4",
+      "title": "スカウト",
+      "images": [
+        {
+          "id": "6t76vrt",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9283.webp",
+          "filename": "IMG_9283.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "カード",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "7ca1lal",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9284.webp",
+          "filename": "IMG_9284.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "カード",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "0e1tjk3",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9285.webp",
+          "filename": "IMG_9285.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "カード",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qek4fcc",
+      "title": "応募・メッセージ管理",
+      "images": [
+        {
+          "id": "qfqrobq",
+          "src": "/appui-images/mynavi-tenshoku/IMG_9286.webp",
+          "filename": "IMG_9286.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "マイナビ転職"
+}

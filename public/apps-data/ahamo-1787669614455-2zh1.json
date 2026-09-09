@@ -1,0 +1,541 @@
+{
+  "id": "ahamo-1787669614455-2zh1",
+  "name": "ahamo",
+  "description": "ahamoアプリなら・・・ ◆都度ログインいらずで気になる利用料金・データ通信量が一目でわかる！ ◆わからない手続きはチャットで相談できる！ ◆「ahaクエスト」への参加でちょっとうれしい特典がもらえる！ ----------------",
+  "iconUrl": "/appui-images/ahamo/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/ahamo-%E3%82%A2%E3%83%8F%E3%83%A2/id1542920778?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "ダッシュボード",
+    "フォーム",
+    "モーダル・ボトムシート"
+  ],
+  "sections": [
+    {
+      "id": "v5zbx1h",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "bgkb1fo",
+          "src": "/appui-images/ahamo/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "sh301r1",
+          "src": "/appui-images/ahamo/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "e4agdr5",
+          "src": "/appui-images/ahamo/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "tvzzwyd",
+          "src": "/appui-images/ahamo/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "5guhnjl",
+          "src": "/appui-images/ahamo/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ap9ki3l",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "mznsz1i",
+          "src": "/appui-images/ahamo/IMG_2028.webp",
+          "filename": "IMG_2028.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "5i6w23r",
+          "src": "/appui-images/ahamo/IMG_2029.webp",
+          "filename": "IMG_2029.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "pn01te4",
+          "src": "/appui-images/ahamo/IMG_2030.webp",
+          "filename": "IMG_2030.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "y7ub3f2",
+          "src": "/appui-images/ahamo/IMG_2031.webp",
+          "filename": "IMG_2031.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "qwpse8x",
+          "src": "/appui-images/ahamo/IMG_2032.webp",
+          "filename": "IMG_2032.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "lv4i4qb",
+          "src": "/appui-images/ahamo/IMG_2033.webp",
+          "filename": "IMG_2033.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8nkunwu",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "fsyifi5",
+          "src": "/appui-images/ahamo/IMG_2034.webp",
+          "filename": "IMG_2034.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06y27og",
+      "title": "クエスト",
+      "images": [
+        {
+          "id": "ql4ntmf",
+          "src": "/appui-images/ahamo/IMG_2035.webp",
+          "filename": "IMG_2035.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "kapvjop",
+          "src": "/appui-images/ahamo/IMG_2036.webp",
+          "filename": "IMG_2036.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "haopgsz",
+          "src": "/appui-images/ahamo/IMG_2037.webp",
+          "filename": "IMG_2037.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ska4hsj",
+          "src": "/appui-images/ahamo/IMG_2038.webp",
+          "filename": "IMG_2038.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "16pr6lk",
+          "src": "/appui-images/ahamo/IMG_2039.webp",
+          "filename": "IMG_2039.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1la8ov9",
+          "src": "/appui-images/ahamo/IMG_2040.webp",
+          "filename": "IMG_2040.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qfm1qre",
+      "title": "利用料金",
+      "images": [
+        {
+          "id": "qz7bnbg",
+          "src": "/appui-images/ahamo/IMG_2041.webp",
+          "filename": "IMG_2041.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "kd3c3jv",
+          "src": "/appui-images/ahamo/IMG_2042.webp",
+          "filename": "IMG_2042.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "qd9ihdh",
+          "src": "/appui-images/ahamo/IMG_2043.webp",
+          "filename": "IMG_2043.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "thr2zmg",
+          "src": "/appui-images/ahamo/IMG_2044.webp",
+          "filename": "IMG_2044.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5gppn5",
+      "title": "コレクション・レポート",
+      "images": [
+        {
+          "id": "a0nalh0",
+          "src": "/appui-images/ahamo/IMG_2045.webp",
+          "filename": "IMG_2045.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9iug38f",
+          "src": "/appui-images/ahamo/IMG_2046.webp",
+          "filename": "IMG_2046.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "cremef9",
+          "src": "/appui-images/ahamo/IMG_2047.webp",
+          "filename": "IMG_2047.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "m89yw5d",
+          "src": "/appui-images/ahamo/IMG_2048.webp",
+          "filename": "IMG_2048.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "v8q4v4i",
+          "src": "/appui-images/ahamo/IMG_2049.webp",
+          "filename": "IMG_2049.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ytclef4",
+      "title": "データ追加",
+      "images": [
+        {
+          "id": "2tde85s",
+          "src": "/appui-images/ahamo/IMG_2050.webp",
+          "filename": "IMG_2050.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vuutzrn",
+          "src": "/appui-images/ahamo/IMG_2051.webp",
+          "filename": "IMG_2051.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0cxevyy",
+          "src": "/appui-images/ahamo/IMG_2052.webp",
+          "filename": "IMG_2052.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uyxerop",
+      "title": "ストア",
+      "images": [
+        {
+          "id": "p5l0svx",
+          "src": "/appui-images/ahamo/IMG_2054.webp",
+          "filename": "IMG_2054.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9lcrxp",
+      "title": "アカウント",
+      "images": [
+        {
+          "id": "ehrbw53",
+          "src": "/appui-images/ahamo/IMG_2055.webp",
+          "filename": "IMG_2055.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "bvx5wev",
+          "src": "/appui-images/ahamo/IMG_2056.webp",
+          "filename": "IMG_2056.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "pax0m3i",
+          "src": "/appui-images/ahamo/IMG_2057.webp",
+          "filename": "IMG_2057.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "09xzwzc",
+          "src": "/appui-images/ahamo/IMG_2059.webp",
+          "filename": "IMG_2059.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "herdplz",
+          "src": "/appui-images/ahamo/IMG_2060.webp",
+          "filename": "IMG_2060.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "esbfpvk",
+          "src": "/appui-images/ahamo/IMG_2061.webp",
+          "filename": "IMG_2061.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "ojws6n4",
+          "src": "/appui-images/ahamo/IMG_2062.webp",
+          "filename": "IMG_2062.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "qeiyb47",
+          "src": "/appui-images/ahamo/IMG_2064.webp",
+          "filename": "IMG_2064.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "0m3yxkk",
+          "src": "/appui-images/ahamo/IMG_2065.webp",
+          "filename": "IMG_2065.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "2x996vp",
+          "src": "/appui-images/ahamo/IMG_2066.webp",
+          "filename": "IMG_2066.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b95kod4",
+      "title": "サポート",
+      "images": [
+        {
+          "id": "ixqmvc1",
+          "src": "/appui-images/ahamo/IMG_2063.webp",
+          "filename": "IMG_2063.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ahamo"
+}

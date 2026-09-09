@@ -1,0 +1,1107 @@
+{
+  "id": "weathernews-1788875165119-d14q",
+  "name": "weathernews",
+  "description": "＼天気アプリの決定版「ウェザーニュース」の機能／ 1：累計5000万ダウンロード突破！予報精度NO.1＊、人気の総合天気アプリ 2：気象のプロフェッショナルが24時間体制で情報配信 3：基本「無料」で利用できます 4：＜ピンポイント天気＞1…",
+  "iconUrl": "/appui-images/weathernews/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%A6%E3%82%A7%E3%82%B6%E3%83%BC%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E5%A4%A9%E6%B0%97-%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC-%E6%B0%97%E8%B1%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id302955766?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "地図",
+    "グラフ"
+  ],
+  "sections": [
+    {
+      "id": "k4ii5rg",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "cw35w0n",
+          "src": "/appui-images/weathernews/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "x2yhaw2",
+          "src": "/appui-images/weathernews/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "4eh01zl",
+          "src": "/appui-images/weathernews/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xohedyp",
+          "src": "/appui-images/weathernews/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "3t773b5",
+          "src": "/appui-images/weathernews/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2a6o0xf",
+          "src": "/appui-images/weathernews/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "er9ppxt",
+          "src": "/appui-images/weathernews/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "94lqgtf",
+          "src": "/appui-images/weathernews/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ag7ka4u",
+      "title": "ホーム・天気",
+      "images": [
+        {
+          "id": "ct6gn9c",
+          "src": "/appui-images/weathernews/IMG_4690.webp",
+          "filename": "IMG_4690.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "y6rsbpl",
+          "src": "/appui-images/weathernews/IMG_4691.webp",
+          "filename": "IMG_4691.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "l1a9ssp",
+          "src": "/appui-images/weathernews/IMG_4692.webp",
+          "filename": "IMG_4692.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ecji47b",
+          "src": "/appui-images/weathernews/IMG_4695.webp",
+          "filename": "IMG_4695.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ea2k1av",
+          "src": "/appui-images/weathernews/IMG_4696.webp",
+          "filename": "IMG_4696.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "yeithif",
+          "src": "/appui-images/weathernews/IMG_4697.webp",
+          "filename": "IMG_4697.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ljs5a6b",
+          "src": "/appui-images/weathernews/IMG_4698.webp",
+          "filename": "IMG_4698.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "03jm8q6",
+          "src": "/appui-images/weathernews/IMG_4699.webp",
+          "filename": "IMG_4699.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "yf3a9jq",
+          "src": "/appui-images/weathernews/IMG_4700.webp",
+          "filename": "IMG_4700.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "rvc32jj",
+          "src": "/appui-images/weathernews/IMG_4701.webp",
+          "filename": "IMG_4701.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "n6x732i",
+          "src": "/appui-images/weathernews/IMG_4702.webp",
+          "filename": "IMG_4702.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "mgpta6x",
+          "src": "/appui-images/weathernews/IMG_4703.webp",
+          "filename": "IMG_4703.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5mefdea",
+          "src": "/appui-images/weathernews/IMG_4704.webp",
+          "filename": "IMG_4704.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a1acd5w",
+          "src": "/appui-images/weathernews/IMG_4705.webp",
+          "filename": "IMG_4705.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "d5hh3ew",
+          "src": "/appui-images/weathernews/IMG_4706.webp",
+          "filename": "IMG_4706.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "k8fpwqt",
+          "src": "/appui-images/weathernews/IMG_4707.webp",
+          "filename": "IMG_4707.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "zql1jqq",
+          "src": "/appui-images/weathernews/IMG_4708.webp",
+          "filename": "IMG_4708.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "g7cadne",
+          "src": "/appui-images/weathernews/IMG_4709.webp",
+          "filename": "IMG_4709.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6swxulc",
+          "src": "/appui-images/weathernews/IMG_4710.webp",
+          "filename": "IMG_4710.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "iodu919",
+          "src": "/appui-images/weathernews/IMG_4711.webp",
+          "filename": "IMG_4711.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xh66zqa",
+          "src": "/appui-images/weathernews/IMG_4712.webp",
+          "filename": "IMG_4712.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lqx690c",
+          "src": "/appui-images/weathernews/IMG_4714.webp",
+          "filename": "IMG_4714.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ulkiwap",
+          "src": "/appui-images/weathernews/IMG_4715.webp",
+          "filename": "IMG_4715.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "juqtewu",
+          "src": "/appui-images/weathernews/IMG_4716.webp",
+          "filename": "IMG_4716.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "uwhtbbp",
+          "src": "/appui-images/weathernews/IMG_4717.webp",
+          "filename": "IMG_4717.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "rer8kuy",
+          "src": "/appui-images/weathernews/IMG_4719.webp",
+          "filename": "IMG_4719.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0s8bwir",
+          "src": "/appui-images/weathernews/IMG_4720.webp",
+          "filename": "IMG_4720.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "vqh1i5w",
+          "src": "/appui-images/weathernews/IMG_4721.webp",
+          "filename": "IMG_4721.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "fl4ulow",
+          "src": "/appui-images/weathernews/IMG_4722.webp",
+          "filename": "IMG_4722.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "rhazexz",
+          "src": "/appui-images/weathernews/IMG_4723.webp",
+          "filename": "IMG_4723.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "r5136s6",
+          "src": "/appui-images/weathernews/IMG_4724.webp",
+          "filename": "IMG_4724.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "w0q3mkj",
+          "src": "/appui-images/weathernews/IMG_4725.webp",
+          "filename": "IMG_4725.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2ovbmb3",
+          "src": "/appui-images/weathernews/IMG_4726.webp",
+          "filename": "IMG_4726.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "tyz2pzt",
+          "src": "/appui-images/weathernews/IMG_4730.webp",
+          "filename": "IMG_4730.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "08i7z3y",
+          "src": "/appui-images/weathernews/IMG_4731.webp",
+          "filename": "IMG_4731.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "e56ij50",
+          "src": "/appui-images/weathernews/IMG_4732.webp",
+          "filename": "IMG_4732.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5wvfl0a",
+          "src": "/appui-images/weathernews/IMG_4733.webp",
+          "filename": "IMG_4733.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "04kmh7j",
+          "src": "/appui-images/weathernews/IMG_4734.webp",
+          "filename": "IMG_4734.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "tiedewc",
+          "src": "/appui-images/weathernews/IMG_4735.webp",
+          "filename": "IMG_4735.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ymieafv",
+          "src": "/appui-images/weathernews/IMG_4736.webp",
+          "filename": "IMG_4736.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "g3qe2yd",
+          "src": "/appui-images/weathernews/IMG_4737.webp",
+          "filename": "IMG_4737.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "g78sq01",
+          "src": "/appui-images/weathernews/IMG_4738.webp",
+          "filename": "IMG_4738.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "u420cy4",
+          "src": "/appui-images/weathernews/IMG_4739.webp",
+          "filename": "IMG_4739.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "hvpglgw",
+          "src": "/appui-images/weathernews/IMG_4741.webp",
+          "filename": "IMG_4741.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "87ws9ri",
+          "src": "/appui-images/weathernews/IMG_4742.webp",
+          "filename": "IMG_4742.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7muzliq",
+          "src": "/appui-images/weathernews/IMG_4743.webp",
+          "filename": "IMG_4743.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7d1lfop",
+          "src": "/appui-images/weathernews/IMG_4744.webp",
+          "filename": "IMG_4744.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "i0lmt9w",
+          "src": "/appui-images/weathernews/IMG_4745.webp",
+          "filename": "IMG_4745.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "qwi19qj",
+          "src": "/appui-images/weathernews/IMG_4746.webp",
+          "filename": "IMG_4746.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "d3dl3hw",
+          "src": "/appui-images/weathernews/IMG_4747.webp",
+          "filename": "IMG_4747.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "vysragh",
+          "src": "/appui-images/weathernews/IMG_4748.webp",
+          "filename": "IMG_4748.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a5ehaah",
+          "src": "/appui-images/weathernews/IMG_4749.webp",
+          "filename": "IMG_4749.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "tjm8bvl",
+          "src": "/appui-images/weathernews/IMG_4750.webp",
+          "filename": "IMG_4750.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0i04ych",
+          "src": "/appui-images/weathernews/IMG_4751.webp",
+          "filename": "IMG_4751.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "4yt0lvg",
+          "src": "/appui-images/weathernews/IMG_4752.webp",
+          "filename": "IMG_4752.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0wmpmp1",
+          "src": "/appui-images/weathernews/IMG_4753.webp",
+          "filename": "IMG_4753.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "odstt2t",
+          "src": "/appui-images/weathernews/IMG_4754.webp",
+          "filename": "IMG_4754.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bznr5qa",
+          "src": "/appui-images/weathernews/IMG_4755.webp",
+          "filename": "IMG_4755.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "sn0izuf",
+          "src": "/appui-images/weathernews/IMG_4756.webp",
+          "filename": "IMG_4756.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "432j6sw",
+          "src": "/appui-images/weathernews/IMG_4757.webp",
+          "filename": "IMG_4757.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8qxlz62",
+          "src": "/appui-images/weathernews/IMG_4758.webp",
+          "filename": "IMG_4758.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "02yog79",
+          "src": "/appui-images/weathernews/IMG_4759.webp",
+          "filename": "IMG_4759.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lha7b2l",
+          "src": "/appui-images/weathernews/IMG_4760.webp",
+          "filename": "IMG_4760.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8k4rggp",
+          "src": "/appui-images/weathernews/IMG_4761.webp",
+          "filename": "IMG_4761.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5i3vx63",
+          "src": "/appui-images/weathernews/IMG_4762.webp",
+          "filename": "IMG_4762.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "f71whcx",
+          "src": "/appui-images/weathernews/IMG_4763.webp",
+          "filename": "IMG_4763.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "j5kaelc",
+          "src": "/appui-images/weathernews/IMG_4764.webp",
+          "filename": "IMG_4764.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "i9bgm9a",
+          "src": "/appui-images/weathernews/IMG_4765.webp",
+          "filename": "IMG_4765.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0u8sw75",
+          "src": "/appui-images/weathernews/IMG_4766.webp",
+          "filename": "IMG_4766.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ad2jnjk",
+          "src": "/appui-images/weathernews/IMG_4767.webp",
+          "filename": "IMG_4767.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "q8fk71h",
+          "src": "/appui-images/weathernews/IMG_4769.webp",
+          "filename": "IMG_4769.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d291f5v",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "bj9fv33",
+          "src": "/appui-images/weathernews/IMG_4693.webp",
+          "filename": "IMG_4693.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a172bq1",
+          "src": "/appui-images/weathernews/IMG_4694.webp",
+          "filename": "IMG_4694.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "mk4th91",
+          "src": "/appui-images/weathernews/IMG_4768.webp",
+          "filename": "IMG_4768.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ditav4b",
+      "title": "予報・詳細",
+      "images": [
+        {
+          "id": "n26ddxg",
+          "src": "/appui-images/weathernews/IMG_4713.webp",
+          "filename": "IMG_4713.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lsqe4jr",
+          "src": "/appui-images/weathernews/IMG_4740.webp",
+          "filename": "IMG_4740.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7p1t2zd",
+      "title": "レーダー・地図",
+      "images": [
+        {
+          "id": "8091n2b",
+          "src": "/appui-images/weathernews/IMG_4718.webp",
+          "filename": "IMG_4718.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xvuypdk",
+          "src": "/appui-images/weathernews/IMG_4727.webp",
+          "filename": "IMG_4727.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "k6v5y8s",
+          "src": "/appui-images/weathernews/IMG_4728.webp",
+          "filename": "IMG_4728.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "sztm2qx",
+          "src": "/appui-images/weathernews/IMG_4729.webp",
+          "filename": "IMG_4729.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "weathernews"
+}

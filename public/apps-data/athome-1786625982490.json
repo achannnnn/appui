@@ -1,0 +1,934 @@
+{
+  "id": "athome-1786625982490",
+  "name": "アットホーム",
+  "description": "賃貸・売買の物件検索「アットホーム」。不動産店舗の物件情報をまとめて探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/91/84/68918417-ab0d-ece1-f333-89bd1c9b0501/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id378782961",
+  "categories": [
+    "ナビゲーション"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "カード",
+    "ヘッダー",
+    "リスト",
+    "検索",
+    "フィルター",
+    "タブ・セグメントコントロール",
+    "ボトム ナビゲーション",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "ダッシュボード",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "0wzn9u8",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "npbnfcq",
+          "src": "/appui-images/athome/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "evjlkr8",
+          "src": "/appui-images/athome/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v0w4ezs",
+          "src": "/appui-images/athome/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s8nxzia",
+          "src": "/appui-images/athome/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "386tu8j",
+          "src": "/appui-images/athome/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "am3dmtt",
+          "src": "/appui-images/athome/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c6ysnpm",
+          "src": "/appui-images/athome/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dyig19z",
+          "src": "/appui-images/athome/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ozzqujo",
+          "src": "/appui-images/athome/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "y1l3p6n",
+          "src": "/appui-images/athome/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc265je",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "3on8ft4",
+          "src": "/appui-images/athome/IMG_0355.webp",
+          "filename": "IMG_0355.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "0adgqak",
+          "src": "/appui-images/athome/IMG_0356.webp",
+          "filename": "IMG_0356.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "gx8bdpr",
+          "src": "/appui-images/athome/IMG_0357.webp",
+          "filename": "IMG_0357.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "vtb4h8s",
+          "src": "/appui-images/athome/IMG_0358.webp",
+          "filename": "IMG_0358.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "m3plr0x",
+          "src": "/appui-images/athome/IMG_0359.webp",
+          "filename": "IMG_0359.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "hgutzd4",
+          "src": "/appui-images/athome/IMG_0360.webp",
+          "filename": "IMG_0360.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "oe09tgj",
+          "src": "/appui-images/athome/IMG_0361.webp",
+          "filename": "IMG_0361.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aiifc6w",
+      "title": "エリア・駅選択",
+      "images": [
+        {
+          "id": "n0jxusx",
+          "src": "/appui-images/athome/IMG_0362.webp",
+          "filename": "IMG_0362.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "uuvr8fs",
+          "src": "/appui-images/athome/IMG_0363.webp",
+          "filename": "IMG_0363.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "7zefz8m",
+          "src": "/appui-images/athome/IMG_0364.webp",
+          "filename": "IMG_0364.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "wpjxs9p",
+          "src": "/appui-images/athome/IMG_0368.webp",
+          "filename": "IMG_0368.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ee5kbsw",
+      "title": "探し方",
+      "images": [
+        {
+          "id": "kgi1a7g",
+          "src": "/appui-images/athome/IMG_0367.webp",
+          "filename": "IMG_0367.webp",
+          "components": [
+            "検索",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "b7iwgn0",
+          "src": "/appui-images/athome/IMG_0399.webp",
+          "filename": "IMG_0399.webp",
+          "components": [
+            "検索",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "pq34a3o",
+          "src": "/appui-images/athome/IMG_0400.webp",
+          "filename": "IMG_0400.webp",
+          "components": [
+            "検索",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48gldf7",
+      "title": "条件指定",
+      "images": [
+        {
+          "id": "iz93y1a",
+          "src": "/appui-images/athome/IMG_0366.webp",
+          "filename": "IMG_0366.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pzyekjh",
+          "src": "/appui-images/athome/IMG_0369.webp",
+          "filename": "IMG_0369.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "trohoe0",
+          "src": "/appui-images/athome/IMG_0370.webp",
+          "filename": "IMG_0370.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "587ncgx",
+          "src": "/appui-images/athome/IMG_0371.webp",
+          "filename": "IMG_0371.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "nkt4upe",
+          "src": "/appui-images/athome/IMG_0372.webp",
+          "filename": "IMG_0372.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uipqlcl",
+          "src": "/appui-images/athome/IMG_0373.webp",
+          "filename": "IMG_0373.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n16jyeh",
+      "title": "検索結果",
+      "images": [
+        {
+          "id": "rnkgu0l",
+          "src": "/appui-images/athome/IMG_0365.webp",
+          "filename": "IMG_0365.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "q4fvira",
+          "src": "/appui-images/athome/IMG_0389.webp",
+          "filename": "IMG_0389.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "z777zcs",
+          "src": "/appui-images/athome/IMG_0390.webp",
+          "filename": "IMG_0390.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "brakz4p",
+          "src": "/appui-images/athome/IMG_0391.webp",
+          "filename": "IMG_0391.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v0udtzh",
+      "title": "物件詳細",
+      "images": [
+        {
+          "id": "fyilj1i",
+          "src": "/appui-images/athome/IMG_0375.webp",
+          "filename": "IMG_0375.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "abbob29",
+          "src": "/appui-images/athome/IMG_0376.webp",
+          "filename": "IMG_0376.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xcyjr65",
+          "src": "/appui-images/athome/IMG_0377.webp",
+          "filename": "IMG_0377.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "4grifdc",
+          "src": "/appui-images/athome/IMG_0378.webp",
+          "filename": "IMG_0378.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "obau9tl",
+          "src": "/appui-images/athome/IMG_0382.webp",
+          "filename": "IMG_0382.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "dmb82dp",
+          "src": "/appui-images/athome/IMG_0387.webp",
+          "filename": "IMG_0387.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "q4axwhn",
+          "src": "/appui-images/athome/IMG_0388.webp",
+          "filename": "IMG_0388.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "84bqe6h",
+      "title": "問い合わせ",
+      "images": [
+        {
+          "id": "68wptcq",
+          "src": "/appui-images/athome/IMG_0379.webp",
+          "filename": "IMG_0379.webp",
+          "components": [
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "r3wfqno",
+          "src": "/appui-images/athome/IMG_0380.webp",
+          "filename": "IMG_0380.webp",
+          "components": [
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "f9z5hua",
+          "src": "/appui-images/athome/IMG_0383.webp",
+          "filename": "IMG_0383.webp",
+          "components": [
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "mar2muf",
+          "src": "/appui-images/athome/IMG_0384.webp",
+          "filename": "IMG_0384.webp",
+          "components": [
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "1kdt15q",
+          "src": "/appui-images/athome/IMG_0385.webp",
+          "filename": "IMG_0385.webp",
+          "components": [
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "4qebcgy",
+          "src": "/appui-images/athome/IMG_0386.webp",
+          "filename": "IMG_0386.webp",
+          "components": [
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phn21tf",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "hacxnex",
+          "src": "/appui-images/athome/IMG_0392.webp",
+          "filename": "IMG_0392.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "9z473zu",
+          "src": "/appui-images/athome/IMG_0393.webp",
+          "filename": "IMG_0393.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "e9a4jsr",
+          "src": "/appui-images/athome/IMG_0394.webp",
+          "filename": "IMG_0394.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zpkcvkm",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "g72ow7x",
+          "src": "/appui-images/athome/IMG_0395.webp",
+          "filename": "IMG_0395.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1xvtqw",
+      "title": "特集・検索履歴",
+      "images": [
+        {
+          "id": "t7w58iq",
+          "src": "/appui-images/athome/IMG_0396.webp",
+          "filename": "IMG_0396.webp",
+          "components": [
+            "カード",
+            "タブ・セグメントコントロール",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jxpl8ic",
+          "src": "/appui-images/athome/IMG_0397.webp",
+          "filename": "IMG_0397.webp",
+          "components": [
+            "カード",
+            "タブ・セグメントコントロール",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "rbc5hk6",
+          "src": "/appui-images/athome/IMG_0398.webp",
+          "filename": "IMG_0398.webp",
+          "components": [
+            "カード",
+            "タブ・セグメントコントロール",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xzyookw",
+      "title": "知る",
+      "images": [
+        {
+          "id": "p9k4diq",
+          "src": "/appui-images/athome/IMG_0401.webp",
+          "filename": "IMG_0401.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0mk2der",
+          "src": "/appui-images/athome/IMG_0402.webp",
+          "filename": "IMG_0402.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "f769yxl",
+          "src": "/appui-images/athome/IMG_0403.webp",
+          "filename": "IMG_0403.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "gvjxm10",
+          "src": "/appui-images/athome/IMG_0404.webp",
+          "filename": "IMG_0404.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mt53h4b",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "ug98h2x",
+          "src": "/appui-images/athome/IMG_0405.webp",
+          "filename": "IMG_0405.webp",
+          "components": [
+            "ダッシュボード",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vbsdxzy",
+          "src": "/appui-images/athome/IMG_0406.webp",
+          "filename": "IMG_0406.webp",
+          "components": [
+            "ダッシュボード",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "akjnwsc",
+          "src": "/appui-images/athome/IMG_0407.webp",
+          "filename": "IMG_0407.webp",
+          "components": [
+            "ダッシュボード",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gwtpq61",
+      "title": "メッセージ・アンケート",
+      "images": [
+        {
+          "id": "7nsz5wu",
+          "src": "/appui-images/athome/IMG_0408.webp",
+          "filename": "IMG_0408.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "nmemzm1",
+          "src": "/appui-images/athome/IMG_0409.webp",
+          "filename": "IMG_0409.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "s7lgs1o",
+          "src": "/appui-images/athome/IMG_0410.webp",
+          "filename": "IMG_0410.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dbpxqdu",
+      "title": "アプリの使い方",
+      "images": [
+        {
+          "id": "czmmd4n",
+          "src": "/appui-images/athome/IMG_0411.webp",
+          "filename": "IMG_0411.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "l9l39mr",
+          "src": "/appui-images/athome/IMG_0412.webp",
+          "filename": "IMG_0412.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8oqjoia",
+          "src": "/appui-images/athome/IMG_0413.webp",
+          "filename": "IMG_0413.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tozf2ko",
+          "src": "/appui-images/athome/IMG_0414.webp",
+          "filename": "IMG_0414.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "di2nr34",
+          "src": "/appui-images/athome/IMG_0415.webp",
+          "filename": "IMG_0415.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "アットホーム"
+}

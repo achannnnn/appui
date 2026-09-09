@@ -1,0 +1,722 @@
+{
+  "id": "sharefull-1786206754779",
+  "name": "シェアフル",
+  "description": "単発バイト・スキマバイト・短期アルバイトの求人アプリ「シェアフル」。空いた時間で働ける仕事を探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/c0/28/46c0286c-b235-ea35-b0e1-bb8ed230ed63/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1451477855",
+  "categories": [
+    "バイト"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "フォーム",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "カード",
+    "検索",
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "フィルター",
+    "リスト",
+    "プロフィール",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "80bkgli",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "zht3i4v",
+          "src": "/appui-images/sharefull/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rgafx45",
+          "src": "/appui-images/sharefull/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wnmf7jm",
+          "src": "/appui-images/sharefull/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "720m4g6",
+          "src": "/appui-images/sharefull/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ht3bmqf",
+          "src": "/appui-images/sharefull/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tlu434n",
+          "src": "/appui-images/sharefull/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7bbr13m",
+          "src": "/appui-images/sharefull/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ohcrhoy",
+      "title": "スタート・ウェルカム",
+      "images": [
+        {
+          "id": "czptvq4",
+          "src": "/appui-images/sharefull/IMG_9703.webp",
+          "filename": "IMG_9703.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dpus7kg",
+      "title": "SMS認証",
+      "images": [
+        {
+          "id": "rx5ghk7",
+          "src": "/appui-images/sharefull/IMG_9704.webp",
+          "filename": "IMG_9704.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0z9dinu",
+          "src": "/appui-images/sharefull/IMG_9705.webp",
+          "filename": "IMG_9705.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rio8tyq",
+      "title": "初回セットアップ（希望エリア）",
+      "images": [
+        {
+          "id": "tmyy7p8",
+          "src": "/appui-images/sharefull/IMG_9706.webp",
+          "filename": "IMG_9706.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード",
+            "検索"
+          ]
+        },
+        {
+          "id": "1amnsm0",
+          "src": "/appui-images/sharefull/IMG_9707.webp",
+          "filename": "IMG_9707.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード",
+            "検索"
+          ]
+        },
+        {
+          "id": "oy0qiqm",
+          "src": "/appui-images/sharefull/IMG_9708.webp",
+          "filename": "IMG_9708.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab9n7mr",
+      "title": "初回セットアップ（職業・状況・メール）",
+      "images": [
+        {
+          "id": "ths16w4",
+          "src": "/appui-images/sharefull/IMG_9709.webp",
+          "filename": "IMG_9709.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jqcvtvs",
+          "src": "/appui-images/sharefull/IMG_9710.webp",
+          "filename": "IMG_9710.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4auehld",
+          "src": "/appui-images/sharefull/IMG_9711.webp",
+          "filename": "IMG_9711.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i3tkj3t",
+      "title": "さがす（求人一覧）",
+      "images": [
+        {
+          "id": "51t7py6",
+          "src": "/appui-images/sharefull/IMG_9713.webp",
+          "filename": "IMG_9713.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "lq8ol0h",
+          "src": "/appui-images/sharefull/IMG_9714.webp",
+          "filename": "IMG_9714.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ukzc02",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "8vswaij",
+          "src": "/appui-images/sharefull/IMG_9715.webp",
+          "filename": "IMG_9715.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "6gxoeak",
+          "src": "/appui-images/sharefull/IMG_9716.webp",
+          "filename": "IMG_9716.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "htcl78j",
+          "src": "/appui-images/sharefull/IMG_9717.webp",
+          "filename": "IMG_9717.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "w9ew2jq",
+          "src": "/appui-images/sharefull/IMG_9718.webp",
+          "filename": "IMG_9718.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "oitl3zm",
+          "src": "/appui-images/sharefull/IMG_9719.webp",
+          "filename": "IMG_9719.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "x2lqixn",
+          "src": "/appui-images/sharefull/IMG_9720.webp",
+          "filename": "IMG_9720.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "cwtbmmk",
+          "src": "/appui-images/sharefull/IMG_9721.webp",
+          "filename": "IMG_9721.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "b88l5i3",
+          "src": "/appui-images/sharefull/IMG_9722.webp",
+          "filename": "IMG_9722.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "u7lfrfy",
+          "src": "/appui-images/sharefull/IMG_9725.webp",
+          "filename": "IMG_9725.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f8latkg",
+      "title": "マイリスト",
+      "images": [
+        {
+          "id": "dne1te3",
+          "src": "/appui-images/sharefull/IMG_9723.webp",
+          "filename": "IMG_9723.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "79bo9dq",
+          "src": "/appui-images/sharefull/IMG_9724.webp",
+          "filename": "IMG_9724.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptmzzp6",
+      "title": "やることリスト",
+      "images": [
+        {
+          "id": "8j0ucgh",
+          "src": "/appui-images/sharefull/IMG_9726.webp",
+          "filename": "IMG_9726.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1vtkwma",
+      "title": "本人確認・本登録",
+      "images": [
+        {
+          "id": "lgnrx9u",
+          "src": "/appui-images/sharefull/IMG_9727.webp",
+          "filename": "IMG_9727.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "6zvi9k2",
+          "src": "/appui-images/sharefull/IMG_9728.webp",
+          "filename": "IMG_9728.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "カード",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tkqt2cg",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "2964aki",
+          "src": "/appui-images/sharefull/IMG_9729.webp",
+          "filename": "IMG_9729.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xdsmez9",
+          "src": "/appui-images/sharefull/IMG_9730.webp",
+          "filename": "IMG_9730.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "t6fytyr",
+          "src": "/appui-images/sharefull/IMG_9731.webp",
+          "filename": "IMG_9731.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vrxaw7z",
+          "src": "/appui-images/sharefull/IMG_9732.webp",
+          "filename": "IMG_9732.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kd3evah",
+      "title": "求人特集",
+      "images": [
+        {
+          "id": "ly3rtb3",
+          "src": "/appui-images/sharefull/IMG_9733.webp",
+          "filename": "IMG_9733.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "検索",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tvqbe7q",
+      "title": "マイページ・アカウント・プロフィール",
+      "images": [
+        {
+          "id": "zakijld",
+          "src": "/appui-images/sharefull/IMG_9734.webp",
+          "filename": "IMG_9734.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "94dv1s5",
+          "src": "/appui-images/sharefull/IMG_9735.webp",
+          "filename": "IMG_9735.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8nfljuf",
+          "src": "/appui-images/sharefull/IMG_9736.webp",
+          "filename": "IMG_9736.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xjxlr92",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "i68vq7v",
+          "src": "/appui-images/sharefull/IMG_9738.webp",
+          "filename": "IMG_9738.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "wy08vbj",
+          "src": "/appui-images/sharefull/IMG_9739.webp",
+          "filename": "IMG_9739.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "853mohl",
+      "title": "通知設定",
+      "images": [
+        {
+          "id": "w05ql01",
+          "src": "/appui-images/sharefull/IMG_9740.webp",
+          "filename": "IMG_9740.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボトム ナビゲーション",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "878n8nr",
+          "src": "/appui-images/sharefull/IMG_9741.webp",
+          "filename": "IMG_9741.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボトム ナビゲーション",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ofnz2i",
+      "title": "仕事履歴",
+      "images": [
+        {
+          "id": "vtp0s1s",
+          "src": "/appui-images/sharefull/IMG_9742.webp",
+          "filename": "IMG_9742.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "znws2lv",
+      "title": "検索条件フィルター",
+      "images": [
+        {
+          "id": "s3ive6t",
+          "src": "/appui-images/sharefull/IMG_9743.webp",
+          "filename": "IMG_9743.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xndl52n",
+          "src": "/appui-images/sharefull/IMG_9744.webp",
+          "filename": "IMG_9744.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "シェアフル"
+}

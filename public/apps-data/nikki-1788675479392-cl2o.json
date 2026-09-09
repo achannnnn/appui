@@ -1,0 +1,315 @@
+{
+  "id": "nikki-1788675479392-cl2o",
+  "name": "シンプル日記",
+  "description": "日記のアプリを選ぶなら\"シンプル日記\"が１番！シンプルなのに高機能で使いやすい日記アプリです。 長く使いたい日記アプリだから、なるべくシンプルで装飾もない、すっきりとした日記アプリを心がけています。アカウント登録なしで日記のバックアップもで…",
+  "iconUrl": "/appui-images/nikki/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%97%A5%E8%A8%98-%E5%86%99%E7%9C%9F%E3%82%92%E8%B2%BC%E3%82%8C%E3%82%8B%E6%97%A5%E8%A8%98%E5%B8%B3%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC/id1388195923?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "カレンダー"
+  ],
+  "sections": [
+    {
+      "id": "nrb8a36",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "h96tacp",
+          "src": "/appui-images/nikki/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ke8uydt",
+          "src": "/appui-images/nikki/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wna2t95",
+          "src": "/appui-images/nikki/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "dm2r39k",
+          "src": "/appui-images/nikki/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "azps8n3",
+          "src": "/appui-images/nikki/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "e3sozly",
+          "src": "/appui-images/nikki/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t8jtf4g",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "79polof",
+          "src": "/appui-images/nikki/IMG_3386.webp",
+          "filename": "IMG_3386.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "g7tu5oy",
+          "src": "/appui-images/nikki/IMG_3387.webp",
+          "filename": "IMG_3387.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "kp01phh",
+          "src": "/appui-images/nikki/IMG_3388.webp",
+          "filename": "IMG_3388.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "z8hrwj6",
+          "src": "/appui-images/nikki/IMG_3389.webp",
+          "filename": "IMG_3389.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "x7oad16",
+      "title": "カレンダー",
+      "images": [
+        {
+          "id": "oksclyo",
+          "src": "/appui-images/nikki/IMG_3390.webp",
+          "filename": "IMG_3390.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ssknx9f",
+          "src": "/appui-images/nikki/IMG_3400.webp",
+          "filename": "IMG_3400.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oktnvr1",
+      "title": "プレミアム",
+      "images": [
+        {
+          "id": "b903qlf",
+          "src": "/appui-images/nikki/IMG_3385.webp",
+          "filename": "IMG_3385.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "fpg2ae7",
+          "src": "/appui-images/nikki/IMG_3392.webp",
+          "filename": "IMG_3392.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eec5gc0",
+      "title": "設定",
+      "images": [
+        {
+          "id": "f8e86rs",
+          "src": "/appui-images/nikki/IMG_3391.webp",
+          "filename": "IMG_3391.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "az0ums9",
+          "src": "/appui-images/nikki/IMG_3393.webp",
+          "filename": "IMG_3393.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "4nx91js",
+          "src": "/appui-images/nikki/IMG_3394.webp",
+          "filename": "IMG_3394.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rtyy29x",
+          "src": "/appui-images/nikki/IMG_3395.webp",
+          "filename": "IMG_3395.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rsjiw44",
+          "src": "/appui-images/nikki/IMG_3396.webp",
+          "filename": "IMG_3396.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "7gmyi5l",
+          "src": "/appui-images/nikki/IMG_3397.webp",
+          "filename": "IMG_3397.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "f87s6sk",
+          "src": "/appui-images/nikki/IMG_3398.webp",
+          "filename": "IMG_3398.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "nhxug6v",
+          "src": "/appui-images/nikki/IMG_3399.webp",
+          "filename": "IMG_3399.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "nikki"
+}

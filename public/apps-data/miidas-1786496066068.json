@@ -1,0 +1,1469 @@
+{
+  "id": "miidas-1786496066068",
+  "name": "ミイダス",
+  "description": "市場価値診断からスカウトが届く転職アプリ「ミイダス」。コンピテンシー診断や求人検索で自分に合う仕事を探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/bb/10/bfbb1059-379c-6cce-a761-1c81f6e0191d/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id982879965",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "カード",
+    "フォーム",
+    "ヘッダー",
+    "ダッシュボード",
+    "検索",
+    "リスト",
+    "タブ・セグメントコントロール",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション",
+    "フィルター",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "jcdsb2h",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "pgk7pzz",
+          "src": "/appui-images/miidas/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wxezbo3",
+          "src": "/appui-images/miidas/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "05fqmd8",
+          "src": "/appui-images/miidas/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "be7ccok",
+          "src": "/appui-images/miidas/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g7k8u54",
+          "src": "/appui-images/miidas/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mhyah8l",
+          "src": "/appui-images/miidas/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eq7dio6",
+          "src": "/appui-images/miidas/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dbluzkv",
+          "src": "/appui-images/miidas/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc6xtev",
+      "title": "市場価値診断",
+      "images": [
+        {
+          "id": "7y6sauh",
+          "src": "/appui-images/miidas/IMG_9856.webp",
+          "filename": "IMG_9856.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "erxzeqz",
+          "src": "/appui-images/miidas/IMG_9857.webp",
+          "filename": "IMG_9857.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "u8zh13c",
+          "src": "/appui-images/miidas/IMG_9895.webp",
+          "filename": "IMG_9895.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fs1c1z",
+      "title": "市場価値診断（プロフィール）",
+      "images": [
+        {
+          "id": "hmttusp",
+          "src": "/appui-images/miidas/IMG_9858.webp",
+          "filename": "IMG_9858.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "jh3d1jj",
+          "src": "/appui-images/miidas/IMG_9859.webp",
+          "filename": "IMG_9859.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "2pxcznn",
+          "src": "/appui-images/miidas/IMG_9860.webp",
+          "filename": "IMG_9860.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "fack622",
+          "src": "/appui-images/miidas/IMG_9861.webp",
+          "filename": "IMG_9861.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "nnz3ytp",
+          "src": "/appui-images/miidas/IMG_9862.webp",
+          "filename": "IMG_9862.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "e3115ay",
+          "src": "/appui-images/miidas/IMG_9863.webp",
+          "filename": "IMG_9863.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "twz2w82",
+          "src": "/appui-images/miidas/IMG_9864.webp",
+          "filename": "IMG_9864.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "hnwyr5j",
+          "src": "/appui-images/miidas/IMG_9865.webp",
+          "filename": "IMG_9865.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "ik3pbaf",
+          "src": "/appui-images/miidas/IMG_9866.webp",
+          "filename": "IMG_9866.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "ke94xx8",
+          "src": "/appui-images/miidas/IMG_9867.webp",
+          "filename": "IMG_9867.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "kpwr7ro",
+          "src": "/appui-images/miidas/IMG_9868.webp",
+          "filename": "IMG_9868.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "cxu5cqh",
+          "src": "/appui-images/miidas/IMG_9869.webp",
+          "filename": "IMG_9869.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "segmw8y",
+      "title": "市場価値診断（職務経歴）",
+      "images": [
+        {
+          "id": "en1w3h5",
+          "src": "/appui-images/miidas/IMG_9870.webp",
+          "filename": "IMG_9870.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "jp0lzy3",
+          "src": "/appui-images/miidas/IMG_9871.webp",
+          "filename": "IMG_9871.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "c5u08gc",
+          "src": "/appui-images/miidas/IMG_9872.webp",
+          "filename": "IMG_9872.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "15iuf99",
+          "src": "/appui-images/miidas/IMG_9873.webp",
+          "filename": "IMG_9873.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "um0199l",
+          "src": "/appui-images/miidas/IMG_9874.webp",
+          "filename": "IMG_9874.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ダッシュボード",
+            "ボタン",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0l6njyj",
+      "title": "市場価値診断（実務経験）",
+      "images": [
+        {
+          "id": "3h9lykd",
+          "src": "/appui-images/miidas/IMG_9875.webp",
+          "filename": "IMG_9875.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "ubswpoy",
+          "src": "/appui-images/miidas/IMG_9876.webp",
+          "filename": "IMG_9876.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "lwl53cl",
+          "src": "/appui-images/miidas/IMG_9877.webp",
+          "filename": "IMG_9877.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "dj2vidj",
+          "src": "/appui-images/miidas/IMG_9878.webp",
+          "filename": "IMG_9878.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "2hik23i",
+          "src": "/appui-images/miidas/IMG_9879.webp",
+          "filename": "IMG_9879.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "0u6g7em",
+          "src": "/appui-images/miidas/IMG_9880.webp",
+          "filename": "IMG_9880.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ufjyod",
+      "title": "市場価値診断（語学・資格）",
+      "images": [
+        {
+          "id": "qq7h4i5",
+          "src": "/appui-images/miidas/IMG_9881.webp",
+          "filename": "IMG_9881.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "検索",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "awe8w65",
+          "src": "/appui-images/miidas/IMG_9882.webp",
+          "filename": "IMG_9882.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "検索",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "ol7uzpi",
+          "src": "/appui-images/miidas/IMG_9883.webp",
+          "filename": "IMG_9883.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "検索",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yrt1eq4",
+      "title": "アカウント登録",
+      "images": [
+        {
+          "id": "2bxu0jl",
+          "src": "/appui-images/miidas/IMG_9884.webp",
+          "filename": "IMG_9884.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "huea36g",
+          "src": "/appui-images/miidas/IMG_9885.webp",
+          "filename": "IMG_9885.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "82lys3s",
+          "src": "/appui-images/miidas/IMG_9886.webp",
+          "filename": "IMG_9886.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "オンボーディング",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sytizo9",
+      "title": "希望条件",
+      "images": [
+        {
+          "id": "vl14e1u",
+          "src": "/appui-images/miidas/IMG_9887.webp",
+          "filename": "IMG_9887.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "b1fsa7j",
+          "src": "/appui-images/miidas/IMG_9888.webp",
+          "filename": "IMG_9888.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "886k9un",
+          "src": "/appui-images/miidas/IMG_9889.webp",
+          "filename": "IMG_9889.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "xfn83jx",
+          "src": "/appui-images/miidas/IMG_9890.webp",
+          "filename": "IMG_9890.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "i8twy6w",
+          "src": "/appui-images/miidas/IMG_9891.webp",
+          "filename": "IMG_9891.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "78rpdcd",
+          "src": "/appui-images/miidas/IMG_9892.webp",
+          "filename": "IMG_9892.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "gn0svtp",
+          "src": "/appui-images/miidas/IMG_9893.webp",
+          "filename": "IMG_9893.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        },
+        {
+          "id": "ff71dqk",
+          "src": "/appui-images/miidas/IMG_9894.webp",
+          "filename": "IMG_9894.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "428imjg",
+      "title": "スカウト",
+      "images": [
+        {
+          "id": "9b4ed0i",
+          "src": "/appui-images/miidas/IMG_9896.webp",
+          "filename": "IMG_9896.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "リスト",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "bm2tq1s",
+          "src": "/appui-images/miidas/IMG_9897.webp",
+          "filename": "IMG_9897.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "リスト",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "n49l7kz",
+          "src": "/appui-images/miidas/IMG_9898.webp",
+          "filename": "IMG_9898.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "リスト",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "47gtodf",
+          "src": "/appui-images/miidas/IMG_9899.webp",
+          "filename": "IMG_9899.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "リスト",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "wi62ge9",
+          "src": "/appui-images/miidas/IMG_9900.webp",
+          "filename": "IMG_9900.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "リスト",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "foh8k0u",
+          "src": "/appui-images/miidas/IMG_9902.webp",
+          "filename": "IMG_9902.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "カード",
+            "ボタン",
+            "リスト",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gorm80c",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "lgnle6a",
+          "src": "/appui-images/miidas/IMG_9903.webp",
+          "filename": "IMG_9903.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "cieu13q",
+          "src": "/appui-images/miidas/IMG_9905.webp",
+          "filename": "IMG_9905.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "cq00cym",
+          "src": "/appui-images/miidas/IMG_9906.webp",
+          "filename": "IMG_9906.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "804vsrl",
+      "title": "求人検索",
+      "images": [
+        {
+          "id": "76lgmng",
+          "src": "/appui-images/miidas/IMG_9904.webp",
+          "filename": "IMG_9904.webp",
+          "components": [
+            "フィルター",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "kz3dzry",
+          "src": "/appui-images/miidas/IMG_9907.webp",
+          "filename": "IMG_9907.webp",
+          "components": [
+            "フィルター",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "yuo4cgp",
+          "src": "/appui-images/miidas/IMG_9936.webp",
+          "filename": "IMG_9936.webp",
+          "components": [
+            "フィルター",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "byn1xed",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "hjcr1v1",
+          "src": "/appui-images/miidas/IMG_9901.webp",
+          "filename": "IMG_9901.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "vynncjl",
+          "src": "/appui-images/miidas/IMG_9908.webp",
+          "filename": "IMG_9908.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jj0rdcq",
+          "src": "/appui-images/miidas/IMG_9909.webp",
+          "filename": "IMG_9909.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "3qazjy9",
+          "src": "/appui-images/miidas/IMG_9910.webp",
+          "filename": "IMG_9910.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "k7toqvk",
+          "src": "/appui-images/miidas/IMG_9911.webp",
+          "filename": "IMG_9911.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "nhs93er",
+          "src": "/appui-images/miidas/IMG_9912.webp",
+          "filename": "IMG_9912.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mh9a1yr",
+      "title": "トーク",
+      "images": [
+        {
+          "id": "qpzfmwv",
+          "src": "/appui-images/miidas/IMG_9913.webp",
+          "filename": "IMG_9913.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "r7hh7av",
+          "src": "/appui-images/miidas/IMG_9914.webp",
+          "filename": "IMG_9914.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4l26c22",
+          "src": "/appui-images/miidas/IMG_9915.webp",
+          "filename": "IMG_9915.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "mdfr2og",
+          "src": "/appui-images/miidas/IMG_9916.webp",
+          "filename": "IMG_9916.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v46l557",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "1lyhp21",
+          "src": "/appui-images/miidas/IMG_9917.webp",
+          "filename": "IMG_9917.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leb4oao",
+      "title": "プロフィール",
+      "images": [
+        {
+          "id": "rcz4otu",
+          "src": "/appui-images/miidas/IMG_9918.webp",
+          "filename": "IMG_9918.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "82e24yz",
+          "src": "/appui-images/miidas/IMG_9919.webp",
+          "filename": "IMG_9919.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "29m339e",
+          "src": "/appui-images/miidas/IMG_9920.webp",
+          "filename": "IMG_9920.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "f34q01g",
+          "src": "/appui-images/miidas/IMG_9921.webp",
+          "filename": "IMG_9921.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "kjrkvuk",
+          "src": "/appui-images/miidas/IMG_9923.webp",
+          "filename": "IMG_9923.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "8usemmx",
+          "src": "/appui-images/miidas/IMG_9924.webp",
+          "filename": "IMG_9924.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "i45fo42",
+          "src": "/appui-images/miidas/IMG_9925.webp",
+          "filename": "IMG_9925.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "ydz6tc6",
+          "src": "/appui-images/miidas/IMG_9926.webp",
+          "filename": "IMG_9926.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "4n4oxgd",
+          "src": "/appui-images/miidas/IMG_9927.webp",
+          "filename": "IMG_9927.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jkdjfnf",
+      "title": "コンピテンシー診断",
+      "images": [
+        {
+          "id": "654nniu",
+          "src": "/appui-images/miidas/IMG_9928.webp",
+          "filename": "IMG_9928.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "オンボーディング",
+            "カード"
+          ]
+        },
+        {
+          "id": "9iarl5o",
+          "src": "/appui-images/miidas/IMG_9929.webp",
+          "filename": "IMG_9929.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "オンボーディング",
+            "カード"
+          ]
+        },
+        {
+          "id": "u0jiv0w",
+          "src": "/appui-images/miidas/IMG_9930.webp",
+          "filename": "IMG_9930.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "オンボーディング",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2tcevu3",
+      "title": "市場を知る",
+      "images": [
+        {
+          "id": "d19sxlx",
+          "src": "/appui-images/miidas/IMG_9931.webp",
+          "filename": "IMG_9931.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "9lcczec",
+          "src": "/appui-images/miidas/IMG_9932.webp",
+          "filename": "IMG_9932.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "xaxi19z",
+          "src": "/appui-images/miidas/IMG_9933.webp",
+          "filename": "IMG_9933.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "フィルター",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0aw81dg",
+      "title": "設定",
+      "images": [
+        {
+          "id": "lpwda5w",
+          "src": "/appui-images/miidas/IMG_9934.webp",
+          "filename": "IMG_9934.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "i2qpkor",
+          "src": "/appui-images/miidas/IMG_9935.webp",
+          "filename": "IMG_9935.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8iae75a",
+          "src": "/appui-images/miidas/IMG_9937.webp",
+          "filename": "IMG_9937.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8c9b0mt",
+          "src": "/appui-images/miidas/IMG_9938.webp",
+          "filename": "IMG_9938.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "94br65k",
+          "src": "/appui-images/miidas/IMG_9939.webp",
+          "filename": "IMG_9939.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhhzxoy",
+      "title": "使い方",
+      "images": [
+        {
+          "id": "mbrricc",
+          "src": "/appui-images/miidas/IMG_9941.webp",
+          "filename": "IMG_9941.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "k0igo7c",
+          "src": "/appui-images/miidas/IMG_9942.webp",
+          "filename": "IMG_9942.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "kg77kq1",
+          "src": "/appui-images/miidas/IMG_9943.webp",
+          "filename": "IMG_9943.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "l0nfhnt",
+          "src": "/appui-images/miidas/IMG_9944.webp",
+          "filename": "IMG_9944.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3qcuc5",
+      "title": "ヘルプ",
+      "images": [
+        {
+          "id": "pr523gq",
+          "src": "/appui-images/miidas/IMG_9945.webp",
+          "filename": "IMG_9945.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cxj4j2f",
+          "src": "/appui-images/miidas/IMG_9946.webp",
+          "filename": "IMG_9946.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "64v10kc",
+          "src": "/appui-images/miidas/IMG_9947.webp",
+          "filename": "IMG_9947.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "61unvey",
+          "src": "/appui-images/miidas/IMG_9948.webp",
+          "filename": "IMG_9948.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6y17kty",
+      "title": "退会",
+      "images": [
+        {
+          "id": "pxtxp8x",
+          "src": "/appui-images/miidas/IMG_9949.webp",
+          "filename": "IMG_9949.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2xwao97",
+          "src": "/appui-images/miidas/IMG_9950.webp",
+          "filename": "IMG_9950.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ミイダス"
+}

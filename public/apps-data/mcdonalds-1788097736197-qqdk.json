@@ -1,0 +1,729 @@
+{
+  "id": "mcdonalds-1788097736197-qqdk",
+  "name": "マクドナルド",
+  "description": "マクドナルド公式アプリは、クーポンなどのお得な情報を毎日配信しているだけでなく、注文からお支払いまでを完了できるアプリです。さらに、マクドナルドのお食事がもっと楽しく・お得になる、リワード(特典)プログラムにご参加いただけます！ 【ご利用い…",
+  "iconUrl": "/appui-images/mcdonalds/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89/id413618155?uo=4",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "地図"
+  ],
+  "sections": [
+    {
+      "id": "nvfaso2",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "0ctxjl3",
+          "src": "/appui-images/mcdonalds/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ka2atuv",
+          "src": "/appui-images/mcdonalds/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uyi7d5q",
+          "src": "/appui-images/mcdonalds/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tqmyygc",
+          "src": "/appui-images/mcdonalds/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "h5oj79w",
+          "src": "/appui-images/mcdonalds/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "nvt40mz",
+          "src": "/appui-images/mcdonalds/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vjqqahh",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "ejs03jq",
+          "src": "/appui-images/mcdonalds/IMG_2575.webp",
+          "filename": "IMG_2575.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "oazjqw8",
+          "src": "/appui-images/mcdonalds/IMG_2592.webp",
+          "filename": "IMG_2592.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jc2ncrx",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "8zahm28",
+          "src": "/appui-images/mcdonalds/IMG_2576.webp",
+          "filename": "IMG_2576.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9ai6b27",
+          "src": "/appui-images/mcdonalds/IMG_2601.webp",
+          "filename": "IMG_2601.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5t0z6ec",
+          "src": "/appui-images/mcdonalds/IMG_2602.webp",
+          "filename": "IMG_2602.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hjzyw76",
+          "src": "/appui-images/mcdonalds/IMG_2603.webp",
+          "filename": "IMG_2603.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "gzqxfa9",
+          "src": "/appui-images/mcdonalds/IMG_2604.webp",
+          "filename": "IMG_2604.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "38iitkl",
+          "src": "/appui-images/mcdonalds/IMG_2605.webp",
+          "filename": "IMG_2605.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3hfjc42",
+          "src": "/appui-images/mcdonalds/IMG_2606.webp",
+          "filename": "IMG_2606.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "nq5ego2",
+          "src": "/appui-images/mcdonalds/IMG_2607.webp",
+          "filename": "IMG_2607.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ra36dq4",
+          "src": "/appui-images/mcdonalds/IMG_2608.webp",
+          "filename": "IMG_2608.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "li8slke",
+          "src": "/appui-images/mcdonalds/IMG_2609.webp",
+          "filename": "IMG_2609.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "txatn1h",
+          "src": "/appui-images/mcdonalds/IMG_2610.webp",
+          "filename": "IMG_2610.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "845jf6a",
+          "src": "/appui-images/mcdonalds/IMG_2611.webp",
+          "filename": "IMG_2611.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tjxmlso",
+      "title": "店舗検索",
+      "images": [
+        {
+          "id": "q5j3fh1",
+          "src": "/appui-images/mcdonalds/IMG_2577.webp",
+          "filename": "IMG_2577.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "d4wjch6",
+          "src": "/appui-images/mcdonalds/IMG_2578.webp",
+          "filename": "IMG_2578.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "junlhk6",
+          "src": "/appui-images/mcdonalds/IMG_2579.webp",
+          "filename": "IMG_2579.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "m2k42pb",
+          "src": "/appui-images/mcdonalds/IMG_2580.webp",
+          "filename": "IMG_2580.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "719jjtm",
+          "src": "/appui-images/mcdonalds/IMG_2581.webp",
+          "filename": "IMG_2581.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pthjmaf",
+          "src": "/appui-images/mcdonalds/IMG_2582.webp",
+          "filename": "IMG_2582.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ld3e0ts",
+      "title": "デリバリー",
+      "images": [
+        {
+          "id": "0k2jbwb",
+          "src": "/appui-images/mcdonalds/IMG_2583.webp",
+          "filename": "IMG_2583.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "oq9rrq7",
+          "src": "/appui-images/mcdonalds/IMG_2584.webp",
+          "filename": "IMG_2584.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "z2gn7xi",
+          "src": "/appui-images/mcdonalds/IMG_2585.webp",
+          "filename": "IMG_2585.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "sd6k0uz",
+          "src": "/appui-images/mcdonalds/IMG_2586.webp",
+          "filename": "IMG_2586.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hwnr4dz",
+          "src": "/appui-images/mcdonalds/IMG_2587.webp",
+          "filename": "IMG_2587.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uxr3g1i",
+          "src": "/appui-images/mcdonalds/IMG_2588.webp",
+          "filename": "IMG_2588.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "an6lrhg",
+          "src": "/appui-images/mcdonalds/IMG_2589.webp",
+          "filename": "IMG_2589.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "qfow09m",
+          "src": "/appui-images/mcdonalds/IMG_2590.webp",
+          "filename": "IMG_2590.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "se9cf8d",
+          "src": "/appui-images/mcdonalds/IMG_2591.webp",
+          "filename": "IMG_2591.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bp3mt3y",
+      "title": "リワード",
+      "images": [
+        {
+          "id": "fl5egmq",
+          "src": "/appui-images/mcdonalds/IMG_2595.webp",
+          "filename": "IMG_2595.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "bzl5cg7",
+          "src": "/appui-images/mcdonalds/IMG_2596.webp",
+          "filename": "IMG_2596.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1o79ku7",
+          "src": "/appui-images/mcdonalds/IMG_2597.webp",
+          "filename": "IMG_2597.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xsjoula",
+          "src": "/appui-images/mcdonalds/IMG_2598.webp",
+          "filename": "IMG_2598.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9ijuh4b",
+          "src": "/appui-images/mcdonalds/IMG_2599.webp",
+          "filename": "IMG_2599.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "yhsqkkr",
+          "src": "/appui-images/mcdonalds/IMG_2600.webp",
+          "filename": "IMG_2600.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sxwhx91",
+      "title": "注文",
+      "images": [
+        {
+          "id": "qb4n30x",
+          "src": "/appui-images/mcdonalds/IMG_2612.webp",
+          "filename": "IMG_2612.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "12v1fbq",
+          "src": "/appui-images/mcdonalds/IMG_2614.webp",
+          "filename": "IMG_2614.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5uxb582",
+          "src": "/appui-images/mcdonalds/IMG_2615.webp",
+          "filename": "IMG_2615.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8mch2sz",
+          "src": "/appui-images/mcdonalds/IMG_2616.webp",
+          "filename": "IMG_2616.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "81yhavu",
+          "src": "/appui-images/mcdonalds/IMG_2617.webp",
+          "filename": "IMG_2617.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ow2uby0",
+          "src": "/appui-images/mcdonalds/IMG_2618.webp",
+          "filename": "IMG_2618.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "rv0j9wt",
+          "src": "/appui-images/mcdonalds/IMG_2619.webp",
+          "filename": "IMG_2619.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xqeajyp",
+      "title": "設定",
+      "images": [
+        {
+          "id": "1gik9jm",
+          "src": "/appui-images/mcdonalds/IMG_2620.webp",
+          "filename": "IMG_2620.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xheltx4",
+          "src": "/appui-images/mcdonalds/IMG_2621.webp",
+          "filename": "IMG_2621.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "zyiecma",
+          "src": "/appui-images/mcdonalds/IMG_2622.webp",
+          "filename": "IMG_2622.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vjpdwr2",
+          "src": "/appui-images/mcdonalds/IMG_2623.webp",
+          "filename": "IMG_2623.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "lo0pwls",
+          "src": "/appui-images/mcdonalds/IMG_2624.webp",
+          "filename": "IMG_2624.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uhauh0e",
+          "src": "/appui-images/mcdonalds/IMG_2625.webp",
+          "filename": "IMG_2625.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "slxddy8",
+          "src": "/appui-images/mcdonalds/IMG_2626.webp",
+          "filename": "IMG_2626.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "mcdonalds"
+}

@@ -595,6 +595,20 @@ function adminAppsApi() {
         }
       })
 
+      server.middlewares.use('/api/admin/split-apps', async (req, res) => {
+        if (req.method !== 'POST') {
+          sendJson(res, 405, { error: 'method not allowed' })
+          return
+        }
+        try {
+          const { splitAppsData } = await import('./scripts/split-apps-data.mjs')
+          const result = await splitAppsData()
+          sendJson(res, 200, { ok: true, ...result })
+        } catch (error) {
+          sendJson(res, 500, { error: error instanceof Error ? error.message : 'failed to split apps' })
+        }
+      })
+
       server.middlewares.use('/api/admin/apps', async (req, res) => {
         if (req.method !== 'POST' && req.method !== 'DELETE') {
           sendJson(res, 405, { error: 'method not allowed' })
@@ -612,6 +626,12 @@ function adminAppsApi() {
             const payload = JSON.parse(body)
             const nextApps = apps.filter((item) => !(item && typeof item === 'object' && item.id === payload.id))
             await fs.writeFile(filePath, JSON.stringify(nextApps, null, 2) + '\n', 'utf-8')
+            try {
+              const { splitAppsData } = await import('./scripts/split-apps-data.mjs')
+              await splitAppsData()
+            } catch (splitError) {
+              console.warn('split-apps-data failed', splitError)
+            }
             sendJson(res, 200, { ok: true })
             return
           }
@@ -625,6 +645,12 @@ function adminAppsApi() {
           }
 
           await fs.writeFile(filePath, JSON.stringify(apps, null, 2) + '\n', 'utf-8')
+          try {
+            const { splitAppsData } = await import('./scripts/split-apps-data.mjs')
+            await splitAppsData()
+          } catch (splitError) {
+            console.warn('split-apps-data failed', splitError)
+          }
           sendJson(res, 200, { ok: true, app: appEntry })
         } catch (error) {
           sendJson(res, 500, { error: error instanceof Error ? error.message : 'failed to save app' })

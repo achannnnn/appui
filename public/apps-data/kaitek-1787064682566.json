@@ -1,0 +1,1013 @@
+{
+  "id": "kaitek-1787064682566",
+  "name": "カイテク",
+  "description": "介護・看護・保育の単発バイトアプリ「カイテク」。スキマ時間で働ける求人を探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/48/b3/7248b3ed-3d84-c304-ba17-4f8aaa39785c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1551769751",
+  "categories": [
+    "バイト"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "カード",
+    "ヘッダー",
+    "リスト",
+    "検索",
+    "フィルター",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション",
+    "ダッシュボード",
+    "プロフィール",
+    "タブ・セグメントコントロール"
+  ],
+  "sections": [
+    {
+      "id": "f62bfw6",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "vx1843n",
+          "src": "/appui-images/kaitek/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sx8jgjl",
+          "src": "/appui-images/kaitek/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ndc9x3h",
+          "src": "/appui-images/kaitek/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ghwg59w",
+          "src": "/appui-images/kaitek/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t3dgzzm",
+          "src": "/appui-images/kaitek/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xldmndz",
+          "src": "/appui-images/kaitek/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "07e6fme",
+          "src": "/appui-images/kaitek/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v1zkwmy",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "kkkc159",
+          "src": "/appui-images/kaitek/IMG_1209.webp",
+          "filename": "IMG_1209.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "dlzbge8",
+          "src": "/appui-images/kaitek/IMG_1210.webp",
+          "filename": "IMG_1210.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "tm8xe1h",
+          "src": "/appui-images/kaitek/IMG_1211.webp",
+          "filename": "IMG_1211.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "18s4045",
+          "src": "/appui-images/kaitek/IMG_1212.webp",
+          "filename": "IMG_1212.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "r93kx7j",
+          "src": "/appui-images/kaitek/IMG_1213.webp",
+          "filename": "IMG_1213.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "b9t0p4m",
+          "src": "/appui-images/kaitek/IMG_1214.webp",
+          "filename": "IMG_1214.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99egaze",
+      "title": "電話番号認証",
+      "images": [
+        {
+          "id": "iy46dx0",
+          "src": "/appui-images/kaitek/IMG_1215.webp",
+          "filename": "IMG_1215.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "lu9wzr6",
+          "src": "/appui-images/kaitek/IMG_1216.webp",
+          "filename": "IMG_1216.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vhkqxk9",
+          "src": "/appui-images/kaitek/IMG_1217.webp",
+          "filename": "IMG_1217.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pwnf2ue",
+      "title": "基本情報",
+      "images": [
+        {
+          "id": "8duiah9",
+          "src": "/appui-images/kaitek/IMG_1218.webp",
+          "filename": "IMG_1218.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0s9a0cw",
+          "src": "/appui-images/kaitek/IMG_1219.webp",
+          "filename": "IMG_1219.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ved0uvt",
+          "src": "/appui-images/kaitek/IMG_1220.webp",
+          "filename": "IMG_1220.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tkosoxk",
+      "title": "本人確認",
+      "images": [
+        {
+          "id": "2o9ljeo",
+          "src": "/appui-images/kaitek/IMG_1221.webp",
+          "filename": "IMG_1221.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "dl15k3s",
+          "src": "/appui-images/kaitek/IMG_1222.webp",
+          "filename": "IMG_1222.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "htf06qy",
+          "src": "/appui-images/kaitek/IMG_1223.webp",
+          "filename": "IMG_1223.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9xc7svx",
+      "title": "資格登録",
+      "images": [
+        {
+          "id": "2heo4e1",
+          "src": "/appui-images/kaitek/IMG_1224.webp",
+          "filename": "IMG_1224.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "jx2vch7",
+          "src": "/appui-images/kaitek/IMG_1225.webp",
+          "filename": "IMG_1225.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "ft4ri21",
+          "src": "/appui-images/kaitek/IMG_1226.webp",
+          "filename": "IMG_1226.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7gbnz20",
+      "title": "仕事一覧",
+      "images": [
+        {
+          "id": "vbo7o7r",
+          "src": "/appui-images/kaitek/IMG_1227.webp",
+          "filename": "IMG_1227.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "i5myivk",
+          "src": "/appui-images/kaitek/IMG_1228.webp",
+          "filename": "IMG_1228.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ksxti76",
+          "src": "/appui-images/kaitek/IMG_1229.webp",
+          "filename": "IMG_1229.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "covm36w",
+          "src": "/appui-images/kaitek/IMG_1238.webp",
+          "filename": "IMG_1238.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ch2wy4p",
+          "src": "/appui-images/kaitek/IMG_1239.webp",
+          "filename": "IMG_1239.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "07nv04a",
+          "src": "/appui-images/kaitek/IMG_1240.webp",
+          "filename": "IMG_1240.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "joyd2cy",
+      "title": "絞り込み",
+      "images": [
+        {
+          "id": "bdjm7sh",
+          "src": "/appui-images/kaitek/IMG_1230.webp",
+          "filename": "IMG_1230.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "r68p5ac",
+          "src": "/appui-images/kaitek/IMG_1231.webp",
+          "filename": "IMG_1231.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "nb4yfjz",
+          "src": "/appui-images/kaitek/IMG_1232.webp",
+          "filename": "IMG_1232.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "sy0xho9",
+          "src": "/appui-images/kaitek/IMG_1233.webp",
+          "filename": "IMG_1233.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ahj0vcu",
+          "src": "/appui-images/kaitek/IMG_1234.webp",
+          "filename": "IMG_1234.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "8tzncz1",
+          "src": "/appui-images/kaitek/IMG_1235.webp",
+          "filename": "IMG_1235.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "8c1u96g",
+          "src": "/appui-images/kaitek/IMG_1236.webp",
+          "filename": "IMG_1236.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "r9zocvg",
+          "src": "/appui-images/kaitek/IMG_1237.webp",
+          "filename": "IMG_1237.webp",
+          "components": [
+            "フィルター",
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rjuu2i9",
+      "title": "事業所・仕事詳細",
+      "images": [
+        {
+          "id": "kmd7920",
+          "src": "/appui-images/kaitek/IMG_1241.webp",
+          "filename": "IMG_1241.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "k8or483",
+          "src": "/appui-images/kaitek/IMG_1242.webp",
+          "filename": "IMG_1242.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "61x2kw4",
+          "src": "/appui-images/kaitek/IMG_1243.webp",
+          "filename": "IMG_1243.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ndrvg3x",
+          "src": "/appui-images/kaitek/IMG_1244.webp",
+          "filename": "IMG_1244.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "x0mlbxo",
+          "src": "/appui-images/kaitek/IMG_1245.webp",
+          "filename": "IMG_1245.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "flxhm6r",
+          "src": "/appui-images/kaitek/IMG_1246.webp",
+          "filename": "IMG_1246.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uptz3mh",
+          "src": "/appui-images/kaitek/IMG_1247.webp",
+          "filename": "IMG_1247.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "dv8npys",
+          "src": "/appui-images/kaitek/IMG_1248.webp",
+          "filename": "IMG_1248.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "2lq2byk",
+          "src": "/appui-images/kaitek/IMG_1249.webp",
+          "filename": "IMG_1249.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8nv2x4f",
+          "src": "/appui-images/kaitek/IMG_1250.webp",
+          "filename": "IMG_1250.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rkwlqpu",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "ko5k19t",
+          "src": "/appui-images/kaitek/IMG_1251.webp",
+          "filename": "IMG_1251.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "c11weoy",
+          "src": "/appui-images/kaitek/IMG_1252.webp",
+          "filename": "IMG_1252.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "5lj2cus",
+          "src": "/appui-images/kaitek/IMG_1253.webp",
+          "filename": "IMG_1253.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4j8ev8m",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "n8d0uzr",
+          "src": "/appui-images/kaitek/IMG_1254.webp",
+          "filename": "IMG_1254.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "oo0hgu1",
+          "src": "/appui-images/kaitek/IMG_1255.webp",
+          "filename": "IMG_1255.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "aqrlswk",
+          "src": "/appui-images/kaitek/IMG_1256.webp",
+          "filename": "IMG_1256.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xnldmpi",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "he83qn9",
+          "src": "/appui-images/kaitek/IMG_1257.webp",
+          "filename": "IMG_1257.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "cn3zlwp",
+          "src": "/appui-images/kaitek/IMG_1258.webp",
+          "filename": "IMG_1258.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vxj5us2",
+          "src": "/appui-images/kaitek/IMG_1259.webp",
+          "filename": "IMG_1259.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "t8idrxv",
+          "src": "/appui-images/kaitek/IMG_1268.webp",
+          "filename": "IMG_1268.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5uli1g5",
+          "src": "/appui-images/kaitek/IMG_1269.webp",
+          "filename": "IMG_1269.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "dvtladh",
+          "src": "/appui-images/kaitek/IMG_1270.webp",
+          "filename": "IMG_1270.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6sejhs",
+      "title": "給与・口座",
+      "images": [
+        {
+          "id": "u1s2n0p",
+          "src": "/appui-images/kaitek/IMG_1260.webp",
+          "filename": "IMG_1260.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "u9d7ufg",
+          "src": "/appui-images/kaitek/IMG_1263.webp",
+          "filename": "IMG_1263.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ibwd1w",
+      "title": "経験・転職意欲",
+      "images": [
+        {
+          "id": "a3kne7q",
+          "src": "/appui-images/kaitek/IMG_1261.webp",
+          "filename": "IMG_1261.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "a6dcrej",
+          "src": "/appui-images/kaitek/IMG_1262.webp",
+          "filename": "IMG_1262.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ney238z",
+      "title": "働きたい日",
+      "images": [
+        {
+          "id": "82dgez3",
+          "src": "/appui-images/kaitek/IMG_1264.webp",
+          "filename": "IMG_1264.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "qviivac",
+          "src": "/appui-images/kaitek/IMG_1265.webp",
+          "filename": "IMG_1265.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "110ttgo",
+          "src": "/appui-images/kaitek/IMG_1266.webp",
+          "filename": "IMG_1266.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4cdwq32",
+          "src": "/appui-images/kaitek/IMG_1267.webp",
+          "filename": "IMG_1267.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yvsclh6",
+      "title": "ポイント",
+      "images": [
+        {
+          "id": "jvgqarv",
+          "src": "/appui-images/kaitek/IMG_1271.webp",
+          "filename": "IMG_1271.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "f9ssa02",
+          "src": "/appui-images/kaitek/IMG_1272.webp",
+          "filename": "IMG_1272.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "peug4f6",
+          "src": "/appui-images/kaitek/IMG_1273.webp",
+          "filename": "IMG_1273.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8l2w652",
+          "src": "/appui-images/kaitek/IMG_1274.webp",
+          "filename": "IMG_1274.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "htkplny",
+      "title": "設定",
+      "images": [
+        {
+          "id": "vs2hufn",
+          "src": "/appui-images/kaitek/IMG_1275.webp",
+          "filename": "IMG_1275.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "pgn7bgo",
+          "src": "/appui-images/kaitek/IMG_1276.webp",
+          "filename": "IMG_1276.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "s4f9sy6",
+          "src": "/appui-images/kaitek/IMG_1277.webp",
+          "filename": "IMG_1277.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "zp0w9oz",
+          "src": "/appui-images/kaitek/IMG_1278.webp",
+          "filename": "IMG_1278.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "c660d69",
+          "src": "/appui-images/kaitek/IMG_1279.webp",
+          "filename": "IMG_1279.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "カイテク"
+}

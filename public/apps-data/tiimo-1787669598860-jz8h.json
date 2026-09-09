@@ -1,0 +1,811 @@
+{
+  "id": "tiimo-1787669598860-jz8h",
+  "name": "Timo",
+  "description": "* 2025 年 iPhone アプリ・オブ・ザ・イヤー * Appleデザインアワード2024年ファイナリスト * 最優秀支援技術2022年（神経多様性アワード） Tiimoはやるべきことの実行、集中力の維持、習慣づくり、生産性管理をシ",
+  "iconUrl": "/appui-images/tiimo/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/tiimo-%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A2-%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%82%92%E7%BF%92%E6%85%A3%E5%8C%96-adhd%E5%AF%BE%E7%AD%96-%E9%9B%86%E4%B8%AD/id1480220328?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "オンボーディング",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "カレンダー",
+    "フィルター",
+    "タブ・セグメントコントロール",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "y83qygf",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "f9t5u94",
+          "src": "/appui-images/tiimo/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "oi2a6c4",
+          "src": "/appui-images/tiimo/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "o10yik8",
+          "src": "/appui-images/tiimo/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "spom4ds",
+          "src": "/appui-images/tiimo/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "r3r60nk",
+          "src": "/appui-images/tiimo/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4bljnne",
+          "src": "/appui-images/tiimo/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cp3jgg9",
+          "src": "/appui-images/tiimo/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4wi5vqg",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "bd1bqd1",
+          "src": "/appui-images/tiimo/IMG_1951.webp",
+          "filename": "IMG_1951.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "polpveu",
+          "src": "/appui-images/tiimo/IMG_1952.webp",
+          "filename": "IMG_1952.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "wujkrqc",
+          "src": "/appui-images/tiimo/IMG_1953.webp",
+          "filename": "IMG_1953.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "spr3zbh",
+          "src": "/appui-images/tiimo/IMG_1954.webp",
+          "filename": "IMG_1954.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "n7iy0gt",
+          "src": "/appui-images/tiimo/IMG_1955.webp",
+          "filename": "IMG_1955.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "g666ece",
+          "src": "/appui-images/tiimo/IMG_1956.webp",
+          "filename": "IMG_1956.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "pm9ersn",
+          "src": "/appui-images/tiimo/IMG_1957.webp",
+          "filename": "IMG_1957.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "w8pfv3y",
+          "src": "/appui-images/tiimo/IMG_1958.webp",
+          "filename": "IMG_1958.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "8xuj50z",
+          "src": "/appui-images/tiimo/IMG_1959.webp",
+          "filename": "IMG_1959.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "mj5idqg",
+          "src": "/appui-images/tiimo/IMG_1960.webp",
+          "filename": "IMG_1960.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "vqnhqv5",
+          "src": "/appui-images/tiimo/IMG_1961.webp",
+          "filename": "IMG_1961.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "aa5sa4b",
+          "src": "/appui-images/tiimo/IMG_1962.webp",
+          "filename": "IMG_1962.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "al15jka",
+          "src": "/appui-images/tiimo/IMG_1963.webp",
+          "filename": "IMG_1963.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "70v299b",
+          "src": "/appui-images/tiimo/IMG_1964.webp",
+          "filename": "IMG_1964.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "mdw8za7",
+          "src": "/appui-images/tiimo/IMG_1965.webp",
+          "filename": "IMG_1965.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "0skmp76",
+          "src": "/appui-images/tiimo/IMG_1966.webp",
+          "filename": "IMG_1966.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zhf6bne",
+          "src": "/appui-images/tiimo/IMG_1967.webp",
+          "filename": "IMG_1967.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "vt86mse",
+          "src": "/appui-images/tiimo/IMG_1968.webp",
+          "filename": "IMG_1968.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "dhfjtjt",
+          "src": "/appui-images/tiimo/IMG_1969.webp",
+          "filename": "IMG_1969.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ue24wan",
+          "src": "/appui-images/tiimo/IMG_1970.webp",
+          "filename": "IMG_1970.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2w7rumb",
+          "src": "/appui-images/tiimo/IMG_1971.webp",
+          "filename": "IMG_1971.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "63sa8xl",
+          "src": "/appui-images/tiimo/IMG_1972.webp",
+          "filename": "IMG_1972.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schg2ar",
+      "title": "ホーム・今日",
+      "images": [
+        {
+          "id": "l7xejnd",
+          "src": "/appui-images/tiimo/IMG_1973.webp",
+          "filename": "IMG_1973.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "frndsb6",
+          "src": "/appui-images/tiimo/IMG_1974.webp",
+          "filename": "IMG_1974.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "440955a",
+          "src": "/appui-images/tiimo/IMG_1975.webp",
+          "filename": "IMG_1975.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "yi2rapp",
+          "src": "/appui-images/tiimo/IMG_1976.webp",
+          "filename": "IMG_1976.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ve1y9x6",
+          "src": "/appui-images/tiimo/IMG_1977.webp",
+          "filename": "IMG_1977.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "xx2h8q4",
+          "src": "/appui-images/tiimo/IMG_2009.webp",
+          "filename": "IMG_2009.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w1yw5f3",
+      "title": "リスト管理",
+      "images": [
+        {
+          "id": "qgo32vq",
+          "src": "/appui-images/tiimo/IMG_1978.webp",
+          "filename": "IMG_1978.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "8obtm6l",
+          "src": "/appui-images/tiimo/IMG_1979.webp",
+          "filename": "IMG_1979.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "9x4byv5",
+          "src": "/appui-images/tiimo/IMG_1980.webp",
+          "filename": "IMG_1980.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "g4u5mu4",
+          "src": "/appui-images/tiimo/IMG_1981.webp",
+          "filename": "IMG_1981.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "8x2jbre",
+          "src": "/appui-images/tiimo/IMG_1982.webp",
+          "filename": "IMG_1982.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "3jcp7z5",
+          "src": "/appui-images/tiimo/IMG_1983.webp",
+          "filename": "IMG_1983.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "i36rzo2",
+          "src": "/appui-images/tiimo/IMG_1984.webp",
+          "filename": "IMG_1984.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "5vw82jv",
+          "src": "/appui-images/tiimo/IMG_1985.webp",
+          "filename": "IMG_1985.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jx67qnj",
+      "title": "集中・フォーカス",
+      "images": [
+        {
+          "id": "njnqg78",
+          "src": "/appui-images/tiimo/IMG_1986.webp",
+          "filename": "IMG_1986.webp",
+          "components": [
+            "ダッシュボード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "nsig3ao",
+          "src": "/appui-images/tiimo/IMG_1987.webp",
+          "filename": "IMG_1987.webp",
+          "components": [
+            "ダッシュボード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "g0gc49o",
+          "src": "/appui-images/tiimo/IMG_1988.webp",
+          "filename": "IMG_1988.webp",
+          "components": [
+            "ダッシュボード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "yt3ax08",
+          "src": "/appui-images/tiimo/IMG_1989.webp",
+          "filename": "IMG_1989.webp",
+          "components": [
+            "ダッシュボード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "98u42m7",
+          "src": "/appui-images/tiimo/IMG_1990.webp",
+          "filename": "IMG_1990.webp",
+          "components": [
+            "ダッシュボード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "zg5vv1l",
+          "src": "/appui-images/tiimo/IMG_1991.webp",
+          "filename": "IMG_1991.webp",
+          "components": [
+            "ダッシュボード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rho3brf",
+      "title": "統計・プロフィール",
+      "images": [
+        {
+          "id": "82g55te",
+          "src": "/appui-images/tiimo/IMG_1992.webp",
+          "filename": "IMG_1992.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "apjuihj",
+          "src": "/appui-images/tiimo/IMG_1993.webp",
+          "filename": "IMG_1993.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "edjpq8y",
+          "src": "/appui-images/tiimo/IMG_1994.webp",
+          "filename": "IMG_1994.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "6l2uck1",
+          "src": "/appui-images/tiimo/IMG_1995.webp",
+          "filename": "IMG_1995.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pfmf6su",
+      "title": "設定",
+      "images": [
+        {
+          "id": "y3dzzo3",
+          "src": "/appui-images/tiimo/IMG_1996.webp",
+          "filename": "IMG_1996.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "fhs9k8e",
+          "src": "/appui-images/tiimo/IMG_1997.webp",
+          "filename": "IMG_1997.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "4vg70bx",
+          "src": "/appui-images/tiimo/IMG_1998.webp",
+          "filename": "IMG_1998.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xdxn881",
+          "src": "/appui-images/tiimo/IMG_1999.webp",
+          "filename": "IMG_1999.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zimu609",
+          "src": "/appui-images/tiimo/IMG_2001.webp",
+          "filename": "IMG_2001.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb3vhvg",
+      "title": "タスク操作",
+      "images": [
+        {
+          "id": "znb2wsu",
+          "src": "/appui-images/tiimo/IMG_2002.webp",
+          "filename": "IMG_2002.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "067km1m",
+          "src": "/appui-images/tiimo/IMG_2003.webp",
+          "filename": "IMG_2003.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "i79z4uw",
+          "src": "/appui-images/tiimo/IMG_2004.webp",
+          "filename": "IMG_2004.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "not7lyl",
+          "src": "/appui-images/tiimo/IMG_2005.webp",
+          "filename": "IMG_2005.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "u702i1q",
+          "src": "/appui-images/tiimo/IMG_2006.webp",
+          "filename": "IMG_2006.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "2xiab1o",
+          "src": "/appui-images/tiimo/IMG_2007.webp",
+          "filename": "IMG_2007.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "vxwwhka",
+          "src": "/appui-images/tiimo/IMG_2008.webp",
+          "filename": "IMG_2008.webp",
+          "components": [
+            "フォーム",
+            "カレンダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "tiimo"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "rocket-now-1786626212196",
+  "name": "Rocket Now",
+  "description": "フードデリバリー「Rocket Now」。配送料・サービス料0円が特徴。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/ef/dd/e4efddd3-01ee-c4a3-01ff-660b287dadc7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id6739188587",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "ck1uchy",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "nqo5sce",
+          "src": "/appui-images/rocket-now/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "aezh69x",
+          "src": "/appui-images/rocket-now/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4brog3i",
+          "src": "/appui-images/rocket-now/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hwplfmd",
+          "src": "/appui-images/rocket-now/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sdw8vnn",
+          "src": "/appui-images/rocket-now/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4isiovm",
+          "src": "/appui-images/rocket-now/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c75nc2x",
+          "src": "/appui-images/rocket-now/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dpa0txo",
+          "src": "/appui-images/rocket-now/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "rocket-now"
+}

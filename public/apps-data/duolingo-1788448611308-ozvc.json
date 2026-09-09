@@ -1,0 +1,1246 @@
+{
+  "id": "duolingo-1788448611308-ozvc",
+  "name": "Duolingo",
+  "description": "世界で最もダウンロードされている語学アプリDuolingo（デュオリンゴ）では、40以上もの言語が無料で学べます。ゲーム感覚で学習できる機能も満載。5分程度のひとくちサイズのレッスンは、外出先でのスキマ時間にも最適です。またスピーキング・リ…",
+  "iconUrl": "/appui-images/duolingo/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/duolingo-%E8%8B%B1%E8%AA%9E-%E9%9F%93%E5%9B%BD%E8%AA%9E%E3%81%AA%E3%81%A9%E3%81%AE%E3%83%AA%E3%82%B9%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%84%E8%8B%B1%E5%8D%98%E8%AA%9E%E3%81%AE%E7%B7%B4%E7%BF%92/id570060128?uo=4",
+  "categories": [
+    "教育"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター",
+    "オンボーディング"
+  ],
+  "sections": [
+    {
+      "id": "fd6u2iq",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "ewzhoqy",
+          "src": "/appui-images/duolingo/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f5qz5g5",
+          "src": "/appui-images/duolingo/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cjpw9ed",
+          "src": "/appui-images/duolingo/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0r0js5a",
+          "src": "/appui-images/duolingo/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "flu4wfg",
+          "src": "/appui-images/duolingo/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7blxyq8",
+          "src": "/appui-images/duolingo/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r7xfr0u",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "wrgjerz",
+          "src": "/appui-images/duolingo/IMG_2829.webp",
+          "filename": "IMG_2829.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "hbmik68",
+          "src": "/appui-images/duolingo/IMG_2830.webp",
+          "filename": "IMG_2830.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "eu3bcnj",
+          "src": "/appui-images/duolingo/IMG_2831.webp",
+          "filename": "IMG_2831.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "n1x6t12",
+          "src": "/appui-images/duolingo/IMG_2832.webp",
+          "filename": "IMG_2832.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "h3r0r12",
+          "src": "/appui-images/duolingo/IMG_2833.webp",
+          "filename": "IMG_2833.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "by87w1n",
+          "src": "/appui-images/duolingo/IMG_2834.webp",
+          "filename": "IMG_2834.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "nyxoq66",
+          "src": "/appui-images/duolingo/IMG_2835.webp",
+          "filename": "IMG_2835.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "qhoy157",
+          "src": "/appui-images/duolingo/IMG_2836.webp",
+          "filename": "IMG_2836.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "8j3eunm",
+          "src": "/appui-images/duolingo/IMG_2837.webp",
+          "filename": "IMG_2837.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "ylfxrt6",
+          "src": "/appui-images/duolingo/IMG_2838.webp",
+          "filename": "IMG_2838.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "6kb9fhq",
+          "src": "/appui-images/duolingo/IMG_2839.webp",
+          "filename": "IMG_2839.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "562o8om",
+          "src": "/appui-images/duolingo/IMG_2840.webp",
+          "filename": "IMG_2840.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "obrrog4",
+          "src": "/appui-images/duolingo/IMG_2841.webp",
+          "filename": "IMG_2841.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "evf8aya",
+          "src": "/appui-images/duolingo/IMG_2842.webp",
+          "filename": "IMG_2842.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "oqbybqx",
+          "src": "/appui-images/duolingo/IMG_2843.webp",
+          "filename": "IMG_2843.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gmioax9",
+      "title": "レッスン",
+      "images": [
+        {
+          "id": "b8w1xrf",
+          "src": "/appui-images/duolingo/IMG_2844.webp",
+          "filename": "IMG_2844.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "vm7m5e2",
+          "src": "/appui-images/duolingo/IMG_2845.webp",
+          "filename": "IMG_2845.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "z652nai",
+          "src": "/appui-images/duolingo/IMG_2846.webp",
+          "filename": "IMG_2846.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "oroz2uw",
+          "src": "/appui-images/duolingo/IMG_2847.webp",
+          "filename": "IMG_2847.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "6ss6kh5",
+          "src": "/appui-images/duolingo/IMG_2848.webp",
+          "filename": "IMG_2848.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "qhuj668",
+          "src": "/appui-images/duolingo/IMG_2849.webp",
+          "filename": "IMG_2849.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "6t29hc8",
+          "src": "/appui-images/duolingo/IMG_2850.webp",
+          "filename": "IMG_2850.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "zracwf3",
+          "src": "/appui-images/duolingo/IMG_2851.webp",
+          "filename": "IMG_2851.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "61akww8",
+          "src": "/appui-images/duolingo/IMG_2852.webp",
+          "filename": "IMG_2852.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "lqasjxm",
+          "src": "/appui-images/duolingo/IMG_2853.webp",
+          "filename": "IMG_2853.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "av7zmz4",
+          "src": "/appui-images/duolingo/IMG_2854.webp",
+          "filename": "IMG_2854.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "7wz46qa",
+          "src": "/appui-images/duolingo/IMG_2855.webp",
+          "filename": "IMG_2855.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "drf3g80",
+          "src": "/appui-images/duolingo/IMG_2881.webp",
+          "filename": "IMG_2881.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "x1auiak",
+          "src": "/appui-images/duolingo/IMG_2882.webp",
+          "filename": "IMG_2882.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "7xcgnh2",
+          "src": "/appui-images/duolingo/IMG_2883.webp",
+          "filename": "IMG_2883.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "wcwkvno",
+          "src": "/appui-images/duolingo/IMG_2884.webp",
+          "filename": "IMG_2884.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "9un09j4",
+          "src": "/appui-images/duolingo/IMG_2885.webp",
+          "filename": "IMG_2885.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "fc1oue2",
+          "src": "/appui-images/duolingo/IMG_2886.webp",
+          "filename": "IMG_2886.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "fgqclhl",
+          "src": "/appui-images/duolingo/IMG_2887.webp",
+          "filename": "IMG_2887.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "btmyfpy",
+          "src": "/appui-images/duolingo/IMG_2888.webp",
+          "filename": "IMG_2888.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "jafxkjk",
+          "src": "/appui-images/duolingo/IMG_2889.webp",
+          "filename": "IMG_2889.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "ipmrdcy",
+          "src": "/appui-images/duolingo/IMG_2890.webp",
+          "filename": "IMG_2890.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "xw1hghv",
+          "src": "/appui-images/duolingo/IMG_2891.webp",
+          "filename": "IMG_2891.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "ihmqqip",
+          "src": "/appui-images/duolingo/IMG_2892.webp",
+          "filename": "IMG_2892.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "naikeqg",
+          "src": "/appui-images/duolingo/IMG_2893.webp",
+          "filename": "IMG_2893.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "jinx73t",
+          "src": "/appui-images/duolingo/IMG_2894.webp",
+          "filename": "IMG_2894.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "mkt8kyo",
+          "src": "/appui-images/duolingo/IMG_2895.webp",
+          "filename": "IMG_2895.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3rjvogi",
+      "title": "連続記録・クエスト",
+      "images": [
+        {
+          "id": "gwqh8r8",
+          "src": "/appui-images/duolingo/IMG_2856.webp",
+          "filename": "IMG_2856.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "e8t8yus",
+          "src": "/appui-images/duolingo/IMG_2857.webp",
+          "filename": "IMG_2857.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "6gg8j38",
+          "src": "/appui-images/duolingo/IMG_2858.webp",
+          "filename": "IMG_2858.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "o7leqrj",
+          "src": "/appui-images/duolingo/IMG_2859.webp",
+          "filename": "IMG_2859.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "g3y0kaq",
+          "src": "/appui-images/duolingo/IMG_2860.webp",
+          "filename": "IMG_2860.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "io8bj4c",
+          "src": "/appui-images/duolingo/IMG_2861.webp",
+          "filename": "IMG_2861.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "tz4xsyf",
+          "src": "/appui-images/duolingo/IMG_2862.webp",
+          "filename": "IMG_2862.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "e6is1v4",
+          "src": "/appui-images/duolingo/IMG_2863.webp",
+          "filename": "IMG_2863.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "7z3se4q",
+          "src": "/appui-images/duolingo/IMG_2864.webp",
+          "filename": "IMG_2864.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "y46aot5",
+          "src": "/appui-images/duolingo/IMG_2865.webp",
+          "filename": "IMG_2865.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "urc6fkz",
+          "src": "/appui-images/duolingo/IMG_2866.webp",
+          "filename": "IMG_2866.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "78qq4pf",
+          "src": "/appui-images/duolingo/IMG_2867.webp",
+          "filename": "IMG_2867.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "2tvt1nk",
+          "src": "/appui-images/duolingo/IMG_2896.webp",
+          "filename": "IMG_2896.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "rdt05eg",
+          "src": "/appui-images/duolingo/IMG_2897.webp",
+          "filename": "IMG_2897.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vcldast",
+      "title": "アカウント登録",
+      "images": [
+        {
+          "id": "erc7h98",
+          "src": "/appui-images/duolingo/IMG_2868.webp",
+          "filename": "IMG_2868.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "zo0nyvo",
+          "src": "/appui-images/duolingo/IMG_2869.webp",
+          "filename": "IMG_2869.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "qouab6w",
+          "src": "/appui-images/duolingo/IMG_2870.webp",
+          "filename": "IMG_2870.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "3qxi0os",
+          "src": "/appui-images/duolingo/IMG_2873.webp",
+          "filename": "IMG_2873.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "4yetl64",
+          "src": "/appui-images/duolingo/IMG_2876.webp",
+          "filename": "IMG_2876.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "uip6p91",
+          "src": "/appui-images/duolingo/IMG_2877.webp",
+          "filename": "IMG_2877.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ikbi1gy",
+      "title": "フレンズ・リーグ",
+      "images": [
+        {
+          "id": "858okc4",
+          "src": "/appui-images/duolingo/IMG_2898.webp",
+          "filename": "IMG_2898.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "oa7izzy",
+          "src": "/appui-images/duolingo/IMG_2899.webp",
+          "filename": "IMG_2899.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "yv4on2s",
+          "src": "/appui-images/duolingo/IMG_2900.webp",
+          "filename": "IMG_2900.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "o71kt0w",
+          "src": "/appui-images/duolingo/IMG_2901.webp",
+          "filename": "IMG_2901.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "buephtj",
+          "src": "/appui-images/duolingo/IMG_2902.webp",
+          "filename": "IMG_2902.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "my3uxo5",
+          "src": "/appui-images/duolingo/IMG_2903.webp",
+          "filename": "IMG_2903.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "1mih2yw",
+          "src": "/appui-images/duolingo/IMG_2904.webp",
+          "filename": "IMG_2904.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "vfizz1f",
+          "src": "/appui-images/duolingo/IMG_2905.webp",
+          "filename": "IMG_2905.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "vayv9lb",
+          "src": "/appui-images/duolingo/IMG_2906.webp",
+          "filename": "IMG_2906.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "zixlo8y",
+          "src": "/appui-images/duolingo/IMG_2907.webp",
+          "filename": "IMG_2907.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "jojved1",
+          "src": "/appui-images/duolingo/IMG_2908.webp",
+          "filename": "IMG_2908.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "wzratir",
+          "src": "/appui-images/duolingo/IMG_2909.webp",
+          "filename": "IMG_2909.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hblh4a3",
+      "title": "コース・プレミアム",
+      "images": [
+        {
+          "id": "ol6lf06",
+          "src": "/appui-images/duolingo/IMG_2910.webp",
+          "filename": "IMG_2910.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "v73za9m",
+          "src": "/appui-images/duolingo/IMG_2911.webp",
+          "filename": "IMG_2911.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "rb8hrub",
+          "src": "/appui-images/duolingo/IMG_2912.webp",
+          "filename": "IMG_2912.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "a41l0qq",
+          "src": "/appui-images/duolingo/IMG_2913.webp",
+          "filename": "IMG_2913.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "ndbzoap",
+          "src": "/appui-images/duolingo/IMG_2914.webp",
+          "filename": "IMG_2914.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "qwelvco",
+          "src": "/appui-images/duolingo/IMG_2915.webp",
+          "filename": "IMG_2915.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "cncnwhj",
+          "src": "/appui-images/duolingo/IMG_2916.webp",
+          "filename": "IMG_2916.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "liol28a",
+          "src": "/appui-images/duolingo/IMG_2917.webp",
+          "filename": "IMG_2917.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "2q5pij0",
+          "src": "/appui-images/duolingo/IMG_2918.webp",
+          "filename": "IMG_2918.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "p12vxbz",
+          "src": "/appui-images/duolingo/IMG_2919.webp",
+          "filename": "IMG_2919.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7pi493",
+      "title": "プロフィール",
+      "images": [
+        {
+          "id": "ch1jvgq",
+          "src": "/appui-images/duolingo/IMG_2920.webp",
+          "filename": "IMG_2920.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "cwdutxn",
+          "src": "/appui-images/duolingo/IMG_2921.webp",
+          "filename": "IMG_2921.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "fmuv6oz",
+          "src": "/appui-images/duolingo/IMG_2922.webp",
+          "filename": "IMG_2922.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "yepsu5q",
+          "src": "/appui-images/duolingo/IMG_2923.webp",
+          "filename": "IMG_2923.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "k4jmzj2",
+          "src": "/appui-images/duolingo/IMG_2924.webp",
+          "filename": "IMG_2924.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "14x6f3i",
+          "src": "/appui-images/duolingo/IMG_2925.webp",
+          "filename": "IMG_2925.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "g5nhm55",
+          "src": "/appui-images/duolingo/IMG_2926.webp",
+          "filename": "IMG_2926.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "y0wst39",
+          "src": "/appui-images/duolingo/IMG_2928.webp",
+          "filename": "IMG_2928.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "duolingo"
+}

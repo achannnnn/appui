@@ -1,0 +1,337 @@
+{
+  "id": "icoca-1787669608736-byn8",
+  "name": "ICOCA",
+  "description": "全国の鉄道やバスの乗車、お買い物の支払いがApple Payでできる「ICOCA」のアプリです。 発行時に「TOICAモデル」を選択することで、JR東海エリアの定期券も購入可能となりました！ J-WESTカードをお持ちなら、券面印字の",
+  "iconUrl": "/appui-images/icoca/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/icoca%E3%82%A2%E3%83%97%E3%83%AA/id6444271546?uo=4",
+  "categories": [
+    "金融"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "フィルター",
+    "オンボーディング"
+  ],
+  "sections": [
+    {
+      "id": "71rhm5y",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "e7d9gvg",
+          "src": "/appui-images/icoca/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "99ysl3n",
+          "src": "/appui-images/icoca/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "dyw9r53",
+          "src": "/appui-images/icoca/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "zzu8qly",
+          "src": "/appui-images/icoca/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "c953zle",
+          "src": "/appui-images/icoca/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "gxy9chb",
+          "src": "/appui-images/icoca/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "el4zgsx",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "9euodru",
+          "src": "/appui-images/icoca/IMG_2010.webp",
+          "filename": "IMG_2010.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "bmb3ch6",
+          "src": "/appui-images/icoca/IMG_2011.webp",
+          "filename": "IMG_2011.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "lb7icu9",
+          "src": "/appui-images/icoca/IMG_2012.webp",
+          "filename": "IMG_2012.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jua4xwz",
+      "title": "ポイント",
+      "images": [
+        {
+          "id": "kgpnzdv",
+          "src": "/appui-images/icoca/IMG_2013.webp",
+          "filename": "IMG_2013.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tvj3w2i",
+      "title": "定期券",
+      "images": [
+        {
+          "id": "zokc11e",
+          "src": "/appui-images/icoca/IMG_2014.webp",
+          "filename": "IMG_2014.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ak8zhyi",
+      "title": "利用履歴",
+      "images": [
+        {
+          "id": "0s4g1rd",
+          "src": "/appui-images/icoca/IMG_2015.webp",
+          "filename": "IMG_2015.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ohwtw32",
+      "title": "IC管理",
+      "images": [
+        {
+          "id": "kc4s0wx",
+          "src": "/appui-images/icoca/IMG_2016.webp",
+          "filename": "IMG_2016.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "837vhku",
+          "src": "/appui-images/icoca/IMG_2017.webp",
+          "filename": "IMG_2017.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "aonwg92",
+          "src": "/appui-images/icoca/IMG_2018.webp",
+          "filename": "IMG_2018.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7do2yv",
+      "title": "決済",
+      "images": [
+        {
+          "id": "90z1w94",
+          "src": "/appui-images/icoca/IMG_2019.webp",
+          "filename": "IMG_2019.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7grts8",
+      "title": "サービス設定",
+      "images": [
+        {
+          "id": "7yc8zt5",
+          "src": "/appui-images/icoca/IMG_2020.webp",
+          "filename": "IMG_2020.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2hy4yko",
+      "title": "設定",
+      "images": [
+        {
+          "id": "khwcjup",
+          "src": "/appui-images/icoca/IMG_2021.webp",
+          "filename": "IMG_2021.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "symvpld",
+          "src": "/appui-images/icoca/IMG_2022.webp",
+          "filename": "IMG_2022.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ve4rnd7",
+          "src": "/appui-images/icoca/IMG_2023.webp",
+          "filename": "IMG_2023.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ywekwmo",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "wd6vjko",
+          "src": "/appui-images/icoca/IMG_2024.webp",
+          "filename": "IMG_2024.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "vlh4h9d",
+          "src": "/appui-images/icoca/IMG_2025.webp",
+          "filename": "IMG_2025.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5vyo9pd",
+      "title": "発行",
+      "images": [
+        {
+          "id": "055gabh",
+          "src": "/appui-images/icoca/IMG_2026.webp",
+          "filename": "IMG_2026.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "icoca"
+}

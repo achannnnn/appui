@@ -1,0 +1,2415 @@
+{
+  "id": "careertas-1788967946396-nzr0",
+  "name": "キャリタス",
+  "description": "全学年向けインターンシップ&採用情報サイト「キャリタス就活」の公式アプリです。 「本音をきく、本気でこたえる。キャリタス就活」 キャリタス就活は、初めての就活にのぞむあなたにいつでも寄り添う就職情報サービスです。企業探しから選考対策までシー…",
+  "iconUrl": "/appui-images/careertas/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E5%B0%B1%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA-%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%BF%E3%82%B9%E5%B0%B1%E6%B4%BB-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E6%A4%9C%E7%B4%A2%E3%82%84es-%E9%9D%A2%E6%8E%A5-%E5%AF%BE%E7%AD%96/id6448085073?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "i7pelmv",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "o8lefqk",
+          "src": "/appui-images/careertas/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "az62h88",
+          "src": "/appui-images/careertas/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2t6ria9",
+          "src": "/appui-images/careertas/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9vu4e72",
+          "src": "/appui-images/careertas/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vo58o0s",
+          "src": "/appui-images/careertas/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yppslbs",
+          "src": "/appui-images/careertas/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xtp9a5b",
+          "src": "/appui-images/careertas/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ztdize1",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "l7mp67n",
+          "src": "/appui-images/careertas/IMG_4964.webp",
+          "filename": "IMG_4964.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iqk4hi8",
+          "src": "/appui-images/careertas/IMG_4965.webp",
+          "filename": "IMG_4965.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qwtu8jz",
+          "src": "/appui-images/careertas/IMG_4966.webp",
+          "filename": "IMG_4966.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6inxj6d",
+          "src": "/appui-images/careertas/IMG_4967.webp",
+          "filename": "IMG_4967.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w7dh4q7",
+          "src": "/appui-images/careertas/IMG_4985.webp",
+          "filename": "IMG_4985.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mzabwqv",
+          "src": "/appui-images/careertas/IMG_5008.webp",
+          "filename": "IMG_5008.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mksl10p",
+          "src": "/appui-images/careertas/IMG_5009.webp",
+          "filename": "IMG_5009.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k9aokpa",
+          "src": "/appui-images/careertas/IMG_5010.webp",
+          "filename": "IMG_5010.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sv9t1im",
+          "src": "/appui-images/careertas/IMG_5011.webp",
+          "filename": "IMG_5011.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ilw8w3i",
+          "src": "/appui-images/careertas/IMG_5012.webp",
+          "filename": "IMG_5012.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g7nqtdv",
+          "src": "/appui-images/careertas/IMG_5013.webp",
+          "filename": "IMG_5013.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gktl21e",
+          "src": "/appui-images/careertas/IMG_5014.webp",
+          "filename": "IMG_5014.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3d1up54",
+          "src": "/appui-images/careertas/IMG_5015.webp",
+          "filename": "IMG_5015.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6uhx4q5",
+          "src": "/appui-images/careertas/IMG_5016.webp",
+          "filename": "IMG_5016.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wmjx2zf",
+          "src": "/appui-images/careertas/IMG_5017.webp",
+          "filename": "IMG_5017.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2dx2a3o",
+          "src": "/appui-images/careertas/IMG_5040.webp",
+          "filename": "IMG_5040.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wg8xlrk",
+          "src": "/appui-images/careertas/IMG_5041.webp",
+          "filename": "IMG_5041.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s00zkbb",
+          "src": "/appui-images/careertas/IMG_5119.webp",
+          "filename": "IMG_5119.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i4upu3j",
+          "src": "/appui-images/careertas/IMG_5120.webp",
+          "filename": "IMG_5120.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nohx5rk",
+          "src": "/appui-images/careertas/IMG_5121.webp",
+          "filename": "IMG_5121.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m03egi6",
+          "src": "/appui-images/careertas/IMG_5144.webp",
+          "filename": "IMG_5144.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "snsugoh",
+          "src": "/appui-images/careertas/IMG_5145.webp",
+          "filename": "IMG_5145.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0etiiwg",
+          "src": "/appui-images/careertas/IMG_5147.webp",
+          "filename": "IMG_5147.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qr1w9bc",
+          "src": "/appui-images/careertas/IMG_5148.webp",
+          "filename": "IMG_5148.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bw4nkp1",
+          "src": "/appui-images/careertas/IMG_5150.webp",
+          "filename": "IMG_5150.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "brqhwof",
+          "src": "/appui-images/careertas/IMG_5151.webp",
+          "filename": "IMG_5151.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sj22c5b",
+          "src": "/appui-images/careertas/IMG_5152.webp",
+          "filename": "IMG_5152.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nb3mh5v",
+          "src": "/appui-images/careertas/IMG_5153.webp",
+          "filename": "IMG_5153.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xdg8ydt",
+          "src": "/appui-images/careertas/IMG_5155.webp",
+          "filename": "IMG_5155.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s6ul9gs",
+          "src": "/appui-images/careertas/IMG_5156.webp",
+          "filename": "IMG_5156.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6dm6z0t",
+          "src": "/appui-images/careertas/IMG_5157.webp",
+          "filename": "IMG_5157.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rhc38np",
+          "src": "/appui-images/careertas/IMG_5158.webp",
+          "filename": "IMG_5158.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s6otlp4",
+          "src": "/appui-images/careertas/IMG_5159.webp",
+          "filename": "IMG_5159.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zsbox94",
+          "src": "/appui-images/careertas/IMG_5160.webp",
+          "filename": "IMG_5160.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xp77brv",
+      "title": "登録・プロフィール",
+      "images": [
+        {
+          "id": "wt1itrf",
+          "src": "/appui-images/careertas/IMG_4968.webp",
+          "filename": "IMG_4968.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tgsu08z",
+          "src": "/appui-images/careertas/IMG_4969.webp",
+          "filename": "IMG_4969.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "434ymiy",
+          "src": "/appui-images/careertas/IMG_4970.webp",
+          "filename": "IMG_4970.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ak48z5a",
+          "src": "/appui-images/careertas/IMG_4971.webp",
+          "filename": "IMG_4971.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d1zc39m",
+          "src": "/appui-images/careertas/IMG_4972.webp",
+          "filename": "IMG_4972.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ujteqhu",
+          "src": "/appui-images/careertas/IMG_4973.webp",
+          "filename": "IMG_4973.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g9c0chi",
+          "src": "/appui-images/careertas/IMG_4976.webp",
+          "filename": "IMG_4976.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rai3mfk",
+          "src": "/appui-images/careertas/IMG_4977.webp",
+          "filename": "IMG_4977.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k6prm1q",
+          "src": "/appui-images/careertas/IMG_4978.webp",
+          "filename": "IMG_4978.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "041tyx8",
+          "src": "/appui-images/careertas/IMG_4979.webp",
+          "filename": "IMG_4979.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "szzlw97",
+          "src": "/appui-images/careertas/IMG_4980.webp",
+          "filename": "IMG_4980.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ne6ivly",
+          "src": "/appui-images/careertas/IMG_4981.webp",
+          "filename": "IMG_4981.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mk11spy",
+          "src": "/appui-images/careertas/IMG_4982.webp",
+          "filename": "IMG_4982.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "an6drx5",
+          "src": "/appui-images/careertas/IMG_4983.webp",
+          "filename": "IMG_4983.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jn9i94l",
+          "src": "/appui-images/careertas/IMG_4984.webp",
+          "filename": "IMG_4984.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4yz36ai",
+          "src": "/appui-images/careertas/IMG_4986.webp",
+          "filename": "IMG_4986.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6u0z5sq",
+          "src": "/appui-images/careertas/IMG_4987.webp",
+          "filename": "IMG_4987.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rv01eel",
+          "src": "/appui-images/careertas/IMG_4988.webp",
+          "filename": "IMG_4988.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mtu26x1",
+          "src": "/appui-images/careertas/IMG_4993.webp",
+          "filename": "IMG_4993.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lh0ba5s",
+          "src": "/appui-images/careertas/IMG_5045.webp",
+          "filename": "IMG_5045.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gnic7ai",
+          "src": "/appui-images/careertas/IMG_5047.webp",
+          "filename": "IMG_5047.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s4uu9j0",
+          "src": "/appui-images/careertas/IMG_5048.webp",
+          "filename": "IMG_5048.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mm16s3d",
+          "src": "/appui-images/careertas/IMG_5088.webp",
+          "filename": "IMG_5088.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gbkz8hv",
+          "src": "/appui-images/careertas/IMG_5089.webp",
+          "filename": "IMG_5089.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ywtig9h",
+          "src": "/appui-images/careertas/IMG_5109.webp",
+          "filename": "IMG_5109.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "djyx4j1",
+          "src": "/appui-images/careertas/IMG_5112.webp",
+          "filename": "IMG_5112.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ost10fn",
+          "src": "/appui-images/careertas/IMG_5118.webp",
+          "filename": "IMG_5118.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qxiuxop",
+          "src": "/appui-images/careertas/IMG_5125.webp",
+          "filename": "IMG_5125.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w4qqcii",
+          "src": "/appui-images/careertas/IMG_5142.webp",
+          "filename": "IMG_5142.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2uictxs",
+          "src": "/appui-images/careertas/IMG_5143.webp",
+          "filename": "IMG_5143.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bo2vsdt",
+          "src": "/appui-images/careertas/IMG_5146.webp",
+          "filename": "IMG_5146.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0laizow",
+          "src": "/appui-images/careertas/IMG_5154.webp",
+          "filename": "IMG_5154.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hlzq6th",
+          "src": "/appui-images/careertas/IMG_5161.webp",
+          "filename": "IMG_5161.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j4h7z2q",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "0krxpge",
+          "src": "/appui-images/careertas/IMG_4989.webp",
+          "filename": "IMG_4989.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0rsxuuf",
+          "src": "/appui-images/careertas/IMG_4991.webp",
+          "filename": "IMG_4991.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7pcwzu4",
+          "src": "/appui-images/careertas/IMG_4992.webp",
+          "filename": "IMG_4992.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "onrf81o",
+          "src": "/appui-images/careertas/IMG_4994.webp",
+          "filename": "IMG_4994.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bsng6w5",
+          "src": "/appui-images/careertas/IMG_4995.webp",
+          "filename": "IMG_4995.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ubndg6v",
+          "src": "/appui-images/careertas/IMG_4996.webp",
+          "filename": "IMG_4996.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hsg3yxc",
+          "src": "/appui-images/careertas/IMG_4997.webp",
+          "filename": "IMG_4997.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rmrt3v8",
+          "src": "/appui-images/careertas/IMG_5042.webp",
+          "filename": "IMG_5042.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pmklvkp",
+          "src": "/appui-images/careertas/IMG_5046.webp",
+          "filename": "IMG_5046.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bnc5jbc",
+          "src": "/appui-images/careertas/IMG_5051.webp",
+          "filename": "IMG_5051.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dgii5ph",
+          "src": "/appui-images/careertas/IMG_5052.webp",
+          "filename": "IMG_5052.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "srom3bb",
+          "src": "/appui-images/careertas/IMG_5057.webp",
+          "filename": "IMG_5057.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9cn11l4",
+          "src": "/appui-images/careertas/IMG_5058.webp",
+          "filename": "IMG_5058.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fp4i8t8",
+          "src": "/appui-images/careertas/IMG_5059.webp",
+          "filename": "IMG_5059.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "aglkgmw",
+          "src": "/appui-images/careertas/IMG_5060.webp",
+          "filename": "IMG_5060.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "46bp5cu",
+          "src": "/appui-images/careertas/IMG_5061.webp",
+          "filename": "IMG_5061.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7w0y164",
+          "src": "/appui-images/careertas/IMG_5062.webp",
+          "filename": "IMG_5062.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p6zt5ol",
+          "src": "/appui-images/careertas/IMG_5063.webp",
+          "filename": "IMG_5063.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "skom8p5",
+          "src": "/appui-images/careertas/IMG_5068.webp",
+          "filename": "IMG_5068.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jew5zmn",
+          "src": "/appui-images/careertas/IMG_5075.webp",
+          "filename": "IMG_5075.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t5n4mag",
+          "src": "/appui-images/careertas/IMG_5085.webp",
+          "filename": "IMG_5085.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kzjwhlw",
+          "src": "/appui-images/careertas/IMG_5086.webp",
+          "filename": "IMG_5086.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u7n8vo4",
+          "src": "/appui-images/careertas/IMG_5087.webp",
+          "filename": "IMG_5087.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ltbrtak",
+          "src": "/appui-images/careertas/IMG_5090.webp",
+          "filename": "IMG_5090.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eemz745",
+          "src": "/appui-images/careertas/IMG_5091.webp",
+          "filename": "IMG_5091.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l1yojfh",
+          "src": "/appui-images/careertas/IMG_5092.webp",
+          "filename": "IMG_5092.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w1eymyp",
+          "src": "/appui-images/careertas/IMG_5093.webp",
+          "filename": "IMG_5093.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "od4ql8w",
+          "src": "/appui-images/careertas/IMG_5094.webp",
+          "filename": "IMG_5094.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gxenp93",
+          "src": "/appui-images/careertas/IMG_5095.webp",
+          "filename": "IMG_5095.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8o5qz38",
+          "src": "/appui-images/careertas/IMG_5097.webp",
+          "filename": "IMG_5097.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fxdzsfe",
+          "src": "/appui-images/careertas/IMG_5098.webp",
+          "filename": "IMG_5098.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "azn5d5g",
+          "src": "/appui-images/careertas/IMG_5099.webp",
+          "filename": "IMG_5099.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5f1qw93",
+          "src": "/appui-images/careertas/IMG_5106.webp",
+          "filename": "IMG_5106.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w0g3r87",
+          "src": "/appui-images/careertas/IMG_5114.webp",
+          "filename": "IMG_5114.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5st5xsf",
+          "src": "/appui-images/careertas/IMG_5117.webp",
+          "filename": "IMG_5117.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w371npy",
+          "src": "/appui-images/careertas/IMG_5122.webp",
+          "filename": "IMG_5122.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rls6kly",
+          "src": "/appui-images/careertas/IMG_5123.webp",
+          "filename": "IMG_5123.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hj0qzgk",
+          "src": "/appui-images/careertas/IMG_5124.webp",
+          "filename": "IMG_5124.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1v9o9fu",
+          "src": "/appui-images/careertas/IMG_5126.webp",
+          "filename": "IMG_5126.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l84yi3m",
+          "src": "/appui-images/careertas/IMG_5127.webp",
+          "filename": "IMG_5127.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xt4h742",
+          "src": "/appui-images/careertas/IMG_5128.webp",
+          "filename": "IMG_5128.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xxnfu3r",
+          "src": "/appui-images/careertas/IMG_5129.webp",
+          "filename": "IMG_5129.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kvjuf16",
+          "src": "/appui-images/careertas/IMG_5130.webp",
+          "filename": "IMG_5130.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hsvh7bd",
+          "src": "/appui-images/careertas/IMG_5131.webp",
+          "filename": "IMG_5131.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z4zskw2",
+          "src": "/appui-images/careertas/IMG_5132.webp",
+          "filename": "IMG_5132.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9zq650t",
+          "src": "/appui-images/careertas/IMG_5133.webp",
+          "filename": "IMG_5133.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wknq193",
+          "src": "/appui-images/careertas/IMG_5134.webp",
+          "filename": "IMG_5134.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bck9fv1",
+          "src": "/appui-images/careertas/IMG_5135.webp",
+          "filename": "IMG_5135.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10ojud3",
+      "title": "企業検索・一覧",
+      "images": [
+        {
+          "id": "vcorwfg",
+          "src": "/appui-images/careertas/IMG_4990.webp",
+          "filename": "IMG_4990.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w30ip2i",
+          "src": "/appui-images/careertas/IMG_4998.webp",
+          "filename": "IMG_4998.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k7mlh18",
+          "src": "/appui-images/careertas/IMG_4999.webp",
+          "filename": "IMG_4999.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zd6qc8a",
+          "src": "/appui-images/careertas/IMG_5001.webp",
+          "filename": "IMG_5001.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w8mmug9",
+          "src": "/appui-images/careertas/IMG_5002.webp",
+          "filename": "IMG_5002.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2ctswsx",
+          "src": "/appui-images/careertas/IMG_5003.webp",
+          "filename": "IMG_5003.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z75b5n4",
+          "src": "/appui-images/careertas/IMG_5004.webp",
+          "filename": "IMG_5004.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l3incie",
+          "src": "/appui-images/careertas/IMG_5005.webp",
+          "filename": "IMG_5005.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "466n7mo",
+          "src": "/appui-images/careertas/IMG_5006.webp",
+          "filename": "IMG_5006.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ltexhvm",
+          "src": "/appui-images/careertas/IMG_5007.webp",
+          "filename": "IMG_5007.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gad1r5l",
+          "src": "/appui-images/careertas/IMG_5018.webp",
+          "filename": "IMG_5018.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j7tp48o",
+          "src": "/appui-images/careertas/IMG_5019.webp",
+          "filename": "IMG_5019.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gf6zerp",
+          "src": "/appui-images/careertas/IMG_5020.webp",
+          "filename": "IMG_5020.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qiucap2",
+          "src": "/appui-images/careertas/IMG_5021.webp",
+          "filename": "IMG_5021.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wpf3n54",
+          "src": "/appui-images/careertas/IMG_5022.webp",
+          "filename": "IMG_5022.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dpzl0i4",
+          "src": "/appui-images/careertas/IMG_5023.webp",
+          "filename": "IMG_5023.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i3dxn9v",
+          "src": "/appui-images/careertas/IMG_5024.webp",
+          "filename": "IMG_5024.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "y67f2bv",
+          "src": "/appui-images/careertas/IMG_5025.webp",
+          "filename": "IMG_5025.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1zzoo56",
+          "src": "/appui-images/careertas/IMG_5026.webp",
+          "filename": "IMG_5026.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o1mhnks",
+          "src": "/appui-images/careertas/IMG_5027.webp",
+          "filename": "IMG_5027.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6f4f0lf",
+          "src": "/appui-images/careertas/IMG_5028.webp",
+          "filename": "IMG_5028.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "svcocqy",
+          "src": "/appui-images/careertas/IMG_5029.webp",
+          "filename": "IMG_5029.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jqs5cnc",
+          "src": "/appui-images/careertas/IMG_5030.webp",
+          "filename": "IMG_5030.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q3vc5uh",
+          "src": "/appui-images/careertas/IMG_5031.webp",
+          "filename": "IMG_5031.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m9p5k6s",
+          "src": "/appui-images/careertas/IMG_5032.webp",
+          "filename": "IMG_5032.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nfuqeqd",
+          "src": "/appui-images/careertas/IMG_5033.webp",
+          "filename": "IMG_5033.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rf49q2b",
+          "src": "/appui-images/careertas/IMG_5034.webp",
+          "filename": "IMG_5034.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bohlkkf",
+          "src": "/appui-images/careertas/IMG_5035.webp",
+          "filename": "IMG_5035.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w66f0c5",
+          "src": "/appui-images/careertas/IMG_5036.webp",
+          "filename": "IMG_5036.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dvyoai3",
+          "src": "/appui-images/careertas/IMG_5037.webp",
+          "filename": "IMG_5037.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nrc3k0c",
+          "src": "/appui-images/careertas/IMG_5038.webp",
+          "filename": "IMG_5038.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g0rezdd",
+          "src": "/appui-images/careertas/IMG_5039.webp",
+          "filename": "IMG_5039.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6ltpw5e",
+          "src": "/appui-images/careertas/IMG_5049.webp",
+          "filename": "IMG_5049.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tyww6q4",
+          "src": "/appui-images/careertas/IMG_5050.webp",
+          "filename": "IMG_5050.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kgyhpb4",
+          "src": "/appui-images/careertas/IMG_5064.webp",
+          "filename": "IMG_5064.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5pmkyp0",
+          "src": "/appui-images/careertas/IMG_5065.webp",
+          "filename": "IMG_5065.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h349mi7",
+          "src": "/appui-images/careertas/IMG_5066.webp",
+          "filename": "IMG_5066.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lsygwo7",
+          "src": "/appui-images/careertas/IMG_5067.webp",
+          "filename": "IMG_5067.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9be5dgs",
+          "src": "/appui-images/careertas/IMG_5069.webp",
+          "filename": "IMG_5069.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nc4bxz8",
+          "src": "/appui-images/careertas/IMG_5070.webp",
+          "filename": "IMG_5070.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vz3n5hq",
+          "src": "/appui-images/careertas/IMG_5071.webp",
+          "filename": "IMG_5071.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xdlgdnc",
+          "src": "/appui-images/careertas/IMG_5072.webp",
+          "filename": "IMG_5072.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cnwhnge",
+          "src": "/appui-images/careertas/IMG_5073.webp",
+          "filename": "IMG_5073.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k5qtwg2",
+          "src": "/appui-images/careertas/IMG_5074.webp",
+          "filename": "IMG_5074.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tcp388v",
+          "src": "/appui-images/careertas/IMG_5076.webp",
+          "filename": "IMG_5076.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3to07bd",
+          "src": "/appui-images/careertas/IMG_5077.webp",
+          "filename": "IMG_5077.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wimf8ha",
+          "src": "/appui-images/careertas/IMG_5078.webp",
+          "filename": "IMG_5078.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kr9xd7s",
+          "src": "/appui-images/careertas/IMG_5079.webp",
+          "filename": "IMG_5079.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iebdjil",
+          "src": "/appui-images/careertas/IMG_5080.webp",
+          "filename": "IMG_5080.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jixcaoc",
+          "src": "/appui-images/careertas/IMG_5081.webp",
+          "filename": "IMG_5081.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5o0mwkh",
+          "src": "/appui-images/careertas/IMG_5082.webp",
+          "filename": "IMG_5082.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3kx68v1",
+          "src": "/appui-images/careertas/IMG_5083.webp",
+          "filename": "IMG_5083.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nitqlcl",
+          "src": "/appui-images/careertas/IMG_5084.webp",
+          "filename": "IMG_5084.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xos1cft",
+          "src": "/appui-images/careertas/IMG_5096.webp",
+          "filename": "IMG_5096.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "r4misn3",
+          "src": "/appui-images/careertas/IMG_5100.webp",
+          "filename": "IMG_5100.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0tl8hus",
+          "src": "/appui-images/careertas/IMG_5101.webp",
+          "filename": "IMG_5101.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f7viq7r",
+          "src": "/appui-images/careertas/IMG_5102.webp",
+          "filename": "IMG_5102.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "smn1a3i",
+          "src": "/appui-images/careertas/IMG_5103.webp",
+          "filename": "IMG_5103.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bu32mvp",
+          "src": "/appui-images/careertas/IMG_5104.webp",
+          "filename": "IMG_5104.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5wn9cki",
+          "src": "/appui-images/careertas/IMG_5105.webp",
+          "filename": "IMG_5105.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fvckrnk",
+          "src": "/appui-images/careertas/IMG_5107.webp",
+          "filename": "IMG_5107.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yfmxfs0",
+          "src": "/appui-images/careertas/IMG_5108.webp",
+          "filename": "IMG_5108.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "46dnhlm",
+          "src": "/appui-images/careertas/IMG_5113.webp",
+          "filename": "IMG_5113.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1bdql4q",
+          "src": "/appui-images/careertas/IMG_5115.webp",
+          "filename": "IMG_5115.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ll43dsa",
+          "src": "/appui-images/careertas/IMG_5116.webp",
+          "filename": "IMG_5116.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tbiedaw",
+          "src": "/appui-images/careertas/IMG_5136.webp",
+          "filename": "IMG_5136.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xia1j41",
+          "src": "/appui-images/careertas/IMG_5137.webp",
+          "filename": "IMG_5137.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zgz9nm4",
+          "src": "/appui-images/careertas/IMG_5138.webp",
+          "filename": "IMG_5138.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b4if9at",
+          "src": "/appui-images/careertas/IMG_5141.webp",
+          "filename": "IMG_5141.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "grwop2s",
+          "src": "/appui-images/careertas/IMG_5149.webp",
+          "filename": "IMG_5149.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bsxzq5",
+      "title": "イベント・メッセージ",
+      "images": [
+        {
+          "id": "8n2mgnr",
+          "src": "/appui-images/careertas/IMG_5043.webp",
+          "filename": "IMG_5043.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ba0q2oz",
+          "src": "/appui-images/careertas/IMG_5044.webp",
+          "filename": "IMG_5044.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zonprus",
+      "title": "企業詳細",
+      "images": [
+        {
+          "id": "hpb2813",
+          "src": "/appui-images/careertas/IMG_5110.webp",
+          "filename": "IMG_5110.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0cnqhp9",
+          "src": "/appui-images/careertas/IMG_5111.webp",
+          "filename": "IMG_5111.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "careertas"
+}

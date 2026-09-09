@@ -1,0 +1,609 @@
+{
+  "id": "smartnews-1787963589542-eetm",
+  "name": "SmartNews",
+  "description": "【3行要約でニュースを時短。クーポンもポイントもこれひとつ】 ■ AIが3行要約：最新ニュースを1分で把握 忙しい朝の「タイパ（タイムパフォーマンス）」を最大化。最新のAI技術が膨大なニュースを3行に要約。主要トピックを瞬時に理解できるから、情報収集が驚くほどスムーズになります",
+  "iconUrl": "/appui-images/smartnews/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%9D%E3%82%A4%E6%B4%BB-%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3-%E5%A4%A9%E6%B0%97/id579581125?uo=4",
+  "categories": [
+    "ニュース"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "オンボーディング",
+    "フォーム",
+    "タブ・セグメントコントロール",
+    "ダッシュボード",
+    "プロフィール",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "tw8u58q",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "xfwi43g",
+          "src": "/appui-images/smartnews/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "43mx8ec",
+          "src": "/appui-images/smartnews/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yi1mxr4",
+          "src": "/appui-images/smartnews/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "gg7lz2y",
+          "src": "/appui-images/smartnews/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hwb4lqv",
+          "src": "/appui-images/smartnews/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2mme4q4",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "7ygbzfi",
+          "src": "/appui-images/smartnews/IMG_2239.webp",
+          "filename": "IMG_2239.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "y626zft",
+          "src": "/appui-images/smartnews/IMG_2240.webp",
+          "filename": "IMG_2240.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "qgpoi0t",
+          "src": "/appui-images/smartnews/IMG_2241.webp",
+          "filename": "IMG_2241.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "m8c31bd",
+          "src": "/appui-images/smartnews/IMG_2242.webp",
+          "filename": "IMG_2242.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6nvwuxk",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "hdycj78",
+          "src": "/appui-images/smartnews/IMG_2243.webp",
+          "filename": "IMG_2243.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "exxhr8z",
+          "src": "/appui-images/smartnews/IMG_2244.webp",
+          "filename": "IMG_2244.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "1n33se1",
+          "src": "/appui-images/smartnews/IMG_2245.webp",
+          "filename": "IMG_2245.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "fzjkp91",
+          "src": "/appui-images/smartnews/IMG_2247.webp",
+          "filename": "IMG_2247.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83l52o1",
+      "title": "検索",
+      "images": [
+        {
+          "id": "ekbk1vo",
+          "src": "/appui-images/smartnews/IMG_2246.webp",
+          "filename": "IMG_2246.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o6qvzjz",
+      "title": "記事",
+      "images": [
+        {
+          "id": "5ywhb3s",
+          "src": "/appui-images/smartnews/IMG_2248.webp",
+          "filename": "IMG_2248.webp",
+          "components": [
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "t6g4qc0",
+          "src": "/appui-images/smartnews/IMG_2249.webp",
+          "filename": "IMG_2249.webp",
+          "components": [
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "svn43t4",
+          "src": "/appui-images/smartnews/IMG_2250.webp",
+          "filename": "IMG_2250.webp",
+          "components": [
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pflypsa",
+      "title": "天気",
+      "images": [
+        {
+          "id": "qle502a",
+          "src": "/appui-images/smartnews/IMG_2251.webp",
+          "filename": "IMG_2251.webp",
+          "components": [
+            "ダッシュボード",
+            "フォーム",
+            "検索"
+          ]
+        },
+        {
+          "id": "f4xqts6",
+          "src": "/appui-images/smartnews/IMG_2252.webp",
+          "filename": "IMG_2252.webp",
+          "components": [
+            "ダッシュボード",
+            "フォーム",
+            "検索"
+          ]
+        },
+        {
+          "id": "kiqzwo3",
+          "src": "/appui-images/smartnews/IMG_2253.webp",
+          "filename": "IMG_2253.webp",
+          "components": [
+            "ダッシュボード",
+            "フォーム",
+            "検索"
+          ]
+        },
+        {
+          "id": "p92jo76",
+          "src": "/appui-images/smartnews/IMG_2254.webp",
+          "filename": "IMG_2254.webp",
+          "components": [
+            "ダッシュボード",
+            "フォーム",
+            "検索"
+          ]
+        },
+        {
+          "id": "6t7ng4x",
+          "src": "/appui-images/smartnews/IMG_2255.webp",
+          "filename": "IMG_2255.webp",
+          "components": [
+            "ダッシュボード",
+            "フォーム",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xg3mr5u",
+      "title": "クーポン・ポイ活",
+      "images": [
+        {
+          "id": "77pf089",
+          "src": "/appui-images/smartnews/IMG_2256.webp",
+          "filename": "IMG_2256.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "n6fu0pt",
+          "src": "/appui-images/smartnews/IMG_2257.webp",
+          "filename": "IMG_2257.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cel9r8s",
+          "src": "/appui-images/smartnews/IMG_2258.webp",
+          "filename": "IMG_2258.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vqm70n9",
+          "src": "/appui-images/smartnews/IMG_2259.webp",
+          "filename": "IMG_2259.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cl96plg",
+          "src": "/appui-images/smartnews/IMG_2260.webp",
+          "filename": "IMG_2260.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "6p567do",
+          "src": "/appui-images/smartnews/IMG_2261.webp",
+          "filename": "IMG_2261.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "j2vt84y",
+          "src": "/appui-images/smartnews/IMG_2262.webp",
+          "filename": "IMG_2262.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "zjrrjla",
+          "src": "/appui-images/smartnews/IMG_2266.webp",
+          "filename": "IMG_2266.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc2p62l",
+      "title": "スマニュー+",
+      "images": [
+        {
+          "id": "96id3db",
+          "src": "/appui-images/smartnews/IMG_2263.webp",
+          "filename": "IMG_2263.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "7be48pg",
+          "src": "/appui-images/smartnews/IMG_2264.webp",
+          "filename": "IMG_2264.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "i7ia5y4",
+          "src": "/appui-images/smartnews/IMG_2265.webp",
+          "filename": "IMG_2265.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3zaple5",
+      "title": "通知・アカウント",
+      "images": [
+        {
+          "id": "74pvl90",
+          "src": "/appui-images/smartnews/IMG_2267.webp",
+          "filename": "IMG_2267.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "5iboi5f",
+          "src": "/appui-images/smartnews/IMG_2268.webp",
+          "filename": "IMG_2268.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "99t9eqv",
+          "src": "/appui-images/smartnews/IMG_2269.webp",
+          "filename": "IMG_2269.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "e3ofw2d",
+          "src": "/appui-images/smartnews/IMG_2270.webp",
+          "filename": "IMG_2270.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cpv3dee",
+      "title": "設定",
+      "images": [
+        {
+          "id": "6t4p4ii",
+          "src": "/appui-images/smartnews/IMG_2271.webp",
+          "filename": "IMG_2271.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "nslf27w",
+          "src": "/appui-images/smartnews/IMG_2272.webp",
+          "filename": "IMG_2272.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "dkfgjnd",
+          "src": "/appui-images/smartnews/IMG_2273.webp",
+          "filename": "IMG_2273.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "4ci8je0",
+          "src": "/appui-images/smartnews/IMG_2274.webp",
+          "filename": "IMG_2274.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "78vvsy8",
+          "src": "/appui-images/smartnews/IMG_2275.webp",
+          "filename": "IMG_2275.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "i2zewav",
+          "src": "/appui-images/smartnews/IMG_2276.webp",
+          "filename": "IMG_2276.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "xm17t9a",
+          "src": "/appui-images/smartnews/IMG_2277.webp",
+          "filename": "IMG_2277.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "odvfkbg",
+          "src": "/appui-images/smartnews/IMG_2278.webp",
+          "filename": "IMG_2278.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "txsik1r",
+          "src": "/appui-images/smartnews/IMG_2279.webp",
+          "filename": "IMG_2279.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "jmy45kf",
+          "src": "/appui-images/smartnews/IMG_2280.webp",
+          "filename": "IMG_2280.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "hmb10d6",
+          "src": "/appui-images/smartnews/IMG_2281.webp",
+          "filename": "IMG_2281.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "hu16s8h",
+          "src": "/appui-images/smartnews/IMG_2282.webp",
+          "filename": "IMG_2282.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "フィルター"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "smartnews"
+}

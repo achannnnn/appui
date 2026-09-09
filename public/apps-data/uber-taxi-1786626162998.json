@@ -1,0 +1,105 @@
+{
+  "id": "uber-taxi-1786626162998",
+  "name": "Uber Taxi",
+  "description": "Uberのタクシー配車アプリ。地図上で迎車位置を指定して呼べる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/6a/8b/806a8b44-511d-77dc-856d-f8b3a9642483/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id368677368",
+  "categories": [
+    "旅行"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "dv18c1p",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "p5yz9qr",
+          "src": "/appui-images/uber-taxi/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v5czzwx",
+          "src": "/appui-images/uber-taxi/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0uh6mwn",
+          "src": "/appui-images/uber-taxi/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xaqzf29",
+          "src": "/appui-images/uber-taxi/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2ww6ell",
+          "src": "/appui-images/uber-taxi/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iqpawek",
+          "src": "/appui-images/uber-taxi/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "uber-taxi"
+}

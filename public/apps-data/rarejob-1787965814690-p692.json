@@ -1,0 +1,473 @@
+{
+  "id": "rarejob-1787965814690-p692",
+  "name": "レアジョブ",
+  "description": "◇◇累計会員数120万人突破のオンライン英会話◇◇ 叶えたいのは、英語が話せること。オンラインで毎日話せるからこそ、英会話力は伸びます。「迷わず学べる・話せるようになる」学習体験を実現しました。いつでもどこでも気軽にレッスンが受けられ、自己学習も好きな時に！アプリで効率的に英会話",
+  "iconUrl": "/appui-images/rarejob/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%8B%B1%E4%BC%9A%E8%A9%B1-%E3%83%AC%E3%82%A2%E3%82%B8%E3%83%A7%E3%83%96%E8%8B%B1%E4%BC%9A%E8%A9%B1%E3%81%A7%E8%8B%B1%E8%AA%9E%E3%82%92%E5%8B%89%E5%BC%B7%E3%81%97%E3%82%88%E3%81%86/id1121942360?uo=4",
+  "categories": [
+    "教育"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "ダッシュボード",
+    "カレンダー",
+    "フィルター",
+    "オンボーディング",
+    "フォーム",
+    "モーダル・ボトムシート"
+  ],
+  "sections": [
+    {
+      "id": "416eksd",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "86sqt4m",
+          "src": "/appui-images/rarejob/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "b7bd7xi",
+          "src": "/appui-images/rarejob/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cwzvqgm",
+          "src": "/appui-images/rarejob/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rsfvqjh",
+          "src": "/appui-images/rarejob/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "v77n30y",
+          "src": "/appui-images/rarejob/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jfme66o",
+          "src": "/appui-images/rarejob/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16gs5cn",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "c6tplyc",
+          "src": "/appui-images/rarejob/IMG_2351.webp",
+          "filename": "IMG_2351.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "n2d3rgb",
+          "src": "/appui-images/rarejob/IMG_2369.webp",
+          "filename": "IMG_2369.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1584uuk",
+          "src": "/appui-images/rarejob/IMG_2370.webp",
+          "filename": "IMG_2370.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3pcyofp",
+      "title": "レッスン予約",
+      "images": [
+        {
+          "id": "4b66ffq",
+          "src": "/appui-images/rarejob/IMG_2352.webp",
+          "filename": "IMG_2352.webp",
+          "components": [
+            "カレンダー",
+            "リスト",
+            "カード",
+            "検索",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "xftqukn",
+          "src": "/appui-images/rarejob/IMG_2372.webp",
+          "filename": "IMG_2372.webp",
+          "components": [
+            "カレンダー",
+            "リスト",
+            "カード",
+            "検索",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "s8u96vr",
+          "src": "/appui-images/rarejob/IMG_2373.webp",
+          "filename": "IMG_2373.webp",
+          "components": [
+            "カレンダー",
+            "リスト",
+            "カード",
+            "検索",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w7o9vmz",
+      "title": "ソロトレ",
+      "images": [
+        {
+          "id": "00x96p8",
+          "src": "/appui-images/rarejob/IMG_2353.webp",
+          "filename": "IMG_2353.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "eacqqv7",
+          "src": "/appui-images/rarejob/IMG_2354.webp",
+          "filename": "IMG_2354.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "x5f4rmi",
+          "src": "/appui-images/rarejob/IMG_2355.webp",
+          "filename": "IMG_2355.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "wm0frpb",
+          "src": "/appui-images/rarejob/IMG_2356.webp",
+          "filename": "IMG_2356.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "eufjvgn",
+          "src": "/appui-images/rarejob/IMG_2357.webp",
+          "filename": "IMG_2357.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "x28nac4",
+          "src": "/appui-images/rarejob/IMG_2359.webp",
+          "filename": "IMG_2359.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "qb2sexw",
+          "src": "/appui-images/rarejob/IMG_2360.webp",
+          "filename": "IMG_2360.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "iamjwan",
+          "src": "/appui-images/rarejob/IMG_2361.webp",
+          "filename": "IMG_2361.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h7lfbyx",
+      "title": "教材",
+      "images": [
+        {
+          "id": "7djtiss",
+          "src": "/appui-images/rarejob/IMG_2358.webp",
+          "filename": "IMG_2358.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "nysbxsl",
+          "src": "/appui-images/rarejob/IMG_2362.webp",
+          "filename": "IMG_2362.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "em1ebk8",
+          "src": "/appui-images/rarejob/IMG_2363.webp",
+          "filename": "IMG_2363.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "sq3t6li",
+          "src": "/appui-images/rarejob/IMG_2364.webp",
+          "filename": "IMG_2364.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a4owd7",
+      "title": "英会話力測定",
+      "images": [
+        {
+          "id": "lbi85tk",
+          "src": "/appui-images/rarejob/IMG_2365.webp",
+          "filename": "IMG_2365.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "2rxtu0h",
+          "src": "/appui-images/rarejob/IMG_2366.webp",
+          "filename": "IMG_2366.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "tufqzxw",
+          "src": "/appui-images/rarejob/IMG_2367.webp",
+          "filename": "IMG_2367.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "kxe0prp",
+          "src": "/appui-images/rarejob/IMG_2368.webp",
+          "filename": "IMG_2368.webp",
+          "components": [
+            "ダッシュボード",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4lepggz",
+      "title": "レッスンチケット",
+      "images": [
+        {
+          "id": "adv7hn1",
+          "src": "/appui-images/rarejob/IMG_2371.webp",
+          "filename": "IMG_2371.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sokt9xd",
+      "title": "レッスン画面",
+      "images": [
+        {
+          "id": "h0qwv7b",
+          "src": "/appui-images/rarejob/IMG_2375.webp",
+          "filename": "IMG_2375.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "zjh3wmq",
+          "src": "/appui-images/rarejob/IMG_2376.webp",
+          "filename": "IMG_2376.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "6xwh8ao",
+          "src": "/appui-images/rarejob/IMG_2377.webp",
+          "filename": "IMG_2377.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "uwhxdxs",
+          "src": "/appui-images/rarejob/IMG_2378.webp",
+          "filename": "IMG_2378.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "njiqi79",
+      "title": "設定",
+      "images": [
+        {
+          "id": "rau1zih",
+          "src": "/appui-images/rarejob/IMG_2374.webp",
+          "filename": "IMG_2374.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "e9kyx23",
+          "src": "/appui-images/rarejob/IMG_2379.webp",
+          "filename": "IMG_2379.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "krrc9ga",
+          "src": "/appui-images/rarejob/IMG_2380.webp",
+          "filename": "IMG_2380.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "a2oeh3p",
+          "src": "/appui-images/rarejob/IMG_2381.webp",
+          "filename": "IMG_2381.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "rarejob"
+}

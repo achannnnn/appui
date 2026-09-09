@@ -1,0 +1,726 @@
+{
+  "id": "baitoru-1786203184112",
+  "name": "バイトル",
+  "description": "ディップのアルバイト求人アプリ「バイトル」。単発バイトも含め、人気のバイト・アルバイトを探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/98/e3/b198e353-c2a7-446c-81c4-59629cd8eaf5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id387320095",
+  "categories": [
+    "バイト"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "モーダル・ボトムシート",
+    "リスト",
+    "カード",
+    "フィルター",
+    "ヘッダー",
+    "検索",
+    "タブ・セグメントコントロール",
+    "ボトム ナビゲーション",
+    "ダッシュボード",
+    "プロフィール",
+    "フォーム"
+  ],
+  "sections": [
+    {
+      "id": "yh37dy7",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "alc3nyw",
+          "src": "/appui-images/baitoru/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0lksopb",
+          "src": "/appui-images/baitoru/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xmyetaj",
+          "src": "/appui-images/baitoru/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jazfye5",
+          "src": "/appui-images/baitoru/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "08r3h3s",
+          "src": "/appui-images/baitoru/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6ir5h6b",
+          "src": "/appui-images/baitoru/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rx2wu9m",
+      "title": "通知設定",
+      "images": [
+        {
+          "id": "43ttcdk",
+          "src": "/appui-images/baitoru/IMG_9564.webp",
+          "filename": "IMG_9564.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "67zl9k8",
+          "src": "/appui-images/baitoru/IMG_9565.webp",
+          "filename": "IMG_9565.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lbveijk",
+      "title": "エリア選択",
+      "images": [
+        {
+          "id": "td7ile1",
+          "src": "/appui-images/baitoru/IMG_9566.webp",
+          "filename": "IMG_9566.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "cu2x37t",
+          "src": "/appui-images/baitoru/IMG_9596.webp",
+          "filename": "IMG_9596.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "udtjzvk",
+      "title": "求人診断",
+      "images": [
+        {
+          "id": "qv7rgxc",
+          "src": "/appui-images/baitoru/IMG_9567.webp",
+          "filename": "IMG_9567.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "4auo78e",
+          "src": "/appui-images/baitoru/IMG_9568.webp",
+          "filename": "IMG_9568.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "kb2338a",
+          "src": "/appui-images/baitoru/IMG_9571.webp",
+          "filename": "IMG_9571.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "d16rt4k",
+          "src": "/appui-images/baitoru/IMG_9572.webp",
+          "filename": "IMG_9572.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "p46zbdx",
+          "src": "/appui-images/baitoru/IMG_9573.webp",
+          "filename": "IMG_9573.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "o4gqfqb",
+          "src": "/appui-images/baitoru/IMG_9574.webp",
+          "filename": "IMG_9574.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6hyafh",
+      "title": "駅・沿線選択",
+      "images": [
+        {
+          "id": "82mz1lb",
+          "src": "/appui-images/baitoru/IMG_9569.webp",
+          "filename": "IMG_9569.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "allf9rm",
+          "src": "/appui-images/baitoru/IMG_9570.webp",
+          "filename": "IMG_9570.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uqzrdng",
+      "title": "検索結果",
+      "images": [
+        {
+          "id": "o2ck9bd",
+          "src": "/appui-images/baitoru/IMG_9575.webp",
+          "filename": "IMG_9575.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hx72g9q",
+          "src": "/appui-images/baitoru/IMG_9576.webp",
+          "filename": "IMG_9576.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3ywo6n",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "v4c5btl",
+          "src": "/appui-images/baitoru/IMG_9577.webp",
+          "filename": "IMG_9577.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wkokguk",
+          "src": "/appui-images/baitoru/IMG_9578.webp",
+          "filename": "IMG_9578.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "o4kesfv",
+          "src": "/appui-images/baitoru/IMG_9579.webp",
+          "filename": "IMG_9579.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "5532vp4",
+          "src": "/appui-images/baitoru/IMG_9580.webp",
+          "filename": "IMG_9580.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "glr5bnd",
+          "src": "/appui-images/baitoru/IMG_9581.webp",
+          "filename": "IMG_9581.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "d8gnvh9",
+          "src": "/appui-images/baitoru/IMG_9582.webp",
+          "filename": "IMG_9582.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uysyrt0",
+      "title": "キープ一覧",
+      "images": [
+        {
+          "id": "kr24dyx",
+          "src": "/appui-images/baitoru/IMG_9583.webp",
+          "filename": "IMG_9583.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uhmj4h5",
+          "src": "/appui-images/baitoru/IMG_9584.webp",
+          "filename": "IMG_9584.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "y99mlta",
+          "src": "/appui-images/baitoru/IMG_9585.webp",
+          "filename": "IMG_9585.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83hio3k",
+      "title": "閲覧履歴",
+      "images": [
+        {
+          "id": "spwfjl6",
+          "src": "/appui-images/baitoru/IMG_9586.webp",
+          "filename": "IMG_9586.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0gbqlk",
+      "title": "応募済み",
+      "images": [
+        {
+          "id": "d3t7mcg",
+          "src": "/appui-images/baitoru/IMG_9587.webp",
+          "filename": "IMG_9587.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3q7otmn",
+      "title": "スポットバイトル",
+      "images": [
+        {
+          "id": "t68e68f",
+          "src": "/appui-images/baitoru/IMG_9588.webp",
+          "filename": "IMG_9588.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ugl6hat",
+          "src": "/appui-images/baitoru/IMG_9591.webp",
+          "filename": "IMG_9591.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jcda6va",
+          "src": "/appui-images/baitoru/IMG_9592.webp",
+          "filename": "IMG_9592.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfssybt",
+      "title": "スポットバイトル求人詳細",
+      "images": [
+        {
+          "id": "wif2l5z",
+          "src": "/appui-images/baitoru/IMG_9589.webp",
+          "filename": "IMG_9589.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "e28sb14",
+          "src": "/appui-images/baitoru/IMG_9590.webp",
+          "filename": "IMG_9590.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1smdzi6",
+      "title": "ホーム・サイドメニュー",
+      "images": [
+        {
+          "id": "ihgkimz",
+          "src": "/appui-images/baitoru/IMG_9593.webp",
+          "filename": "IMG_9593.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o9v1j0n",
+          "src": "/appui-images/baitoru/IMG_9594.webp",
+          "filename": "IMG_9594.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46julhh",
+      "title": "プロフィール",
+      "images": [
+        {
+          "id": "pdwf160",
+          "src": "/appui-images/baitoru/IMG_9595.webp",
+          "filename": "IMG_9595.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "btnwv6e",
+      "title": "スカウト",
+      "images": [
+        {
+          "id": "9qlzegk",
+          "src": "/appui-images/baitoru/IMG_9597.webp",
+          "filename": "IMG_9597.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xs5o44b",
+      "title": "トピックス",
+      "images": [
+        {
+          "id": "m1qj2x8",
+          "src": "/appui-images/baitoru/IMG_9598.webp",
+          "filename": "IMG_9598.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "twnuut5",
+          "src": "/appui-images/baitoru/IMG_9599.webp",
+          "filename": "IMG_9599.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rvagujm",
+      "title": "条件変更",
+      "images": [
+        {
+          "id": "5h8tam8",
+          "src": "/appui-images/baitoru/IMG_9600.webp",
+          "filename": "IMG_9600.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "検索",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "j88kuhi",
+          "src": "/appui-images/baitoru/IMG_9601.webp",
+          "filename": "IMG_9601.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "検索",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "keteite",
+          "src": "/appui-images/baitoru/IMG_9602.webp",
+          "filename": "IMG_9602.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "検索",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "kap72qt",
+          "src": "/appui-images/baitoru/IMG_9603.webp",
+          "filename": "IMG_9603.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "検索",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9p1jk9t",
+          "src": "/appui-images/baitoru/IMG_9604.webp",
+          "filename": "IMG_9604.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "検索",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "df8w9ee",
+          "src": "/appui-images/baitoru/IMG_9605.webp",
+          "filename": "IMG_9605.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "検索",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "バイトル"
+}

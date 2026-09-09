@@ -1,0 +1,1171 @@
+{
+  "id": "uniqlo-1786626082741",
+  "name": "UNIQLO",
+  "description": "ユニクロ公式アプリ。店舗在庫確認やアプリ限定クーポン、購入ができる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/81/ee/b481ee25-9339-cdbb-3b20-f153af2088f5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id460989014",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "検索",
+    "ボタン",
+    "フィルター",
+    "モーダル・ボトムシート",
+    "フォーム",
+    "プロフィール",
+    "オンボーディング",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "6mvprtz",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "4cikw5z",
+          "src": "/appui-images/uniqlo/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hzs7jm0",
+          "src": "/appui-images/uniqlo/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lnc366j",
+          "src": "/appui-images/uniqlo/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8p1bcgk",
+          "src": "/appui-images/uniqlo/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yrcklig",
+          "src": "/appui-images/uniqlo/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yvy7hxa",
+          "src": "/appui-images/uniqlo/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nwkouuf",
+          "src": "/appui-images/uniqlo/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "228czce",
+          "src": "/appui-images/uniqlo/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5w33bn7",
+          "src": "/appui-images/uniqlo/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r0sg98h",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "09jjjez",
+          "src": "/appui-images/uniqlo/IMG_0673.webp",
+          "filename": "IMG_0673.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        },
+        {
+          "id": "v45h95o",
+          "src": "/appui-images/uniqlo/IMG_0676.webp",
+          "filename": "IMG_0676.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        },
+        {
+          "id": "45b4jcb",
+          "src": "/appui-images/uniqlo/IMG_0677.webp",
+          "filename": "IMG_0677.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        },
+        {
+          "id": "17xtqpv",
+          "src": "/appui-images/uniqlo/IMG_0678.webp",
+          "filename": "IMG_0678.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        },
+        {
+          "id": "nyvdcqo",
+          "src": "/appui-images/uniqlo/IMG_0679.webp",
+          "filename": "IMG_0679.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        },
+        {
+          "id": "ghbvu98",
+          "src": "/appui-images/uniqlo/IMG_0680.webp",
+          "filename": "IMG_0680.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        },
+        {
+          "id": "8wy95s9",
+          "src": "/appui-images/uniqlo/IMG_0681.webp",
+          "filename": "IMG_0681.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g9fz579",
+      "title": "カテゴリ",
+      "images": [
+        {
+          "id": "deike0a",
+          "src": "/appui-images/uniqlo/IMG_0675.webp",
+          "filename": "IMG_0675.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lpdwgiu",
+      "title": "今週のチラシ",
+      "images": [
+        {
+          "id": "wf0dzkq",
+          "src": "/appui-images/uniqlo/IMG_0682.webp",
+          "filename": "IMG_0682.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bpyv339",
+      "title": "商品一覧",
+      "images": [
+        {
+          "id": "wxqimac",
+          "src": "/appui-images/uniqlo/IMG_0683.webp",
+          "filename": "IMG_0683.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "qvvglm5",
+          "src": "/appui-images/uniqlo/IMG_0684.webp",
+          "filename": "IMG_0684.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "3odmd7j",
+          "src": "/appui-images/uniqlo/IMG_0685.webp",
+          "filename": "IMG_0685.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "njnv2ub",
+          "src": "/appui-images/uniqlo/IMG_0686.webp",
+          "filename": "IMG_0686.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "0861e00",
+          "src": "/appui-images/uniqlo/IMG_0687.webp",
+          "filename": "IMG_0687.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9uw7q8q",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "dr2k44x",
+          "src": "/appui-images/uniqlo/IMG_0688.webp",
+          "filename": "IMG_0688.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jqzcu54",
+          "src": "/appui-images/uniqlo/IMG_0689.webp",
+          "filename": "IMG_0689.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "x7v51jd",
+          "src": "/appui-images/uniqlo/IMG_0703.webp",
+          "filename": "IMG_0703.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "b78p2u6",
+          "src": "/appui-images/uniqlo/IMG_0704.webp",
+          "filename": "IMG_0704.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "qw9wrx6",
+          "src": "/appui-images/uniqlo/IMG_0707.webp",
+          "filename": "IMG_0707.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3qq4mdl",
+      "title": "サイズガイド",
+      "images": [
+        {
+          "id": "qkqnedp",
+          "src": "/appui-images/uniqlo/IMG_0690.webp",
+          "filename": "IMG_0690.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zo6bsix",
+          "src": "/appui-images/uniqlo/IMG_0691.webp",
+          "filename": "IMG_0691.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "w95uqxx",
+          "src": "/appui-images/uniqlo/IMG_0692.webp",
+          "filename": "IMG_0692.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "c8zm74h",
+          "src": "/appui-images/uniqlo/IMG_0693.webp",
+          "filename": "IMG_0693.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9yzuszf",
+          "src": "/appui-images/uniqlo/IMG_0694.webp",
+          "filename": "IMG_0694.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ujmmbdz",
+          "src": "/appui-images/uniqlo/IMG_0695.webp",
+          "filename": "IMG_0695.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "96p9owp",
+          "src": "/appui-images/uniqlo/IMG_0696.webp",
+          "filename": "IMG_0696.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "1ob29sh",
+          "src": "/appui-images/uniqlo/IMG_0697.webp",
+          "filename": "IMG_0697.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9981j1j",
+      "title": "商品レビュー",
+      "images": [
+        {
+          "id": "q7lux4y",
+          "src": "/appui-images/uniqlo/IMG_0698.webp",
+          "filename": "IMG_0698.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "atmo1xe",
+          "src": "/appui-images/uniqlo/IMG_0699.webp",
+          "filename": "IMG_0699.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "2ui2ryc",
+          "src": "/appui-images/uniqlo/IMG_0700.webp",
+          "filename": "IMG_0700.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "p0enizs",
+          "src": "/appui-images/uniqlo/IMG_0701.webp",
+          "filename": "IMG_0701.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "ymd16hb",
+          "src": "/appui-images/uniqlo/IMG_0702.webp",
+          "filename": "IMG_0702.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "igwq53d",
+      "title": "チャットお問い合わせ",
+      "images": [
+        {
+          "id": "31wusus",
+          "src": "/appui-images/uniqlo/IMG_0705.webp",
+          "filename": "IMG_0705.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4s1jxmt",
+          "src": "/appui-images/uniqlo/IMG_0706.webp",
+          "filename": "IMG_0706.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98bmzb5",
+      "title": "検索",
+      "images": [
+        {
+          "id": "icp8xv1",
+          "src": "/appui-images/uniqlo/IMG_0708.webp",
+          "filename": "IMG_0708.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "hhwbmpn",
+          "src": "/appui-images/uniqlo/IMG_0709.webp",
+          "filename": "IMG_0709.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "qogcvx0",
+          "src": "/appui-images/uniqlo/IMG_0710.webp",
+          "filename": "IMG_0710.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tob8gce",
+      "title": "店舗検索",
+      "images": [
+        {
+          "id": "8s049b3",
+          "src": "/appui-images/uniqlo/IMG_0712.webp",
+          "filename": "IMG_0712.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "o9pz1yi",
+          "src": "/appui-images/uniqlo/IMG_0713.webp",
+          "filename": "IMG_0713.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jvliyty",
+          "src": "/appui-images/uniqlo/IMG_0714.webp",
+          "filename": "IMG_0714.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tb00vzo",
+      "title": "ヘルプ",
+      "images": [
+        {
+          "id": "m0lpn4d",
+          "src": "/appui-images/uniqlo/IMG_0715.webp",
+          "filename": "IMG_0715.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unzgwdh",
+      "title": "特集",
+      "images": [
+        {
+          "id": "j0qprks",
+          "src": "/appui-images/uniqlo/IMG_0716.webp",
+          "filename": "IMG_0716.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        },
+        {
+          "id": "fm0chqy",
+          "src": "/appui-images/uniqlo/IMG_0717.webp",
+          "filename": "IMG_0717.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dgibvr3",
+      "title": "商品一覧（エアリズム）",
+      "images": [
+        {
+          "id": "chj0y4f",
+          "src": "/appui-images/uniqlo/IMG_0718.webp",
+          "filename": "IMG_0718.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yqpdxdm",
+      "title": "会員証",
+      "images": [
+        {
+          "id": "wwb6sek",
+          "src": "/appui-images/uniqlo/IMG_0719.webp",
+          "filename": "IMG_0719.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9r136qt",
+      "title": "ログイン",
+      "images": [
+        {
+          "id": "b3eovi1",
+          "src": "/appui-images/uniqlo/IMG_0720.webp",
+          "filename": "IMG_0720.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1hr8f0z",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "4s8bi0t",
+          "src": "/appui-images/uniqlo/IMG_0722.webp",
+          "filename": "IMG_0722.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "8khfuce",
+          "src": "/appui-images/uniqlo/IMG_0723.webp",
+          "filename": "IMG_0723.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fwcj8k6",
+      "title": "購入履歴",
+      "images": [
+        {
+          "id": "cw63byv",
+          "src": "/appui-images/uniqlo/IMG_0724.webp",
+          "filename": "IMG_0724.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "awuy80f",
+      "title": "クーポン",
+      "images": [
+        {
+          "id": "41lt5u0",
+          "src": "/appui-images/uniqlo/IMG_0725.webp",
+          "filename": "IMG_0725.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "fgxweqt",
+          "src": "/appui-images/uniqlo/IMG_0726.webp",
+          "filename": "IMG_0726.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2nlj6l6",
+      "title": "お客様情報の確認・変更",
+      "images": [
+        {
+          "id": "kdi5vwu",
+          "src": "/appui-images/uniqlo/IMG_0727.webp",
+          "filename": "IMG_0727.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "8uitiww",
+          "src": "/appui-images/uniqlo/IMG_0740.webp",
+          "filename": "IMG_0740.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q3issou",
+      "title": "2段階認証",
+      "images": [
+        {
+          "id": "1y5t6es",
+          "src": "/appui-images/uniqlo/IMG_0728.webp",
+          "filename": "IMG_0728.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "qxonci3",
+          "src": "/appui-images/uniqlo/IMG_0729.webp",
+          "filename": "IMG_0729.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4crwqle",
+      "title": "注文設定",
+      "images": [
+        {
+          "id": "go5x750",
+          "src": "/appui-images/uniqlo/IMG_0730.webp",
+          "filename": "IMG_0730.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "kkiol2x",
+          "src": "/appui-images/uniqlo/IMG_0731.webp",
+          "filename": "IMG_0731.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cbios27",
+          "src": "/appui-images/uniqlo/IMG_0732.webp",
+          "filename": "IMG_0732.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n4212cw",
+      "title": "クレジットカード",
+      "images": [
+        {
+          "id": "vxsoxxq",
+          "src": "/appui-images/uniqlo/IMG_0733.webp",
+          "filename": "IMG_0733.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ymhre28",
+          "src": "/appui-images/uniqlo/IMG_0734.webp",
+          "filename": "IMG_0734.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bwuehpy",
+      "title": "ギフトカード",
+      "images": [
+        {
+          "id": "2n2hwhq",
+          "src": "/appui-images/uniqlo/IMG_0735.webp",
+          "filename": "IMG_0735.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20zxot8",
+      "title": "お届け先住所一覧",
+      "images": [
+        {
+          "id": "48ewwgg",
+          "src": "/appui-images/uniqlo/IMG_0736.webp",
+          "filename": "IMG_0736.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "802d6bd",
+      "title": "投稿したレビュー",
+      "images": [
+        {
+          "id": "nvoqqhm",
+          "src": "/appui-images/uniqlo/IMG_0737.webp",
+          "filename": "IMG_0737.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0j6gh1",
+      "title": "お知らせに関する設定",
+      "images": [
+        {
+          "id": "4kir0ma",
+          "src": "/appui-images/uniqlo/IMG_0738.webp",
+          "filename": "IMG_0738.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yprhp4z",
+      "title": "ログアウト",
+      "images": [
+        {
+          "id": "hx4n2rn",
+          "src": "/appui-images/uniqlo/IMG_0739.webp",
+          "filename": "IMG_0739.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gkv6yzh",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "9bdh7bj",
+          "src": "/appui-images/uniqlo/IMG_0741.webp",
+          "filename": "IMG_0741.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xck5x15",
+      "title": "レビュー投稿",
+      "images": [
+        {
+          "id": "jhmvrku",
+          "src": "/appui-images/uniqlo/IMG_0742.webp",
+          "filename": "IMG_0742.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jcsc8it",
+          "src": "/appui-images/uniqlo/IMG_0743.webp",
+          "filename": "IMG_0743.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "l1tz0eb",
+          "src": "/appui-images/uniqlo/IMG_0744.webp",
+          "filename": "IMG_0744.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "uniqlo"
+}

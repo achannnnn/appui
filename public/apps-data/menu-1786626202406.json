@@ -1,0 +1,105 @@
+{
+  "id": "menu-1786626202406",
+  "name": "menu",
+  "description": "フードデリバリー「menu」。レストランやコンビニの配達を頼める。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/58/58/4558585c-79f3-203d-c4da-2c74fb35d7a9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1443466646",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "55f88ak",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "9qqhfi1",
+          "src": "/appui-images/menu/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6oao444",
+          "src": "/appui-images/menu/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "br6fyhy",
+          "src": "/appui-images/menu/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b0r6z02",
+          "src": "/appui-images/menu/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4hgcadd",
+          "src": "/appui-images/menu/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jwh5ok4",
+          "src": "/appui-images/menu/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "menu"
+}

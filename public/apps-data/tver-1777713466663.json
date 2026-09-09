@@ -1,0 +1,273 @@
+{
+  "id": "tver-1777713466663",
+  "name": "TVer(ティーバー) 民放公式テレビ配信サービス",
+  "description": "ドラマやアニメ･バラエティ番組の見逃し配信が視聴できる",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/4e/6f/0f4e6fb1-37f0-5db3-1beb-622db362e843/Placeholder.mill/200x200bb-75.webp 200w",
+  "externalUrl": "https://apps.apple.com/jp/app/tver-ティーバー-民放公式テレビ配信サービス/id830340223",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "7ajuj0l",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "wzj272d",
+          "src": "/appui-images/tver-1777713466663/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wgvufw8",
+          "src": "/appui-images/tver-1777713466663/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "37mlu5d",
+          "src": "/appui-images/tver-1777713466663/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xsb6bdb",
+          "src": "/appui-images/tver-1777713466663/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "oa0d0u5",
+          "src": "/appui-images/tver-1777713466663/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sud6x97",
+          "src": "/appui-images/tver-1777713466663/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ys1q9sm",
+          "src": "/appui-images/tver-1777713466663/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s356te7",
+          "src": "/appui-images/tver-1777713466663/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8yd5jy3",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "yhpiiis",
+          "src": "/appui-images/tver-1777713466663/IMG_7840.webp",
+          "filename": "IMG_7840.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kl7uqxf",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "q9bzqiy",
+          "src": "/appui-images/tver-1777713466663/IMG_7841.webp",
+          "filename": "IMG_7841.webp"
+        },
+        {
+          "id": "i9b9fiq",
+          "src": "/appui-images/tver-1777713466663/IMG_7843.webp",
+          "filename": "IMG_7843.webp"
+        },
+        {
+          "id": "z7xj1j3",
+          "src": "/appui-images/tver-1777713466663/IMG_7842.webp",
+          "filename": "IMG_7842.webp"
+        }
+      ]
+    },
+    {
+      "id": "fv96kuz",
+      "title": "リアルタイム",
+      "images": [
+        {
+          "id": "996120j",
+          "src": "/appui-images/tver-1777713466663/IMG_7844.webp",
+          "filename": "IMG_7844.webp"
+        }
+      ]
+    },
+    {
+      "id": "p5sc0ul",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "qrdxprc",
+          "src": "/appui-images/tver-1777713466663/IMG_7845.webp",
+          "filename": "IMG_7845.webp"
+        },
+        {
+          "id": "it5raki",
+          "src": "/appui-images/tver-1777713466663/IMG_7853.webp",
+          "filename": "IMG_7853.webp"
+        },
+        {
+          "id": "30gej6z",
+          "src": "/appui-images/tver-1777713466663/IMG_7854.webp",
+          "filename": "IMG_7854.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ucoj9cz",
+          "src": "/appui-images/tver-1777713466663/IMG_7855.webp",
+          "filename": "IMG_7855.webp"
+        }
+      ]
+    },
+    {
+      "id": "0h141m0",
+      "title": "さがす",
+      "images": [
+        {
+          "id": "6m3osz5",
+          "src": "/appui-images/tver-1777713466663/IMG_7846.webp",
+          "filename": "IMG_7846.webp"
+        },
+        {
+          "id": "njlqukn",
+          "src": "/appui-images/tver-1777713466663/IMG_7847.webp",
+          "filename": "IMG_7847.webp"
+        },
+        {
+          "id": "ldswo18",
+          "src": "/appui-images/tver-1777713466663/IMG_7848.webp",
+          "filename": "IMG_7848.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "fb7deh4",
+          "src": "/appui-images/tver-1777713466663/IMG_7849.webp",
+          "filename": "IMG_7849.webp"
+        },
+        {
+          "id": "1xmoe9m",
+          "src": "/appui-images/tver-1777713466663/IMG_7850.webp",
+          "filename": "IMG_7850.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "z5s21e1",
+          "src": "/appui-images/tver-1777713466663/IMG_7856.webp",
+          "filename": "IMG_7856.webp",
+          "components": [
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ouv76e3",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "baiegz0",
+          "src": "/appui-images/tver-1777713466663/IMG_7851.webp",
+          "filename": "IMG_7851.webp"
+        },
+        {
+          "id": "fqhqtpl",
+          "src": "/appui-images/tver-1777713466663/IMG_7852.webp",
+          "filename": "IMG_7852.webp"
+        }
+      ]
+    },
+    {
+      "id": "hj9gzl6",
+      "title": "設定",
+      "images": [
+        {
+          "id": "6hwgsmq",
+          "src": "/appui-images/tver-1777713466663/IMG_7857.webp",
+          "filename": "IMG_7857.webp"
+        },
+        {
+          "id": "venw24t",
+          "src": "/appui-images/tver-1777713466663/IMG_7858.webp",
+          "filename": "IMG_7858.webp"
+        },
+        {
+          "id": "rucaza5",
+          "src": "/appui-images/tver-1777713466663/IMG_7859.webp",
+          "filename": "IMG_7859.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "tver(ティーバー)-民放公式テレビ配信サービス"
+}

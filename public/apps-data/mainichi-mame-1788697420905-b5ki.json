@@ -1,0 +1,1088 @@
+{
+  "id": "mainichi-mame-1788697420905-b5ki",
+  "name": "毎日まめ",
+  "description": "日常を手軽に残したい人のために作った簡単な日記アプリ、毎日まめで数回のタップだけで一日を地道に記録してみましょう。 毎日まめはこんな機能を提供します。 ○ 自分の気分の流れを一目で見られる月別カレンダー 5つの色と表情の気分まめでひと月の自…",
+  "iconUrl": "/appui-images/mainichi-mame/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E6%AF%8E%E6%97%A5%E3%81%BE%E3%82%81-%E4%B8%80%E6%97%A5%E3%82%92%E8%A8%98%E9%8C%B2%E3%81%99%E3%82%8B%E6%9C%80%E3%82%82%E7%B0%A1%E5%8D%98%E3%81%AA%E6%97%A5%E8%A8%98/id1553223828?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "カレンダー"
+  ],
+  "sections": [
+    {
+      "id": "dog2uoy",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "9ye4od3",
+          "src": "/appui-images/mainichi-mame/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "af761kl",
+          "src": "/appui-images/mainichi-mame/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ik11oj4",
+          "src": "/appui-images/mainichi-mame/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "oo5kb3w",
+          "src": "/appui-images/mainichi-mame/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "8ojutvd",
+          "src": "/appui-images/mainichi-mame/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "pkih5pq",
+          "src": "/appui-images/mainichi-mame/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "82ix98k",
+          "src": "/appui-images/mainichi-mame/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vw6966r",
+          "src": "/appui-images/mainichi-mame/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t1o5nvf",
+      "title": "ホーム・記録",
+      "images": [
+        {
+          "id": "f4ygcn6",
+          "src": "/appui-images/mainichi-mame/IMG_3666.webp",
+          "filename": "IMG_3666.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "re9ez1v",
+          "src": "/appui-images/mainichi-mame/IMG_3672.webp",
+          "filename": "IMG_3672.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rbxhtpa",
+          "src": "/appui-images/mainichi-mame/IMG_3673.webp",
+          "filename": "IMG_3673.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "8z8ll27",
+          "src": "/appui-images/mainichi-mame/IMG_3674.webp",
+          "filename": "IMG_3674.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "u0ha8ke",
+          "src": "/appui-images/mainichi-mame/IMG_3675.webp",
+          "filename": "IMG_3675.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "bj78i58",
+          "src": "/appui-images/mainichi-mame/IMG_3677.webp",
+          "filename": "IMG_3677.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "lspp948",
+          "src": "/appui-images/mainichi-mame/IMG_3678.webp",
+          "filename": "IMG_3678.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "6cp6tnm",
+          "src": "/appui-images/mainichi-mame/IMG_3679.webp",
+          "filename": "IMG_3679.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "xmpo34f",
+          "src": "/appui-images/mainichi-mame/IMG_3680.webp",
+          "filename": "IMG_3680.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "o6nxwc0",
+          "src": "/appui-images/mainichi-mame/IMG_3682.webp",
+          "filename": "IMG_3682.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "otdtarm",
+          "src": "/appui-images/mainichi-mame/IMG_3683.webp",
+          "filename": "IMG_3683.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "bleogc1",
+          "src": "/appui-images/mainichi-mame/IMG_3685.webp",
+          "filename": "IMG_3685.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "5ctrdcg",
+          "src": "/appui-images/mainichi-mame/IMG_3687.webp",
+          "filename": "IMG_3687.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "te6ax0n",
+          "src": "/appui-images/mainichi-mame/IMG_3688.webp",
+          "filename": "IMG_3688.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "harynx2",
+          "src": "/appui-images/mainichi-mame/IMG_3689.webp",
+          "filename": "IMG_3689.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "7q0pr0z",
+          "src": "/appui-images/mainichi-mame/IMG_3690.webp",
+          "filename": "IMG_3690.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ezqi7sg",
+          "src": "/appui-images/mainichi-mame/IMG_3691.webp",
+          "filename": "IMG_3691.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "tc1p8x0",
+          "src": "/appui-images/mainichi-mame/IMG_3692.webp",
+          "filename": "IMG_3692.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vyeoben",
+          "src": "/appui-images/mainichi-mame/IMG_3693.webp",
+          "filename": "IMG_3693.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "voy0mj0",
+          "src": "/appui-images/mainichi-mame/IMG_3694.webp",
+          "filename": "IMG_3694.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "adqtfcx",
+          "src": "/appui-images/mainichi-mame/IMG_3695.webp",
+          "filename": "IMG_3695.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "uljdidg",
+          "src": "/appui-images/mainichi-mame/IMG_3698.webp",
+          "filename": "IMG_3698.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "h9c4erf",
+          "src": "/appui-images/mainichi-mame/IMG_3699.webp",
+          "filename": "IMG_3699.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "4hm323h",
+          "src": "/appui-images/mainichi-mame/IMG_3701.webp",
+          "filename": "IMG_3701.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "8dl3nb5",
+          "src": "/appui-images/mainichi-mame/IMG_3702.webp",
+          "filename": "IMG_3702.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "njs8mbc",
+          "src": "/appui-images/mainichi-mame/IMG_3703.webp",
+          "filename": "IMG_3703.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "i57xzp3",
+          "src": "/appui-images/mainichi-mame/IMG_3704.webp",
+          "filename": "IMG_3704.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "v6pwk84",
+          "src": "/appui-images/mainichi-mame/IMG_3705.webp",
+          "filename": "IMG_3705.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "idyyowp",
+          "src": "/appui-images/mainichi-mame/IMG_3706.webp",
+          "filename": "IMG_3706.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "7rjc15y",
+          "src": "/appui-images/mainichi-mame/IMG_3707.webp",
+          "filename": "IMG_3707.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "43dp71b",
+          "src": "/appui-images/mainichi-mame/IMG_3708.webp",
+          "filename": "IMG_3708.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "dcr74es",
+          "src": "/appui-images/mainichi-mame/IMG_3709.webp",
+          "filename": "IMG_3709.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "orkyrsp",
+          "src": "/appui-images/mainichi-mame/IMG_3710.webp",
+          "filename": "IMG_3710.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "c5y1331",
+          "src": "/appui-images/mainichi-mame/IMG_3712.webp",
+          "filename": "IMG_3712.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "qxw5i88",
+          "src": "/appui-images/mainichi-mame/IMG_3717.webp",
+          "filename": "IMG_3717.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "osxxn3r",
+          "src": "/appui-images/mainichi-mame/IMG_3718.webp",
+          "filename": "IMG_3718.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "uzmov7v",
+          "src": "/appui-images/mainichi-mame/IMG_3719.webp",
+          "filename": "IMG_3719.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wjx7c7s",
+          "src": "/appui-images/mainichi-mame/IMG_3720.webp",
+          "filename": "IMG_3720.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "7aa37yg",
+          "src": "/appui-images/mainichi-mame/IMG_3721.webp",
+          "filename": "IMG_3721.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "p3l1edm",
+          "src": "/appui-images/mainichi-mame/IMG_3722.webp",
+          "filename": "IMG_3722.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "yua0rjk",
+          "src": "/appui-images/mainichi-mame/IMG_3723.webp",
+          "filename": "IMG_3723.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "awxhnav",
+          "src": "/appui-images/mainichi-mame/IMG_3724.webp",
+          "filename": "IMG_3724.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "mwu4xzr",
+          "src": "/appui-images/mainichi-mame/IMG_3725.webp",
+          "filename": "IMG_3725.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "gah0mfj",
+          "src": "/appui-images/mainichi-mame/IMG_3726.webp",
+          "filename": "IMG_3726.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "c2bvql8",
+          "src": "/appui-images/mainichi-mame/IMG_3727.webp",
+          "filename": "IMG_3727.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "t9w3g4l",
+          "src": "/appui-images/mainichi-mame/IMG_3732.webp",
+          "filename": "IMG_3732.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "yg90zj7",
+          "src": "/appui-images/mainichi-mame/IMG_3733.webp",
+          "filename": "IMG_3733.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ywzeekd",
+          "src": "/appui-images/mainichi-mame/IMG_3734.webp",
+          "filename": "IMG_3734.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "u6bws9d",
+          "src": "/appui-images/mainichi-mame/IMG_3735.webp",
+          "filename": "IMG_3735.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vxl3cwn",
+          "src": "/appui-images/mainichi-mame/IMG_3736.webp",
+          "filename": "IMG_3736.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "3amkenp",
+          "src": "/appui-images/mainichi-mame/IMG_3739.webp",
+          "filename": "IMG_3739.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rxyhum4",
+          "src": "/appui-images/mainichi-mame/IMG_3744.webp",
+          "filename": "IMG_3744.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "csk7l96",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "0mz73zo",
+          "src": "/appui-images/mainichi-mame/IMG_3667.webp",
+          "filename": "IMG_3667.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "j6xnmxy",
+          "src": "/appui-images/mainichi-mame/IMG_3668.webp",
+          "filename": "IMG_3668.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "l4jg36k",
+          "src": "/appui-images/mainichi-mame/IMG_3669.webp",
+          "filename": "IMG_3669.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ew47lan",
+          "src": "/appui-images/mainichi-mame/IMG_3670.webp",
+          "filename": "IMG_3670.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "8un6fos",
+          "src": "/appui-images/mainichi-mame/IMG_3671.webp",
+          "filename": "IMG_3671.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ws7ddp4",
+          "src": "/appui-images/mainichi-mame/IMG_3676.webp",
+          "filename": "IMG_3676.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "otqf2xg",
+          "src": "/appui-images/mainichi-mame/IMG_3684.webp",
+          "filename": "IMG_3684.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "3qkmzqg",
+          "src": "/appui-images/mainichi-mame/IMG_3697.webp",
+          "filename": "IMG_3697.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vosgprz",
+          "src": "/appui-images/mainichi-mame/IMG_3700.webp",
+          "filename": "IMG_3700.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "akv0ul1",
+          "src": "/appui-images/mainichi-mame/IMG_3731.webp",
+          "filename": "IMG_3731.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hib1f4w",
+      "title": "設定",
+      "images": [
+        {
+          "id": "eovuu7x",
+          "src": "/appui-images/mainichi-mame/IMG_3696.webp",
+          "filename": "IMG_3696.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ejy1s1e",
+          "src": "/appui-images/mainichi-mame/IMG_3711.webp",
+          "filename": "IMG_3711.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "v2pv9u0",
+          "src": "/appui-images/mainichi-mame/IMG_3713.webp",
+          "filename": "IMG_3713.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "c1p54zh",
+          "src": "/appui-images/mainichi-mame/IMG_3714.webp",
+          "filename": "IMG_3714.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ix4lkz0",
+          "src": "/appui-images/mainichi-mame/IMG_3728.webp",
+          "filename": "IMG_3728.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "9lrwc7k",
+          "src": "/appui-images/mainichi-mame/IMG_3729.webp",
+          "filename": "IMG_3729.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "9ljtzbo",
+          "src": "/appui-images/mainichi-mame/IMG_3730.webp",
+          "filename": "IMG_3730.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wvavxqz",
+          "src": "/appui-images/mainichi-mame/IMG_3738.webp",
+          "filename": "IMG_3738.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ow7j9zm",
+          "src": "/appui-images/mainichi-mame/IMG_3740.webp",
+          "filename": "IMG_3740.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "oe9d5bt",
+          "src": "/appui-images/mainichi-mame/IMG_3741.webp",
+          "filename": "IMG_3741.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "cwbjl08",
+          "src": "/appui-images/mainichi-mame/IMG_3742.webp",
+          "filename": "IMG_3742.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "d5pfsoj",
+          "src": "/appui-images/mainichi-mame/IMG_3743.webp",
+          "filename": "IMG_3743.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "344vyyw",
+      "title": "タイムライン・一覧",
+      "images": [
+        {
+          "id": "lxk7oup",
+          "src": "/appui-images/mainichi-mame/IMG_3715.webp",
+          "filename": "IMG_3715.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "lsvntdy",
+          "src": "/appui-images/mainichi-mame/IMG_3716.webp",
+          "filename": "IMG_3716.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "k76v2cj",
+          "src": "/appui-images/mainichi-mame/IMG_3745.webp",
+          "filename": "IMG_3745.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbdefea",
+      "title": "カレンダー",
+      "images": [
+        {
+          "id": "k34dcpi",
+          "src": "/appui-images/mainichi-mame/IMG_3737.webp",
+          "filename": "IMG_3737.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "mainichi-mame"
+}

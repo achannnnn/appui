@@ -1,0 +1,543 @@
+{
+  "id": "iiheya-net-1786625993464",
+  "name": "いい部屋ネット",
+  "description": "大東建託グループの賃貸検索「いい部屋ネット」。自社管理物件を中心に探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/c4/60/f1c46057-5aae-d45c-5414-f96bcb679b83/AppIcon_A-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id532066855",
+  "categories": [
+    "ナビゲーション"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "カード",
+    "ヘッダー",
+    "リスト",
+    "検索",
+    "フィルター",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション"
+  ],
+  "sections": [
+    {
+      "id": "eisc793",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "rp3srek",
+          "src": "/appui-images/iiheya-net/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qm18lyj",
+          "src": "/appui-images/iiheya-net/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rzb65vu",
+          "src": "/appui-images/iiheya-net/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6tcr3m4",
+          "src": "/appui-images/iiheya-net/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pkj6mdp",
+          "src": "/appui-images/iiheya-net/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ksvqvg1",
+          "src": "/appui-images/iiheya-net/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1m8w7z9",
+          "src": "/appui-images/iiheya-net/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nzxw359",
+          "src": "/appui-images/iiheya-net/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ex858jz",
+          "src": "/appui-images/iiheya-net/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4p6bbhd",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "77aao2r",
+          "src": "/appui-images/iiheya-net/IMG_0416.webp",
+          "filename": "IMG_0416.webp",
+          "components": [
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "d1wabmj",
+          "src": "/appui-images/iiheya-net/IMG_0417.webp",
+          "filename": "IMG_0417.webp",
+          "components": [
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o3pvite",
+      "title": "エリア・沿線選択",
+      "images": [
+        {
+          "id": "to42x5b",
+          "src": "/appui-images/iiheya-net/IMG_0418.webp",
+          "filename": "IMG_0418.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "u8ag4dr",
+          "src": "/appui-images/iiheya-net/IMG_0419.webp",
+          "filename": "IMG_0419.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "by42yzz",
+          "src": "/appui-images/iiheya-net/IMG_0420.webp",
+          "filename": "IMG_0420.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hi8pn3a",
+          "src": "/appui-images/iiheya-net/IMG_0421.webp",
+          "filename": "IMG_0421.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4oqk98k",
+      "title": "絞り込み条件",
+      "images": [
+        {
+          "id": "6pse4ae",
+          "src": "/appui-images/iiheya-net/IMG_0423.webp",
+          "filename": "IMG_0423.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "nv6ktls",
+          "src": "/appui-images/iiheya-net/IMG_0424.webp",
+          "filename": "IMG_0424.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3lcpejd",
+          "src": "/appui-images/iiheya-net/IMG_0425.webp",
+          "filename": "IMG_0425.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ubj0srj",
+      "title": "検索結果",
+      "images": [
+        {
+          "id": "atml14z",
+          "src": "/appui-images/iiheya-net/IMG_0422.webp",
+          "filename": "IMG_0422.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "pnj6sfc",
+          "src": "/appui-images/iiheya-net/IMG_0426.webp",
+          "filename": "IMG_0426.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "x20v3st",
+          "src": "/appui-images/iiheya-net/IMG_0427.webp",
+          "filename": "IMG_0427.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "t8pzb2r",
+          "src": "/appui-images/iiheya-net/IMG_0428.webp",
+          "filename": "IMG_0428.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "12yhz2e",
+          "src": "/appui-images/iiheya-net/IMG_0429.webp",
+          "filename": "IMG_0429.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "tlfg6sc",
+          "src": "/appui-images/iiheya-net/IMG_0442.webp",
+          "filename": "IMG_0442.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cs97hb3",
+      "title": "物件詳細",
+      "images": [
+        {
+          "id": "lmqsxcs",
+          "src": "/appui-images/iiheya-net/IMG_0430.webp",
+          "filename": "IMG_0430.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "kn6csb0",
+          "src": "/appui-images/iiheya-net/IMG_0431.webp",
+          "filename": "IMG_0431.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "fqpvo1m",
+          "src": "/appui-images/iiheya-net/IMG_0432.webp",
+          "filename": "IMG_0432.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "1a3pdpd",
+          "src": "/appui-images/iiheya-net/IMG_0433.webp",
+          "filename": "IMG_0433.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "tekyawt",
+          "src": "/appui-images/iiheya-net/IMG_0434.webp",
+          "filename": "IMG_0434.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "mvmb057",
+          "src": "/appui-images/iiheya-net/IMG_0435.webp",
+          "filename": "IMG_0435.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "h3lt212",
+          "src": "/appui-images/iiheya-net/IMG_0436.webp",
+          "filename": "IMG_0436.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ahpq12q",
+          "src": "/appui-images/iiheya-net/IMG_0437.webp",
+          "filename": "IMG_0437.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "5dvflu2",
+          "src": "/appui-images/iiheya-net/IMG_0438.webp",
+          "filename": "IMG_0438.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wtwdpxo",
+      "title": "問い合わせ",
+      "images": [
+        {
+          "id": "ih3aucm",
+          "src": "/appui-images/iiheya-net/IMG_0439.webp",
+          "filename": "IMG_0439.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "mir4248",
+          "src": "/appui-images/iiheya-net/IMG_0440.webp",
+          "filename": "IMG_0440.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dfne9fx",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "7wtgvt5",
+          "src": "/appui-images/iiheya-net/IMG_0441.webp",
+          "filename": "IMG_0441.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "マップ"
+          ]
+        },
+        {
+          "id": "xhowi21",
+          "src": "/appui-images/iiheya-net/IMG_0443.webp",
+          "filename": "IMG_0443.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "マップ"
+          ]
+        },
+        {
+          "id": "tl0jd65",
+          "src": "/appui-images/iiheya-net/IMG_0444.webp",
+          "filename": "IMG_0444.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "マップ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bxtcpd",
+      "title": "履歴",
+      "images": [
+        {
+          "id": "330lmzu",
+          "src": "/appui-images/iiheya-net/IMG_0445.webp",
+          "filename": "IMG_0445.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r1t3e7g",
+      "title": "設定",
+      "images": [
+        {
+          "id": "ju2ffwu",
+          "src": "/appui-images/iiheya-net/IMG_0446.webp",
+          "filename": "IMG_0446.webp",
+          "components": [
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "いい部屋ネット"
+}

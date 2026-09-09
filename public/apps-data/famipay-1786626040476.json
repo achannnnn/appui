@@ -1,0 +1,813 @@
+{
+  "id": "famipay-1786626040476",
+  "name": "ファミペイ",
+  "description": "ファミリーマートの公式決済アプリ。バーコード決済とクーポン、ポイントが一体。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/04/3e/aa043e7f-1d39-a955-964d-8735ec2ba69d/AppIcon_Release-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1138196572",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボトム ナビゲーション",
+    "ヘッダー",
+    "カード",
+    "ダッシュボード",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "タブ・セグメントコントロール",
+    "リスト",
+    "フィルター",
+    "フォーム",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "yk11uur",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "s8m1npb",
+          "src": "/appui-images/famipay/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0jdvs9y",
+          "src": "/appui-images/famipay/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dysyhtf",
+          "src": "/appui-images/famipay/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4j6rzjs",
+          "src": "/appui-images/famipay/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ewjq4cb",
+          "src": "/appui-images/famipay/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ur5uhhr",
+          "src": "/appui-images/famipay/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "200vttj",
+          "src": "/appui-images/famipay/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zgktfxf",
+          "src": "/appui-images/famipay/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jr5qcou",
+      "title": "スプラッシュ",
+      "images": [
+        {
+          "id": "qgr36zf",
+          "src": "/appui-images/famipay/IMG_0579.webp",
+          "filename": "IMG_0579.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5canzhy",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "pdb4ue3",
+          "src": "/appui-images/famipay/IMG_0580.webp",
+          "filename": "IMG_0580.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ry3hibw",
+          "src": "/appui-images/famipay/IMG_0581.webp",
+          "filename": "IMG_0581.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7rfm1zv",
+          "src": "/appui-images/famipay/IMG_0582.webp",
+          "filename": "IMG_0582.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "oyybgl2",
+          "src": "/appui-images/famipay/IMG_0583.webp",
+          "filename": "IMG_0583.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ugpzo72",
+          "src": "/appui-images/famipay/IMG_0586.webp",
+          "filename": "IMG_0586.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "t5an60d",
+          "src": "/appui-images/famipay/IMG_0587.webp",
+          "filename": "IMG_0587.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b4smoy",
+      "title": "クーポン",
+      "images": [
+        {
+          "id": "kig77z7",
+          "src": "/appui-images/famipay/IMG_0588.webp",
+          "filename": "IMG_0588.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rejihe7",
+          "src": "/appui-images/famipay/IMG_0589.webp",
+          "filename": "IMG_0589.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "n6shz3a",
+          "src": "/appui-images/famipay/IMG_0590.webp",
+          "filename": "IMG_0590.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1ao41x",
+      "title": "ギフトを贈る",
+      "images": [
+        {
+          "id": "pss17mb",
+          "src": "/appui-images/famipay/IMG_0591.webp",
+          "filename": "IMG_0591.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "mhfeydr",
+          "src": "/appui-images/famipay/IMG_0592.webp",
+          "filename": "IMG_0592.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "tbrmmok",
+          "src": "/appui-images/famipay/IMG_0593.webp",
+          "filename": "IMG_0593.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jer4k49",
+          "src": "/appui-images/famipay/IMG_0594.webp",
+          "filename": "IMG_0594.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0kc62vi",
+      "title": "回数券",
+      "images": [
+        {
+          "id": "1uuv9mm",
+          "src": "/appui-images/famipay/IMG_0595.webp",
+          "filename": "IMG_0595.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rho1yka",
+          "src": "/appui-images/famipay/IMG_0596.webp",
+          "filename": "IMG_0596.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "am3lj6h",
+          "src": "/appui-images/famipay/IMG_0597.webp",
+          "filename": "IMG_0597.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wyg7c2y",
+          "src": "/appui-images/famipay/IMG_0598.webp",
+          "filename": "IMG_0598.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1c3ym3",
+      "title": "チャレンジ",
+      "images": [
+        {
+          "id": "qwa29fw",
+          "src": "/appui-images/famipay/IMG_0599.webp",
+          "filename": "IMG_0599.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "c0a45ke",
+          "src": "/appui-images/famipay/IMG_0600.webp",
+          "filename": "IMG_0600.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mtegclv",
+      "title": "トピックス",
+      "images": [
+        {
+          "id": "fc90zjv",
+          "src": "/appui-images/famipay/IMG_0601.webp",
+          "filename": "IMG_0601.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "フィルター",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "p2ry53f",
+          "src": "/appui-images/famipay/IMG_0602.webp",
+          "filename": "IMG_0602.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "フィルター",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q9uo2rf",
+      "title": "サービス",
+      "images": [
+        {
+          "id": "3va1wnd",
+          "src": "/appui-images/famipay/IMG_0603.webp",
+          "filename": "IMG_0603.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "3i2v1t8",
+          "src": "/appui-images/famipay/IMG_0604.webp",
+          "filename": "IMG_0604.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "wci7gqk",
+          "src": "/appui-images/famipay/IMG_0606.webp",
+          "filename": "IMG_0606.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uugb9q0",
+      "title": "請求書支払い",
+      "images": [
+        {
+          "id": "0yebww2",
+          "src": "/appui-images/famipay/IMG_0605.webp",
+          "filename": "IMG_0605.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "75btv5j",
+          "src": "/appui-images/famipay/IMG_0607.webp",
+          "filename": "IMG_0607.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "zdpn678",
+          "src": "/appui-images/famipay/IMG_0608.webp",
+          "filename": "IMG_0608.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "フィルター",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "190oml7",
+      "title": "ファミマカード",
+      "images": [
+        {
+          "id": "s549tjz",
+          "src": "/appui-images/famipay/IMG_0609.webp",
+          "filename": "IMG_0609.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p30mo9e",
+      "title": "ギフトを受け取る",
+      "images": [
+        {
+          "id": "l06dxmp",
+          "src": "/appui-images/famipay/IMG_0610.webp",
+          "filename": "IMG_0610.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7anmo6f",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "sz16ph1",
+          "src": "/appui-images/famipay/IMG_0611.webp",
+          "filename": "IMG_0611.webp",
+          "components": [
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "pii9l0y",
+          "src": "/appui-images/famipay/IMG_0612.webp",
+          "filename": "IMG_0612.webp",
+          "components": [
+            "ヘッダー",
+            "プロフィール",
+            "ダッシュボード",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ylfc3zy",
+      "title": "残高・ポイント",
+      "images": [
+        {
+          "id": "l3c9kh6",
+          "src": "/appui-images/famipay/IMG_0614.webp",
+          "filename": "IMG_0614.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "カード"
+          ]
+        },
+        {
+          "id": "toaojfm",
+          "src": "/appui-images/famipay/IMG_0615.webp",
+          "filename": "IMG_0615.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "フォーム",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nm274qi",
+      "title": "設定",
+      "images": [
+        {
+          "id": "egtv9yf",
+          "src": "/appui-images/famipay/IMG_0613.webp",
+          "filename": "IMG_0613.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "amkpxok",
+          "src": "/appui-images/famipay/IMG_0616.webp",
+          "filename": "IMG_0616.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "eo3hm7a",
+          "src": "/appui-images/famipay/IMG_0617.webp",
+          "filename": "IMG_0617.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "f2nemz8",
+          "src": "/appui-images/famipay/IMG_0618.webp",
+          "filename": "IMG_0618.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "5wvk80d",
+          "src": "/appui-images/famipay/IMG_0619.webp",
+          "filename": "IMG_0619.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "y7ba6qb",
+          "src": "/appui-images/famipay/IMG_0620.webp",
+          "filename": "IMG_0620.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "tk5b3n7",
+          "src": "/appui-images/famipay/IMG_0621.webp",
+          "filename": "IMG_0621.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "nz2z4fn",
+          "src": "/appui-images/famipay/IMG_0622.webp",
+          "filename": "IMG_0622.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "vky11sd",
+          "src": "/appui-images/famipay/IMG_0623.webp",
+          "filename": "IMG_0623.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "mi1am72",
+          "src": "/appui-images/famipay/IMG_0624.webp",
+          "filename": "IMG_0624.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "col1new",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "73wl2we",
+          "src": "/appui-images/famipay/IMG_0625.webp",
+          "filename": "IMG_0625.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "th4c0no",
+          "src": "/appui-images/famipay/IMG_0626.webp",
+          "filename": "IMG_0626.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ファミペイ"
+}

@@ -1,0 +1,789 @@
+{
+  "id": "mister-donut-1788097743638-oecv",
+  "name": "ミスタードーナッツ",
+  "description": "ミスタードーナツアプリがさらに便利に！ ポイント①：お買い上げ実績に応じてクーポンをプレゼント！ レジで提示すると「来店スタンプ」が貯まります。「来店スタンプ」が３つ貯まるとお得なクーポンをプレゼントします。 ポイント②：レジに並ばず注文&…",
+  "iconUrl": "/appui-images/mister-donut/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84/id955641819?uo=4",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "オンボーディング"
+  ],
+  "sections": [
+    {
+      "id": "yezczbn",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "2oakzqr",
+          "src": "/appui-images/mister-donut/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "y86wsc8",
+          "src": "/appui-images/mister-donut/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "e63umwo",
+          "src": "/appui-images/mister-donut/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "z85wrdr",
+          "src": "/appui-images/mister-donut/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "kvgzc46",
+          "src": "/appui-images/mister-donut/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c41tfk3",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "mr5u6kh",
+          "src": "/appui-images/mister-donut/IMG_2392.webp",
+          "filename": "IMG_2392.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "wmakcdl",
+          "src": "/appui-images/mister-donut/IMG_2393.webp",
+          "filename": "IMG_2393.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "vggucvz",
+          "src": "/appui-images/mister-donut/IMG_2394.webp",
+          "filename": "IMG_2394.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "east5yl",
+          "src": "/appui-images/mister-donut/IMG_2395.webp",
+          "filename": "IMG_2395.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "qsfda5f",
+          "src": "/appui-images/mister-donut/IMG_2396.webp",
+          "filename": "IMG_2396.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "m5vnt15",
+          "src": "/appui-images/mister-donut/IMG_2397.webp",
+          "filename": "IMG_2397.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3yyi85l",
+          "src": "/appui-images/mister-donut/IMG_2398.webp",
+          "filename": "IMG_2398.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ih9ry7a",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "igl9n65",
+          "src": "/appui-images/mister-donut/IMG_2399.webp",
+          "filename": "IMG_2399.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "anki8eh",
+          "src": "/appui-images/mister-donut/IMG_2400.webp",
+          "filename": "IMG_2400.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "e7xrqdb",
+          "src": "/appui-images/mister-donut/IMG_2401.webp",
+          "filename": "IMG_2401.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wg8azh1",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "1jtg3ea",
+          "src": "/appui-images/mister-donut/IMG_2402.webp",
+          "filename": "IMG_2402.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0i4ao8f",
+          "src": "/appui-images/mister-donut/IMG_2403.webp",
+          "filename": "IMG_2403.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "de9q0b0",
+          "src": "/appui-images/mister-donut/IMG_2404.webp",
+          "filename": "IMG_2404.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o2ypbxc",
+          "src": "/appui-images/mister-donut/IMG_2405.webp",
+          "filename": "IMG_2405.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "oc5y2i6",
+          "src": "/appui-images/mister-donut/IMG_2406.webp",
+          "filename": "IMG_2406.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lhag0q3",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "upa88zx",
+          "src": "/appui-images/mister-donut/IMG_2410.webp",
+          "filename": "IMG_2410.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "6g6ywq1",
+          "src": "/appui-images/mister-donut/IMG_2411.webp",
+          "filename": "IMG_2411.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ccymsj2",
+          "src": "/appui-images/mister-donut/IMG_2412.webp",
+          "filename": "IMG_2412.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "t2tho9g",
+          "src": "/appui-images/mister-donut/IMG_2413.webp",
+          "filename": "IMG_2413.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "318nikr",
+          "src": "/appui-images/mister-donut/IMG_2414.webp",
+          "filename": "IMG_2414.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "b5bjevx",
+          "src": "/appui-images/mister-donut/IMG_2415.webp",
+          "filename": "IMG_2415.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "q7w6jp7",
+          "src": "/appui-images/mister-donut/IMG_2416.webp",
+          "filename": "IMG_2416.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tkmuyf0",
+          "src": "/appui-images/mister-donut/IMG_2417.webp",
+          "filename": "IMG_2417.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ewibg4z",
+          "src": "/appui-images/mister-donut/IMG_2418.webp",
+          "filename": "IMG_2418.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5eamvfl",
+          "src": "/appui-images/mister-donut/IMG_2419.webp",
+          "filename": "IMG_2419.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "w004coh",
+          "src": "/appui-images/mister-donut/IMG_2420.webp",
+          "filename": "IMG_2420.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xfkeq73",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "yqeqtph",
+          "src": "/appui-images/mister-donut/IMG_2421.webp",
+          "filename": "IMG_2421.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jvclx6n",
+          "src": "/appui-images/mister-donut/IMG_2422.webp",
+          "filename": "IMG_2422.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "cri69wt",
+          "src": "/appui-images/mister-donut/IMG_2423.webp",
+          "filename": "IMG_2423.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "g1ghoa9",
+          "src": "/appui-images/mister-donut/IMG_2424.webp",
+          "filename": "IMG_2424.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hf87trm",
+      "title": "店舗・オーダー",
+      "images": [
+        {
+          "id": "gdxrq84",
+          "src": "/appui-images/mister-donut/IMG_2425.webp",
+          "filename": "IMG_2425.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3fbgqxo",
+          "src": "/appui-images/mister-donut/IMG_2426.webp",
+          "filename": "IMG_2426.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "zgfk7ao",
+          "src": "/appui-images/mister-donut/IMG_2427.webp",
+          "filename": "IMG_2427.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "alpw3m9",
+          "src": "/appui-images/mister-donut/IMG_2428.webp",
+          "filename": "IMG_2428.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3oqpqdk",
+          "src": "/appui-images/mister-donut/IMG_2429.webp",
+          "filename": "IMG_2429.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "w2d8nm5",
+          "src": "/appui-images/mister-donut/IMG_2430.webp",
+          "filename": "IMG_2430.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "nhbezvv",
+          "src": "/appui-images/mister-donut/IMG_2431.webp",
+          "filename": "IMG_2431.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9ooessb",
+          "src": "/appui-images/mister-donut/IMG_2432.webp",
+          "filename": "IMG_2432.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "i677brf",
+          "src": "/appui-images/mister-donut/IMG_2433.webp",
+          "filename": "IMG_2433.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "os13fnc",
+          "src": "/appui-images/mister-donut/IMG_2434.webp",
+          "filename": "IMG_2434.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xlsfgd5",
+          "src": "/appui-images/mister-donut/IMG_2440.webp",
+          "filename": "IMG_2440.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o8pboi2",
+          "src": "/appui-images/mister-donut/IMG_2441.webp",
+          "filename": "IMG_2441.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9envbwc",
+          "src": "/appui-images/mister-donut/IMG_2442.webp",
+          "filename": "IMG_2442.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pv27hrs",
+          "src": "/appui-images/mister-donut/IMG_2443.webp",
+          "filename": "IMG_2443.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "j750wb9",
+          "src": "/appui-images/mister-donut/IMG_2444.webp",
+          "filename": "IMG_2444.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "bu293t0",
+          "src": "/appui-images/mister-donut/IMG_2445.webp",
+          "filename": "IMG_2445.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pd2es5i",
+          "src": "/appui-images/mister-donut/IMG_2446.webp",
+          "filename": "IMG_2446.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "64va17j",
+          "src": "/appui-images/mister-donut/IMG_2447.webp",
+          "filename": "IMG_2447.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0qcjtky",
+          "src": "/appui-images/mister-donut/IMG_2448.webp",
+          "filename": "IMG_2448.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hzd1c0a",
+          "src": "/appui-images/mister-donut/IMG_2449.webp",
+          "filename": "IMG_2449.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyi2ce7",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "eskj2gd",
+          "src": "/appui-images/mister-donut/IMG_2435.webp",
+          "filename": "IMG_2435.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "97461la",
+          "src": "/appui-images/mister-donut/IMG_2436.webp",
+          "filename": "IMG_2436.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "nn8fnbw",
+          "src": "/appui-images/mister-donut/IMG_2437.webp",
+          "filename": "IMG_2437.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "21o89rl",
+          "src": "/appui-images/mister-donut/IMG_2438.webp",
+          "filename": "IMG_2438.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "a27t22t",
+          "src": "/appui-images/mister-donut/IMG_2439.webp",
+          "filename": "IMG_2439.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "mister-donut"
+}

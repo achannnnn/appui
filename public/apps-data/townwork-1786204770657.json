@@ -1,0 +1,616 @@
+{
+  "id": "townwork-1786204770657",
+  "name": "タウンワーク",
+  "description": "リクルートのアルバイト求人アプリ「タウンワーク」。人気のバイト・アルバイト求人から仕事を探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/8e/68/678e682b-c8cb-a1ac-77b8-447e8d1b8566/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id434586962",
+  "categories": [
+    "バイト"
+  ],
+  "components": [
+    "オンボーディング",
+    "カード",
+    "ボタン",
+    "ヘッダー",
+    "タブ・セグメントコントロール",
+    "リスト",
+    "フィルター",
+    "検索",
+    "フォーム",
+    "ボトム ナビゲーション",
+    "モーダル・ボトムシート",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "mtrkpjc",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "4qqh3rg",
+          "src": "/appui-images/townwork/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gcwx0y8",
+          "src": "/appui-images/townwork/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nlnr5su",
+          "src": "/appui-images/townwork/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o1q2cie",
+          "src": "/appui-images/townwork/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t1ga4ab",
+          "src": "/appui-images/townwork/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iqh3h36",
+          "src": "/appui-images/townwork/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kumh2q1",
+      "title": "オンボーディング・ログイン",
+      "images": [
+        {
+          "id": "qstp5wh",
+          "src": "/appui-images/townwork/IMG_9606.webp",
+          "filename": "IMG_9606.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vtu89qx",
+          "src": "/appui-images/townwork/IMG_9607.webp",
+          "filename": "IMG_9607.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4s9jzvr",
+      "title": "都道府県選択",
+      "images": [
+        {
+          "id": "xtxvejm",
+          "src": "/appui-images/townwork/IMG_9608.webp",
+          "filename": "IMG_9608.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "oeofcjj",
+          "src": "/appui-images/townwork/IMG_9609.webp",
+          "filename": "IMG_9609.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6x86f3e",
+      "title": "勤務地から探す",
+      "images": [
+        {
+          "id": "nxvyzb1",
+          "src": "/appui-images/townwork/IMG_9610.webp",
+          "filename": "IMG_9610.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "z4hb5es",
+          "src": "/appui-images/townwork/IMG_9611.webp",
+          "filename": "IMG_9611.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "i856mms",
+          "src": "/appui-images/townwork/IMG_9612.webp",
+          "filename": "IMG_9612.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "6hh9dwz",
+          "src": "/appui-images/townwork/IMG_9613.webp",
+          "filename": "IMG_9613.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "検索",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tvvw3g0",
+      "title": "検索結果",
+      "images": [
+        {
+          "id": "vktx8bn",
+          "src": "/appui-images/townwork/IMG_9614.webp",
+          "filename": "IMG_9614.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "hgyp4q3",
+          "src": "/appui-images/townwork/IMG_9616.webp",
+          "filename": "IMG_9616.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "sdl8x4z",
+          "src": "/appui-images/townwork/IMG_9620.webp",
+          "filename": "IMG_9620.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cjjqnl6",
+      "title": "おすすめ求人",
+      "images": [
+        {
+          "id": "247h955",
+          "src": "/appui-images/townwork/IMG_9615.webp",
+          "filename": "IMG_9615.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g1f2fsk",
+      "title": "まとめて検索",
+      "images": [
+        {
+          "id": "7dwwau4",
+          "src": "/appui-images/townwork/IMG_9617.webp",
+          "filename": "IMG_9617.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "フィルター",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7f1qog3",
+          "src": "/appui-images/townwork/IMG_9618.webp",
+          "filename": "IMG_9618.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "フィルター",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "z0x0v73",
+          "src": "/appui-images/townwork/IMG_9619.webp",
+          "filename": "IMG_9619.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "フィルター",
+            "検索",
+            "タブ・セグメントコントロール",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zzrv56l",
+      "title": "マイリスト",
+      "images": [
+        {
+          "id": "2bd6z4s",
+          "src": "/appui-images/townwork/IMG_9621.webp",
+          "filename": "IMG_9621.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "76fbord",
+          "src": "/appui-images/townwork/IMG_9622.webp",
+          "filename": "IMG_9622.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "43h7d01",
+          "src": "/appui-images/townwork/IMG_9623.webp",
+          "filename": "IMG_9623.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xwp3hyy",
+          "src": "/appui-images/townwork/IMG_9624.webp",
+          "filename": "IMG_9624.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xfmvqpe",
+          "src": "/appui-images/townwork/IMG_9625.webp",
+          "filename": "IMG_9625.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zwtcnym",
+          "src": "/appui-images/townwork/IMG_9637.webp",
+          "filename": "IMG_9637.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ehyd874",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "ueerzhh",
+          "src": "/appui-images/townwork/IMG_9626.webp",
+          "filename": "IMG_9626.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ds4dqts",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "54g1f75",
+          "src": "/appui-images/townwork/IMG_9627.webp",
+          "filename": "IMG_9627.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rih8paz",
+      "title": "求人の詳細",
+      "images": [
+        {
+          "id": "wx1w0or",
+          "src": "/appui-images/townwork/IMG_9628.webp",
+          "filename": "IMG_9628.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "2ls279j",
+          "src": "/appui-images/townwork/IMG_9629.webp",
+          "filename": "IMG_9629.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "gz1pgf4",
+          "src": "/appui-images/townwork/IMG_9630.webp",
+          "filename": "IMG_9630.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "2mjmqkx",
+          "src": "/appui-images/townwork/IMG_9631.webp",
+          "filename": "IMG_9631.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "okuyav7",
+          "src": "/appui-images/townwork/IMG_9632.webp",
+          "filename": "IMG_9632.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "koarngu",
+          "src": "/appui-images/townwork/IMG_9633.webp",
+          "filename": "IMG_9633.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "n9toj13",
+          "src": "/appui-images/townwork/IMG_9634.webp",
+          "filename": "IMG_9634.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8qk5jp6",
+          "src": "/appui-images/townwork/IMG_9635.webp",
+          "filename": "IMG_9635.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "d1ofrxz",
+          "src": "/appui-images/townwork/IMG_9636.webp",
+          "filename": "IMG_9636.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "92vifr7",
+      "title": "アプリ設定",
+      "images": [
+        {
+          "id": "cdszqm5",
+          "src": "/appui-images/townwork/IMG_9638.webp",
+          "filename": "IMG_9638.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "up9qhtx",
+          "src": "/appui-images/townwork/IMG_9639.webp",
+          "filename": "IMG_9639.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lj6mqmq",
+      "title": "ログアウト",
+      "images": [
+        {
+          "id": "r9cmsse",
+          "src": "/appui-images/townwork/IMG_9640.webp",
+          "filename": "IMG_9640.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "タウンワーク"
+}

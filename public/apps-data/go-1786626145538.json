@@ -1,0 +1,755 @@
+{
+  "id": "go-1786626145538",
+  "name": "GO",
+  "description": "タクシーが呼べるアプリ「GO」。配車・予約・アプリ決済ができる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/b1/bf/59b1bff4-5802-8eae-6d6c-0d6c19a686b7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1254341709",
+  "categories": [
+    "旅行"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター",
+    "マップ",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "cqz4fsy",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "o7txpe0",
+          "src": "/appui-images/go/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "emmyxbq",
+          "src": "/appui-images/go/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n53nn69",
+          "src": "/appui-images/go/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j87ovqj",
+          "src": "/appui-images/go/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j7v6g5o",
+          "src": "/appui-images/go/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "viultfz",
+          "src": "/appui-images/go/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dsja7i9",
+          "src": "/appui-images/go/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "keg2z5q",
+          "src": "/appui-images/go/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JV1DXQ",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "20ZjCA",
+          "src": "/appui-images/go/IMG_1082.webp",
+          "filename": "IMG_1082.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "w20Xng",
+          "src": "/appui-images/go/IMG_1083.webp",
+          "filename": "IMG_1083.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9HJXtg",
+      "title": "ログイン・新規登録",
+      "images": [
+        {
+          "id": "ZRGp6w",
+          "src": "/appui-images/go/IMG_1084.webp",
+          "filename": "IMG_1084.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "GJRdTQ",
+          "src": "/appui-images/go/IMG_1085.webp",
+          "filename": "IMG_1085.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jMAc5A",
+      "title": "初期設定（GO Pay・権限・完了）",
+      "images": [
+        {
+          "id": "4jZuOg",
+          "src": "/appui-images/go/IMG_1086.webp",
+          "filename": "IMG_1086.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "FbRIgQ",
+          "src": "/appui-images/go/IMG_1087.webp",
+          "filename": "IMG_1087.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "FDFePA",
+          "src": "/appui-images/go/IMG_1088.webp",
+          "filename": "IMG_1088.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G-92lg",
+      "title": "ホーム・地図",
+      "images": [
+        {
+          "id": "4ixqyQ",
+          "src": "/appui-images/go/IMG_1090.webp",
+          "filename": "IMG_1090.webp",
+          "components": [
+            "カード",
+            "ボトム ナビゲーション",
+            "検索",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "t-sbzA",
+          "src": "/appui-images/go/IMG_1091.webp",
+          "filename": "IMG_1091.webp",
+          "components": [
+            "カード",
+            "ボトム ナビゲーション",
+            "検索",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a6L5Rw",
+      "title": "目的地検索",
+      "images": [
+        {
+          "id": "-8AJHQ",
+          "src": "/appui-images/go/IMG_1092.webp",
+          "filename": "IMG_1092.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "iA3tAA",
+          "src": "/appui-images/go/IMG_1093.webp",
+          "filename": "IMG_1093.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "kg7ShA",
+          "src": "/appui-images/go/IMG_1095.webp",
+          "filename": "IMG_1095.webp",
+          "components": [
+            "検索",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JovvhA",
+      "title": "お気に入り地点",
+      "images": [
+        {
+          "id": "Q9RdWg",
+          "src": "/appui-images/go/IMG_1094.webp",
+          "filename": "IMG_1094.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "-5zSbA",
+          "src": "/appui-images/go/IMG_1096.webp",
+          "filename": "IMG_1096.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "Rw4MHw",
+          "src": "/appui-images/go/IMG_1097.webp",
+          "filename": "IMG_1097.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "fDVQug",
+          "src": "/appui-images/go/IMG_1098.webp",
+          "filename": "IMG_1098.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rM9bGA",
+          "src": "/appui-images/go/IMG_1099.webp",
+          "filename": "IMG_1099.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crp5tQ",
+      "title": "配車確認・乗車フロー",
+      "images": [
+        {
+          "id": "FuYLrw",
+          "src": "/appui-images/go/IMG_1100.webp",
+          "filename": "IMG_1100.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "XGrRJg",
+          "src": "/appui-images/go/IMG_1101.webp",
+          "filename": "IMG_1101.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xjThiw",
+          "src": "/appui-images/go/IMG_1102.webp",
+          "filename": "IMG_1102.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "loH3fg",
+          "src": "/appui-images/go/IMG_1103.webp",
+          "filename": "IMG_1103.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "IyUL4w",
+          "src": "/appui-images/go/IMG_1104.webp",
+          "filename": "IMG_1104.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3jsAXg",
+          "src": "/appui-images/go/IMG_1105.webp",
+          "filename": "IMG_1105.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "evzFSA",
+          "src": "/appui-images/go/IMG_1106.webp",
+          "filename": "IMG_1106.webp",
+          "components": [
+            "カード",
+            "マップ",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xOc1TA",
+      "title": "支払い設定・クーポン選択",
+      "images": [
+        {
+          "id": "Z92Ffg",
+          "src": "/appui-images/go/IMG_1107.webp",
+          "filename": "IMG_1107.webp",
+          "components": [
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "45U0VA",
+          "src": "/appui-images/go/IMG_1108.webp",
+          "filename": "IMG_1108.webp",
+          "components": [
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7Qp7tQ",
+      "title": "マイページ・メニュー",
+      "images": [
+        {
+          "id": "e8KQPw",
+          "src": "/appui-images/go/IMG_1109.webp",
+          "filename": "IMG_1109.webp",
+          "components": [
+            "プロフィール",
+            "リスト",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3U4roA",
+      "title": "ステータス特典",
+      "images": [
+        {
+          "id": "2gS-9g",
+          "src": "/appui-images/go/IMG_1110.webp",
+          "filename": "IMG_1110.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "2Hcr-g",
+          "src": "/appui-images/go/IMG_1111.webp",
+          "filename": "IMG_1111.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "nqRrAQ",
+          "src": "/appui-images/go/IMG_1112.webp",
+          "filename": "IMG_1112.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "DohMxQ",
+          "src": "/appui-images/go/IMG_1113.webp",
+          "filename": "IMG_1113.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "30JtYg",
+          "src": "/appui-images/go/IMG_1114.webp",
+          "filename": "IMG_1114.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PxWWmw",
+      "title": "アカウント情報・設定",
+      "images": [
+        {
+          "id": "-lm5OQ",
+          "src": "/appui-images/go/IMG_1115.webp",
+          "filename": "IMG_1115.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1JsJCQ",
+          "src": "/appui-images/go/IMG_1116.webp",
+          "filename": "IMG_1116.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ZFt75A",
+          "src": "/appui-images/go/IMG_1117.webp",
+          "filename": "IMG_1117.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cZTjGA",
+          "src": "/appui-images/go/IMG_1118.webp",
+          "filename": "IMG_1118.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7xGH5w",
+          "src": "/appui-images/go/IMG_1119.webp",
+          "filename": "IMG_1119.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "l4GFfw",
+          "src": "/appui-images/go/IMG_1120.webp",
+          "filename": "IMG_1120.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25SAYw",
+      "title": "利用履歴",
+      "images": [
+        {
+          "id": "IAld1g",
+          "src": "/appui-images/go/IMG_1121.webp",
+          "filename": "IMG_1121.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "_cR8_A",
+      "title": "支払い方法一覧",
+      "images": [
+        {
+          "id": "QnGTnw",
+          "src": "/appui-images/go/IMG_1122.webp",
+          "filename": "IMG_1122.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "730zJQ",
+      "title": "あんしん見守り",
+      "images": [
+        {
+          "id": "6YyV0A",
+          "src": "/appui-images/go/IMG_1123.webp",
+          "filename": "IMG_1123.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mK39Hg",
+      "title": "タクシー会社一覧",
+      "images": [
+        {
+          "id": "TgpG4w",
+          "src": "/appui-images/go/IMG_1124.webp",
+          "filename": "IMG_1124.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ZWV-HQ",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "KzbYRA",
+          "src": "/appui-images/go/IMG_1125.webp",
+          "filename": "IMG_1125.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5vnEKQ",
+      "title": "予約",
+      "images": [
+        {
+          "id": "YiXoow",
+          "src": "/appui-images/go/IMG_1126.webp",
+          "filename": "IMG_1126.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "aTct4w",
+          "src": "/appui-images/go/IMG_1127.webp",
+          "filename": "IMG_1127.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PTL8fg",
+      "title": "GO Pay",
+      "images": [
+        {
+          "id": "O-Xpxg",
+          "src": "/appui-images/go/IMG_1128.webp",
+          "filename": "IMG_1128.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3C1Sw",
+      "title": "配車リスト",
+      "images": [
+        {
+          "id": "FdONEw",
+          "src": "/appui-images/go/IMG_1129.webp",
+          "filename": "IMG_1129.webp",
+          "components": [
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "go"
+}

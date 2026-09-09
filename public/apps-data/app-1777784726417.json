@@ -1,0 +1,197 @@
+{
+  "id": "app-1777784726417",
+  "name": "スポナビ 野球速報",
+  "description": "スポーツ",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/75/a9/7375a95e-981d-ace1-04e9-ccf4f31470d9/Placeholder.mill/200x200bb-75.webp 200w",
+  "externalUrl": "https://apps.apple.com/jp/app/スポナビ-野球速報/id720087913",
+  "categories": [
+    "スポーツ"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "dicp2oc",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "4yv820c",
+          "src": "/appui-images/app-1777784726417/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dlwuqw0",
+          "src": "/appui-images/app-1777784726417/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xhcftn3",
+          "src": "/appui-images/app-1777784726417/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ksc6385",
+          "src": "/appui-images/app-1777784726417/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "27vx9fc",
+          "src": "/appui-images/app-1777784726417/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zlvq8ks",
+          "src": "/appui-images/app-1777784726417/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u0rh1s5",
+      "title": "試合一覧",
+      "images": [
+        {
+          "id": "o31lkh9",
+          "src": "/appui-images/app-1777784726417/IMG_7943.webp",
+          "filename": "IMG_7943.webp"
+        }
+      ]
+    },
+    {
+      "id": "vfc44px",
+      "title": "カレンダー",
+      "images": [
+        {
+          "id": "x32ydwu",
+          "src": "/appui-images/app-1777784726417/IMG_7944.webp",
+          "filename": "IMG_7944.webp",
+          "components": [
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u78m36h",
+      "title": "スコア",
+      "images": [
+        {
+          "id": "n169wtr",
+          "src": "/appui-images/app-1777784726417/IMG_7945.webp",
+          "filename": "IMG_7945.webp"
+        },
+        {
+          "id": "9i0ooxi",
+          "src": "/appui-images/app-1777784726417/IMG_7946.webp",
+          "filename": "IMG_7946.webp"
+        },
+        {
+          "id": "iaic18v",
+          "src": "/appui-images/app-1777784726417/IMG_7947.webp",
+          "filename": "IMG_7947.webp"
+        },
+        {
+          "id": "lon67t4",
+          "src": "/appui-images/app-1777784726417/IMG_7948.webp",
+          "filename": "IMG_7948.webp"
+        }
+      ]
+    },
+    {
+      "id": "gi62f1q",
+      "title": "順位表",
+      "images": [
+        {
+          "id": "2d4c7rp",
+          "src": "/appui-images/app-1777784726417/IMG_7949.webp",
+          "filename": "IMG_7949.webp"
+        },
+        {
+          "id": "yzli34n",
+          "src": "/appui-images/app-1777784726417/IMG_7950.webp",
+          "filename": "IMG_7950.webp"
+        },
+        {
+          "id": "t75e4mx",
+          "src": "/appui-images/app-1777784726417/IMG_7951.webp",
+          "filename": "IMG_7951.webp"
+        }
+      ]
+    },
+    {
+      "id": "gyqonxh",
+      "title": "表示設定",
+      "images": [
+        {
+          "id": "d9ujcs2",
+          "src": "/appui-images/app-1777784726417/IMG_7953.webp",
+          "filename": "IMG_7953.webp"
+        }
+      ]
+    },
+    {
+      "id": "quc5w6s",
+      "title": "メニュー",
+      "images": [
+        {
+          "id": "hnwn8qj",
+          "src": "/appui-images/app-1777784726417/IMG_7954.webp",
+          "filename": "IMG_7954.webp"
+        }
+      ]
+    },
+    {
+      "id": "j3yw2op",
+      "title": "個人成績",
+      "images": [
+        {
+          "id": "aconq8r",
+          "src": "/appui-images/app-1777784726417/IMG_7955.webp",
+          "filename": "IMG_7955.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "スポナビ-野球速報"
+}

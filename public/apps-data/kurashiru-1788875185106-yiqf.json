@@ -1,0 +1,645 @@
+{
+  "id": "kurashiru-1788875185106-yiqf",
+  "name": "クラシル",
+  "description": "レシピプラットホーム『クラシル』 ◆クラシルとは クラシルは、アプリダウンロード数（※1）・平均レビュー評価（※2）・レシピ動画数（※3）のすべてにおいて国内No.1のレシピプラットホームです。2016年2月のサービス開始以降、「くらしを美…",
+  "iconUrl": "/appui-images/kurashiru/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%AB-%E6%AF%8E%E6%97%A5%E3%81%AE%E7%8C%AE%E7%AB%8B%E3%81%AB-%E3%83%AC%E3%82%B7%E3%83%94%E5%8B%95%E7%94%BB%E3%81%A7%E6%96%99%E7%90%86%E3%81%8C%E3%81%8A%E3%81%84%E3%81%97%E3%81%8F%E4%BD%9C%E3%82%8C%E3%82%8B/id1059134258?uo=4",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "動画"
+  ],
+  "sections": [
+    {
+      "id": "pew5uyc",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "n965ey2",
+          "src": "/appui-images/kurashiru/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2r5rqsz",
+          "src": "/appui-images/kurashiru/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qaeucdn",
+          "src": "/appui-images/kurashiru/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tq20x4b",
+          "src": "/appui-images/kurashiru/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jgkn5ew",
+          "src": "/appui-images/kurashiru/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4khgs3q",
+          "src": "/appui-images/kurashiru/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a5n595j",
+          "src": "/appui-images/kurashiru/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7enpaq",
+      "title": "その他",
+      "images": [
+        {
+          "id": "x6etymr",
+          "src": "/appui-images/kurashiru/IMG_4829.webp",
+          "filename": "IMG_4829.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nxdkyzb",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "k285kyd",
+          "src": "/appui-images/kurashiru/IMG_4830.webp",
+          "filename": "IMG_4830.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i1ymjug",
+          "src": "/appui-images/kurashiru/IMG_4832.webp",
+          "filename": "IMG_4832.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cnv1usb",
+          "src": "/appui-images/kurashiru/IMG_4834.webp",
+          "filename": "IMG_4834.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p73y5i1",
+          "src": "/appui-images/kurashiru/IMG_4836.webp",
+          "filename": "IMG_4836.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c3pem8p",
+          "src": "/appui-images/kurashiru/IMG_4857.webp",
+          "filename": "IMG_4857.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wez4p1i",
+          "src": "/appui-images/kurashiru/IMG_4867.webp",
+          "filename": "IMG_4867.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zbphm5a",
+      "title": "ホーム・おすすめ",
+      "images": [
+        {
+          "id": "fuohe2q",
+          "src": "/appui-images/kurashiru/IMG_4833.webp",
+          "filename": "IMG_4833.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "boex0gh",
+          "src": "/appui-images/kurashiru/IMG_4837.webp",
+          "filename": "IMG_4837.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nfexeh8",
+          "src": "/appui-images/kurashiru/IMG_4843.webp",
+          "filename": "IMG_4843.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vk7ew7c",
+          "src": "/appui-images/kurashiru/IMG_4844.webp",
+          "filename": "IMG_4844.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ktyju18",
+          "src": "/appui-images/kurashiru/IMG_4846.webp",
+          "filename": "IMG_4846.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wv5sew1",
+          "src": "/appui-images/kurashiru/IMG_4847.webp",
+          "filename": "IMG_4847.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "njzkw93",
+          "src": "/appui-images/kurashiru/IMG_4848.webp",
+          "filename": "IMG_4848.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "phqwnzk",
+          "src": "/appui-images/kurashiru/IMG_4849.webp",
+          "filename": "IMG_4849.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zp6tpz5",
+          "src": "/appui-images/kurashiru/IMG_4850.webp",
+          "filename": "IMG_4850.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "umpu2qw",
+          "src": "/appui-images/kurashiru/IMG_4854.webp",
+          "filename": "IMG_4854.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kpmu8j5",
+          "src": "/appui-images/kurashiru/IMG_4860.webp",
+          "filename": "IMG_4860.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "00w1cex",
+          "src": "/appui-images/kurashiru/IMG_4861.webp",
+          "filename": "IMG_4861.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yjkwd4s",
+          "src": "/appui-images/kurashiru/IMG_4862.webp",
+          "filename": "IMG_4862.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h2h9nkv",
+          "src": "/appui-images/kurashiru/IMG_4863.webp",
+          "filename": "IMG_4863.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cmhtd6m",
+          "src": "/appui-images/kurashiru/IMG_4868.webp",
+          "filename": "IMG_4868.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dyg6a5h",
+          "src": "/appui-images/kurashiru/IMG_4869.webp",
+          "filename": "IMG_4869.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qzvvr0h",
+          "src": "/appui-images/kurashiru/IMG_4871.webp",
+          "filename": "IMG_4871.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5ij18ow",
+          "src": "/appui-images/kurashiru/IMG_4872.webp",
+          "filename": "IMG_4872.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o0odijk",
+      "title": "レシピ・詳細",
+      "images": [
+        {
+          "id": "552ljjt",
+          "src": "/appui-images/kurashiru/IMG_4835.webp",
+          "filename": "IMG_4835.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fnn8m19",
+          "src": "/appui-images/kurashiru/IMG_4838.webp",
+          "filename": "IMG_4838.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8240pot",
+          "src": "/appui-images/kurashiru/IMG_4839.webp",
+          "filename": "IMG_4839.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2i94fok",
+          "src": "/appui-images/kurashiru/IMG_4840.webp",
+          "filename": "IMG_4840.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eymounm",
+          "src": "/appui-images/kurashiru/IMG_4841.webp",
+          "filename": "IMG_4841.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ti6vhdg",
+          "src": "/appui-images/kurashiru/IMG_4842.webp",
+          "filename": "IMG_4842.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pshcd91",
+          "src": "/appui-images/kurashiru/IMG_4845.webp",
+          "filename": "IMG_4845.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d2d5mm0",
+          "src": "/appui-images/kurashiru/IMG_4851.webp",
+          "filename": "IMG_4851.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q2kbmd5",
+          "src": "/appui-images/kurashiru/IMG_4852.webp",
+          "filename": "IMG_4852.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wbp0j55",
+          "src": "/appui-images/kurashiru/IMG_4853.webp",
+          "filename": "IMG_4853.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qsswwlb",
+          "src": "/appui-images/kurashiru/IMG_4855.webp",
+          "filename": "IMG_4855.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8oghjiw",
+          "src": "/appui-images/kurashiru/IMG_4864.webp",
+          "filename": "IMG_4864.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dbp8owr",
+          "src": "/appui-images/kurashiru/IMG_4865.webp",
+          "filename": "IMG_4865.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tqskfbl",
+          "src": "/appui-images/kurashiru/IMG_4870.webp",
+          "filename": "IMG_4870.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s16z4i3",
+      "title": "設定",
+      "images": [
+        {
+          "id": "fpxqc7q",
+          "src": "/appui-images/kurashiru/IMG_4856.webp",
+          "filename": "IMG_4856.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n5dxkss",
+          "src": "/appui-images/kurashiru/IMG_4858.webp",
+          "filename": "IMG_4858.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fod8bph",
+          "src": "/appui-images/kurashiru/IMG_4859.webp",
+          "filename": "IMG_4859.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "kurashiru"
+}

@@ -1,0 +1,550 @@
+{
+  "id": "zara-1786626117838",
+  "name": "ZARA",
+  "description": "ZARA公式アプリ。新作ルックとオンラインショッピングができる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/0a/46/570a466f-6db0-a800-0b94-daeb64462478/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id547951480",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "wvphbji",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "sum6006",
+          "src": "/appui-images/zara/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6xs2xe2",
+          "src": "/appui-images/zara/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "axrqq2z",
+          "src": "/appui-images/zara/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r3g0etb",
+      "title": "起動・オンボーディング",
+      "images": [
+        {
+          "id": "wzr4xim",
+          "src": "/appui-images/zara/IMG_1005.webp",
+          "filename": "IMG_1005.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "zyaky1m",
+          "src": "/appui-images/zara/IMG_1006.webp",
+          "filename": "IMG_1006.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "q0tcp8y",
+          "src": "/appui-images/zara/IMG_1007.webp",
+          "filename": "IMG_1007.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8d1s0sx",
+          "src": "/appui-images/zara/IMG_1008.webp",
+          "filename": "IMG_1008.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "fqibk7m",
+          "src": "/appui-images/zara/IMG_1009.webp",
+          "filename": "IMG_1009.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vje56wp",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "wp69bc5",
+          "src": "/appui-images/zara/IMG_1010.webp",
+          "filename": "IMG_1010.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wt43yjp",
+      "title": "メニュー・カテゴリ",
+      "images": [
+        {
+          "id": "hpzzquz",
+          "src": "/appui-images/zara/IMG_1011.webp",
+          "filename": "IMG_1011.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "n6wvskg",
+          "src": "/appui-images/zara/IMG_1012.webp",
+          "filename": "IMG_1012.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "yfnn52p",
+          "src": "/appui-images/zara/IMG_1022.webp",
+          "filename": "IMG_1022.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0xfag4u",
+      "title": "商品一覧",
+      "images": [
+        {
+          "id": "9mze7nt",
+          "src": "/appui-images/zara/IMG_1013.webp",
+          "filename": "IMG_1013.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hy69k24",
+          "src": "/appui-images/zara/IMG_1023.webp",
+          "filename": "IMG_1023.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "cd95hqp",
+          "src": "/appui-images/zara/IMG_1025.webp",
+          "filename": "IMG_1025.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ac92010",
+          "src": "/appui-images/zara/IMG_1026.webp",
+          "filename": "IMG_1026.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "smdb0om",
+          "src": "/appui-images/zara/IMG_1027.webp",
+          "filename": "IMG_1027.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "pqa390j",
+          "src": "/appui-images/zara/IMG_1032.webp",
+          "filename": "IMG_1032.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ksapbox",
+      "title": "フィルター",
+      "images": [
+        {
+          "id": "kwg8dzl",
+          "src": "/appui-images/zara/IMG_1024.webp",
+          "filename": "IMG_1024.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フィルター",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zd8as81",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "9935o3h",
+          "src": "/appui-images/zara/IMG_1014.webp",
+          "filename": "IMG_1014.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "4a3d6lr",
+          "src": "/appui-images/zara/IMG_1015.webp",
+          "filename": "IMG_1015.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "cgeijp9",
+          "src": "/appui-images/zara/IMG_1033.webp",
+          "filename": "IMG_1033.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "albbnp1",
+          "src": "/appui-images/zara/IMG_1034.webp",
+          "filename": "IMG_1034.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "1948qth",
+          "src": "/appui-images/zara/IMG_1035.webp",
+          "filename": "IMG_1035.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z9asvwr",
+      "title": "カート",
+      "images": [
+        {
+          "id": "ru6cr7p",
+          "src": "/appui-images/zara/IMG_1016.webp",
+          "filename": "IMG_1016.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5r132za",
+      "title": "ログイン・登録",
+      "images": [
+        {
+          "id": "yhnm4gt",
+          "src": "/appui-images/zara/IMG_1018.webp",
+          "filename": "IMG_1018.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "nxl4q4b",
+          "src": "/appui-images/zara/IMG_1019.webp",
+          "filename": "IMG_1019.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mutfxtl",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "1bx1ato",
+          "src": "/appui-images/zara/IMG_1020.webp",
+          "filename": "IMG_1020.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "dyv5qnj",
+          "src": "/appui-images/zara/IMG_1021.webp",
+          "filename": "IMG_1021.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "ln8tud3",
+          "src": "/appui-images/zara/IMG_1036.webp",
+          "filename": "IMG_1036.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "6922sju",
+          "src": "/appui-images/zara/IMG_1037.webp",
+          "filename": "IMG_1037.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l5y2p0n",
+      "title": "検索",
+      "images": [
+        {
+          "id": "p3tto3b",
+          "src": "/appui-images/zara/IMG_1028.webp",
+          "filename": "IMG_1028.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "検索",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6krwaaf",
+      "title": "マイアカウント",
+      "images": [
+        {
+          "id": "eoqtl1n",
+          "src": "/appui-images/zara/IMG_1029.webp",
+          "filename": "IMG_1029.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3nb7ny8",
+          "src": "/appui-images/zara/IMG_1030.webp",
+          "filename": "IMG_1030.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "zkdmrkj",
+          "src": "/appui-images/zara/IMG_1031.webp",
+          "filename": "IMG_1031.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wb4bz3v",
+      "title": "設定",
+      "images": [
+        {
+          "id": "0sewqmm",
+          "src": "/appui-images/zara/IMG_1038.webp",
+          "filename": "IMG_1038.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "dlra7jn",
+          "src": "/appui-images/zara/IMG_1039.webp",
+          "filename": "IMG_1039.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "i3ezkva",
+          "src": "/appui-images/zara/IMG_1040.webp",
+          "filename": "IMG_1040.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "zara"
+}

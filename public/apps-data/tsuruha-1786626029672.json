@@ -1,0 +1,105 @@
+{
+  "id": "tsuruha-1786626029672",
+  "name": "ツルハドラッグ",
+  "description": "ツルハドラッグ公式アプリ。クーポン・ポイント・電子お薬手帳が使える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/da/72/f6da7260-9050-5393-645d-2bb99f54f320/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1483880235",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "l0ibzw5",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "xcdzaaf",
+          "src": "/appui-images/tsuruha/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zksc69z",
+          "src": "/appui-images/tsuruha/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "slrzrdw",
+          "src": "/appui-images/tsuruha/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w9e29je",
+          "src": "/appui-images/tsuruha/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8qa80hn",
+          "src": "/appui-images/tsuruha/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gus4yj0",
+          "src": "/appui-images/tsuruha/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ツルハドラッグ"
+}

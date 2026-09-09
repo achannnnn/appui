@@ -1,0 +1,1332 @@
+{
+  "id": "bizreach-1786200687541",
+  "name": "ビズリーチ",
+  "description": "ハイクラス転職のビズリーチ公式アプリ。厳選求人とヘッドハンター・企業からのスカウトでキャリアアップを支援。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/66/58/58665816-c057-52e5-fc5f-bd7d8bd72469/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id972002786",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "フォーム",
+    "ヘッダー",
+    "プロフィール",
+    "カード",
+    "検索",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "リスト",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "semas2h",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "rzp5ut6",
+          "src": "/appui-images/bizreach/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s9vs0vf",
+          "src": "/appui-images/bizreach/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "06qtvdp",
+          "src": "/appui-images/bizreach/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4q968yq",
+          "src": "/appui-images/bizreach/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z91pkn2",
+          "src": "/appui-images/bizreach/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vp1ucox",
+          "src": "/appui-images/bizreach/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d421o9y",
+          "src": "/appui-images/bizreach/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kw7hk82",
+      "title": "オンボーディング・会員登録",
+      "images": [
+        {
+          "id": "s47qoh2",
+          "src": "/appui-images/bizreach/IMG_9419.webp",
+          "filename": "IMG_9419.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "icj23e9",
+          "src": "/appui-images/bizreach/IMG_9420.webp",
+          "filename": "IMG_9420.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "auo0kmr",
+          "src": "/appui-images/bizreach/IMG_9421.webp",
+          "filename": "IMG_9421.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "2nafkqp",
+          "src": "/appui-images/bizreach/IMG_9422.webp",
+          "filename": "IMG_9422.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1m0p77y",
+          "src": "/appui-images/bizreach/IMG_9423.webp",
+          "filename": "IMG_9423.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cj6467",
+      "title": "基本情報登録",
+      "images": [
+        {
+          "id": "dmfvskz",
+          "src": "/appui-images/bizreach/IMG_9424.webp",
+          "filename": "IMG_9424.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "cj563d0",
+          "src": "/appui-images/bizreach/IMG_9425.webp",
+          "filename": "IMG_9425.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jiar3wz",
+          "src": "/appui-images/bizreach/IMG_9426.webp",
+          "filename": "IMG_9426.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "swx9r37",
+          "src": "/appui-images/bizreach/IMG_9427.webp",
+          "filename": "IMG_9427.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2vfe4y7",
+          "src": "/appui-images/bizreach/IMG_9428.webp",
+          "filename": "IMG_9428.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ph0p1l6",
+          "src": "/appui-images/bizreach/IMG_9429.webp",
+          "filename": "IMG_9429.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zfkp8ai",
+          "src": "/appui-images/bizreach/IMG_9430.webp",
+          "filename": "IMG_9430.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "yvils7k",
+          "src": "/appui-images/bizreach/IMG_9431.webp",
+          "filename": "IMG_9431.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zsrwzom",
+          "src": "/appui-images/bizreach/IMG_9432.webp",
+          "filename": "IMG_9432.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ibeasd6",
+      "title": "職務情報登録",
+      "images": [
+        {
+          "id": "sabrsz6",
+          "src": "/appui-images/bizreach/IMG_9433.webp",
+          "filename": "IMG_9433.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "gqy6i0q",
+          "src": "/appui-images/bizreach/IMG_9434.webp",
+          "filename": "IMG_9434.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "elsvor8",
+          "src": "/appui-images/bizreach/IMG_9435.webp",
+          "filename": "IMG_9435.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "u0zw3c2",
+          "src": "/appui-images/bizreach/IMG_9436.webp",
+          "filename": "IMG_9436.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "zuheyit",
+          "src": "/appui-images/bizreach/IMG_9437.webp",
+          "filename": "IMG_9437.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "eyx1x01",
+          "src": "/appui-images/bizreach/IMG_9438.webp",
+          "filename": "IMG_9438.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "qtjvmt5",
+          "src": "/appui-images/bizreach/IMG_9439.webp",
+          "filename": "IMG_9439.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "stuujuo",
+          "src": "/appui-images/bizreach/IMG_9440.webp",
+          "filename": "IMG_9440.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "koemz1f",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "83r5gka",
+          "src": "/appui-images/bizreach/IMG_9441.webp",
+          "filename": "IMG_9441.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "jk6mms3",
+          "src": "/appui-images/bizreach/IMG_9444.webp",
+          "filename": "IMG_9444.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "nxnb729",
+          "src": "/appui-images/bizreach/IMG_9445.webp",
+          "filename": "IMG_9445.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "5vx1p4i",
+          "src": "/appui-images/bizreach/IMG_9446.webp",
+          "filename": "IMG_9446.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "kp715wa",
+          "src": "/appui-images/bizreach/IMG_9447.webp",
+          "filename": "IMG_9447.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4nvz1ww",
+      "title": "おすすめ求人",
+      "images": [
+        {
+          "id": "ah02da1",
+          "src": "/appui-images/bizreach/IMG_9442.webp",
+          "filename": "IMG_9442.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "6x5blkb",
+          "src": "/appui-images/bizreach/IMG_9443.webp",
+          "filename": "IMG_9443.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "wfanap0",
+          "src": "/appui-images/bizreach/IMG_9450.webp",
+          "filename": "IMG_9450.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "rxz9fhb",
+          "src": "/appui-images/bizreach/IMG_9459.webp",
+          "filename": "IMG_9459.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "リスト",
+            "カード",
+            "ヘッダー",
+            "ボタン",
+            "検索",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flr6sre",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "fj1tzy1",
+          "src": "/appui-images/bizreach/IMG_9448.webp",
+          "filename": "IMG_9448.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "gh5f8hx",
+          "src": "/appui-images/bizreach/IMG_9449.webp",
+          "filename": "IMG_9449.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "66v6vo0",
+          "src": "/appui-images/bizreach/IMG_9451.webp",
+          "filename": "IMG_9451.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qxshx2s",
+      "title": "企業詳細",
+      "images": [
+        {
+          "id": "dzfuvzh",
+          "src": "/appui-images/bizreach/IMG_9452.webp",
+          "filename": "IMG_9452.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "0hdyi15",
+          "src": "/appui-images/bizreach/IMG_9453.webp",
+          "filename": "IMG_9453.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "8xa8gr3",
+          "src": "/appui-images/bizreach/IMG_9498.webp",
+          "filename": "IMG_9498.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "8emr417",
+          "src": "/appui-images/bizreach/IMG_9499.webp",
+          "filename": "IMG_9499.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8w6fptu",
+      "title": "求人検索・絞り込み",
+      "images": [
+        {
+          "id": "3q3zk7v",
+          "src": "/appui-images/bizreach/IMG_9454.webp",
+          "filename": "IMG_9454.webp",
+          "components": [
+            "フィルター",
+            "検索",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "kla8i8s",
+          "src": "/appui-images/bizreach/IMG_9455.webp",
+          "filename": "IMG_9455.webp",
+          "components": [
+            "フィルター",
+            "検索",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "9c7be37",
+          "src": "/appui-images/bizreach/IMG_9456.webp",
+          "filename": "IMG_9456.webp",
+          "components": [
+            "フィルター",
+            "検索",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "iv5oo7n",
+          "src": "/appui-images/bizreach/IMG_9457.webp",
+          "filename": "IMG_9457.webp",
+          "components": [
+            "フィルター",
+            "検索",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "gqb27nx",
+          "src": "/appui-images/bizreach/IMG_9458.webp",
+          "filename": "IMG_9458.webp",
+          "components": [
+            "フィルター",
+            "検索",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mgyt99w",
+      "title": "メッセージ・お知らせ",
+      "images": [
+        {
+          "id": "omb1sut",
+          "src": "/appui-images/bizreach/IMG_9460.webp",
+          "filename": "IMG_9460.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "j9g0gfr",
+          "src": "/appui-images/bizreach/IMG_9461.webp",
+          "filename": "IMG_9461.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "5trqwpk",
+          "src": "/appui-images/bizreach/IMG_9462.webp",
+          "filename": "IMG_9462.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "検索",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iljxshz",
+      "title": "プロフィール・レジュメ",
+      "images": [
+        {
+          "id": "fdchkpb",
+          "src": "/appui-images/bizreach/IMG_9463.webp",
+          "filename": "IMG_9463.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ez2502p",
+          "src": "/appui-images/bizreach/IMG_9464.webp",
+          "filename": "IMG_9464.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9lb35nr",
+          "src": "/appui-images/bizreach/IMG_9465.webp",
+          "filename": "IMG_9465.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "w6ghydr",
+          "src": "/appui-images/bizreach/IMG_9466.webp",
+          "filename": "IMG_9466.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jf5bml3",
+          "src": "/appui-images/bizreach/IMG_9467.webp",
+          "filename": "IMG_9467.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "6gaf70t",
+          "src": "/appui-images/bizreach/IMG_9468.webp",
+          "filename": "IMG_9468.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "469147h",
+          "src": "/appui-images/bizreach/IMG_9469.webp",
+          "filename": "IMG_9469.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "3ke7v8d",
+          "src": "/appui-images/bizreach/IMG_9470.webp",
+          "filename": "IMG_9470.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "elhb0t0",
+          "src": "/appui-images/bizreach/IMG_9471.webp",
+          "filename": "IMG_9471.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jz8oqlz",
+          "src": "/appui-images/bizreach/IMG_9476.webp",
+          "filename": "IMG_9476.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "gdngw0n",
+          "src": "/appui-images/bizreach/IMG_9485.webp",
+          "filename": "IMG_9485.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "t89aup0",
+          "src": "/appui-images/bizreach/IMG_9486.webp",
+          "filename": "IMG_9486.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2m2122q",
+          "src": "/appui-images/bizreach/IMG_9487.webp",
+          "filename": "IMG_9487.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "z7wy3ws",
+          "src": "/appui-images/bizreach/IMG_9488.webp",
+          "filename": "IMG_9488.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "66cxbjh",
+          "src": "/appui-images/bizreach/IMG_9489.webp",
+          "filename": "IMG_9489.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ujcyj6z",
+          "src": "/appui-images/bizreach/IMG_9490.webp",
+          "filename": "IMG_9490.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xwkclep",
+      "title": "業務内容AI自動生成",
+      "images": [
+        {
+          "id": "b4eq9e4",
+          "src": "/appui-images/bizreach/IMG_9472.webp",
+          "filename": "IMG_9472.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "liesf1j",
+          "src": "/appui-images/bizreach/IMG_9473.webp",
+          "filename": "IMG_9473.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "mf0413m",
+          "src": "/appui-images/bizreach/IMG_9474.webp",
+          "filename": "IMG_9474.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "6u6xjom",
+          "src": "/appui-images/bizreach/IMG_9475.webp",
+          "filename": "IMG_9475.webp",
+          "components": [
+            "フォーム",
+            "ボタン",
+            "ヘッダー",
+            "リスト",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rcnrrgf",
+      "title": "希望条件",
+      "images": [
+        {
+          "id": "cogoz6c",
+          "src": "/appui-images/bizreach/IMG_9491.webp",
+          "filename": "IMG_9491.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "cws1kde",
+          "src": "/appui-images/bizreach/IMG_9492.webp",
+          "filename": "IMG_9492.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9avd40z",
+      "title": "コンテンツ",
+      "images": [
+        {
+          "id": "xvbt5tq",
+          "src": "/appui-images/bizreach/IMG_9477.webp",
+          "filename": "IMG_9477.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "bjt7yg4",
+          "src": "/appui-images/bizreach/IMG_9478.webp",
+          "filename": "IMG_9478.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "97c3o4x",
+          "src": "/appui-images/bizreach/IMG_9479.webp",
+          "filename": "IMG_9479.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "t1as975",
+          "src": "/appui-images/bizreach/IMG_9480.webp",
+          "filename": "IMG_9480.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1t6q225",
+      "title": "AIに相談",
+      "images": [
+        {
+          "id": "gq764ay",
+          "src": "/appui-images/bizreach/IMG_9481.webp",
+          "filename": "IMG_9481.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム",
+            "オンボーディング",
+            "リスト"
+          ]
+        },
+        {
+          "id": "p317vi4",
+          "src": "/appui-images/bizreach/IMG_9482.webp",
+          "filename": "IMG_9482.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム",
+            "オンボーディング",
+            "リスト"
+          ]
+        },
+        {
+          "id": "94bj258",
+          "src": "/appui-images/bizreach/IMG_9483.webp",
+          "filename": "IMG_9483.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム",
+            "オンボーディング",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3riuwiq",
+      "title": "設定",
+      "images": [
+        {
+          "id": "pp2qxf3",
+          "src": "/appui-images/bizreach/IMG_9493.webp",
+          "filename": "IMG_9493.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "プロフィール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "tnnejrh",
+          "src": "/appui-images/bizreach/IMG_9494.webp",
+          "filename": "IMG_9494.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "プロフィール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "nmyh0gt",
+          "src": "/appui-images/bizreach/IMG_9495.webp",
+          "filename": "IMG_9495.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "プロフィール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "8vbduv4",
+          "src": "/appui-images/bizreach/IMG_9496.webp",
+          "filename": "IMG_9496.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "プロフィール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "svi66dj",
+          "src": "/appui-images/bizreach/IMG_9497.webp",
+          "filename": "IMG_9497.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "プロフィール",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ビズリーチ"
+}

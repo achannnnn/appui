@@ -1,0 +1,500 @@
+{
+  "id": "amazon-prime-video-1786570164847",
+  "name": "Amazon Prime Video",
+  "description": "映画・ドラマ・アニメが見放題の「Amazonプライム・ビデオ」。プライム会員向け配信に加え、レンタルや購入もできる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/1e/3b/e71e3b94-6fa5-7438-ebb4-2cd939b755f6/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id545519333",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "プロフィール",
+    "ボタン",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "リスト",
+    "ダッシュボード",
+    "ヘッダー",
+    "カード",
+    "タブ・セグメントコントロール",
+    "ボトム ナビゲーション",
+    "フィルター",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "ymu5uoo",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "k2o19lr",
+          "src": "/appui-images/amazon-prime-video/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p0cqfgz",
+          "src": "/appui-images/amazon-prime-video/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2vdfxqy",
+          "src": "/appui-images/amazon-prime-video/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dn8k7k3",
+          "src": "/appui-images/amazon-prime-video/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "77b1ho9",
+          "src": "/appui-images/amazon-prime-video/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "93d64ua",
+          "src": "/appui-images/amazon-prime-video/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jojujgv",
+      "title": "プロフィール切替・編集",
+      "images": [
+        {
+          "id": "q3bc79k",
+          "src": "/appui-images/amazon-prime-video/IMG_0052.webp",
+          "filename": "IMG_0052.webp",
+          "components": [
+            "プロフィール",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "zt6yhy8",
+          "src": "/appui-images/amazon-prime-video/IMG_0053.webp",
+          "filename": "IMG_0053.webp",
+          "components": [
+            "プロフィール",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "36hisj9",
+          "src": "/appui-images/amazon-prime-video/IMG_0054.webp",
+          "filename": "IMG_0054.webp",
+          "components": [
+            "プロフィール",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "qq4p6tl",
+          "src": "/appui-images/amazon-prime-video/IMG_0055.webp",
+          "filename": "IMG_0055.webp",
+          "components": [
+            "プロフィール",
+            "ボタン",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0swhufw",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "eygfnk1",
+          "src": "/appui-images/amazon-prime-video/IMG_0056.webp",
+          "filename": "IMG_0056.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "arxbish",
+          "src": "/appui-images/amazon-prime-video/IMG_0057.webp",
+          "filename": "IMG_0057.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "zw8ictd",
+          "src": "/appui-images/amazon-prime-video/IMG_0058.webp",
+          "filename": "IMG_0058.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "3p4lj66",
+          "src": "/appui-images/amazon-prime-video/IMG_0059.webp",
+          "filename": "IMG_0059.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "keal4de",
+          "src": "/appui-images/amazon-prime-video/IMG_0078.webp",
+          "filename": "IMG_0078.webp",
+          "components": [
+            "ダッシュボード",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cxodv34",
+      "title": "作品詳細（レンタル・購入）",
+      "images": [
+        {
+          "id": "wp95ntl",
+          "src": "/appui-images/amazon-prime-video/IMG_0060.webp",
+          "filename": "IMG_0060.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ewu0wpl",
+          "src": "/appui-images/amazon-prime-video/IMG_0061.webp",
+          "filename": "IMG_0061.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1y6hsnx",
+      "title": "作品詳細",
+      "images": [
+        {
+          "id": "y363pgg",
+          "src": "/appui-images/amazon-prime-video/IMG_0062.webp",
+          "filename": "IMG_0062.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tzkw4mz",
+          "src": "/appui-images/amazon-prime-video/IMG_0063.webp",
+          "filename": "IMG_0063.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "4tt1j05",
+          "src": "/appui-images/amazon-prime-video/IMG_0064.webp",
+          "filename": "IMG_0064.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "35ph9n7",
+          "src": "/appui-images/amazon-prime-video/IMG_0065.webp",
+          "filename": "IMG_0065.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "07dvdm3",
+          "src": "/appui-images/amazon-prime-video/IMG_0068.webp",
+          "filename": "IMG_0068.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ryds8v1",
+      "title": "再生プレイヤー",
+      "images": [
+        {
+          "id": "nka1h1a",
+          "src": "/appui-images/amazon-prime-video/IMG_0066.webp",
+          "filename": "IMG_0066.webp",
+          "components": [
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7fww9fb",
+      "title": "購入・言語オプション",
+      "images": [
+        {
+          "id": "8a408ua",
+          "src": "/appui-images/amazon-prime-video/IMG_0069.webp",
+          "filename": "IMG_0069.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "1hvivd4",
+          "src": "/appui-images/amazon-prime-video/IMG_0070.webp",
+          "filename": "IMG_0070.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406bzgd",
+      "title": "マイリスト",
+      "images": [
+        {
+          "id": "ofajixk",
+          "src": "/appui-images/amazon-prime-video/IMG_0071.webp",
+          "filename": "IMG_0071.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "ajtfk76",
+          "src": "/appui-images/amazon-prime-video/IMG_0072.webp",
+          "filename": "IMG_0072.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "804z0cl",
+          "src": "/appui-images/amazon-prime-video/IMG_0073.webp",
+          "filename": "IMG_0073.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y8o3b8a",
+      "title": "プライム",
+      "images": [
+        {
+          "id": "je677hl",
+          "src": "/appui-images/amazon-prime-video/IMG_0074.webp",
+          "filename": "IMG_0074.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "zltadca",
+          "src": "/appui-images/amazon-prime-video/IMG_0075.webp",
+          "filename": "IMG_0075.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orh9oy0",
+      "title": "サブスクリプション",
+      "images": [
+        {
+          "id": "w0kg2wd",
+          "src": "/appui-images/amazon-prime-video/IMG_0076.webp",
+          "filename": "IMG_0076.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5jd4292",
+      "title": "検索",
+      "images": [
+        {
+          "id": "sfcp521",
+          "src": "/appui-images/amazon-prime-video/IMG_0077.webp",
+          "filename": "IMG_0077.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "ボタン",
+            "リスト",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "amazon-prime-video"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "livedoor-blog-1787963606129-ucr6",
+  "name": "livedoor Blog",
+  "description": "記事の投稿・編集、アクセスやコメントの確認が手軽にできる、ライブドアブログ公式投稿アプリです。 バージョン4で大幅なリニューアルを行いました。 日々の出来事、旅の思い出、特別な瞬間をブログに残しましょう！ 【アプリの特徴】 新しいライブドアブログアプリでは、記事を書くことに集中",
+  "iconUrl": "/appui-images/livedoor-blog/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/livedoor-blog/id333206790?uo=4",
+  "categories": [
+    "ソーシャルネットワーキング"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "b7icvu6",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "yjiqeu7",
+          "src": "/appui-images/livedoor-blog/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "icotycq",
+          "src": "/appui-images/livedoor-blog/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "dglit00",
+          "src": "/appui-images/livedoor-blog/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "iymvgcd",
+          "src": "/appui-images/livedoor-blog/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wxnlvek",
+          "src": "/appui-images/livedoor-blog/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "livedoor-blog"
+}

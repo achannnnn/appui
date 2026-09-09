@@ -1,0 +1,756 @@
+{
+  "id": "gu-1786626089672",
+  "name": "GU",
+  "description": "ジーユー公式アプリ。新作チェックや店舗在庫、オンライン購入ができる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/85/e0/3885e0a9-f7aa-b0ad-0061-73257e00a0a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id504542019",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "2q5xj45",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "ilz2pth",
+          "src": "/appui-images/gu/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4r78t78",
+          "src": "/appui-images/gu/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dlccn2e",
+          "src": "/appui-images/gu/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5kcn50p",
+          "src": "/appui-images/gu/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ie1s3a5",
+          "src": "/appui-images/gu/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f84fyq7",
+          "src": "/appui-images/gu/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3j2c51",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "56cpuxm",
+          "src": "/appui-images/gu/IMG_0803.webp",
+          "filename": "IMG_0803.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "icwa5uo",
+          "src": "/appui-images/gu/IMG_0804.webp",
+          "filename": "IMG_0804.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1tzwz7s",
+          "src": "/appui-images/gu/IMG_0805.webp",
+          "filename": "IMG_0805.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9x5lfof",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "q0w3p99",
+          "src": "/appui-images/gu/IMG_0806.webp",
+          "filename": "IMG_0806.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vheanxc",
+          "src": "/appui-images/gu/IMG_0846.webp",
+          "filename": "IMG_0846.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xtgoix3",
+      "title": "会員証",
+      "images": [
+        {
+          "id": "gicqsk3",
+          "src": "/appui-images/gu/IMG_0807.webp",
+          "filename": "IMG_0807.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "hziw913",
+          "src": "/appui-images/gu/IMG_0808.webp",
+          "filename": "IMG_0808.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1hdk18",
+      "title": "検索",
+      "images": [
+        {
+          "id": "jfbvbsm",
+          "src": "/appui-images/gu/IMG_0809.webp",
+          "filename": "IMG_0809.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r6s5qob",
+      "title": "カテゴリ",
+      "images": [
+        {
+          "id": "9d2i7y3",
+          "src": "/appui-images/gu/IMG_0810.webp",
+          "filename": "IMG_0810.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8qk8ps",
+      "title": "商品一覧",
+      "images": [
+        {
+          "id": "mqza1o3",
+          "src": "/appui-images/gu/IMG_0811.webp",
+          "filename": "IMG_0811.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xxs56h1",
+          "src": "/appui-images/gu/IMG_0812.webp",
+          "filename": "IMG_0812.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "323vcyq",
+          "src": "/appui-images/gu/IMG_0813.webp",
+          "filename": "IMG_0813.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "abff8so",
+          "src": "/appui-images/gu/IMG_0814.webp",
+          "filename": "IMG_0814.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "uxvhrih",
+          "src": "/appui-images/gu/IMG_0815.webp",
+          "filename": "IMG_0815.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "検索",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7pep2hz",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "e2a5i6y",
+          "src": "/appui-images/gu/IMG_0816.webp",
+          "filename": "IMG_0816.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "gb607vf",
+          "src": "/appui-images/gu/IMG_0817.webp",
+          "filename": "IMG_0817.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "fgp9aqx",
+          "src": "/appui-images/gu/IMG_0818.webp",
+          "filename": "IMG_0818.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "wgvs54s",
+          "src": "/appui-images/gu/IMG_0837.webp",
+          "filename": "IMG_0837.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xw44u4z",
+          "src": "/appui-images/gu/IMG_0838.webp",
+          "filename": "IMG_0838.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s0qo6q2",
+      "title": "スタイリング",
+      "images": [
+        {
+          "id": "wuryvx9",
+          "src": "/appui-images/gu/IMG_0819.webp",
+          "filename": "IMG_0819.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v8gaku7",
+      "title": "口コミ",
+      "images": [
+        {
+          "id": "6scu4df",
+          "src": "/appui-images/gu/IMG_0820.webp",
+          "filename": "IMG_0820.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l8ump73",
+      "title": "サイズガイド",
+      "images": [
+        {
+          "id": "em9zsbz",
+          "src": "/appui-images/gu/IMG_0821.webp",
+          "filename": "IMG_0821.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vglrvsf",
+          "src": "/appui-images/gu/IMG_0822.webp",
+          "filename": "IMG_0822.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "y2tfyor",
+          "src": "/appui-images/gu/IMG_0823.webp",
+          "filename": "IMG_0823.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ca1sc0d",
+          "src": "/appui-images/gu/IMG_0824.webp",
+          "filename": "IMG_0824.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ws2cxcl",
+          "src": "/appui-images/gu/IMG_0825.webp",
+          "filename": "IMG_0825.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "c8uku0z",
+          "src": "/appui-images/gu/IMG_0826.webp",
+          "filename": "IMG_0826.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "b0rdcwn",
+          "src": "/appui-images/gu/IMG_0827.webp",
+          "filename": "IMG_0827.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wz3nj5y",
+          "src": "/appui-images/gu/IMG_0828.webp",
+          "filename": "IMG_0828.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "フォーム",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iilrzqt",
+      "title": "カート",
+      "images": [
+        {
+          "id": "ykyyq8y",
+          "src": "/appui-images/gu/IMG_0829.webp",
+          "filename": "IMG_0829.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "fwql6sn",
+          "src": "/appui-images/gu/IMG_0830.webp",
+          "filename": "IMG_0830.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "utujya9",
+          "src": "/appui-images/gu/IMG_0831.webp",
+          "filename": "IMG_0831.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0kmr3yf",
+      "title": "購入手続き",
+      "images": [
+        {
+          "id": "dgn6pas",
+          "src": "/appui-images/gu/IMG_0832.webp",
+          "filename": "IMG_0832.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ufw8gmb",
+          "src": "/appui-images/gu/IMG_0833.webp",
+          "filename": "IMG_0833.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ueppf6p",
+          "src": "/appui-images/gu/IMG_0834.webp",
+          "filename": "IMG_0834.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "pvjan0v",
+          "src": "/appui-images/gu/IMG_0835.webp",
+          "filename": "IMG_0835.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3jf30fr",
+          "src": "/appui-images/gu/IMG_0836.webp",
+          "filename": "IMG_0836.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fgjpkgl",
+      "title": "店舗検索",
+      "images": [
+        {
+          "id": "nwxi9o9",
+          "src": "/appui-images/gu/IMG_0839.webp",
+          "filename": "IMG_0839.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "o2213h8",
+          "src": "/appui-images/gu/IMG_0840.webp",
+          "filename": "IMG_0840.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ogu1ydz",
+          "src": "/appui-images/gu/IMG_0841.webp",
+          "filename": "IMG_0841.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "フォーム",
+            "フィルター",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53r1otg",
+      "title": "お問い合わせ",
+      "images": [
+        {
+          "id": "nwiv2fu",
+          "src": "/appui-images/gu/IMG_0842.webp",
+          "filename": "IMG_0842.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "2qp7wz0",
+          "src": "/appui-images/gu/IMG_0843.webp",
+          "filename": "IMG_0843.webp",
+          "components": [
+            "ヘッダー",
+            "検索",
+            "リスト",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unahix5",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "db0uxsk",
+          "src": "/appui-images/gu/IMG_0844.webp",
+          "filename": "IMG_0844.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "gu"
+}

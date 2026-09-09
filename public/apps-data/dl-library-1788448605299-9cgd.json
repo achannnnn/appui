@@ -1,0 +1,297 @@
+{
+  "id": "dl-library-1788448605299-9cgd",
+  "name": "DL Library",
+  "description": "ついに登場！viviON ID会員サービス公式ビューアアプリ！ viviON IDアカウントでログインするだけで、購入済みのコミック作品（Webtoon・商業/同人ボイスコミック）・CG作品・ノベル作品を簡単に楽しく読むことができます。 v…",
+  "iconUrl": "/appui-images/dl-library/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/dl-library/id6476686031?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "k92o07h",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "gufg2xd",
+          "src": "/appui-images/dl-library/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e7axwzu",
+          "src": "/appui-images/dl-library/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0dbn5eq",
+          "src": "/appui-images/dl-library/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rtxyc3q",
+          "src": "/appui-images/dl-library/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1w0glm",
+      "title": "ライブラリ",
+      "images": [
+        {
+          "id": "lax4f9a",
+          "src": "/appui-images/dl-library/IMG_2994.webp",
+          "filename": "IMG_2994.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a2bf4a3",
+          "src": "/appui-images/dl-library/IMG_2995.webp",
+          "filename": "IMG_2995.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i42slsd",
+          "src": "/appui-images/dl-library/IMG_2996.webp",
+          "filename": "IMG_2996.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zngujsj",
+          "src": "/appui-images/dl-library/IMG_2997.webp",
+          "filename": "IMG_2997.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dz2ruzc",
+          "src": "/appui-images/dl-library/IMG_2998.webp",
+          "filename": "IMG_2998.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g1dfw2w",
+          "src": "/appui-images/dl-library/IMG_2999.webp",
+          "filename": "IMG_2999.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "umlauio",
+      "title": "無料作品",
+      "images": [
+        {
+          "id": "kizcjm1",
+          "src": "/appui-images/dl-library/IMG_3001.webp",
+          "filename": "IMG_3001.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mv0gz1d",
+          "src": "/appui-images/dl-library/IMG_3002.webp",
+          "filename": "IMG_3002.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t7hja1i",
+          "src": "/appui-images/dl-library/IMG_3003.webp",
+          "filename": "IMG_3003.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8x29xpx",
+          "src": "/appui-images/dl-library/IMG_3005.webp",
+          "filename": "IMG_3005.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e4wgnxb",
+          "src": "/appui-images/dl-library/IMG_3006.webp",
+          "filename": "IMG_3006.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1rfuff8",
+      "title": "設定",
+      "images": [
+        {
+          "id": "e64hx90",
+          "src": "/appui-images/dl-library/IMG_3007.webp",
+          "filename": "IMG_3007.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e41i9uj",
+          "src": "/appui-images/dl-library/IMG_3008.webp",
+          "filename": "IMG_3008.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ikhlwtc",
+          "src": "/appui-images/dl-library/IMG_3009.webp",
+          "filename": "IMG_3009.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jxm0gyq",
+          "src": "/appui-images/dl-library/IMG_3010.webp",
+          "filename": "IMG_3010.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ea13axw",
+          "src": "/appui-images/dl-library/IMG_3011.webp",
+          "filename": "IMG_3011.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zrh3n96",
+          "src": "/appui-images/dl-library/IMG_3012.webp",
+          "filename": "IMG_3012.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "dl-library"
+}

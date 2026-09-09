@@ -1,0 +1,1527 @@
+{
+  "id": "zaim-1788967972508-czny",
+  "name": "Zaim",
+  "description": "◆ 95.4% が「続けやすい」と回答（※） ◆ リリースから 10年目の定番家計簿アプリ ◆ 「グッドデザイン賞」ベスト 100 選出（日本デザイン振興会） （※1 2025年1月5日時点における、Zaimユーザー5,595名を対象とした…",
+  "iconUrl": "/appui-images/zaim/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%81%8F%E3%81%B5%E3%81%86zaim-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E4%BA%BA%E6%B0%97%E5%AE%B6%E8%A8%88%E7%B0%BF-%E3%81%8B%E3%81%91%E3%81%84%E3%81%BC/id445850671?uo=4",
+  "categories": [
+    "金融"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "グラフ",
+    "タブ"
+  ],
+  "sections": [
+    {
+      "id": "odddtao",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "5xvw4t2",
+          "src": "/appui-images/zaim/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "cqdmbxv",
+          "src": "/appui-images/zaim/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "b4eu3ya",
+          "src": "/appui-images/zaim/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "jls0sm5",
+          "src": "/appui-images/zaim/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "rqd9g8j",
+          "src": "/appui-images/zaim/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "70e9xwv",
+          "src": "/appui-images/zaim/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "ge938v4",
+          "src": "/appui-images/zaim/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s77jc99",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "3miuez9",
+          "src": "/appui-images/zaim/IMG_5252-2.webp",
+          "filename": "IMG_5252-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "5tay4ff",
+          "src": "/appui-images/zaim/IMG_5253-2.webp",
+          "filename": "IMG_5253-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "4z3jq9k",
+          "src": "/appui-images/zaim/IMG_5254-2.webp",
+          "filename": "IMG_5254-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "f9vgiuy",
+          "src": "/appui-images/zaim/IMG_5255-2.webp",
+          "filename": "IMG_5255-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "lse2ghh",
+          "src": "/appui-images/zaim/IMG_5256-2.webp",
+          "filename": "IMG_5256-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "rk4dnqs",
+          "src": "/appui-images/zaim/IMG_5257-2.webp",
+          "filename": "IMG_5257-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "5n1ssgb",
+          "src": "/appui-images/zaim/IMG_5258-2.webp",
+          "filename": "IMG_5258-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "s3rrcmk",
+          "src": "/appui-images/zaim/IMG_5259-2.webp",
+          "filename": "IMG_5259-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1kam7ih",
+          "src": "/appui-images/zaim/IMG_5260-2.webp",
+          "filename": "IMG_5260-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "vc36n81",
+          "src": "/appui-images/zaim/IMG_5264-2.webp",
+          "filename": "IMG_5264-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "w6am89z",
+          "src": "/appui-images/zaim/IMG_5265-2.webp",
+          "filename": "IMG_5265-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "s0aht70",
+          "src": "/appui-images/zaim/IMG_5267-2.webp",
+          "filename": "IMG_5267-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "88pqon4",
+          "src": "/appui-images/zaim/IMG_5268-2.webp",
+          "filename": "IMG_5268-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "72f4u7b",
+          "src": "/appui-images/zaim/IMG_5269-2.webp",
+          "filename": "IMG_5269-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "k5m7ngk",
+          "src": "/appui-images/zaim/IMG_5270-2.webp",
+          "filename": "IMG_5270-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "4u6v6o3",
+          "src": "/appui-images/zaim/IMG_5271-2.webp",
+          "filename": "IMG_5271-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "fxe2use",
+          "src": "/appui-images/zaim/IMG_5272-2.webp",
+          "filename": "IMG_5272-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "yex26u2",
+          "src": "/appui-images/zaim/IMG_5273-2.webp",
+          "filename": "IMG_5273-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "l0iuzhi",
+          "src": "/appui-images/zaim/IMG_5274-2.webp",
+          "filename": "IMG_5274-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "nuu1jpk",
+          "src": "/appui-images/zaim/IMG_5276-2.webp",
+          "filename": "IMG_5276-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "7r9ddu3",
+          "src": "/appui-images/zaim/IMG_5277-2.webp",
+          "filename": "IMG_5277-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1gugfr7",
+          "src": "/appui-images/zaim/IMG_5281-2.webp",
+          "filename": "IMG_5281-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qap523a",
+          "src": "/appui-images/zaim/IMG_5284-2.webp",
+          "filename": "IMG_5284-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "wkoylep",
+          "src": "/appui-images/zaim/IMG_5299-2.webp",
+          "filename": "IMG_5299-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "x0kcw3s",
+          "src": "/appui-images/zaim/IMG_5301-2.webp",
+          "filename": "IMG_5301-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "2ldk9qj",
+          "src": "/appui-images/zaim/IMG_5304-2.webp",
+          "filename": "IMG_5304-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "koih066",
+          "src": "/appui-images/zaim/IMG_5321-2.webp",
+          "filename": "IMG_5321-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "5bqmey3",
+          "src": "/appui-images/zaim/IMG_5322-2.webp",
+          "filename": "IMG_5322-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "hutocad",
+          "src": "/appui-images/zaim/IMG_5323-2.webp",
+          "filename": "IMG_5323-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "f4vjn8q",
+          "src": "/appui-images/zaim/IMG_5338-2.webp",
+          "filename": "IMG_5338-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "a2ee7fb",
+          "src": "/appui-images/zaim/IMG_5339-2.webp",
+          "filename": "IMG_5339-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "lfwhbwj",
+          "src": "/appui-images/zaim/IMG_5340-2.webp",
+          "filename": "IMG_5340-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "mct6fcx",
+          "src": "/appui-images/zaim/IMG_5351-2.webp",
+          "filename": "IMG_5351-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "opbg876",
+          "src": "/appui-images/zaim/IMG_5352-2.webp",
+          "filename": "IMG_5352-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "xmcbmwl",
+          "src": "/appui-images/zaim/IMG_5353-2.webp",
+          "filename": "IMG_5353-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "6cfkgw8",
+          "src": "/appui-images/zaim/IMG_5361-2.webp",
+          "filename": "IMG_5361-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qw5kc7r",
+          "src": "/appui-images/zaim/IMG_5362-2.webp",
+          "filename": "IMG_5362-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "vu6z2td",
+          "src": "/appui-images/zaim/IMG_5365-2.webp",
+          "filename": "IMG_5365-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r9sa3jx",
+      "title": "入力・明細",
+      "images": [
+        {
+          "id": "jp8srfk",
+          "src": "/appui-images/zaim/IMG_5261-2.webp",
+          "filename": "IMG_5261-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "oe1avs6",
+          "src": "/appui-images/zaim/IMG_5262-2.webp",
+          "filename": "IMG_5262-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "0pd7c2f",
+          "src": "/appui-images/zaim/IMG_5263-2.webp",
+          "filename": "IMG_5263-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "rkyc5qn",
+          "src": "/appui-images/zaim/IMG_5300-2.webp",
+          "filename": "IMG_5300-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "nmhr6bz",
+          "src": "/appui-images/zaim/IMG_5307-2.webp",
+          "filename": "IMG_5307-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "po6pkfg",
+          "src": "/appui-images/zaim/IMG_5309-2.webp",
+          "filename": "IMG_5309-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "5x5bs1i",
+          "src": "/appui-images/zaim/IMG_5330-2.webp",
+          "filename": "IMG_5330-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "ruej45y",
+          "src": "/appui-images/zaim/IMG_5331-2.webp",
+          "filename": "IMG_5331-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "dpat77l",
+          "src": "/appui-images/zaim/IMG_5332-2.webp",
+          "filename": "IMG_5332-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "2bihgaj",
+          "src": "/appui-images/zaim/IMG_5341-2.webp",
+          "filename": "IMG_5341-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "sewkssc",
+          "src": "/appui-images/zaim/IMG_5344-2.webp",
+          "filename": "IMG_5344-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "eyd3npm",
+          "src": "/appui-images/zaim/IMG_5345-2.webp",
+          "filename": "IMG_5345-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "617fqai",
+          "src": "/appui-images/zaim/IMG_5347-2.webp",
+          "filename": "IMG_5347-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "b2i6p1p",
+          "src": "/appui-images/zaim/IMG_5356-2.webp",
+          "filename": "IMG_5356-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "6l74s91",
+          "src": "/appui-images/zaim/IMG_5357-2.webp",
+          "filename": "IMG_5357-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "bwaet2e",
+          "src": "/appui-images/zaim/IMG_5358-2.webp",
+          "filename": "IMG_5358-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "i9eiz5g",
+          "src": "/appui-images/zaim/IMG_5359-2.webp",
+          "filename": "IMG_5359-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "081sy9a",
+          "src": "/appui-images/zaim/IMG_5360-2.webp",
+          "filename": "IMG_5360-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "prwtyhq",
+          "src": "/appui-images/zaim/IMG_5364-2.webp",
+          "filename": "IMG_5364-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6d7ztiy",
+      "title": "ホーム・収支",
+      "images": [
+        {
+          "id": "j8u2trs",
+          "src": "/appui-images/zaim/IMG_5266-2.webp",
+          "filename": "IMG_5266-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "jjoim59",
+          "src": "/appui-images/zaim/IMG_5278-2.webp",
+          "filename": "IMG_5278-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qnabryo",
+          "src": "/appui-images/zaim/IMG_5282-2.webp",
+          "filename": "IMG_5282-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "mvae1ok",
+          "src": "/appui-images/zaim/IMG_5283-2.webp",
+          "filename": "IMG_5283-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "zkzjl9n",
+          "src": "/appui-images/zaim/IMG_5285-2.webp",
+          "filename": "IMG_5285-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qc6eea7",
+          "src": "/appui-images/zaim/IMG_5286-2.webp",
+          "filename": "IMG_5286-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "t9sa5cc",
+          "src": "/appui-images/zaim/IMG_5287-2.webp",
+          "filename": "IMG_5287-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "2x96m0h",
+          "src": "/appui-images/zaim/IMG_5288-2.webp",
+          "filename": "IMG_5288-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "pkiplju",
+          "src": "/appui-images/zaim/IMG_5289-2.webp",
+          "filename": "IMG_5289-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "nrkod6f",
+          "src": "/appui-images/zaim/IMG_5290-2.webp",
+          "filename": "IMG_5290-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "t1e29f5",
+          "src": "/appui-images/zaim/IMG_5291-2.webp",
+          "filename": "IMG_5291-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "22nkd37",
+          "src": "/appui-images/zaim/IMG_5292-2.webp",
+          "filename": "IMG_5292-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "4qhfox9",
+          "src": "/appui-images/zaim/IMG_5293-2.webp",
+          "filename": "IMG_5293-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "lmbtcw8",
+          "src": "/appui-images/zaim/IMG_5294-2.webp",
+          "filename": "IMG_5294-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "nvm87l6",
+          "src": "/appui-images/zaim/IMG_5296-2.webp",
+          "filename": "IMG_5296-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "csm6vla",
+          "src": "/appui-images/zaim/IMG_5297-2.webp",
+          "filename": "IMG_5297-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "o3fvsvm",
+          "src": "/appui-images/zaim/IMG_5298-2.webp",
+          "filename": "IMG_5298-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "i1v9l5t",
+          "src": "/appui-images/zaim/IMG_5302-2.webp",
+          "filename": "IMG_5302-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "zyy95xv",
+          "src": "/appui-images/zaim/IMG_5303-2.webp",
+          "filename": "IMG_5303-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "6s299wp",
+          "src": "/appui-images/zaim/IMG_5305-2.webp",
+          "filename": "IMG_5305-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "yfd9th8",
+          "src": "/appui-images/zaim/IMG_5306-2.webp",
+          "filename": "IMG_5306-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1h1b5oz",
+          "src": "/appui-images/zaim/IMG_5308-2.webp",
+          "filename": "IMG_5308-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "68xrrmo",
+          "src": "/appui-images/zaim/IMG_5310-2.webp",
+          "filename": "IMG_5310-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "dguozwm",
+          "src": "/appui-images/zaim/IMG_5311-2.webp",
+          "filename": "IMG_5311-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "yfxgfw2",
+          "src": "/appui-images/zaim/IMG_5312-2.webp",
+          "filename": "IMG_5312-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "4jf0m0d",
+          "src": "/appui-images/zaim/IMG_5313-2.webp",
+          "filename": "IMG_5313-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "mehou6f",
+          "src": "/appui-images/zaim/IMG_5314-2.webp",
+          "filename": "IMG_5314-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "x74cg9v",
+          "src": "/appui-images/zaim/IMG_5315-2.webp",
+          "filename": "IMG_5315-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "7i3buxe",
+          "src": "/appui-images/zaim/IMG_5316-2.webp",
+          "filename": "IMG_5316-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "sol0ycd",
+          "src": "/appui-images/zaim/IMG_5317-2.webp",
+          "filename": "IMG_5317-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "rs07zbc",
+          "src": "/appui-images/zaim/IMG_5318-2.webp",
+          "filename": "IMG_5318-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "yvusuk6",
+          "src": "/appui-images/zaim/IMG_5319-2.webp",
+          "filename": "IMG_5319-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "5j1qs5c",
+          "src": "/appui-images/zaim/IMG_5320-2.webp",
+          "filename": "IMG_5320-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "pqhmk52",
+          "src": "/appui-images/zaim/IMG_5324-2.webp",
+          "filename": "IMG_5324-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qy84to4",
+          "src": "/appui-images/zaim/IMG_5325-2.webp",
+          "filename": "IMG_5325-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "lqjokts",
+          "src": "/appui-images/zaim/IMG_5326-2.webp",
+          "filename": "IMG_5326-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "h4dcln2",
+          "src": "/appui-images/zaim/IMG_5327-2.webp",
+          "filename": "IMG_5327-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "6uxj9te",
+          "src": "/appui-images/zaim/IMG_5328-2.webp",
+          "filename": "IMG_5328-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "7eknxme",
+          "src": "/appui-images/zaim/IMG_5329-2.webp",
+          "filename": "IMG_5329-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "syyi2dz",
+          "src": "/appui-images/zaim/IMG_5333-2.webp",
+          "filename": "IMG_5333-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "gsjd6hy",
+          "src": "/appui-images/zaim/IMG_5334-2.webp",
+          "filename": "IMG_5334-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "v3745br",
+          "src": "/appui-images/zaim/IMG_5335-2.webp",
+          "filename": "IMG_5335-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "g93txsl",
+          "src": "/appui-images/zaim/IMG_5336-2.webp",
+          "filename": "IMG_5336-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "707oh00",
+          "src": "/appui-images/zaim/IMG_5337-2.webp",
+          "filename": "IMG_5337-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "2s0p7ho",
+          "src": "/appui-images/zaim/IMG_5342-2.webp",
+          "filename": "IMG_5342-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "bb01bfe",
+          "src": "/appui-images/zaim/IMG_5346-2.webp",
+          "filename": "IMG_5346-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "6ht4t9b",
+          "src": "/appui-images/zaim/IMG_5348-2.webp",
+          "filename": "IMG_5348-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "bkevl72",
+          "src": "/appui-images/zaim/IMG_5349-2.webp",
+          "filename": "IMG_5349-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "xph1r0g",
+          "src": "/appui-images/zaim/IMG_5355-2.webp",
+          "filename": "IMG_5355-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "my027b3",
+          "src": "/appui-images/zaim/IMG_5363-2.webp",
+          "filename": "IMG_5363-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "ox2j5ld",
+          "src": "/appui-images/zaim/IMG_5367-2.webp",
+          "filename": "IMG_5367-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k8y71us",
+      "title": "設定",
+      "images": [
+        {
+          "id": "lgfllqd",
+          "src": "/appui-images/zaim/IMG_5275-2.webp",
+          "filename": "IMG_5275-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "n1bveew",
+          "src": "/appui-images/zaim/IMG_5354-2.webp",
+          "filename": "IMG_5354-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "5a4vcwi",
+          "src": "/appui-images/zaim/IMG_5366-2.webp",
+          "filename": "IMG_5366-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mxy0r98",
+      "title": "口座・予算",
+      "images": [
+        {
+          "id": "3yjk0vu",
+          "src": "/appui-images/zaim/IMG_5279-2.webp",
+          "filename": "IMG_5279-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "uxgj3o6",
+          "src": "/appui-images/zaim/IMG_5280-2.webp",
+          "filename": "IMG_5280-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u40qppu",
+      "title": "グラフ・レポート",
+      "images": [
+        {
+          "id": "ra4x0y7",
+          "src": "/appui-images/zaim/IMG_5343-2.webp",
+          "filename": "IMG_5343-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "adpcths",
+          "src": "/appui-images/zaim/IMG_5350-2.webp",
+          "filename": "IMG_5350-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "zaim"
+}

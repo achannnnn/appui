@@ -1,0 +1,764 @@
+{
+  "id": "mynavi-baito-ryugakusei-1787064191166",
+  "name": "マイナビバイト留学生",
+  "description": "留学生OKのアルバイト情報だけを掲載した求人検索アプリ。日本語レベル（N1〜N5）や現在地周辺から探せる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/8a/8e/fd8a8e87-c905-3ad8-6bf0-b3003c2dd3e4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1221781697",
+  "categories": [
+    "バイト"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "カード",
+    "ヘッダー",
+    "リスト",
+    "検索",
+    "フィルター",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション",
+    "ダッシュボード",
+    "プロフィール",
+    "タブ・セグメントコントロール"
+  ],
+  "sections": [
+    {
+      "id": "ndemoao",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "cprijmg",
+          "src": "/appui-images/mynavi-baito-ryugakusei/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f10wckh",
+          "src": "/appui-images/mynavi-baito-ryugakusei/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "auusmes",
+          "src": "/appui-images/mynavi-baito-ryugakusei/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e1sll51",
+          "src": "/appui-images/mynavi-baito-ryugakusei/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zu6qv6f",
+          "src": "/appui-images/mynavi-baito-ryugakusei/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "84qr385",
+          "src": "/appui-images/mynavi-baito-ryugakusei/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ak68ax0",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "xthiwmg",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1156.webp",
+          "filename": "IMG_1156.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "l5yjm3i",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1157.webp",
+          "filename": "IMG_1157.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "kldnaaj",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1158.webp",
+          "filename": "IMG_1158.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "ul3souf",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1159.webp",
+          "filename": "IMG_1159.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "d2jw1d5",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1160.webp",
+          "filename": "IMG_1160.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "2m1kdul",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1161.webp",
+          "filename": "IMG_1161.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "fqvznvu",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1162.webp",
+          "filename": "IMG_1162.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "7sv8erd",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1163.webp",
+          "filename": "IMG_1163.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        },
+        {
+          "id": "zjtbvbc",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1164.webp",
+          "filename": "IMG_1164.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4mt67qx",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "bs10iyd",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1165.webp",
+          "filename": "IMG_1165.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "8x3v14j",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1166.webp",
+          "filename": "IMG_1166.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "s3xyx50",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1167.webp",
+          "filename": "IMG_1167.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "95bf47z",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1168.webp",
+          "filename": "IMG_1168.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "d7604w9",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1169.webp",
+          "filename": "IMG_1169.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "x69qw4t",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1170.webp",
+          "filename": "IMG_1170.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ao34wa",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "bxco56b",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1171.webp",
+          "filename": "IMG_1171.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "2smu5ju",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1172.webp",
+          "filename": "IMG_1172.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jke8zt9",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1173.webp",
+          "filename": "IMG_1173.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0ozu23u",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1174.webp",
+          "filename": "IMG_1174.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hxnmk85",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1175.webp",
+          "filename": "IMG_1175.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "kz7y43h",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1176.webp",
+          "filename": "IMG_1176.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xzg0kck",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1177.webp",
+          "filename": "IMG_1177.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "c81yvo9",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1179.webp",
+          "filename": "IMG_1179.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rngpkqv",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1184.webp",
+          "filename": "IMG_1184.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1usxdfo",
+      "title": "応募フォーム",
+      "images": [
+        {
+          "id": "3cvpvab",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1180.webp",
+          "filename": "IMG_1180.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0f4eiul",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1181.webp",
+          "filename": "IMG_1181.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8yp1xdj",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1182.webp",
+          "filename": "IMG_1182.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jx7cp21",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1183.webp",
+          "filename": "IMG_1183.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7er2r7",
+      "title": "電話応募",
+      "images": [
+        {
+          "id": "uu6eku0",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1185.webp",
+          "filename": "IMG_1185.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15uoa3z",
+      "title": "現在地・駅選択",
+      "images": [
+        {
+          "id": "7sv44j1",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1186.webp",
+          "filename": "IMG_1186.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "ez7vnpg",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1187.webp",
+          "filename": "IMG_1187.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "u642iej",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1188.webp",
+          "filename": "IMG_1188.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "15cxzwc",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1189.webp",
+          "filename": "IMG_1189.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "ヘッダー",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "ivfx896",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1190.webp",
+          "filename": "IMG_1190.webp",
+          "components": [
+            "リスト",
+            "検索",
+            "ヘッダー",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74lwu83",
+      "title": "検索結果",
+      "images": [
+        {
+          "id": "5y5kk5x",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1191.webp",
+          "filename": "IMG_1191.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "7la1w86",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1192.webp",
+          "filename": "IMG_1192.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "kj1fsbs",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1193.webp",
+          "filename": "IMG_1193.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "l89ozs5",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1194.webp",
+          "filename": "IMG_1194.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jt62d8r",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1195.webp",
+          "filename": "IMG_1195.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "0eo19ca",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1196.webp",
+          "filename": "IMG_1196.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "c0qxxjr",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1197.webp",
+          "filename": "IMG_1197.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zn30nj2",
+      "title": "保存した求人",
+      "images": [
+        {
+          "id": "5smkuv1",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1200.webp",
+          "filename": "IMG_1200.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "845d886",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1201.webp",
+          "filename": "IMG_1201.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6ekhbu",
+      "title": "履歴",
+      "images": [
+        {
+          "id": "xthpjpx",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1202.webp",
+          "filename": "IMG_1202.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "x5liky2",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1203.webp",
+          "filename": "IMG_1203.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7j90j3j",
+      "title": "検索条件",
+      "images": [
+        {
+          "id": "feichdx",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1204.webp",
+          "filename": "IMG_1204.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "fxatfwi",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1205.webp",
+          "filename": "IMG_1205.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "qlm5p79",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1206.webp",
+          "filename": "IMG_1206.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "w3aryqx",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1207.webp",
+          "filename": "IMG_1207.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "otlez4a",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1208.webp",
+          "filename": "IMG_1208.webp",
+          "components": [
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tgi4o7w",
+      "title": "設定・お知らせ",
+      "images": [
+        {
+          "id": "58uwwwc",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1198.webp",
+          "filename": "IMG_1198.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "4i9cqua",
+          "src": "/appui-images/mynavi-baito-ryugakusei/IMG_1199.webp",
+          "filename": "IMG_1199.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "プロフィール"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "マイナビバイト留学生"
+}

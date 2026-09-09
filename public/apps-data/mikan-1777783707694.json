@@ -1,0 +1,308 @@
+{
+  "id": "mikan-1777783707694",
+  "name": "英語勉強 mikan 英語の学習 英検®/英会話/英文法",
+  "description": "英単語・TOEIC・英語検定 など人気の英語学習・語学アプリ",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/16/b4/7416b48f-72db-0b05-12c6-58188739b724/Placeholder.mill/200x200bb-75.webp 200w",
+  "externalUrl": "https://apps.apple.com/jp/app/英語勉強-mikan-英語の学習-英検-英会話-英文法/id920856839",
+  "categories": [
+    "教育"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "nrg8ngn",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "dup53dn",
+          "src": "/appui-images/mikan-1777783707694/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ifk5sv9",
+          "src": "/appui-images/mikan-1777783707694/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "th30njg",
+          "src": "/appui-images/mikan-1777783707694/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nh7s2fc",
+          "src": "/appui-images/mikan-1777783707694/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uq0j10n",
+          "src": "/appui-images/mikan-1777783707694/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "orkq792",
+          "src": "/appui-images/mikan-1777783707694/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wof7wu5",
+          "src": "/appui-images/mikan-1777783707694/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9gb4gkz",
+          "src": "/appui-images/mikan-1777783707694/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qsumsxn",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "bfr4vi3",
+          "src": "/appui-images/mikan-1777783707694/IMG_7906.webp",
+          "filename": "IMG_7906.webp"
+        }
+      ]
+    },
+    {
+      "id": "wt5gn8u",
+      "title": "教材一覧",
+      "images": [
+        {
+          "id": "1piv8xa",
+          "src": "/appui-images/mikan-1777783707694/IMG_7918.webp",
+          "filename": "IMG_7918.webp"
+        },
+        {
+          "id": "4fwrezo",
+          "src": "/appui-images/mikan-1777783707694/IMG_7907.webp",
+          "filename": "IMG_7907.webp"
+        },
+        {
+          "id": "otn419i",
+          "src": "/appui-images/mikan-1777783707694/IMG_7908.webp",
+          "filename": "IMG_7908.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "fz8ikbz",
+          "src": "/appui-images/mikan-1777783707694/IMG_7909.webp",
+          "filename": "IMG_7909.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "u6sju4q",
+      "title": "学習",
+      "images": [
+        {
+          "id": "6vamhxn",
+          "src": "/appui-images/mikan-1777783707694/IMG_7911.webp",
+          "filename": "IMG_7911.webp"
+        },
+        {
+          "id": "iuxxgfi",
+          "src": "/appui-images/mikan-1777783707694/IMG_7912.webp",
+          "filename": "IMG_7912.webp"
+        },
+        {
+          "id": "asomqsd",
+          "src": "/appui-images/mikan-1777783707694/IMG_7913.webp",
+          "filename": "IMG_7913.webp"
+        },
+        {
+          "id": "haviejh",
+          "src": "/appui-images/mikan-1777783707694/IMG_7914.webp",
+          "filename": "IMG_7914.webp"
+        },
+        {
+          "id": "xptd48h",
+          "src": "/appui-images/mikan-1777783707694/IMG_7915.webp",
+          "filename": "IMG_7915.webp"
+        },
+        {
+          "id": "efk3hlb",
+          "src": "/appui-images/mikan-1777783707694/IMG_7916.webp",
+          "filename": "IMG_7916.webp"
+        }
+      ]
+    },
+    {
+      "id": "49tnrff",
+      "title": "コーチ",
+      "images": [
+        {
+          "id": "pio774d",
+          "src": "/appui-images/mikan-1777783707694/IMG_7919.webp",
+          "filename": "IMG_7919.webp"
+        },
+        {
+          "id": "gw719c1",
+          "src": "/appui-images/mikan-1777783707694/IMG_7920.webp",
+          "filename": "IMG_7920.webp"
+        },
+        {
+          "id": "nljxfrb",
+          "src": "/appui-images/mikan-1777783707694/IMG_7921.webp",
+          "filename": "IMG_7921.webp"
+        },
+        {
+          "id": "b97s6w7",
+          "src": "/appui-images/mikan-1777783707694/IMG_7922.webp",
+          "filename": "IMG_7922.webp"
+        },
+        {
+          "id": "ux84zs0",
+          "src": "/appui-images/mikan-1777783707694/IMG_7923.webp",
+          "filename": "IMG_7923.webp"
+        },
+        {
+          "id": "w1yp29n",
+          "src": "/appui-images/mikan-1777783707694/IMG_7924.webp",
+          "filename": "IMG_7924.webp"
+        },
+        {
+          "id": "76dpf18",
+          "src": "/appui-images/mikan-1777783707694/IMG_7925.webp",
+          "filename": "IMG_7925.webp"
+        },
+        {
+          "id": "xb8p4yc",
+          "src": "/appui-images/mikan-1777783707694/IMG_7926.webp",
+          "filename": "IMG_7926.webp"
+        },
+        {
+          "id": "ko6hf27",
+          "src": "/appui-images/mikan-1777783707694/IMG_7927.webp",
+          "filename": "IMG_7927.webp"
+        },
+        {
+          "id": "cgrv55i",
+          "src": "/appui-images/mikan-1777783707694/IMG_7928.webp",
+          "filename": "IMG_7928.webp"
+        },
+        {
+          "id": "gwmfi2v",
+          "src": "/appui-images/mikan-1777783707694/IMG_7929.webp",
+          "filename": "IMG_7929.webp"
+        }
+      ]
+    },
+    {
+      "id": "lcee11m",
+      "title": "学習データ",
+      "images": [
+        {
+          "id": "axe06ex",
+          "src": "/appui-images/mikan-1777783707694/IMG_7930.webp",
+          "filename": "IMG_7930.webp"
+        },
+        {
+          "id": "xjugym3",
+          "src": "/appui-images/mikan-1777783707694/IMG_7931.webp",
+          "filename": "IMG_7931.webp"
+        }
+      ]
+    },
+    {
+      "id": "tv8m0v8",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "bh59jnr",
+          "src": "/appui-images/mikan-1777783707694/IMG_7932.webp",
+          "filename": "IMG_7932.webp"
+        },
+        {
+          "id": "r1ik70j",
+          "src": "/appui-images/mikan-1777783707694/IMG_7933.webp",
+          "filename": "IMG_7933.webp"
+        },
+        {
+          "id": "tho67an",
+          "src": "/appui-images/mikan-1777783707694/IMG_7934.webp",
+          "filename": "IMG_7934.webp"
+        },
+        {
+          "id": "upc38vx",
+          "src": "/appui-images/mikan-1777783707694/IMG_7935.webp",
+          "filename": "IMG_7935.webp"
+        },
+        {
+          "id": "jjsjg93",
+          "src": "/appui-images/mikan-1777783707694/IMG_7936.webp",
+          "filename": "IMG_7936.webp"
+        },
+        {
+          "id": "ee4eth4",
+          "src": "/appui-images/mikan-1777783707694/IMG_7937.webp",
+          "filename": "IMG_7937.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "英語勉強-mikan-英語の学習-英検®-英会話-英文法"
+}

@@ -1,0 +1,470 @@
+{
+  "id": "keizoku-suru-gijutsu-1787669575169-lpye",
+  "name": "継続する技術",
+  "description": "■ ダイエットも筋トレも、No.1習慣化アプリ ■ 広告なし / 無料。課金も不要 ■ みんな続いています（毎月12,000人が「30日継続」） 「今日からダイエットをしよう！ 今度こそジムに通うぞ」 このように何かを新しく始めた人の",
+  "iconUrl": "/appui-images/keizoku-suru-gijutsu/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E7%B6%99%E7%B6%9A%E3%81%99%E3%82%8B%E6%8A%80%E8%A1%93-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%82%82%E7%AD%8B%E3%83%88%E3%83%AC%E3%82%82%E8%A8%98%E9%8C%B2-%E7%BF%92%E6%85%A3%E5%8C%96%E3%81%A7%E7%9B%AE%E6%A8%99%E9%81%94%E6%88%90/id1120239484?uo=4",
+  "categories": [
+    "健康・フィットネス"
+  ],
+  "components": [
+    "カード",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "モーダル・ボトムシート",
+    "オンボーディング",
+    "フォーム",
+    "リスト",
+    "ヘッダー"
+  ],
+  "sections": [
+    {
+      "id": "inof5zw",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "thuvvyz",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "2yewljn",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "509j2tw",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "wgd7lix",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "9pvnj16",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "sajdb53",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "82kww43",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "y1i15fz",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3lpyky2",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0g0p74e",
+          "src": "/appui-images/keizoku-suru-gijutsu/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8qb5gpi",
+      "title": "記録する",
+      "images": [
+        {
+          "id": "3evog2k",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1827.webp",
+          "filename": "IMG_1827.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "kaboa0a",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1840.webp",
+          "filename": "IMG_1840.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "tb5n0rv",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1841.webp",
+          "filename": "IMG_1841.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "aqpe9n9",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1842.webp",
+          "filename": "IMG_1842.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "cegm5pu",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1852.webp",
+          "filename": "IMG_1852.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "nr9lij8",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1854.webp",
+          "filename": "IMG_1854.webp",
+          "components": [
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pkxeees",
+      "title": "リセット",
+      "images": [
+        {
+          "id": "n6wscw1",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1828.webp",
+          "filename": "IMG_1828.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hbawzdv",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1829.webp",
+          "filename": "IMG_1829.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "f8pae6z",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1830.webp",
+          "filename": "IMG_1830.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4umqaze",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1831.webp",
+          "filename": "IMG_1831.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gjkq0lc",
+      "title": "目標設定",
+      "images": [
+        {
+          "id": "8is3pp1",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1832.webp",
+          "filename": "IMG_1832.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "w0qbwvv",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1833.webp",
+          "filename": "IMG_1833.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hmayphd",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1834.webp",
+          "filename": "IMG_1834.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "9pncv2z",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1835.webp",
+          "filename": "IMG_1835.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hvgc7kq",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1836.webp",
+          "filename": "IMG_1836.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "riuexvq",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1837.webp",
+          "filename": "IMG_1837.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "fnvt7kd",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1838.webp",
+          "filename": "IMG_1838.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ukk2eos",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1839.webp",
+          "filename": "IMG_1839.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "in3m7f5",
+      "title": "歴史",
+      "images": [
+        {
+          "id": "zexqcag",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1843.webp",
+          "filename": "IMG_1843.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "24mzwv6",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1844.webp",
+          "filename": "IMG_1844.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "dkvq4lb",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1845.webp",
+          "filename": "IMG_1845.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5gtwyy2",
+      "title": "コラム",
+      "images": [
+        {
+          "id": "26ecurv",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1846.webp",
+          "filename": "IMG_1846.webp",
+          "components": [
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ue5rcq9",
+      "title": "メニュー・設定",
+      "images": [
+        {
+          "id": "zv5lr0j",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1847.webp",
+          "filename": "IMG_1847.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "9jgvqjc",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1848.webp",
+          "filename": "IMG_1848.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "zqx0dif",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1849.webp",
+          "filename": "IMG_1849.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "4hutpsm",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1850.webp",
+          "filename": "IMG_1850.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "2omu1jh",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1851.webp",
+          "filename": "IMG_1851.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t9bjfvt",
+      "title": "無駄機能",
+      "images": [
+        {
+          "id": "vg0ubzp",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1853.webp",
+          "filename": "IMG_1853.webp",
+          "components": [
+            "カード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "k0s5w0s",
+          "src": "/appui-images/keizoku-suru-gijutsu/IMG_1855.webp",
+          "filename": "IMG_1855.webp",
+          "components": [
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "keizoku-suru-gijutsu"
+}

@@ -1,0 +1,443 @@
+{
+  "id": "kuu-1787669532944-ov98",
+  "name": "KUU",
+  "description": "頭の中が、いっぱいのとき。 いま頭にあることを、そのまま話してください。 まとまっていなくて大丈夫です。 KUU は、話したことを少し整えて、 いま見る / あとで考える / 寝かせる / 手放す に分けるアプリです。 最初から整理しよ",
+  "iconUrl": "/appui-images/kuu/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/kuu-adhd%E3%82%84%E8%80%83%E3%81%88%E3%81%99%E3%81%8E%E3%82%8B%E4%BA%BA%E3%81%AE%E8%A9%B1%E3%81%99%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8A%E3%83%AA%E3%83%B3%E3%82%B0/id6771264775?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "モーダル・ボトムシート",
+    "フォーム",
+    "オンボーディング",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "s6f53wu",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "jypgzkq",
+          "src": "/appui-images/kuu/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7q19i2n",
+          "src": "/appui-images/kuu/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rnoapf2",
+          "src": "/appui-images/kuu/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "akdx60a",
+          "src": "/appui-images/kuu/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "r8yfcp9",
+          "src": "/appui-images/kuu/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "bfemc2y",
+          "src": "/appui-images/kuu/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "dajf97i",
+          "src": "/appui-images/kuu/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1wlmoe4",
+          "src": "/appui-images/kuu/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0wc1xj5",
+          "src": "/appui-images/kuu/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mmpqtqb",
+      "title": "アップデート",
+      "images": [
+        {
+          "id": "1959bsj",
+          "src": "/appui-images/kuu/IMG_1681.webp",
+          "filename": "IMG_1681.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1i31l0v",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "x7omr2e",
+          "src": "/appui-images/kuu/IMG_1682.webp",
+          "filename": "IMG_1682.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "c1t6uqa",
+          "src": "/appui-images/kuu/IMG_1683.webp",
+          "filename": "IMG_1683.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "sqr6tn1",
+          "src": "/appui-images/kuu/IMG_1693.webp",
+          "filename": "IMG_1693.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "uboczuy",
+          "src": "/appui-images/kuu/IMG_1694.webp",
+          "filename": "IMG_1694.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l9e5wo2",
+      "title": "話す",
+      "images": [
+        {
+          "id": "dhdwxeg",
+          "src": "/appui-images/kuu/IMG_1684.webp",
+          "filename": "IMG_1684.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "dtuxgun",
+          "src": "/appui-images/kuu/IMG_1685.webp",
+          "filename": "IMG_1685.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "1lbm8e4",
+          "src": "/appui-images/kuu/IMG_1686.webp",
+          "filename": "IMG_1686.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9y06jk9",
+          "src": "/appui-images/kuu/IMG_1687.webp",
+          "filename": "IMG_1687.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "08gcf0k",
+          "src": "/appui-images/kuu/IMG_1688.webp",
+          "filename": "IMG_1688.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "1q7gser",
+          "src": "/appui-images/kuu/IMG_1689.webp",
+          "filename": "IMG_1689.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "34up6jh",
+          "src": "/appui-images/kuu/IMG_1690.webp",
+          "filename": "IMG_1690.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "d2cue0h",
+          "src": "/appui-images/kuu/IMG_1691.webp",
+          "filename": "IMG_1691.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m1c6m1w",
+      "title": "レビュー",
+      "images": [
+        {
+          "id": "pmoymaq",
+          "src": "/appui-images/kuu/IMG_1692.webp",
+          "filename": "IMG_1692.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jehk4ka",
+      "title": "設定",
+      "images": [
+        {
+          "id": "3tfmipq",
+          "src": "/appui-images/kuu/IMG_1695.webp",
+          "filename": "IMG_1695.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "yoixvu8",
+          "src": "/appui-images/kuu/IMG_1696.webp",
+          "filename": "IMG_1696.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "58h21y6",
+          "src": "/appui-images/kuu/IMG_1697.webp",
+          "filename": "IMG_1697.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "warzi90",
+          "src": "/appui-images/kuu/IMG_1698.webp",
+          "filename": "IMG_1698.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "8vaxj95",
+          "src": "/appui-images/kuu/IMG_1699.webp",
+          "filename": "IMG_1699.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jypqu1k",
+          "src": "/appui-images/kuu/IMG_1700.webp",
+          "filename": "IMG_1700.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "3k1p3r5",
+          "src": "/appui-images/kuu/IMG_1701.webp",
+          "filename": "IMG_1701.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "tw0s3no",
+          "src": "/appui-images/kuu/IMG_1702.webp",
+          "filename": "IMG_1702.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s5wggb4",
+      "title": "テーマ",
+      "images": [
+        {
+          "id": "wbx5qbk",
+          "src": "/appui-images/kuu/IMG_1703.webp",
+          "filename": "IMG_1703.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "y6rc0cm",
+          "src": "/appui-images/kuu/IMG_1704.webp",
+          "filename": "IMG_1704.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wuhe2gx",
+      "title": "ふりかえり",
+      "images": [
+        {
+          "id": "llev2ha",
+          "src": "/appui-images/kuu/IMG_1705.webp",
+          "filename": "IMG_1705.webp",
+          "components": [
+            "カード",
+            "ダッシュボード",
+            "リスト"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "kuu"
+}

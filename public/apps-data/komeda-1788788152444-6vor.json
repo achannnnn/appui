@@ -1,0 +1,735 @@
+{
+  "id": "komeda-1788788152444-6vor",
+  "name": "コメダ珈琲",
+  "description": "コメダが大切にしている「くつろぎ」をみなさまに、より身近に感じていただきたいという思いを込め、「コメダ珈琲店」の公式アプリをリニューアルしました。 便利に楽しく使える機能が満載！ 【アプリ機能紹介】 ◯お気に入り登録 -----------…",
+  "iconUrl": "/appui-images/komeda/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%B3%E3%83%A1%E3%83%80%E7%8F%88%E7%90%B2%E5%BA%97/id1667214457?uo=4",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "地図",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "7uq2v1o",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "0xn3vkq",
+          "src": "/appui-images/komeda/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "e8069br",
+          "src": "/appui-images/komeda/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "g9q063o",
+          "src": "/appui-images/komeda/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "q4c2gd6",
+          "src": "/appui-images/komeda/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "v3uq1jd",
+          "src": "/appui-images/komeda/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bsc6ru1",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "kym74ll",
+          "src": "/appui-images/komeda/IMG_4342.webp",
+          "filename": "IMG_4342.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xsrn65j",
+          "src": "/appui-images/komeda/IMG_4347.webp",
+          "filename": "IMG_4347.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "f3vifvg",
+          "src": "/appui-images/komeda/IMG_4348.webp",
+          "filename": "IMG_4348.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "z8kh1pd",
+          "src": "/appui-images/komeda/IMG_4349.webp",
+          "filename": "IMG_4349.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a8drayg",
+          "src": "/appui-images/komeda/IMG_4353.webp",
+          "filename": "IMG_4353.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7iaa9kr",
+          "src": "/appui-images/komeda/IMG_4354.webp",
+          "filename": "IMG_4354.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ck4ttsx",
+          "src": "/appui-images/komeda/IMG_4355.webp",
+          "filename": "IMG_4355.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7an0scd",
+          "src": "/appui-images/komeda/IMG_4356.webp",
+          "filename": "IMG_4356.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "olaykwg",
+          "src": "/appui-images/komeda/IMG_4357.webp",
+          "filename": "IMG_4357.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "thvecxk",
+          "src": "/appui-images/komeda/IMG_4358.webp",
+          "filename": "IMG_4358.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "dd18vwu",
+          "src": "/appui-images/komeda/IMG_4359.webp",
+          "filename": "IMG_4359.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "v81g4yp",
+          "src": "/appui-images/komeda/IMG_4361.webp",
+          "filename": "IMG_4361.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6b7d56c",
+          "src": "/appui-images/komeda/IMG_4371.webp",
+          "filename": "IMG_4371.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "fkpto8f",
+          "src": "/appui-images/komeda/IMG_4372.webp",
+          "filename": "IMG_4372.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "agpc5o2",
+          "src": "/appui-images/komeda/IMG_4375.webp",
+          "filename": "IMG_4375.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "nzdoukr",
+          "src": "/appui-images/komeda/IMG_4376.webp",
+          "filename": "IMG_4376.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "a76zpde",
+          "src": "/appui-images/komeda/IMG_4380.webp",
+          "filename": "IMG_4380.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xrknra5",
+          "src": "/appui-images/komeda/IMG_4381.webp",
+          "filename": "IMG_4381.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "tfxyv4y",
+          "src": "/appui-images/komeda/IMG_4382.webp",
+          "filename": "IMG_4382.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "unu744t",
+          "src": "/appui-images/komeda/IMG_4384.webp",
+          "filename": "IMG_4384.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bei93sj",
+          "src": "/appui-images/komeda/IMG_4389.webp",
+          "filename": "IMG_4389.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70jft16",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "lx7gvh1",
+          "src": "/appui-images/komeda/IMG_4343.webp",
+          "filename": "IMG_4343.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "p6ab7vd",
+          "src": "/appui-images/komeda/IMG_4350.webp",
+          "filename": "IMG_4350.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8s4pkdh",
+          "src": "/appui-images/komeda/IMG_4351.webp",
+          "filename": "IMG_4351.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "v9d1pw5",
+          "src": "/appui-images/komeda/IMG_4352.webp",
+          "filename": "IMG_4352.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "fuzehar",
+          "src": "/appui-images/komeda/IMG_4362.webp",
+          "filename": "IMG_4362.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5oq2s7w",
+          "src": "/appui-images/komeda/IMG_4363.webp",
+          "filename": "IMG_4363.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "qqj5gls",
+          "src": "/appui-images/komeda/IMG_4364.webp",
+          "filename": "IMG_4364.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5zi4j8c",
+          "src": "/appui-images/komeda/IMG_4365.webp",
+          "filename": "IMG_4365.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9itsfsu",
+      "title": "コメカ・会員",
+      "images": [
+        {
+          "id": "zjkb8md",
+          "src": "/appui-images/komeda/IMG_4344.webp",
+          "filename": "IMG_4344.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "h85ajg4",
+          "src": "/appui-images/komeda/IMG_4346.webp",
+          "filename": "IMG_4346.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bs8th0m",
+          "src": "/appui-images/komeda/IMG_4383.webp",
+          "filename": "IMG_4383.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3mnvkxl",
+      "title": "店舗・マップ",
+      "images": [
+        {
+          "id": "u8hnt2s",
+          "src": "/appui-images/komeda/IMG_4345.webp",
+          "filename": "IMG_4345.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "pioo4dm",
+          "src": "/appui-images/komeda/IMG_4360.webp",
+          "filename": "IMG_4360.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5usp4sn",
+          "src": "/appui-images/komeda/IMG_4366.webp",
+          "filename": "IMG_4366.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "pr6rh38",
+          "src": "/appui-images/komeda/IMG_4367.webp",
+          "filename": "IMG_4367.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "tzremdi",
+          "src": "/appui-images/komeda/IMG_4368.webp",
+          "filename": "IMG_4368.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "broj2a7",
+          "src": "/appui-images/komeda/IMG_4369.webp",
+          "filename": "IMG_4369.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "gl0edy0",
+          "src": "/appui-images/komeda/IMG_4374.webp",
+          "filename": "IMG_4374.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "9jlsnss",
+          "src": "/appui-images/komeda/IMG_4385.webp",
+          "filename": "IMG_4385.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "suhnznv",
+          "src": "/appui-images/komeda/IMG_4386.webp",
+          "filename": "IMG_4386.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "46286hm",
+          "src": "/appui-images/komeda/IMG_4387.webp",
+          "filename": "IMG_4387.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lp9m6zy",
+          "src": "/appui-images/komeda/IMG_4388.webp",
+          "filename": "IMG_4388.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "09rk1zz",
+          "src": "/appui-images/komeda/IMG_4390.webp",
+          "filename": "IMG_4390.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "oxx2a38",
+          "src": "/appui-images/komeda/IMG_4391.webp",
+          "filename": "IMG_4391.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97j3ksa",
+      "title": "メニュー・オーダー",
+      "images": [
+        {
+          "id": "shehnj7",
+          "src": "/appui-images/komeda/IMG_4370.webp",
+          "filename": "IMG_4370.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "aj73mcc",
+          "src": "/appui-images/komeda/IMG_4373.webp",
+          "filename": "IMG_4373.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "cunse84",
+          "src": "/appui-images/komeda/IMG_4377.webp",
+          "filename": "IMG_4377.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "smed4v6",
+          "src": "/appui-images/komeda/IMG_4378.webp",
+          "filename": "IMG_4378.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "o4bs6pm",
+          "src": "/appui-images/komeda/IMG_4379.webp",
+          "filename": "IMG_4379.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eepskh3",
+      "title": "設定",
+      "images": [
+        {
+          "id": "j5xdak2",
+          "src": "/appui-images/komeda/IMG_4392.webp",
+          "filename": "IMG_4392.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "komeda"
+}

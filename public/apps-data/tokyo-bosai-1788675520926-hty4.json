@@ -1,0 +1,1202 @@
+{
+  "id": "tokyo-bosai-1788675520926-hty4",
+  "name": "東京都防災アプリ",
+  "description": "「あそぶ」「まなぶ」「つかう」をコンセプトに、楽しみながら防災の基礎知識を得ることができ、防災ブックの閲覧をはじめ、防災マップや災害情報など災害時にも役立つコンテンツが搭載されています。 また、「キッズモード」、「シニアモード」が選択でき、…",
+  "iconUrl": "/appui-images/tokyo-bosai/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E6%9D%B1%E4%BA%AC%E9%83%BD%E9%98%B2%E7%81%BD%E3%82%A2%E3%83%97%E3%83%AA/id1290558619?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "地図"
+  ],
+  "sections": [
+    {
+      "id": "u5drs6w",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "yxk6f89",
+          "src": "/appui-images/tokyo-bosai/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "x83taep",
+          "src": "/appui-images/tokyo-bosai/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "30bz4fm",
+          "src": "/appui-images/tokyo-bosai/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "3wtyfzb",
+          "src": "/appui-images/tokyo-bosai/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "o6nzqfh",
+          "src": "/appui-images/tokyo-bosai/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "3dqlkl3",
+          "src": "/appui-images/tokyo-bosai/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "oo4asql",
+          "src": "/appui-images/tokyo-bosai/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "n2kwqfy",
+          "src": "/appui-images/tokyo-bosai/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1p9ht4",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "4c1skqk",
+          "src": "/appui-images/tokyo-bosai/IMG_3241.webp",
+          "filename": "IMG_3241.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2mmpa8b",
+          "src": "/appui-images/tokyo-bosai/IMG_3242.webp",
+          "filename": "IMG_3242.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2gz8pm9",
+          "src": "/appui-images/tokyo-bosai/IMG_3243.webp",
+          "filename": "IMG_3243.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8c6nc8i",
+          "src": "/appui-images/tokyo-bosai/IMG_3244.webp",
+          "filename": "IMG_3244.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lzgr3a1",
+          "src": "/appui-images/tokyo-bosai/IMG_3245.webp",
+          "filename": "IMG_3245.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ya0lb0n",
+          "src": "/appui-images/tokyo-bosai/IMG_3246.webp",
+          "filename": "IMG_3246.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bj5hl5e",
+      "title": "ホーム・お知らせ",
+      "images": [
+        {
+          "id": "xszy5qo",
+          "src": "/appui-images/tokyo-bosai/IMG_3247.webp",
+          "filename": "IMG_3247.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7fa1wiw",
+          "src": "/appui-images/tokyo-bosai/IMG_3251.webp",
+          "filename": "IMG_3251.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "pn4n8ob",
+          "src": "/appui-images/tokyo-bosai/IMG_3252.webp",
+          "filename": "IMG_3252.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "1qskj7a",
+          "src": "/appui-images/tokyo-bosai/IMG_3253.webp",
+          "filename": "IMG_3253.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "416vniv",
+          "src": "/appui-images/tokyo-bosai/IMG_3275.webp",
+          "filename": "IMG_3275.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "khhz4zl",
+      "title": "マイエリア",
+      "images": [
+        {
+          "id": "lcmyaf4",
+          "src": "/appui-images/tokyo-bosai/IMG_3248.webp",
+          "filename": "IMG_3248.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "jputg59",
+          "src": "/appui-images/tokyo-bosai/IMG_3249.webp",
+          "filename": "IMG_3249.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "hub5fwt",
+          "src": "/appui-images/tokyo-bosai/IMG_3250.webp",
+          "filename": "IMG_3250.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k8oj39b",
+      "title": "緊急ブザー",
+      "images": [
+        {
+          "id": "xvb4pc5",
+          "src": "/appui-images/tokyo-bosai/IMG_3254.webp",
+          "filename": "IMG_3254.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "umiv0s2",
+          "src": "/appui-images/tokyo-bosai/IMG_3255.webp",
+          "filename": "IMG_3255.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "oh7m4tn",
+          "src": "/appui-images/tokyo-bosai/IMG_3256.webp",
+          "filename": "IMG_3256.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "cr44gl7",
+          "src": "/appui-images/tokyo-bosai/IMG_3257.webp",
+          "filename": "IMG_3257.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "g7a0yzx",
+          "src": "/appui-images/tokyo-bosai/IMG_3258.webp",
+          "filename": "IMG_3258.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "avizioj",
+          "src": "/appui-images/tokyo-bosai/IMG_3259.webp",
+          "filename": "IMG_3259.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5nelkee",
+          "src": "/appui-images/tokyo-bosai/IMG_3260.webp",
+          "filename": "IMG_3260.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "saggs9g",
+          "src": "/appui-images/tokyo-bosai/IMG_3318.webp",
+          "filename": "IMG_3318.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6onn7n6",
+      "title": "防災マップ",
+      "images": [
+        {
+          "id": "wq40z6t",
+          "src": "/appui-images/tokyo-bosai/IMG_3261.webp",
+          "filename": "IMG_3261.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ovnjs77",
+          "src": "/appui-images/tokyo-bosai/IMG_3262.webp",
+          "filename": "IMG_3262.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "fr18y7s",
+          "src": "/appui-images/tokyo-bosai/IMG_3264.webp",
+          "filename": "IMG_3264.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "yvxwew0",
+          "src": "/appui-images/tokyo-bosai/IMG_3265.webp",
+          "filename": "IMG_3265.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "flb6mh6",
+          "src": "/appui-images/tokyo-bosai/IMG_3266.webp",
+          "filename": "IMG_3266.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xk270s2",
+          "src": "/appui-images/tokyo-bosai/IMG_3267.webp",
+          "filename": "IMG_3267.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "95xmneq",
+          "src": "/appui-images/tokyo-bosai/IMG_3268.webp",
+          "filename": "IMG_3268.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "n3rpeq2",
+          "src": "/appui-images/tokyo-bosai/IMG_3269.webp",
+          "filename": "IMG_3269.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "yemrbth",
+          "src": "/appui-images/tokyo-bosai/IMG_3270.webp",
+          "filename": "IMG_3270.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "mbqw7cj",
+          "src": "/appui-images/tokyo-bosai/IMG_3271.webp",
+          "filename": "IMG_3271.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "s22ke2z",
+          "src": "/appui-images/tokyo-bosai/IMG_3272.webp",
+          "filename": "IMG_3272.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "tnw8mnh",
+          "src": "/appui-images/tokyo-bosai/IMG_3273.webp",
+          "filename": "IMG_3273.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "85r5z2m",
+          "src": "/appui-images/tokyo-bosai/IMG_3274.webp",
+          "filename": "IMG_3274.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7hrlqj2",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "dbyt3nj",
+          "src": "/appui-images/tokyo-bosai/IMG_3276.webp",
+          "filename": "IMG_3276.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "yzko7kv",
+          "src": "/appui-images/tokyo-bosai/IMG_3277.webp",
+          "filename": "IMG_3277.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2lrxrv1",
+          "src": "/appui-images/tokyo-bosai/IMG_3278.webp",
+          "filename": "IMG_3278.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "2t3h2qc",
+          "src": "/appui-images/tokyo-bosai/IMG_3279.webp",
+          "filename": "IMG_3279.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "zw5xqy5",
+          "src": "/appui-images/tokyo-bosai/IMG_3280.webp",
+          "filename": "IMG_3280.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "5i6crx4",
+          "src": "/appui-images/tokyo-bosai/IMG_3281.webp",
+          "filename": "IMG_3281.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "245krpl",
+          "src": "/appui-images/tokyo-bosai/IMG_3282.webp",
+          "filename": "IMG_3282.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "1tl81h1",
+          "src": "/appui-images/tokyo-bosai/IMG_3283.webp",
+          "filename": "IMG_3283.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "np0fret",
+          "src": "/appui-images/tokyo-bosai/IMG_3284.webp",
+          "filename": "IMG_3284.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "x6qt4s5",
+          "src": "/appui-images/tokyo-bosai/IMG_3285.webp",
+          "filename": "IMG_3285.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "k3sl8w1",
+          "src": "/appui-images/tokyo-bosai/IMG_3286.webp",
+          "filename": "IMG_3286.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "f4od6zr",
+          "src": "/appui-images/tokyo-bosai/IMG_3287.webp",
+          "filename": "IMG_3287.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6tenpy3",
+          "src": "/appui-images/tokyo-bosai/IMG_3288.webp",
+          "filename": "IMG_3288.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "vi3u0rj",
+          "src": "/appui-images/tokyo-bosai/IMG_3289.webp",
+          "filename": "IMG_3289.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "93wkxud",
+          "src": "/appui-images/tokyo-bosai/IMG_3290.webp",
+          "filename": "IMG_3290.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "fmx03ar",
+          "src": "/appui-images/tokyo-bosai/IMG_3291.webp",
+          "filename": "IMG_3291.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "omv4ou3",
+          "src": "/appui-images/tokyo-bosai/IMG_3302.webp",
+          "filename": "IMG_3302.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kxddhkv",
+      "title": "防災シティ",
+      "images": [
+        {
+          "id": "u2cp95b",
+          "src": "/appui-images/tokyo-bosai/IMG_3292.webp",
+          "filename": "IMG_3292.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "xvmxwyx",
+          "src": "/appui-images/tokyo-bosai/IMG_3293.webp",
+          "filename": "IMG_3293.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "4typws9",
+          "src": "/appui-images/tokyo-bosai/IMG_3294.webp",
+          "filename": "IMG_3294.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ovlvf0s",
+          "src": "/appui-images/tokyo-bosai/IMG_3295.webp",
+          "filename": "IMG_3295.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bwk2er5",
+          "src": "/appui-images/tokyo-bosai/IMG_3296.webp",
+          "filename": "IMG_3296.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "0z7akms",
+          "src": "/appui-images/tokyo-bosai/IMG_3297.webp",
+          "filename": "IMG_3297.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "8zfur8t",
+          "src": "/appui-images/tokyo-bosai/IMG_3298.webp",
+          "filename": "IMG_3298.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7xfdjb5",
+          "src": "/appui-images/tokyo-bosai/IMG_3299.webp",
+          "filename": "IMG_3299.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "lx8b6dr",
+          "src": "/appui-images/tokyo-bosai/IMG_3300.webp",
+          "filename": "IMG_3300.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "x3hryl9",
+          "src": "/appui-images/tokyo-bosai/IMG_3301.webp",
+          "filename": "IMG_3301.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22ytrjs",
+      "title": "東京防災・くらし防災",
+      "images": [
+        {
+          "id": "9z0608v",
+          "src": "/appui-images/tokyo-bosai/IMG_3303.webp",
+          "filename": "IMG_3303.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "7u8v1vs",
+          "src": "/appui-images/tokyo-bosai/IMG_3304.webp",
+          "filename": "IMG_3304.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "bb92pdn",
+          "src": "/appui-images/tokyo-bosai/IMG_3305.webp",
+          "filename": "IMG_3305.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "53jsplu",
+          "src": "/appui-images/tokyo-bosai/IMG_3306.webp",
+          "filename": "IMG_3306.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "6x3bem1",
+          "src": "/appui-images/tokyo-bosai/IMG_3307.webp",
+          "filename": "IMG_3307.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "93bcjyp",
+          "src": "/appui-images/tokyo-bosai/IMG_3308.webp",
+          "filename": "IMG_3308.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "auk3e27",
+          "src": "/appui-images/tokyo-bosai/IMG_3309.webp",
+          "filename": "IMG_3309.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "nrtld2p",
+          "src": "/appui-images/tokyo-bosai/IMG_3310.webp",
+          "filename": "IMG_3310.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "cd9c68t",
+          "src": "/appui-images/tokyo-bosai/IMG_3311.webp",
+          "filename": "IMG_3311.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "felfkee",
+          "src": "/appui-images/tokyo-bosai/IMG_3312.webp",
+          "filename": "IMG_3312.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rohu7v7",
+      "title": "防災クイズ",
+      "images": [
+        {
+          "id": "l3es4z0",
+          "src": "/appui-images/tokyo-bosai/IMG_3313.webp",
+          "filename": "IMG_3313.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "28bw8i5",
+          "src": "/appui-images/tokyo-bosai/IMG_3314.webp",
+          "filename": "IMG_3314.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "pmk1lit",
+          "src": "/appui-images/tokyo-bosai/IMG_3315.webp",
+          "filename": "IMG_3315.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "1k4cura",
+          "src": "/appui-images/tokyo-bosai/IMG_3316.webp",
+          "filename": "IMG_3316.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r5k4jtf",
+      "title": "設定・ヘルプ",
+      "images": [
+        {
+          "id": "u7ht3v3",
+          "src": "/appui-images/tokyo-bosai/IMG_3317.webp",
+          "filename": "IMG_3317.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "sr2r43o",
+          "src": "/appui-images/tokyo-bosai/IMG_3319.webp",
+          "filename": "IMG_3319.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "ebokyyx",
+          "src": "/appui-images/tokyo-bosai/IMG_3320.webp",
+          "filename": "IMG_3320.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "qb6g1ok",
+          "src": "/appui-images/tokyo-bosai/IMG_3321.webp",
+          "filename": "IMG_3321.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "eru2g66",
+          "src": "/appui-images/tokyo-bosai/IMG_3322.webp",
+          "filename": "IMG_3322.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "z02g0sr",
+          "src": "/appui-images/tokyo-bosai/IMG_3323.webp",
+          "filename": "IMG_3323.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "mimdvtw",
+          "src": "/appui-images/tokyo-bosai/IMG_3324.webp",
+          "filename": "IMG_3324.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "toact4b",
+          "src": "/appui-images/tokyo-bosai/IMG_3325.webp",
+          "filename": "IMG_3325.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        },
+        {
+          "id": "oat5z8v",
+          "src": "/appui-images/tokyo-bosai/IMG_3326.webp",
+          "filename": "IMG_3326.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "地図"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "tokyo-bosai"
+}

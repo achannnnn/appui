@@ -1,0 +1,196 @@
+{
+  "id": "app-1777712318085",
+  "name": "スターバックス ジャパン公式モバイルアプリ",
+  "description": "オーダーから支払うまで",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/26/f3/2326f370-b0e9-d1d2-3dfa-2cf6e17f4662/Placeholder.mill/200x200bb-75.jpg 200w",
+  "externalUrl": "https://apps.apple.com/jp/app/スターバックス-ジャパン公式モバイルアプリ/id1113037275",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "vtrljfi",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "y7gx7fc",
+          "src": "/appui-images/app-1777712318085/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "45h9wps",
+          "src": "/appui-images/app-1777712318085/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x6x7956",
+          "src": "/appui-images/app-1777712318085/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "oavtbco",
+          "src": "/appui-images/app-1777712318085/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kyygwrb",
+          "src": "/appui-images/app-1777712318085/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3ltedr0",
+          "src": "/appui-images/app-1777712318085/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7q8gfxe",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "pev5wws",
+          "src": "/appui-images/app-1777712318085/IMG_7827.webp",
+          "filename": "IMG_7827.webp"
+        }
+      ]
+    },
+    {
+      "id": "yzgjvw0",
+      "title": "支払い",
+      "images": [
+        {
+          "id": "orm76h3",
+          "src": "/appui-images/app-1777712318085/IMG_7828.webp",
+          "filename": "IMG_7828.webp"
+        },
+        {
+          "id": "ctclagg",
+          "src": "/appui-images/app-1777712318085/IMG_7829.webp",
+          "filename": "IMG_7829.webp"
+        },
+        {
+          "id": "d5q8za7",
+          "src": "/appui-images/app-1777712318085/IMG_7830.webp",
+          "filename": "IMG_7830.webp"
+        },
+        {
+          "id": "6sz0p88",
+          "src": "/appui-images/app-1777712318085/IMG_7831.webp",
+          "filename": "IMG_7831.webp",
+          "components": [
+            "エンプティステート"
+          ]
+        },
+        {
+          "id": "jra9rfc",
+          "src": "/appui-images/app-1777712318085/IMG_7832.webp",
+          "filename": "IMG_7832.webp"
+        }
+      ]
+    },
+    {
+      "id": "x4vrl0i",
+      "title": "オーダー",
+      "images": [
+        {
+          "id": "nyfu771",
+          "src": "/appui-images/app-1777712318085/IMG_7833.webp",
+          "filename": "IMG_7833.webp"
+        }
+      ]
+    },
+    {
+      "id": "vj2dt5d",
+      "title": "ギフト",
+      "images": [
+        {
+          "id": "4xciljg",
+          "src": "/appui-images/app-1777712318085/IMG_7834.webp",
+          "filename": "IMG_7834.webp"
+        },
+        {
+          "id": "nfq3kow",
+          "src": "/appui-images/app-1777712318085/IMG_7835.webp",
+          "filename": "IMG_7835.webp"
+        },
+        {
+          "id": "eqm2spz",
+          "src": "/appui-images/app-1777712318085/IMG_7836.webp",
+          "filename": "IMG_7836.webp"
+        }
+      ]
+    },
+    {
+      "id": "mv9gd1v",
+      "title": "リワード",
+      "images": [
+        {
+          "id": "mqpum1f",
+          "src": "/appui-images/app-1777712318085/IMG_7837.webp",
+          "filename": "IMG_7837.webp"
+        },
+        {
+          "id": "rux6jon",
+          "src": "/appui-images/app-1777712318085/IMG_7838.webp",
+          "filename": "IMG_7838.webp"
+        }
+      ]
+    },
+    {
+      "id": "ruvupzh",
+      "title": "設定",
+      "images": [
+        {
+          "id": "kui2pxr",
+          "src": "/appui-images/app-1777712318085/IMG_7839.webp",
+          "filename": "IMG_7839.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "スターバックス-ジャパン公式モバイルアプリ"
+}

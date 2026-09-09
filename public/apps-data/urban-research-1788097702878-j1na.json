@@ -1,0 +1,663 @@
+{
+  "id": "urban-research-1788097702878-j1na",
+  "name": "アーバンリサーチ",
+  "description": "「URBAN RESEARCH」の公式アプリです。 アプリで便利にお買い物をお楽しみください。 ■ONLINE あなたがお好きなアイテムがきっとすぐに見つかります。 カテゴリやブランド、ショップ別にお好きな商品を探してください。 お気に入り…",
+  "iconUrl": "/appui-images/urban-research/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/urban-research-%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E9%80%9A%E8%B2%A9%E3%82%A2%E3%83%97%E3%83%AA/id344381719?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "qdz19eh",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "jnifzhg",
+          "src": "/appui-images/urban-research/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2ptt0nv",
+          "src": "/appui-images/urban-research/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "82a1hf7",
+          "src": "/appui-images/urban-research/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vwhypt4",
+          "src": "/appui-images/urban-research/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z4qtpur",
+          "src": "/appui-images/urban-research/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yltj3ft",
+          "src": "/appui-images/urban-research/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ocmyi7",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "6dxy9xz",
+          "src": "/appui-images/urban-research/IMG_2452.webp",
+          "filename": "IMG_2452.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4y38iqm",
+          "src": "/appui-images/urban-research/IMG_2453.webp",
+          "filename": "IMG_2453.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qff9tpm",
+          "src": "/appui-images/urban-research/IMG_2454.webp",
+          "filename": "IMG_2454.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4lhhrfa",
+          "src": "/appui-images/urban-research/IMG_2455.webp",
+          "filename": "IMG_2455.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5pe20tm",
+          "src": "/appui-images/urban-research/IMG_2456.webp",
+          "filename": "IMG_2456.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ejco7iw",
+          "src": "/appui-images/urban-research/IMG_2457.webp",
+          "filename": "IMG_2457.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o31qw5b",
+          "src": "/appui-images/urban-research/IMG_2459.webp",
+          "filename": "IMG_2459.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0hn7fyg",
+          "src": "/appui-images/urban-research/IMG_2460.webp",
+          "filename": "IMG_2460.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0b8lv57",
+          "src": "/appui-images/urban-research/IMG_2461.webp",
+          "filename": "IMG_2461.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mfhtxt3",
+      "title": "探す",
+      "images": [
+        {
+          "id": "l3kpl7x",
+          "src": "/appui-images/urban-research/IMG_2458.webp",
+          "filename": "IMG_2458.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6ovb75k",
+          "src": "/appui-images/urban-research/IMG_2462.webp",
+          "filename": "IMG_2462.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v0zcj9l",
+          "src": "/appui-images/urban-research/IMG_2463.webp",
+          "filename": "IMG_2463.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2c2kml9",
+          "src": "/appui-images/urban-research/IMG_2464.webp",
+          "filename": "IMG_2464.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2e137xi",
+          "src": "/appui-images/urban-research/IMG_2465.webp",
+          "filename": "IMG_2465.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w8muo4e",
+          "src": "/appui-images/urban-research/IMG_2466.webp",
+          "filename": "IMG_2466.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c29ztmd",
+          "src": "/appui-images/urban-research/IMG_2467.webp",
+          "filename": "IMG_2467.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rgnlxxh",
+          "src": "/appui-images/urban-research/IMG_2468.webp",
+          "filename": "IMG_2468.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "prurmff",
+          "src": "/appui-images/urban-research/IMG_2469.webp",
+          "filename": "IMG_2469.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pcwxo25",
+          "src": "/appui-images/urban-research/IMG_2470.webp",
+          "filename": "IMG_2470.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8o69s8i",
+          "src": "/appui-images/urban-research/IMG_2471.webp",
+          "filename": "IMG_2471.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0cbjom9",
+          "src": "/appui-images/urban-research/IMG_2472.webp",
+          "filename": "IMG_2472.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xbeyq4i",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "ubwvt4l",
+          "src": "/appui-images/urban-research/IMG_2473.webp",
+          "filename": "IMG_2473.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "axnljaf",
+          "src": "/appui-images/urban-research/IMG_2474.webp",
+          "filename": "IMG_2474.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c3gtl4g",
+          "src": "/appui-images/urban-research/IMG_2475.webp",
+          "filename": "IMG_2475.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3o7t53c",
+          "src": "/appui-images/urban-research/IMG_2476.webp",
+          "filename": "IMG_2476.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e4m4d9f",
+          "src": "/appui-images/urban-research/IMG_2477.webp",
+          "filename": "IMG_2477.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uhjzp4j",
+          "src": "/appui-images/urban-research/IMG_2478.webp",
+          "filename": "IMG_2478.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zhs2vvn",
+          "src": "/appui-images/urban-research/IMG_2479.webp",
+          "filename": "IMG_2479.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n21w5uv",
+          "src": "/appui-images/urban-research/IMG_2480.webp",
+          "filename": "IMG_2480.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yk8he2v",
+          "src": "/appui-images/urban-research/IMG_2481.webp",
+          "filename": "IMG_2481.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xcvqc5x",
+          "src": "/appui-images/urban-research/IMG_2482.webp",
+          "filename": "IMG_2482.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fpa8tq9",
+          "src": "/appui-images/urban-research/IMG_2483.webp",
+          "filename": "IMG_2483.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dr2ikzc",
+          "src": "/appui-images/urban-research/IMG_2484.webp",
+          "filename": "IMG_2484.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c38rkfs",
+          "src": "/appui-images/urban-research/IMG_2485.webp",
+          "filename": "IMG_2485.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bf5wj6m",
+          "src": "/appui-images/urban-research/IMG_2486.webp",
+          "filename": "IMG_2486.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tb11ron",
+      "title": "スタイリング",
+      "images": [
+        {
+          "id": "ff6okrv",
+          "src": "/appui-images/urban-research/IMG_2488.webp",
+          "filename": "IMG_2488.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l6ns107",
+          "src": "/appui-images/urban-research/IMG_2489.webp",
+          "filename": "IMG_2489.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ahol6rx",
+      "title": "会員証",
+      "images": [
+        {
+          "id": "5o8a32i",
+          "src": "/appui-images/urban-research/IMG_2490.webp",
+          "filename": "IMG_2490.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u4npp89",
+          "src": "/appui-images/urban-research/IMG_2491.webp",
+          "filename": "IMG_2491.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qkb9796",
+          "src": "/appui-images/urban-research/IMG_2493.webp",
+          "filename": "IMG_2493.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jezsfch",
+          "src": "/appui-images/urban-research/IMG_2494.webp",
+          "filename": "IMG_2494.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vopvr4k",
+      "title": "注文・カート",
+      "images": [
+        {
+          "id": "yiz0sww",
+          "src": "/appui-images/urban-research/IMG_2495.webp",
+          "filename": "IMG_2495.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wfsiu14",
+          "src": "/appui-images/urban-research/IMG_2496.webp",
+          "filename": "IMG_2496.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dcfwwxc",
+          "src": "/appui-images/urban-research/IMG_2497.webp",
+          "filename": "IMG_2497.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "urban-research"
+}

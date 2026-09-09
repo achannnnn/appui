@@ -1,0 +1,534 @@
+{
+  "id": "u-next-1786572403838",
+  "name": "U-NEXT",
+  "description": "映画やドラマ、アニメなどが見放題の「U-NEXT」。ポイントや雑誌・電子書籍も使える総合エンタメアプリ。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ed/77/b5ed7784-2d38-94be-035c-4998cecd4b5a/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id882477693",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "ヘッダー",
+    "カード",
+    "リスト",
+    "タブ・セグメントコントロール",
+    "ボトム ナビゲーション",
+    "モーダル・ボトムシート",
+    "フィルター",
+    "検索",
+    "フォーム",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "lxk2rmr",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "c1mgjw7",
+          "src": "/appui-images/u-next/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m4vagyu",
+          "src": "/appui-images/u-next/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wyam2fx",
+          "src": "/appui-images/u-next/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jqcxqyk",
+          "src": "/appui-images/u-next/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zddogik",
+          "src": "/appui-images/u-next/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ybmknjp",
+          "src": "/appui-images/u-next/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mxd06sp",
+          "src": "/appui-images/u-next/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "18lq2ml",
+          "src": "/appui-images/u-next/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "oe1mgvg",
+          "src": "/appui-images/u-next/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fqhpen4",
+      "title": "起動・オンボーディング",
+      "images": [
+        {
+          "id": "dp2oryo",
+          "src": "/appui-images/u-next/IMG_0140.webp",
+          "filename": "IMG_0140.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "fsuiahl",
+          "src": "/appui-images/u-next/IMG_0141.webp",
+          "filename": "IMG_0141.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ytmnn8d",
+      "title": "ビデオホーム",
+      "images": [
+        {
+          "id": "t343onp",
+          "src": "/appui-images/u-next/IMG_0142.webp",
+          "filename": "IMG_0142.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8iq0u3p",
+          "src": "/appui-images/u-next/IMG_0143.webp",
+          "filename": "IMG_0143.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xqj76pl",
+          "src": "/appui-images/u-next/IMG_0144.webp",
+          "filename": "IMG_0144.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i4nwmvb",
+      "title": "作品詳細",
+      "images": [
+        {
+          "id": "yfg95qc",
+          "src": "/appui-images/u-next/IMG_0145.webp",
+          "filename": "IMG_0145.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xrkdnma",
+          "src": "/appui-images/u-next/IMG_0146.webp",
+          "filename": "IMG_0146.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "f46kq7c",
+          "src": "/appui-images/u-next/IMG_0147.webp",
+          "filename": "IMG_0147.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "f8x6eg9",
+          "src": "/appui-images/u-next/IMG_0148.webp",
+          "filename": "IMG_0148.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "02icfew",
+          "src": "/appui-images/u-next/IMG_0149.webp",
+          "filename": "IMG_0149.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "23128wc",
+          "src": "/appui-images/u-next/IMG_0150.webp",
+          "filename": "IMG_0150.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yfihn21",
+      "title": "ブック（マンガ・本）",
+      "images": [
+        {
+          "id": "4m8ugpy",
+          "src": "/appui-images/u-next/IMG_0151.webp",
+          "filename": "IMG_0151.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "haskwpj",
+          "src": "/appui-images/u-next/IMG_0152.webp",
+          "filename": "IMG_0152.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jj46g89",
+      "title": "雑誌読み放題",
+      "images": [
+        {
+          "id": "ydhszlv",
+          "src": "/appui-images/u-next/IMG_0153.webp",
+          "filename": "IMG_0153.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mzhc2w5",
+      "title": "キッズ読み放題",
+      "images": [
+        {
+          "id": "y5hk9sy",
+          "src": "/appui-images/u-next/IMG_0154.webp",
+          "filename": "IMG_0154.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "an4nspe",
+          "src": "/appui-images/u-next/IMG_0155.webp",
+          "filename": "IMG_0155.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "b9505u9",
+          "src": "/appui-images/u-next/IMG_0156.webp",
+          "filename": "IMG_0156.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bhbqni4",
+      "title": "検索・カテゴリ",
+      "images": [
+        {
+          "id": "5a57m1h",
+          "src": "/appui-images/u-next/IMG_0157.webp",
+          "filename": "IMG_0157.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "fnouo43",
+          "src": "/appui-images/u-next/IMG_0158.webp",
+          "filename": "IMG_0158.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sqnoywe",
+      "title": "ライブラリ",
+      "images": [
+        {
+          "id": "ggwzse8",
+          "src": "/appui-images/u-next/IMG_0159.webp",
+          "filename": "IMG_0159.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "検索",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "abpoese",
+          "src": "/appui-images/u-next/IMG_0160.webp",
+          "filename": "IMG_0160.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "検索",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "yd6bjay",
+          "src": "/appui-images/u-next/IMG_0161.webp",
+          "filename": "IMG_0161.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "検索",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hus528e",
+          "src": "/appui-images/u-next/IMG_0162.webp",
+          "filename": "IMG_0162.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "検索",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "zs7zj0y",
+          "src": "/appui-images/u-next/IMG_0163.webp",
+          "filename": "IMG_0163.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "検索",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4q74lah",
+      "title": "マイページ・設定",
+      "images": [
+        {
+          "id": "i74lqvu",
+          "src": "/appui-images/u-next/IMG_0164.webp",
+          "filename": "IMG_0164.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "フォーム",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "uku0qfu",
+          "src": "/appui-images/u-next/IMG_0165.webp",
+          "filename": "IMG_0165.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "フォーム",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "gkha2p0",
+          "src": "/appui-images/u-next/IMG_0166.webp",
+          "filename": "IMG_0166.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "フォーム",
+            "プロフィール"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "u-next"
+}

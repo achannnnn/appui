@@ -1,0 +1,741 @@
+{
+  "id": "club31-1787669555537-hpwj",
+  "name": "31club",
+  "description": "サーティワン公式アプリ「31Club」は、サーティワンをもっと楽しくおトクにご利用いただくためのアプリです。 新規会員登録をすると「新規入会クーポン」がすぐにご利用いただけます。また、お誕生月には「バースデークーポン」をお届けします。 さら",
+  "iconUrl": "/appui-images/club31/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/31club-%E3%82%B5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AF%E3%83%B3%E5%85%AC%E5%BC%8F%E3%82%A2%E3%83%97%E3%83%AA/id910133705?uo=4",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "カルーセル",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "フィルター",
+    "タブ・セグメントコントロール",
+    "ダッシュボード",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "9phhizf",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "b7kkt0a",
+          "src": "/appui-images/club31/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "p8n9c78",
+          "src": "/appui-images/club31/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "7e6s1ut",
+          "src": "/appui-images/club31/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1p5ribg",
+          "src": "/appui-images/club31/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "564f2zj",
+          "src": "/appui-images/club31/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "61ty0i0",
+          "src": "/appui-images/club31/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1fv7tj6",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "diws6jt",
+          "src": "/appui-images/club31/IMG_1732.webp",
+          "filename": "IMG_1732.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カルーセル"
+          ]
+        },
+        {
+          "id": "qhad0jw",
+          "src": "/appui-images/club31/IMG_1733.webp",
+          "filename": "IMG_1733.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カルーセル"
+          ]
+        },
+        {
+          "id": "eg856b3",
+          "src": "/appui-images/club31/IMG_1734.webp",
+          "filename": "IMG_1734.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カルーセル"
+          ]
+        },
+        {
+          "id": "6i41ssv",
+          "src": "/appui-images/club31/IMG_1735.webp",
+          "filename": "IMG_1735.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カルーセル"
+          ]
+        },
+        {
+          "id": "4t9lr33",
+          "src": "/appui-images/club31/IMG_1737.webp",
+          "filename": "IMG_1737.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カルーセル"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jxduq14",
+      "title": "デザインテーマ",
+      "images": [
+        {
+          "id": "iy21m3q",
+          "src": "/appui-images/club31/IMG_1736.webp",
+          "filename": "IMG_1736.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9g7nye4",
+      "title": "お気に入りフレーバー",
+      "images": [
+        {
+          "id": "nfgteau",
+          "src": "/appui-images/club31/IMG_1738.webp",
+          "filename": "IMG_1738.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5kee2xy",
+          "src": "/appui-images/club31/IMG_1739.webp",
+          "filename": "IMG_1739.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "sj90tjm",
+          "src": "/appui-images/club31/IMG_1740.webp",
+          "filename": "IMG_1740.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "gij0yhk",
+          "src": "/appui-images/club31/IMG_1741.webp",
+          "filename": "IMG_1741.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "a1wdzrk",
+          "src": "/appui-images/club31/IMG_1742.webp",
+          "filename": "IMG_1742.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "lqwjq3i",
+          "src": "/appui-images/club31/IMG_1743.webp",
+          "filename": "IMG_1743.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5mt4n6j",
+          "src": "/appui-images/club31/IMG_1744.webp",
+          "filename": "IMG_1744.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "dmy5ebl",
+          "src": "/appui-images/club31/IMG_1745.webp",
+          "filename": "IMG_1745.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ulnhfhf",
+          "src": "/appui-images/club31/IMG_1746.webp",
+          "filename": "IMG_1746.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jhclf8y",
+          "src": "/appui-images/club31/IMG_1747.webp",
+          "filename": "IMG_1747.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "m8ibhiy",
+          "src": "/appui-images/club31/IMG_1748.webp",
+          "filename": "IMG_1748.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "chjiyva",
+          "src": "/appui-images/club31/IMG_1749.webp",
+          "filename": "IMG_1749.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8ik0wb9",
+          "src": "/appui-images/club31/IMG_1765.webp",
+          "filename": "IMG_1765.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フォーム",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "im2k8jc",
+      "title": "クーポン・アニバーサリー",
+      "images": [
+        {
+          "id": "uc1ay3t",
+          "src": "/appui-images/club31/IMG_1750.webp",
+          "filename": "IMG_1750.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hsa4ybl",
+          "src": "/appui-images/club31/IMG_1751.webp",
+          "filename": "IMG_1751.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "6l4fwyj",
+          "src": "/appui-images/club31/IMG_1752.webp",
+          "filename": "IMG_1752.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "df4j0e8",
+          "src": "/appui-images/club31/IMG_1753.webp",
+          "filename": "IMG_1753.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "egszozm",
+          "src": "/appui-images/club31/IMG_1754.webp",
+          "filename": "IMG_1754.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9zvw5k2",
+          "src": "/appui-images/club31/IMG_1776.webp",
+          "filename": "IMG_1776.webp",
+          "components": [
+            "カード",
+            "フォーム",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4tj094q",
+      "title": "商品紹介",
+      "images": [
+        {
+          "id": "4mvzeec",
+          "src": "/appui-images/club31/IMG_1755.webp",
+          "filename": "IMG_1755.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "6gtx680",
+          "src": "/appui-images/club31/IMG_1756.webp",
+          "filename": "IMG_1756.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "gm047pz",
+          "src": "/appui-images/club31/IMG_1757.webp",
+          "filename": "IMG_1757.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ncd4l02",
+          "src": "/appui-images/club31/IMG_1758.webp",
+          "filename": "IMG_1758.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "b8ypgwg",
+          "src": "/appui-images/club31/IMG_1759.webp",
+          "filename": "IMG_1759.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pnxh08n",
+          "src": "/appui-images/club31/IMG_1760.webp",
+          "filename": "IMG_1760.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "cze7bzg",
+          "src": "/appui-images/club31/IMG_1761.webp",
+          "filename": "IMG_1761.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1ottalr",
+          "src": "/appui-images/club31/IMG_1762.webp",
+          "filename": "IMG_1762.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "5e7ul3s",
+          "src": "/appui-images/club31/IMG_1763.webp",
+          "filename": "IMG_1763.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "fp6g6y9",
+          "src": "/appui-images/club31/IMG_1764.webp",
+          "filename": "IMG_1764.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "e9pxe8z",
+          "src": "/appui-images/club31/IMG_1766.webp",
+          "filename": "IMG_1766.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "eslc884",
+          "src": "/appui-images/club31/IMG_1767.webp",
+          "filename": "IMG_1767.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "e607ddt",
+          "src": "/appui-images/club31/IMG_1768.webp",
+          "filename": "IMG_1768.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rkve2ec",
+      "title": "アイスマイル",
+      "images": [
+        {
+          "id": "itttmop",
+          "src": "/appui-images/club31/IMG_1769.webp",
+          "filename": "IMG_1769.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "alopqah",
+          "src": "/appui-images/club31/IMG_1770.webp",
+          "filename": "IMG_1770.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o0uunx3",
+          "src": "/appui-images/club31/IMG_1771.webp",
+          "filename": "IMG_1771.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9cfv428",
+          "src": "/appui-images/club31/IMG_1772.webp",
+          "filename": "IMG_1772.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1t3kqhw",
+          "src": "/appui-images/club31/IMG_1773.webp",
+          "filename": "IMG_1773.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jpyw4tx",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "dqnbtex",
+          "src": "/appui-images/club31/IMG_1774.webp",
+          "filename": "IMG_1774.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "wp3vtdh",
+          "src": "/appui-images/club31/IMG_1775.webp",
+          "filename": "IMG_1775.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nfngtrv",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "lw3wrmr",
+          "src": "/appui-images/club31/IMG_1777.webp",
+          "filename": "IMG_1777.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "cxod68u",
+          "src": "/appui-images/club31/IMG_1779.webp",
+          "filename": "IMG_1779.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0aqgn61",
+          "src": "/appui-images/club31/IMG_1780.webp",
+          "filename": "IMG_1780.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o66351c",
+          "src": "/appui-images/club31/IMG_1781.webp",
+          "filename": "IMG_1781.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "r0cteii",
+          "src": "/appui-images/club31/IMG_1782.webp",
+          "filename": "IMG_1782.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "yhehx19",
+          "src": "/appui-images/club31/IMG_1783.webp",
+          "filename": "IMG_1783.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "club31"
+}

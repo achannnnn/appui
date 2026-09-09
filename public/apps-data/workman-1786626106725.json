@@ -1,0 +1,718 @@
+{
+  "id": "workman-1786626106725",
+  "name": "ワークマン",
+  "description": "ワークマン公式アプリ。店舗在庫や新作、会員ポイントを確認できる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d7/2b/44d72b71-6d3e-7208-67a9-dbaa5e8a72d1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id6749408458",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "a6rjriq",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "9o2gqz4",
+          "src": "/appui-images/workman/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xx3ppw5",
+          "src": "/appui-images/workman/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3de96a7",
+          "src": "/appui-images/workman/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rsrww0p",
+          "src": "/appui-images/workman/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "38guzz2",
+          "src": "/appui-images/workman/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nnywvk0",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "vxcw8li",
+          "src": "/appui-images/workman/IMG_0911.webp",
+          "filename": "IMG_0911.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "カード",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "r8welh6",
+          "src": "/appui-images/workman/IMG_0912.webp",
+          "filename": "IMG_0912.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "カード",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "b8cmt7l",
+          "src": "/appui-images/workman/IMG_0913.webp",
+          "filename": "IMG_0913.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "カード",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "qyyth8n",
+          "src": "/appui-images/workman/IMG_0914.webp",
+          "filename": "IMG_0914.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "カード",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "tiflbjd",
+          "src": "/appui-images/workman/IMG_0915.webp",
+          "filename": "IMG_0915.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "カード",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "dty7hmx",
+          "src": "/appui-images/workman/IMG_0916.webp",
+          "filename": "IMG_0916.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール",
+            "リスト",
+            "ヘッダー",
+            "カード",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "596khrk",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "8lepiqq",
+          "src": "/appui-images/workman/IMG_0917.webp",
+          "filename": "IMG_0917.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "di6cz39",
+          "src": "/appui-images/workman/IMG_0918.webp",
+          "filename": "IMG_0918.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "yb1o48s",
+          "src": "/appui-images/workman/IMG_0919.webp",
+          "filename": "IMG_0919.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "kkc87h3",
+          "src": "/appui-images/workman/IMG_0952.webp",
+          "filename": "IMG_0952.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wwnvz95",
+      "title": "ログイン",
+      "images": [
+        {
+          "id": "5bjcvpn",
+          "src": "/appui-images/workman/IMG_0923.webp",
+          "filename": "IMG_0923.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "ボタン",
+            "フォーム",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3r4cefi",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "hmqr89r",
+          "src": "/appui-images/workman/IMG_0924.webp",
+          "filename": "IMG_0924.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フォーム",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "m3u9blv",
+          "src": "/appui-images/workman/IMG_0925.webp",
+          "filename": "IMG_0925.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フォーム",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xz833vv",
+          "src": "/appui-images/workman/IMG_0926.webp",
+          "filename": "IMG_0926.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フォーム",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ph7rwyy",
+          "src": "/appui-images/workman/IMG_0927.webp",
+          "filename": "IMG_0927.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フォーム",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "lkq8xyk",
+          "src": "/appui-images/workman/IMG_0928.webp",
+          "filename": "IMG_0928.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フォーム",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "a7dhi4j",
+          "src": "/appui-images/workman/IMG_0929.webp",
+          "filename": "IMG_0929.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "フォーム",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lq82h0k",
+      "title": "商品を探す",
+      "images": [
+        {
+          "id": "rsvqysx",
+          "src": "/appui-images/workman/IMG_0945.webp",
+          "filename": "IMG_0945.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        },
+        {
+          "id": "h9q9cm5",
+          "src": "/appui-images/workman/IMG_0946.webp",
+          "filename": "IMG_0946.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "検索",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xsaw2ci",
+      "title": "商品一覧",
+      "images": [
+        {
+          "id": "ip3qp60",
+          "src": "/appui-images/workman/IMG_0947.webp",
+          "filename": "IMG_0947.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "d72e7el",
+          "src": "/appui-images/workman/IMG_0948.webp",
+          "filename": "IMG_0948.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "フィルター",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ya98lyq",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "u3px6w6",
+          "src": "/appui-images/workman/IMG_0920.webp",
+          "filename": "IMG_0920.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "oe04bfq",
+          "src": "/appui-images/workman/IMG_0921.webp",
+          "filename": "IMG_0921.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "iw9dvdz",
+          "src": "/appui-images/workman/IMG_0922.webp",
+          "filename": "IMG_0922.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "hf34h10",
+          "src": "/appui-images/workman/IMG_0935.webp",
+          "filename": "IMG_0935.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "3dhzusd",
+          "src": "/appui-images/workman/IMG_0939.webp",
+          "filename": "IMG_0939.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "nv9gsxb",
+          "src": "/appui-images/workman/IMG_0940.webp",
+          "filename": "IMG_0940.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "kxlxknq",
+          "src": "/appui-images/workman/IMG_0941.webp",
+          "filename": "IMG_0941.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly82n4f",
+      "title": "商品レビュー",
+      "images": [
+        {
+          "id": "cjp6seq",
+          "src": "/appui-images/workman/IMG_0932.webp",
+          "filename": "IMG_0932.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "sodbwq8",
+          "src": "/appui-images/workman/IMG_0933.webp",
+          "filename": "IMG_0933.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "9vllfv4",
+          "src": "/appui-images/workman/IMG_0934.webp",
+          "filename": "IMG_0934.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i1wmjar",
+      "title": "サイズガイド",
+      "images": [
+        {
+          "id": "7xrm86p",
+          "src": "/appui-images/workman/IMG_0936.webp",
+          "filename": "IMG_0936.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト"
+          ]
+        },
+        {
+          "id": "8u5ofwp",
+          "src": "/appui-images/workman/IMG_0937.webp",
+          "filename": "IMG_0937.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト"
+          ]
+        },
+        {
+          "id": "zu46k5z",
+          "src": "/appui-images/workman/IMG_0938.webp",
+          "filename": "IMG_0938.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mwdhk3i",
+      "title": "カート",
+      "images": [
+        {
+          "id": "er6w9mw",
+          "src": "/appui-images/workman/IMG_0942.webp",
+          "filename": "IMG_0942.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "カード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ahr6pn2",
+      "title": "購入手続き",
+      "images": [
+        {
+          "id": "je4cja1",
+          "src": "/appui-images/workman/IMG_0943.webp",
+          "filename": "IMG_0943.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        },
+        {
+          "id": "darbaux",
+          "src": "/appui-images/workman/IMG_0944.webp",
+          "filename": "IMG_0944.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4q0zcfe",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "zb352t1",
+          "src": "/appui-images/workman/IMG_0930.webp",
+          "filename": "IMG_0930.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "az2c9tf",
+          "src": "/appui-images/workman/IMG_0931.webp",
+          "filename": "IMG_0931.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "pk0c8e9",
+          "src": "/appui-images/workman/IMG_0949.webp",
+          "filename": "IMG_0949.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ikgrdmk",
+          "src": "/appui-images/workman/IMG_0950.webp",
+          "filename": "IMG_0950.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jpvv1du",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "yqh9tfb",
+          "src": "/appui-images/workman/IMG_0951.webp",
+          "filename": "IMG_0951.webp",
+          "components": [
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ワークマン"
+}

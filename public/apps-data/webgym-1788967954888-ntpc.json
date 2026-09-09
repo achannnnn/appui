@@ -1,0 +1,585 @@
+{
+  "id": "webgym-1788967954888-ntpc",
+  "name": "WEBGYM",
+  "description": "WEBGYMは「運動」に特化したフィットネスアプリです。 フィットネスクラブ監修のエクササイズメニューがいつでも、どこでも、誰でも無料でご利用いただけます。 日常生活の中のちょっとしたスキマ時間に健康を取り入れてみませんか？ アプリで健康増…",
+  "iconUrl": "/appui-images/webgym/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/webgym-%E9%81%8B%E5%8B%95%E3%81%AE%E7%BF%92%E6%85%A3%E5%8C%96%E3%82%92%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/id1177334573?uo=4",
+  "categories": [
+    "健康・フィットネス"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "タブ",
+    "グラフ"
+  ],
+  "sections": [
+    {
+      "id": "0ohbmn5",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "0bkapum",
+          "src": "/appui-images/webgym/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "dnaodah",
+          "src": "/appui-images/webgym/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "4452nwt",
+          "src": "/appui-images/webgym/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "9ntfaxb",
+          "src": "/appui-images/webgym/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "0tffw7w",
+          "src": "/appui-images/webgym/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4fkn1pn",
+      "title": "その他",
+      "images": [
+        {
+          "id": "68imdt1",
+          "src": "/appui-images/webgym/IMG_5163-2.webp",
+          "filename": "IMG_5163-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "78pjr2b",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "1j3qxes",
+          "src": "/appui-images/webgym/IMG_5164-2.webp",
+          "filename": "IMG_5164-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "hgpk8sc",
+          "src": "/appui-images/webgym/IMG_5166-2.webp",
+          "filename": "IMG_5166-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "p8e91gr",
+          "src": "/appui-images/webgym/IMG_5167-2.webp",
+          "filename": "IMG_5167-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "y4id4tk",
+          "src": "/appui-images/webgym/IMG_5168-2.webp",
+          "filename": "IMG_5168-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "3f1o693",
+          "src": "/appui-images/webgym/IMG_5192-2.webp",
+          "filename": "IMG_5192-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "bc9antd",
+          "src": "/appui-images/webgym/IMG_5195-2.webp",
+          "filename": "IMG_5195-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "xou7o31",
+          "src": "/appui-images/webgym/IMG_5199-2.webp",
+          "filename": "IMG_5199-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "juhal4c",
+          "src": "/appui-images/webgym/IMG_5202-2.webp",
+          "filename": "IMG_5202-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ehgfhyb",
+      "title": "レッスン・動画",
+      "images": [
+        {
+          "id": "eafnewb",
+          "src": "/appui-images/webgym/IMG_5165-2.webp",
+          "filename": "IMG_5165-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu5nwgw",
+      "title": "記録・グラフ",
+      "images": [
+        {
+          "id": "fw8zoyv",
+          "src": "/appui-images/webgym/IMG_5169-2.webp",
+          "filename": "IMG_5169-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "qikkuks",
+          "src": "/appui-images/webgym/IMG_5170-2.webp",
+          "filename": "IMG_5170-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "k2j9pfa",
+          "src": "/appui-images/webgym/IMG_5171-2.webp",
+          "filename": "IMG_5171-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "mpffo0n",
+          "src": "/appui-images/webgym/IMG_5172-2.webp",
+          "filename": "IMG_5172-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "6yo4i9n",
+          "src": "/appui-images/webgym/IMG_5173-2.webp",
+          "filename": "IMG_5173-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r17o6rh",
+      "title": "ホーム・トレーニング",
+      "images": [
+        {
+          "id": "50hyt2p",
+          "src": "/appui-images/webgym/IMG_5174-2.webp",
+          "filename": "IMG_5174-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "oy62yuu",
+          "src": "/appui-images/webgym/IMG_5175-2.webp",
+          "filename": "IMG_5175-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "10arbuf",
+          "src": "/appui-images/webgym/IMG_5176-2.webp",
+          "filename": "IMG_5176-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "2hq9b5n",
+          "src": "/appui-images/webgym/IMG_5177-2.webp",
+          "filename": "IMG_5177-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "e7y5vb8",
+          "src": "/appui-images/webgym/IMG_5178-2.webp",
+          "filename": "IMG_5178-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "qumdrwr",
+          "src": "/appui-images/webgym/IMG_5179-2.webp",
+          "filename": "IMG_5179-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "lywm0vb",
+          "src": "/appui-images/webgym/IMG_5180-2.webp",
+          "filename": "IMG_5180-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "n32bdee",
+          "src": "/appui-images/webgym/IMG_5181-2.webp",
+          "filename": "IMG_5181-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "kfcex06",
+          "src": "/appui-images/webgym/IMG_5182-2.webp",
+          "filename": "IMG_5182-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "wfk5szi",
+          "src": "/appui-images/webgym/IMG_5184-2.webp",
+          "filename": "IMG_5184-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "fa833ja",
+          "src": "/appui-images/webgym/IMG_5185-2.webp",
+          "filename": "IMG_5185-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "dx3jdw4",
+          "src": "/appui-images/webgym/IMG_5186-2.webp",
+          "filename": "IMG_5186-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "9fxr37k",
+          "src": "/appui-images/webgym/IMG_5187-2.webp",
+          "filename": "IMG_5187-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "zmnfiw0",
+          "src": "/appui-images/webgym/IMG_5188-2.webp",
+          "filename": "IMG_5188-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "6xcvkvs",
+          "src": "/appui-images/webgym/IMG_5189-2.webp",
+          "filename": "IMG_5189-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "61j549v",
+          "src": "/appui-images/webgym/IMG_5190-2.webp",
+          "filename": "IMG_5190-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "enqdd4m",
+          "src": "/appui-images/webgym/IMG_5191-2.webp",
+          "filename": "IMG_5191-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "5cs6pp0",
+          "src": "/appui-images/webgym/IMG_5193-2.webp",
+          "filename": "IMG_5193-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "zbqql43",
+          "src": "/appui-images/webgym/IMG_5194-2.webp",
+          "filename": "IMG_5194-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "mt6ooa9",
+          "src": "/appui-images/webgym/IMG_5196-2.webp",
+          "filename": "IMG_5196-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "z23j4bo",
+          "src": "/appui-images/webgym/IMG_5197-2.webp",
+          "filename": "IMG_5197-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "51kdey8",
+          "src": "/appui-images/webgym/IMG_5198-2.webp",
+          "filename": "IMG_5198-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "7xpojn8",
+          "src": "/appui-images/webgym/IMG_5200-2.webp",
+          "filename": "IMG_5200-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "6w54exc",
+          "src": "/appui-images/webgym/IMG_5201-2.webp",
+          "filename": "IMG_5201-2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "webgym"
+}

@@ -1,0 +1,616 @@
+{
+  "id": "abema-1786625210098",
+  "name": "ABEMA",
+  "description": "新しい未来のテレビ「ABEMA」。無料のライブチャンネルに加え、ドラマやアニメ、スポーツの見逃し配信も楽しめる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/7d/7a/c27d7ae6-8e3d-49e6-4d43-fe031fa37ef3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1074866833",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "オンボーディング",
+    "ヘッダー",
+    "カード",
+    "リスト",
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "ボタン",
+    "検索",
+    "プロフィール",
+    "フォーム",
+    "モーダル・ボトムシート"
+  ],
+  "sections": [
+    {
+      "id": "zkibhac",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "4xvu31t",
+          "src": "/appui-images/abema/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "uuavri0",
+          "src": "/appui-images/abema/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "y6wsgs7",
+          "src": "/appui-images/abema/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "83gt24y",
+          "src": "/appui-images/abema/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "utk02z7",
+          "src": "/appui-images/abema/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "unsyb0y",
+          "src": "/appui-images/abema/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w6c65l9",
+      "title": "起動画面",
+      "images": [
+        {
+          "id": "she7n0t",
+          "src": "/appui-images/abema/IMG_0195.webp",
+          "filename": "IMG_0195.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9lmjw7q",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "d3octtt",
+          "src": "/appui-images/abema/IMG_0196.webp",
+          "filename": "IMG_0196.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "m644qb1",
+          "src": "/appui-images/abema/IMG_0197.webp",
+          "filename": "IMG_0197.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "3hgd5dr",
+          "src": "/appui-images/abema/IMG_0198.webp",
+          "filename": "IMG_0198.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "850kuuy",
+      "title": "ジャンル",
+      "images": [
+        {
+          "id": "s5w7tkf",
+          "src": "/appui-images/abema/IMG_0199.webp",
+          "filename": "IMG_0199.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "gt0192g",
+          "src": "/appui-images/abema/IMG_0200.webp",
+          "filename": "IMG_0200.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9ry3na9",
+          "src": "/appui-images/abema/IMG_0201.webp",
+          "filename": "IMG_0201.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ssaxzs7",
+          "src": "/appui-images/abema/IMG_0202.webp",
+          "filename": "IMG_0202.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "y6jvff1",
+          "src": "/appui-images/abema/IMG_0203.webp",
+          "filename": "IMG_0203.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "516to72",
+          "src": "/appui-images/abema/IMG_0204.webp",
+          "filename": "IMG_0204.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "s7lrr9e",
+          "src": "/appui-images/abema/IMG_0205.webp",
+          "filename": "IMG_0205.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8gjcip2",
+          "src": "/appui-images/abema/IMG_0206.webp",
+          "filename": "IMG_0206.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v485hzj",
+      "title": "テレビ・ライブ",
+      "images": [
+        {
+          "id": "rbn88zl",
+          "src": "/appui-images/abema/IMG_0207.webp",
+          "filename": "IMG_0207.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jfj7g04",
+      "title": "無料",
+      "images": [
+        {
+          "id": "zq493iw",
+          "src": "/appui-images/abema/IMG_0208.webp",
+          "filename": "IMG_0208.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i2uu604",
+      "title": "検索",
+      "images": [
+        {
+          "id": "24vk9f8",
+          "src": "/appui-images/abema/IMG_0209.webp",
+          "filename": "IMG_0209.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ijx5btl",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "y2ztfk7",
+          "src": "/appui-images/abema/IMG_0210.webp",
+          "filename": "IMG_0210.webp",
+          "components": [
+            "プロフィール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w9ew6ra",
+      "title": "アカウント管理",
+      "images": [
+        {
+          "id": "hv8apjr",
+          "src": "/appui-images/abema/IMG_0211.webp",
+          "filename": "IMG_0211.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "pruuwry",
+          "src": "/appui-images/abema/IMG_0212.webp",
+          "filename": "IMG_0212.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "bovlbvt",
+          "src": "/appui-images/abema/IMG_0213.webp",
+          "filename": "IMG_0213.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tfdurvo",
+          "src": "/appui-images/abema/IMG_0214.webp",
+          "filename": "IMG_0214.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "40nlrrv",
+          "src": "/appui-images/abema/IMG_0215.webp",
+          "filename": "IMG_0215.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ttwzle7",
+          "src": "/appui-images/abema/IMG_0216.webp",
+          "filename": "IMG_0216.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hy9tf1z",
+          "src": "/appui-images/abema/IMG_0217.webp",
+          "filename": "IMG_0217.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jz0itzy",
+          "src": "/appui-images/abema/IMG_0218.webp",
+          "filename": "IMG_0218.webp",
+          "components": [
+            "プロフィール",
+            "フォーム",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pisnhf1",
+      "title": "設定",
+      "images": [
+        {
+          "id": "9nc008y",
+          "src": "/appui-images/abema/IMG_0219.webp",
+          "filename": "IMG_0219.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "wf2ajqq",
+          "src": "/appui-images/abema/IMG_0220.webp",
+          "filename": "IMG_0220.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ep5zutg",
+          "src": "/appui-images/abema/IMG_0221.webp",
+          "filename": "IMG_0221.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xqztgw2",
+          "src": "/appui-images/abema/IMG_0222.webp",
+          "filename": "IMG_0222.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "8w9e2ti",
+          "src": "/appui-images/abema/IMG_0223.webp",
+          "filename": "IMG_0223.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "6qpi68l",
+          "src": "/appui-images/abema/IMG_0224.webp",
+          "filename": "IMG_0224.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "5l214s7",
+          "src": "/appui-images/abema/IMG_0225.webp",
+          "filename": "IMG_0225.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "t4dneg3",
+          "src": "/appui-images/abema/IMG_0226.webp",
+          "filename": "IMG_0226.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aun4qqg",
+      "title": "マイリスト・履歴",
+      "images": [
+        {
+          "id": "oezmhbn",
+          "src": "/appui-images/abema/IMG_0227.webp",
+          "filename": "IMG_0227.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1u1lbo9",
+          "src": "/appui-images/abema/IMG_0228.webp",
+          "filename": "IMG_0228.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "yfdip2k",
+          "src": "/appui-images/abema/IMG_0229.webp",
+          "filename": "IMG_0229.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "9agjfoi",
+          "src": "/appui-images/abema/IMG_0230.webp",
+          "filename": "IMG_0230.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "abema"
+}

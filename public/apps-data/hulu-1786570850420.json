@@ -1,0 +1,593 @@
+{
+  "id": "hulu-1786570850420",
+  "name": "Hulu",
+  "description": "人気ドラマや映画、アニメなどが見放題の「Hulu」。日テレ系コンテンツや海外ドラマも充実。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/43/98/3e4398b3-bd26-d2c7-a0de-67ad4c2df2d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id549416492",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "モーダル・ボトムシート",
+    "ヘッダー",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ボトム ナビゲーション",
+    "フォーム",
+    "検索",
+    "フィルター",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "g56gq76",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "i2dz12u",
+          "src": "/appui-images/hulu/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sv8xcjb",
+          "src": "/appui-images/hulu/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vlvee99",
+          "src": "/appui-images/hulu/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9961hh4",
+          "src": "/appui-images/hulu/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xvxvhic",
+          "src": "/appui-images/hulu/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n77l9nx",
+          "src": "/appui-images/hulu/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hl6sdqs",
+          "src": "/appui-images/hulu/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "krkxf2v",
+          "src": "/appui-images/hulu/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eb9lhlg",
+          "src": "/appui-images/hulu/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "efq57md",
+          "src": "/appui-images/hulu/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "071h588",
+      "title": "スプラッシュ",
+      "images": [
+        {
+          "id": "k13oc6a",
+          "src": "/appui-images/hulu/IMG_0079.webp",
+          "filename": "IMG_0079.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5o6h1gh",
+      "title": "オンボーディング・権限案内",
+      "images": [
+        {
+          "id": "01p8fn5",
+          "src": "/appui-images/hulu/IMG_0080.webp",
+          "filename": "IMG_0080.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ngy7dhp",
+          "src": "/appui-images/hulu/IMG_0081.webp",
+          "filename": "IMG_0081.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hzif43k",
+      "title": "ホーム・トップ",
+      "images": [
+        {
+          "id": "rlknm90",
+          "src": "/appui-images/hulu/IMG_0082.webp",
+          "filename": "IMG_0082.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "0b6nrn0",
+          "src": "/appui-images/hulu/IMG_0083.webp",
+          "filename": "IMG_0083.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "4wfk7d1",
+          "src": "/appui-images/hulu/IMG_0084.webp",
+          "filename": "IMG_0084.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "w061l9p",
+          "src": "/appui-images/hulu/IMG_0085.webp",
+          "filename": "IMG_0085.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "ff2sd39",
+          "src": "/appui-images/hulu/IMG_0086.webp",
+          "filename": "IMG_0086.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nrhp8jn",
+      "title": "アカウント登録",
+      "images": [
+        {
+          "id": "k91g4zt",
+          "src": "/appui-images/hulu/IMG_0087.webp",
+          "filename": "IMG_0087.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "hmm9dn8",
+          "src": "/appui-images/hulu/IMG_0088.webp",
+          "filename": "IMG_0088.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "e2ykcw7",
+          "src": "/appui-images/hulu/IMG_0089.webp",
+          "filename": "IMG_0089.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "otwaiyh",
+          "src": "/appui-images/hulu/IMG_0090.webp",
+          "filename": "IMG_0090.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9sz6bfp",
+      "title": "ログイン・ウェルカム",
+      "images": [
+        {
+          "id": "rhsd1f6",
+          "src": "/appui-images/hulu/IMG_0092.webp",
+          "filename": "IMG_0092.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nx7dobs",
+      "title": "作品詳細",
+      "images": [
+        {
+          "id": "ugabnfv",
+          "src": "/appui-images/hulu/IMG_0091.webp",
+          "filename": "IMG_0091.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "z3itvqr",
+          "src": "/appui-images/hulu/IMG_0093.webp",
+          "filename": "IMG_0093.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "bgrw7bw",
+          "src": "/appui-images/hulu/IMG_0094.webp",
+          "filename": "IMG_0094.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6qpu91o",
+      "title": "レンタル/購入",
+      "images": [
+        {
+          "id": "q0o3fx4",
+          "src": "/appui-images/hulu/IMG_0095.webp",
+          "filename": "IMG_0095.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xrqqcf9",
+      "title": "コミック",
+      "images": [
+        {
+          "id": "7kuc0rl",
+          "src": "/appui-images/hulu/IMG_0096.webp",
+          "filename": "IMG_0096.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hbkky6z",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "9qjug8f",
+          "src": "/appui-images/hulu/IMG_0097.webp",
+          "filename": "IMG_0097.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42j6ovl",
+      "title": "デバイス接続",
+      "images": [
+        {
+          "id": "abo7pjr",
+          "src": "/appui-images/hulu/IMG_0098.webp",
+          "filename": "IMG_0098.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "slqp4rg",
+      "title": "検索",
+      "images": [
+        {
+          "id": "t4t4n2e",
+          "src": "/appui-images/hulu/IMG_0099.webp",
+          "filename": "IMG_0099.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "td00gjt",
+          "src": "/appui-images/hulu/IMG_0100.webp",
+          "filename": "IMG_0100.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "obypoa4",
+          "src": "/appui-images/hulu/IMG_0101.webp",
+          "filename": "IMG_0101.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "1btvmqy",
+          "src": "/appui-images/hulu/IMG_0102.webp",
+          "filename": "IMG_0102.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j1frowj",
+      "title": "アプリ設定",
+      "images": [
+        {
+          "id": "xa0jw6j",
+          "src": "/appui-images/hulu/IMG_0103.webp",
+          "filename": "IMG_0103.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avhoj6o",
+      "title": "マイリスト",
+      "images": [
+        {
+          "id": "6fw755t",
+          "src": "/appui-images/hulu/IMG_0104.webp",
+          "filename": "IMG_0104.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tpu8fyh",
+          "src": "/appui-images/hulu/IMG_0105.webp",
+          "filename": "IMG_0105.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "a4b5dt3",
+          "src": "/appui-images/hulu/IMG_0106.webp",
+          "filename": "IMG_0106.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "tn6ao4w",
+          "src": "/appui-images/hulu/IMG_0107.webp",
+          "filename": "IMG_0107.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "hulu"
+}

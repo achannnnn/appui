@@ -1,0 +1,969 @@
+{
+  "id": "piccoma-1788788182626-6r3o",
+  "name": "ピッコマ",
+  "description": "ピッコマは少年漫画/少女マンガ/青年まんが/女性コミックが「待てば¥0」で楽しめる漫画アプリです。アニメ化された漫画から、映画化の原作ノベルまで豊富なラインナップで人気作品を配信しています。 【ピッコマの特徴】 ◆約59,000作品が待てば…",
+  "iconUrl": "/appui-images/piccoma/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%94%E3%83%83%E3%82%B3%E3%83%9E/id1091496983?uo=4",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "タブ"
+  ],
+  "sections": [
+    {
+      "id": "odpru8k",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "8kv8qbt",
+          "src": "/appui-images/piccoma/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ozzv4en",
+          "src": "/appui-images/piccoma/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n0zjh4c",
+          "src": "/appui-images/piccoma/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pjh1k6a",
+          "src": "/appui-images/piccoma/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ic6rb7u",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "4h4mf3d",
+          "src": "/appui-images/piccoma/IMG_4269.webp",
+          "filename": "IMG_4269.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ad3io7t",
+          "src": "/appui-images/piccoma/IMG_4315.webp",
+          "filename": "IMG_4315.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xoqfopa",
+          "src": "/appui-images/piccoma/IMG_4330.webp",
+          "filename": "IMG_4330.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bx7ozxb",
+          "src": "/appui-images/piccoma/IMG_4334.webp",
+          "filename": "IMG_4334.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eqzclwp",
+      "title": "ホーム・おすすめ",
+      "images": [
+        {
+          "id": "4jjgd8k",
+          "src": "/appui-images/piccoma/IMG_4268.webp",
+          "filename": "IMG_4268.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3wizre9",
+          "src": "/appui-images/piccoma/IMG_4270.webp",
+          "filename": "IMG_4270.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "suluyqp",
+          "src": "/appui-images/piccoma/IMG_4271.webp",
+          "filename": "IMG_4271.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9ozvg84",
+          "src": "/appui-images/piccoma/IMG_4273.webp",
+          "filename": "IMG_4273.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tyfux3t",
+          "src": "/appui-images/piccoma/IMG_4275.webp",
+          "filename": "IMG_4275.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n4zbk2y",
+          "src": "/appui-images/piccoma/IMG_4276.webp",
+          "filename": "IMG_4276.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ocu0ptf",
+          "src": "/appui-images/piccoma/IMG_4277.webp",
+          "filename": "IMG_4277.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tn6vdzx",
+          "src": "/appui-images/piccoma/IMG_4278.webp",
+          "filename": "IMG_4278.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "65cxghg",
+          "src": "/appui-images/piccoma/IMG_4279.webp",
+          "filename": "IMG_4279.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tgf4c6g",
+          "src": "/appui-images/piccoma/IMG_4280.webp",
+          "filename": "IMG_4280.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wacs4zi",
+          "src": "/appui-images/piccoma/IMG_4281.webp",
+          "filename": "IMG_4281.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zqhvb2r",
+          "src": "/appui-images/piccoma/IMG_4282.webp",
+          "filename": "IMG_4282.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7j7u1du",
+          "src": "/appui-images/piccoma/IMG_4283.webp",
+          "filename": "IMG_4283.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uf93wfz",
+          "src": "/appui-images/piccoma/IMG_4284.webp",
+          "filename": "IMG_4284.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ehpsev8",
+          "src": "/appui-images/piccoma/IMG_4285.webp",
+          "filename": "IMG_4285.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a51xf38",
+          "src": "/appui-images/piccoma/IMG_4286.webp",
+          "filename": "IMG_4286.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rce5e3k",
+          "src": "/appui-images/piccoma/IMG_4287.webp",
+          "filename": "IMG_4287.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "db9vatn",
+          "src": "/appui-images/piccoma/IMG_4288.webp",
+          "filename": "IMG_4288.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kwpe6u8",
+          "src": "/appui-images/piccoma/IMG_4289.webp",
+          "filename": "IMG_4289.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6mzg1eh",
+          "src": "/appui-images/piccoma/IMG_4290.webp",
+          "filename": "IMG_4290.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a2p3lkn",
+          "src": "/appui-images/piccoma/IMG_4291.webp",
+          "filename": "IMG_4291.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j6yd1nv",
+          "src": "/appui-images/piccoma/IMG_4292.webp",
+          "filename": "IMG_4292.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eku7e5c",
+          "src": "/appui-images/piccoma/IMG_4293.webp",
+          "filename": "IMG_4293.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "svqrhye",
+          "src": "/appui-images/piccoma/IMG_4294.webp",
+          "filename": "IMG_4294.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ld5n0ls",
+          "src": "/appui-images/piccoma/IMG_4295.webp",
+          "filename": "IMG_4295.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e53i284",
+          "src": "/appui-images/piccoma/IMG_4296.webp",
+          "filename": "IMG_4296.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dfds8xs",
+          "src": "/appui-images/piccoma/IMG_4297.webp",
+          "filename": "IMG_4297.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fjcikpz",
+          "src": "/appui-images/piccoma/IMG_4298.webp",
+          "filename": "IMG_4298.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qcx06tb",
+          "src": "/appui-images/piccoma/IMG_4299.webp",
+          "filename": "IMG_4299.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qux3g3z",
+          "src": "/appui-images/piccoma/IMG_4300.webp",
+          "filename": "IMG_4300.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7ab1wce",
+          "src": "/appui-images/piccoma/IMG_4301.webp",
+          "filename": "IMG_4301.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ol7h8h1",
+          "src": "/appui-images/piccoma/IMG_4302.webp",
+          "filename": "IMG_4302.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c5ml65k",
+          "src": "/appui-images/piccoma/IMG_4303.webp",
+          "filename": "IMG_4303.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t2glqf0",
+          "src": "/appui-images/piccoma/IMG_4304.webp",
+          "filename": "IMG_4304.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2ecicx1",
+          "src": "/appui-images/piccoma/IMG_4307.webp",
+          "filename": "IMG_4307.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7bco76b",
+          "src": "/appui-images/piccoma/IMG_4308.webp",
+          "filename": "IMG_4308.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2d0ekx5",
+          "src": "/appui-images/piccoma/IMG_4309.webp",
+          "filename": "IMG_4309.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "akuydy1",
+          "src": "/appui-images/piccoma/IMG_4310.webp",
+          "filename": "IMG_4310.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w9fxfsh",
+          "src": "/appui-images/piccoma/IMG_4311.webp",
+          "filename": "IMG_4311.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ug945yk",
+          "src": "/appui-images/piccoma/IMG_4312.webp",
+          "filename": "IMG_4312.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "99afy50",
+          "src": "/appui-images/piccoma/IMG_4313.webp",
+          "filename": "IMG_4313.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "aedkre8",
+          "src": "/appui-images/piccoma/IMG_4314.webp",
+          "filename": "IMG_4314.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6m0rrb1",
+          "src": "/appui-images/piccoma/IMG_4316.webp",
+          "filename": "IMG_4316.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6mkhl9y",
+          "src": "/appui-images/piccoma/IMG_4317.webp",
+          "filename": "IMG_4317.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pgh92fe",
+          "src": "/appui-images/piccoma/IMG_4318.webp",
+          "filename": "IMG_4318.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l2l4apx",
+          "src": "/appui-images/piccoma/IMG_4319.webp",
+          "filename": "IMG_4319.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ghvjdoy",
+          "src": "/appui-images/piccoma/IMG_4320.webp",
+          "filename": "IMG_4320.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xxqxsng",
+          "src": "/appui-images/piccoma/IMG_4321.webp",
+          "filename": "IMG_4321.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jzgwiy3",
+          "src": "/appui-images/piccoma/IMG_4322.webp",
+          "filename": "IMG_4322.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zqoxkrp",
+          "src": "/appui-images/piccoma/IMG_4323.webp",
+          "filename": "IMG_4323.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nt8xmup",
+          "src": "/appui-images/piccoma/IMG_4324.webp",
+          "filename": "IMG_4324.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3qgzl60",
+          "src": "/appui-images/piccoma/IMG_4325.webp",
+          "filename": "IMG_4325.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vyuetiz",
+          "src": "/appui-images/piccoma/IMG_4326.webp",
+          "filename": "IMG_4326.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t5dixh3",
+          "src": "/appui-images/piccoma/IMG_4327.webp",
+          "filename": "IMG_4327.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8jemab1",
+          "src": "/appui-images/piccoma/IMG_4328.webp",
+          "filename": "IMG_4328.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8ykmyn9",
+          "src": "/appui-images/piccoma/IMG_4329.webp",
+          "filename": "IMG_4329.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cddhuur",
+          "src": "/appui-images/piccoma/IMG_4331.webp",
+          "filename": "IMG_4331.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qzucfuq",
+          "src": "/appui-images/piccoma/IMG_4332.webp",
+          "filename": "IMG_4332.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8jz0qmp",
+          "src": "/appui-images/piccoma/IMG_4333.webp",
+          "filename": "IMG_4333.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qdajrm5",
+          "src": "/appui-images/piccoma/IMG_4335.webp",
+          "filename": "IMG_4335.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4457aie",
+          "src": "/appui-images/piccoma/IMG_4336.webp",
+          "filename": "IMG_4336.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4baufal",
+          "src": "/appui-images/piccoma/IMG_4337.webp",
+          "filename": "IMG_4337.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2henhvk",
+          "src": "/appui-images/piccoma/IMG_4338.webp",
+          "filename": "IMG_4338.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b103ud3",
+          "src": "/appui-images/piccoma/IMG_4339.webp",
+          "filename": "IMG_4339.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ow7e2qw",
+          "src": "/appui-images/piccoma/IMG_4340.webp",
+          "filename": "IMG_4340.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "798y7qf",
+      "title": "作品・閲覧",
+      "images": [
+        {
+          "id": "6kh64ul",
+          "src": "/appui-images/piccoma/IMG_4272.webp",
+          "filename": "IMG_4272.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3w9vjp5",
+          "src": "/appui-images/piccoma/IMG_4274.webp",
+          "filename": "IMG_4274.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1lznno3",
+          "src": "/appui-images/piccoma/IMG_4305.webp",
+          "filename": "IMG_4305.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u0fpflv",
+          "src": "/appui-images/piccoma/IMG_4306.webp",
+          "filename": "IMG_4306.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "piccoma"
+}

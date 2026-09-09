@@ -1,0 +1,182 @@
+{
+  "id": "app-1777392918596",
+  "name": "野球スコア",
+  "description": "打順・スコア・成績をまとめて管理",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/a5/5e/84a55ee4-afd2-80cb-ecb2-f67bf363cc3e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/野球スコア/id6757233153",
+  "categories": [
+    "スポーツ"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "1dzmt4t",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "6u1m1vd",
+          "src": "/appui-images/app-1777392918596/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gdem0f0",
+          "src": "/appui-images/app-1777392918596/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z8k9fy7",
+          "src": "/appui-images/app-1777392918596/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ux6znjm",
+          "src": "/appui-images/app-1777392918596/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "glmc0z1",
+          "src": "/appui-images/app-1777392918596/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sb4ewdd",
+      "title": "ログイン",
+      "images": [
+        {
+          "id": "mhsp2iz",
+          "src": "/appui-images/app-1777392918596/IMG_7703.webp",
+          "filename": "IMG_7703.webp"
+        }
+      ]
+    },
+    {
+      "id": "1fofj1d",
+      "title": "成績一覧",
+      "images": [
+        {
+          "id": "45nqvkf",
+          "src": "/appui-images/app-1777392918596/IMG_7704-2.webp",
+          "filename": "IMG_7704 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "0ey5h1r",
+      "title": "試合作成",
+      "images": [
+        {
+          "id": "gd9tsaj",
+          "src": "/appui-images/app-1777392918596/IMG_7705-2.webp",
+          "filename": "IMG_7705 2.webp"
+        },
+        {
+          "id": "qj7bksn",
+          "src": "/appui-images/app-1777392918596/IMG_7706-2.webp",
+          "filename": "IMG_7706 2.webp"
+        },
+        {
+          "id": "mstcjiq",
+          "src": "/appui-images/app-1777392918596/IMG_7707-2.webp",
+          "filename": "IMG_7707 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "qg9k6k6",
+      "title": "試合画面",
+      "images": [
+        {
+          "id": "4h83pz9",
+          "src": "/appui-images/app-1777392918596/IMG_7708-2.webp",
+          "filename": "IMG_7708 2.webp"
+        },
+        {
+          "id": "7xhl1hi",
+          "src": "/appui-images/app-1777392918596/IMG_7709-2.webp",
+          "filename": "IMG_7709 2.webp"
+        },
+        {
+          "id": "xdjynil",
+          "src": "/appui-images/app-1777392918596/IMG_7710-2.webp",
+          "filename": "IMG_7710 2.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ac7kxs2",
+          "src": "/appui-images/app-1777392918596/IMG_7711-2.webp",
+          "filename": "IMG_7711 2.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pb5ptri",
+      "title": "試合結果",
+      "images": [
+        {
+          "id": "27yhwss",
+          "src": "/appui-images/app-1777392918596/IMG_7712-2.webp",
+          "filename": "IMG_7712 2.webp"
+        }
+      ]
+    },
+    {
+      "id": "rlfnbzt",
+      "title": "試合履歴",
+      "images": [
+        {
+          "id": "0jdq2g8",
+          "src": "/appui-images/app-1777392918596/IMG_7713-2.webp",
+          "filename": "IMG_7713 2.webp"
+        },
+        {
+          "id": "4e2d9w2",
+          "src": "/appui-images/app-1777392918596/IMG_7714-2.webp",
+          "filename": "IMG_7714 2.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "野球スコア"
+}

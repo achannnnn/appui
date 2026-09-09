@@ -4,8 +4,10 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "build": "vite build",
+    "build": "node scripts/split-apps-data.mjs && vite build && node scripts/prerender-meta.mjs",
     "dev": "vite",
+    "split-apps": "node scripts/split-apps-data.mjs",
+    "prerender": "node scripts/prerender-meta.mjs",
     "extract-images": "node scripts/extract-data-url-images.mjs",
     "redact-pii": "node scripts/redact-pii.mjs",
     "redact-pii:apply": "node scripts/redact-pii.mjs --apply"
@@ -56,6 +58,7 @@
     "react-dnd": "16.0.1",
     "react-dnd-html5-backend": "16.0.1",
     "react-hook-form": "7.55.0",
+    "react-helmet-async": "^2.0.5",
     "react-popper": "2.3.0",
     "react-resizable-panels": "2.1.7",
     "react-responsive-masonry": "2.7.1",

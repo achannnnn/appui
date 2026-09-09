@@ -1,0 +1,295 @@
+{
+  "id": "airbnb-1777562505673",
+  "name": "Airbnb",
+  "description": "宿泊先、体験、サービス",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/fa/4b/ddfa4b55-071c-40f8-2600-e9d4d8cc9942/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/60x60bb.jpg 60w",
+  "externalUrl": "https://apps.apple.com/jp/app/airbnb/id401626263",
+  "categories": [
+    "旅行"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "gvmvd4x",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "xa28f29",
+          "src": "/appui-images/airbnb-1777562505673/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t4hivhf",
+          "src": "/appui-images/airbnb-1777562505673/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9mnq02z",
+          "src": "/appui-images/airbnb-1777562505673/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0jcz088",
+          "src": "/appui-images/airbnb-1777562505673/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bptaskn",
+          "src": "/appui-images/airbnb-1777562505673/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wnwsemx",
+          "src": "/appui-images/airbnb-1777562505673/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q22ae98",
+          "src": "/appui-images/airbnb-1777562505673/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rwx7ce2",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "uvb5n04",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7800.webp",
+          "filename": "IMG_7800.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "2jut0kh",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7801.webp",
+          "filename": "IMG_7801.webp"
+        },
+        {
+          "id": "a74303o",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7802.webp",
+          "filename": "IMG_7802.webp"
+        },
+        {
+          "id": "2qt8gox",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7805.webp",
+          "filename": "IMG_7805.webp"
+        },
+        {
+          "id": "8tpbgme",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7806.webp",
+          "filename": "IMG_7806.webp"
+        }
+      ]
+    },
+    {
+      "id": "4bonb2b",
+      "title": "お気に入り",
+      "images": [
+        {
+          "id": "a8omujv",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7803.webp",
+          "filename": "IMG_7803.webp"
+        },
+        {
+          "id": "bei8lrn",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7804.webp",
+          "filename": "IMG_7804.webp"
+        }
+      ]
+    },
+    {
+      "id": "5ejscol",
+      "title": "サービス",
+      "images": [
+        {
+          "id": "443b0y6",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7807.webp",
+          "filename": "IMG_7807.webp"
+        },
+        {
+          "id": "nncwywy",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7808.webp",
+          "filename": "IMG_7808.webp",
+          "components": [
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "yd5absq",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7809.webp",
+          "filename": "IMG_7809.webp",
+          "components": [
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sw1wz0h",
+      "title": "口コミ・レビュー",
+      "images": [
+        {
+          "id": "up7mjpk",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7812.webp",
+          "filename": "IMG_7812.webp"
+        },
+        {
+          "id": "s0z2hcc",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7813.webp",
+          "filename": "IMG_7813.webp"
+        }
+      ]
+    },
+    {
+      "id": "9mglv6m",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "mo1ree7",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7814.webp",
+          "filename": "IMG_7814.webp"
+        }
+      ]
+    },
+    {
+      "id": "n8q70az",
+      "title": "通知",
+      "images": [
+        {
+          "id": "imkm3dh",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7815.webp",
+          "filename": "IMG_7815.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gbmu1su",
+      "title": "プロフィール",
+      "images": [
+        {
+          "id": "rm4uf3j",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7816.webp",
+          "filename": "IMG_7816.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "3qj5eaz",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7818.webp",
+          "filename": "IMG_7818.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9e00ula",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7819.webp",
+          "filename": "IMG_7819.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "9kaiuge",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7820.webp",
+          "filename": "IMG_7820.webp",
+          "components": [
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yih2kpl",
+      "title": "設定",
+      "images": [
+        {
+          "id": "w379aol",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7821.webp",
+          "filename": "IMG_7821.webp"
+        },
+        {
+          "id": "ajdpltp",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7822.webp",
+          "filename": "IMG_7822.webp"
+        },
+        {
+          "id": "ak3f1af",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7823.webp",
+          "filename": "IMG_7823.webp"
+        }
+      ]
+    },
+    {
+      "id": "dxd7y71",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "1g33qw5",
+          "src": "/appui-images/airbnb-1777562505673/IMG_7826.webp",
+          "filename": "IMG_7826.webp",
+          "components": [
+            "エンプティステート"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "airbnb"
+}

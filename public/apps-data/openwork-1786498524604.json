@@ -1,0 +1,757 @@
+{
+  "id": "openwork-1786498524604",
+  "name": "OpenWork",
+  "description": "社員クチコミと評価スコアで会社を調べる「OpenWork」。就活・転職の企業研究に使える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/c2/9b/4ac29bb3-83a0-74c5-9a2b-a20cb4d635f2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1428501260",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "モーダル・ボトムシート",
+    "ヘッダー",
+    "フォーム",
+    "リスト",
+    "カード",
+    "ボトム ナビゲーション",
+    "検索",
+    "フィルター",
+    "ダッシュボード",
+    "タブ・セグメントコントロール",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "6uw7nfq",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "i8q17ou",
+          "src": "/appui-images/openwork/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t170w2a",
+          "src": "/appui-images/openwork/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i9f5xk8",
+          "src": "/appui-images/openwork/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wafyic4",
+          "src": "/appui-images/openwork/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8amsza7",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "rszmvaz",
+          "src": "/appui-images/openwork/IMG_9996.webp",
+          "filename": "IMG_9996.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "sxmyr89",
+          "src": "/appui-images/openwork/IMG_9997.webp",
+          "filename": "IMG_9997.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "9135z51",
+          "src": "/appui-images/openwork/IMG_9998.webp",
+          "filename": "IMG_9998.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7i0nncw",
+      "title": "ユーザー登録",
+      "images": [
+        {
+          "id": "fhw3mv4",
+          "src": "/appui-images/openwork/IMG_9999.webp",
+          "filename": "IMG_9999.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "c792832",
+          "src": "/appui-images/openwork/IMG_0001.webp",
+          "filename": "IMG_0001.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "f3nz7of",
+          "src": "/appui-images/openwork/IMG_0002.webp",
+          "filename": "IMG_0002.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "39tl4cj",
+          "src": "/appui-images/openwork/IMG_0003.webp",
+          "filename": "IMG_0003.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "on1wkpi",
+          "src": "/appui-images/openwork/IMG_0004.webp",
+          "filename": "IMG_0004.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "b9pzvsg",
+          "src": "/appui-images/openwork/IMG_0005.webp",
+          "filename": "IMG_0005.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "j1ccdwk",
+          "src": "/appui-images/openwork/IMG_0006.webp",
+          "filename": "IMG_0006.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hqbleif",
+          "src": "/appui-images/openwork/IMG_0007.webp",
+          "filename": "IMG_0007.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "k9z765o",
+          "src": "/appui-images/openwork/IMG_0008.webp",
+          "filename": "IMG_0008.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1kr2v9s",
+          "src": "/appui-images/openwork/IMG_0009.webp",
+          "filename": "IMG_0009.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "tfbih70",
+          "src": "/appui-images/openwork/IMG_0010.webp",
+          "filename": "IMG_0010.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "d4ftwwh",
+          "src": "/appui-images/openwork/IMG_0011.webp",
+          "filename": "IMG_0011.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j3cc0c4",
+      "title": "Web履歴書・閲覧案内",
+      "images": [
+        {
+          "id": "0oo871o",
+          "src": "/appui-images/openwork/IMG_0012.webp",
+          "filename": "IMG_0012.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "cyk0k1d",
+          "src": "/appui-images/openwork/IMG_0013.webp",
+          "filename": "IMG_0013.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adjewag",
+      "title": "おすすめ企業フォロー",
+      "images": [
+        {
+          "id": "filw17c",
+          "src": "/appui-images/openwork/IMG_0014.webp",
+          "filename": "IMG_0014.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7fvmlxd",
+      "title": "企業検索",
+      "images": [
+        {
+          "id": "xbz30p6",
+          "src": "/appui-images/openwork/IMG_0015.webp",
+          "filename": "IMG_0015.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "フィルター",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8pomcp2",
+      "title": "企業詳細",
+      "images": [
+        {
+          "id": "3hdbsfk",
+          "src": "/appui-images/openwork/IMG_0016.webp",
+          "filename": "IMG_0016.webp",
+          "components": [
+            "ヘッダー",
+            "ダッシュボード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yrh18nf",
+      "title": "社員クチコミ",
+      "images": [
+        {
+          "id": "mvqmdqw",
+          "src": "/appui-images/openwork/IMG_0017.webp",
+          "filename": "IMG_0017.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "検索",
+            "フィルター",
+            "リスト",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "zphtpwg",
+          "src": "/appui-images/openwork/IMG_0018.webp",
+          "filename": "IMG_0018.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "検索",
+            "フィルター",
+            "リスト",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "swaznq9",
+          "src": "/appui-images/openwork/IMG_0019.webp",
+          "filename": "IMG_0019.webp",
+          "components": [
+            "タブ・セグメントコントロール",
+            "検索",
+            "フィルター",
+            "リスト",
+            "カード",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7zlrpdy",
+      "title": "年収",
+      "images": [
+        {
+          "id": "u3i7vze",
+          "src": "/appui-images/openwork/IMG_0020.webp",
+          "filename": "IMG_0020.webp",
+          "components": [
+            "ダッシュボード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wfbqky8",
+      "title": "質問",
+      "images": [
+        {
+          "id": "xtgodxa",
+          "src": "/appui-images/openwork/IMG_0021.webp",
+          "filename": "IMG_0021.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "qq0d5lc",
+          "src": "/appui-images/openwork/IMG_0022.webp",
+          "filename": "IMG_0022.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "フィルター",
+            "ボタン",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9sq1fvb",
+      "title": "企業の採用情報",
+      "images": [
+        {
+          "id": "ht3ec05",
+          "src": "/appui-images/openwork/IMG_0023.webp",
+          "filename": "IMG_0023.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "フィルター",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vqnqy29",
+      "title": "求人検索",
+      "images": [
+        {
+          "id": "yq6ks1v",
+          "src": "/appui-images/openwork/IMG_0024.webp",
+          "filename": "IMG_0024.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "le40tcg",
+          "src": "/appui-images/openwork/IMG_0025.webp",
+          "filename": "IMG_0025.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "k1c950a",
+          "src": "/appui-images/openwork/IMG_0026.webp",
+          "filename": "IMG_0026.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "j44r3ys",
+          "src": "/appui-images/openwork/IMG_0027.webp",
+          "filename": "IMG_0027.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o1f77sb",
+          "src": "/appui-images/openwork/IMG_0028.webp",
+          "filename": "IMG_0028.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "19j4tvy",
+          "src": "/appui-images/openwork/IMG_0029.webp",
+          "filename": "IMG_0029.webp",
+          "components": [
+            "検索",
+            "フィルター",
+            "フォーム",
+            "リスト",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vju5hn3",
+      "title": "求人一覧・詳細",
+      "images": [
+        {
+          "id": "i7ayoni",
+          "src": "/appui-images/openwork/IMG_0030.webp",
+          "filename": "IMG_0030.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hsx1v6d",
+          "src": "/appui-images/openwork/IMG_0031.webp",
+          "filename": "IMG_0031.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "hcd5954",
+          "src": "/appui-images/openwork/IMG_0032.webp",
+          "filename": "IMG_0032.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jjbl6n2",
+          "src": "/appui-images/openwork/IMG_0033.webp",
+          "filename": "IMG_0033.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボタン",
+            "ヘッダー",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0sxlu2c",
+      "title": "応募リクエスト・メッセージ",
+      "images": [
+        {
+          "id": "l5iapz0",
+          "src": "/appui-images/openwork/IMG_0034.webp",
+          "filename": "IMG_0034.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "g2je1j9",
+          "src": "/appui-images/openwork/IMG_0035.webp",
+          "filename": "IMG_0035.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s55o2m7",
+      "title": "マイページ・設定",
+      "images": [
+        {
+          "id": "aipfkwn",
+          "src": "/appui-images/openwork/IMG_0036.webp",
+          "filename": "IMG_0036.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "o6rbneq",
+          "src": "/appui-images/openwork/IMG_0037.webp",
+          "filename": "IMG_0037.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xoig9w0",
+          "src": "/appui-images/openwork/IMG_0038.webp",
+          "filename": "IMG_0038.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "uhz570m",
+          "src": "/appui-images/openwork/IMG_0039.webp",
+          "filename": "IMG_0039.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "mppvi6h",
+          "src": "/appui-images/openwork/IMG_0040.webp",
+          "filename": "IMG_0040.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "プロフィール",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k3sw54k",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "7qs10jp",
+          "src": "/appui-images/openwork/IMG_0041.webp",
+          "filename": "IMG_0041.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ダッシュボード",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uj4bi35",
+      "title": "質問投稿",
+      "images": [
+        {
+          "id": "uc455ng",
+          "src": "/appui-images/openwork/IMG_0042.webp",
+          "filename": "IMG_0042.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "643sopr",
+          "src": "/appui-images/openwork/IMG_0043.webp",
+          "filename": "IMG_0043.webp",
+          "components": [
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "openwork"
+}

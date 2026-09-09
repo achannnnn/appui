@@ -1,0 +1,801 @@
+{
+  "id": "webry-1788448620355-y1fe",
+  "name": "うぇぶり",
+  "description": "サンデーうぇぶりは、サンデーが誇る国民的名作からここでしか読めないオリジナル作まで幅広く楽しめるマンガアプリです！ - サンデーうぇぶりの特徴 - ■基本無料！いろんな作品を毎日無料で読める！■ サンデーうぇぶりでは、チケット/コイン/ポイ…",
+  "iconUrl": "/appui-images/webry/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%B5%E3%83%B3%E3%83%87%E3%83%BC%E3%81%86%E3%81%87%E3%81%B6%E3%82%8A/id1252920795?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "affpoqf",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "8fg00pe",
+          "src": "/appui-images/webry/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6tvyzwj",
+          "src": "/appui-images/webry/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2n9n8dp",
+          "src": "/appui-images/webry/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sq60qog",
+          "src": "/appui-images/webry/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dlekgql",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "n06fq62",
+          "src": "/appui-images/webry/IMG_2931.webp",
+          "filename": "IMG_2931.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4o7s21b",
+          "src": "/appui-images/webry/IMG_2932.webp",
+          "filename": "IMG_2932.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "13j44b4",
+          "src": "/appui-images/webry/IMG_2933.webp",
+          "filename": "IMG_2933.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v2umr77",
+          "src": "/appui-images/webry/IMG_2934.webp",
+          "filename": "IMG_2934.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2q8o386",
+          "src": "/appui-images/webry/IMG_2938.webp",
+          "filename": "IMG_2938.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gb1cvoo",
+          "src": "/appui-images/webry/IMG_2939.webp",
+          "filename": "IMG_2939.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lthmbiz",
+          "src": "/appui-images/webry/IMG_2940.webp",
+          "filename": "IMG_2940.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gd6swbx",
+          "src": "/appui-images/webry/IMG_2941.webp",
+          "filename": "IMG_2941.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jsjglv0",
+          "src": "/appui-images/webry/IMG_2942.webp",
+          "filename": "IMG_2942.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "82ai0lq",
+          "src": "/appui-images/webry/IMG_2943.webp",
+          "filename": "IMG_2943.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ap3ehm1",
+          "src": "/appui-images/webry/IMG_2944.webp",
+          "filename": "IMG_2944.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03g20ud",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "y7q0brq",
+          "src": "/appui-images/webry/IMG_2935.webp",
+          "filename": "IMG_2935.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8et1hbe",
+          "src": "/appui-images/webry/IMG_2936.webp",
+          "filename": "IMG_2936.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "769yiha",
+          "src": "/appui-images/webry/IMG_2937.webp",
+          "filename": "IMG_2937.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cxpo32k",
+      "title": "作品詳細",
+      "images": [
+        {
+          "id": "dg7e4wm",
+          "src": "/appui-images/webry/IMG_2950.webp",
+          "filename": "IMG_2950.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2rvefvl",
+          "src": "/appui-images/webry/IMG_2951.webp",
+          "filename": "IMG_2951.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lcxw5cq",
+          "src": "/appui-images/webry/IMG_2952.webp",
+          "filename": "IMG_2952.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dued1n8",
+          "src": "/appui-images/webry/IMG_2953.webp",
+          "filename": "IMG_2953.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tf6zp44",
+          "src": "/appui-images/webry/IMG_2954.webp",
+          "filename": "IMG_2954.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sktcftf",
+          "src": "/appui-images/webry/IMG_2955.webp",
+          "filename": "IMG_2955.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "masu1gz",
+          "src": "/appui-images/webry/IMG_2956.webp",
+          "filename": "IMG_2956.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9dsalai",
+          "src": "/appui-images/webry/IMG_2957.webp",
+          "filename": "IMG_2957.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gelzwxj",
+          "src": "/appui-images/webry/IMG_2958.webp",
+          "filename": "IMG_2958.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jftx1m9",
+          "src": "/appui-images/webry/IMG_2959.webp",
+          "filename": "IMG_2959.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jonn4l5",
+          "src": "/appui-images/webry/IMG_2960.webp",
+          "filename": "IMG_2960.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0liftsc",
+          "src": "/appui-images/webry/IMG_2961.webp",
+          "filename": "IMG_2961.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z3j1ny3",
+          "src": "/appui-images/webry/IMG_2962.webp",
+          "filename": "IMG_2962.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6stsciq",
+          "src": "/appui-images/webry/IMG_2963.webp",
+          "filename": "IMG_2963.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cqlyeuh",
+      "title": "ミッション",
+      "images": [
+        {
+          "id": "gbf12hl",
+          "src": "/appui-images/webry/IMG_2948.webp",
+          "filename": "IMG_2948.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m5tcsw7",
+          "src": "/appui-images/webry/IMG_2949.webp",
+          "filename": "IMG_2949.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bfesc30",
+          "src": "/appui-images/webry/IMG_2964.webp",
+          "filename": "IMG_2964.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xink8uq",
+          "src": "/appui-images/webry/IMG_2965.webp",
+          "filename": "IMG_2965.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gzdm9pz",
+      "title": "無料マンガ・フェア",
+      "images": [
+        {
+          "id": "0x8ytv2",
+          "src": "/appui-images/webry/IMG_2966.webp",
+          "filename": "IMG_2966.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hw5rsfk",
+          "src": "/appui-images/webry/IMG_2967.webp",
+          "filename": "IMG_2967.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ksm1c2j",
+          "src": "/appui-images/webry/IMG_2968.webp",
+          "filename": "IMG_2968.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jbo48s7",
+          "src": "/appui-images/webry/IMG_2969.webp",
+          "filename": "IMG_2969.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "goha0zd",
+      "title": "連載・ランキング",
+      "images": [
+        {
+          "id": "mywdxeo",
+          "src": "/appui-images/webry/IMG_2970.webp",
+          "filename": "IMG_2970.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o41m0vo",
+          "src": "/appui-images/webry/IMG_2971.webp",
+          "filename": "IMG_2971.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nc0rbcj",
+          "src": "/appui-images/webry/IMG_2972.webp",
+          "filename": "IMG_2972.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4sw2zpd",
+          "src": "/appui-images/webry/IMG_2973.webp",
+          "filename": "IMG_2973.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6zlvfd5",
+          "src": "/appui-images/webry/IMG_2975.webp",
+          "filename": "IMG_2975.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w4y7zhc",
+          "src": "/appui-images/webry/IMG_2976.webp",
+          "filename": "IMG_2976.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4rs1xyz",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "8tlu1ek",
+          "src": "/appui-images/webry/IMG_2946.webp",
+          "filename": "IMG_2946.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nrpczqb",
+          "src": "/appui-images/webry/IMG_2947.webp",
+          "filename": "IMG_2947.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ly342h0",
+      "title": "単行本・雑誌",
+      "images": [
+        {
+          "id": "csu9w69",
+          "src": "/appui-images/webry/IMG_2977.webp",
+          "filename": "IMG_2977.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "y8fxq3n",
+          "src": "/appui-images/webry/IMG_2978.webp",
+          "filename": "IMG_2978.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hwmo9ri",
+          "src": "/appui-images/webry/IMG_2979.webp",
+          "filename": "IMG_2979.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mu7xhmq",
+          "src": "/appui-images/webry/IMG_2980.webp",
+          "filename": "IMG_2980.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hn0j3jd",
+          "src": "/appui-images/webry/IMG_2981.webp",
+          "filename": "IMG_2981.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hq6d8lg",
+          "src": "/appui-images/webry/IMG_2982.webp",
+          "filename": "IMG_2982.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zpirx5c",
+      "title": "本棚・マイページ",
+      "images": [
+        {
+          "id": "1t0llmv",
+          "src": "/appui-images/webry/IMG_2983.webp",
+          "filename": "IMG_2983.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gq1cnm0",
+          "src": "/appui-images/webry/IMG_2984.webp",
+          "filename": "IMG_2984.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p4mn9fq",
+          "src": "/appui-images/webry/IMG_2985.webp",
+          "filename": "IMG_2985.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4mxk6bk",
+          "src": "/appui-images/webry/IMG_2990.webp",
+          "filename": "IMG_2990.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ilzm9h9",
+          "src": "/appui-images/webry/IMG_2991.webp",
+          "filename": "IMG_2991.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "prf9s35",
+          "src": "/appui-images/webry/IMG_2992.webp",
+          "filename": "IMG_2992.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "webry"
+}

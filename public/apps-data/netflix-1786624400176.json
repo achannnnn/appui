@@ -1,0 +1,416 @@
+{
+  "id": "netflix-1786624400176",
+  "name": "Netflix",
+  "description": "映画やドラマ、アニメが見放題の「Netflix」。オリジナル作品やおすすめホームが特徴の動画配信アプリ。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/93/db/3b93db5a-6443-6bee-be15-8ce20e51593c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id363590051",
+  "categories": [
+    "エンターテインメント"
+  ],
+  "components": [
+    "オンボーディング",
+    "フォーム",
+    "ヘッダー",
+    "ボタン",
+    "プロフィール",
+    "カード",
+    "リスト",
+    "フィルター",
+    "ボトム ナビゲーション",
+    "モーダル・ボトムシート",
+    "タブ・セグメントコントロール",
+    "検索"
+  ],
+  "sections": [
+    {
+      "id": "i7ex9ls",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "xesdi15",
+          "src": "/appui-images/netflix/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xupfjfs",
+          "src": "/appui-images/netflix/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b15m76d",
+          "src": "/appui-images/netflix/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g8ljonp",
+          "src": "/appui-images/netflix/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8u40e8k",
+          "src": "/appui-images/netflix/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pj1akox",
+          "src": "/appui-images/netflix/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x1tivad",
+          "src": "/appui-images/netflix/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h719qak",
+      "title": "起動画面",
+      "images": [
+        {
+          "id": "oe0bnej",
+          "src": "/appui-images/netflix/IMG_0192.webp",
+          "filename": "IMG_0192.webp",
+          "components": [
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qzhlukr",
+      "title": "ログイン",
+      "images": [
+        {
+          "id": "wymtrq9",
+          "src": "/appui-images/netflix/IMG_0171.webp",
+          "filename": "IMG_0171.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "akh6wsu",
+      "title": "プロフィール選択",
+      "images": [
+        {
+          "id": "a5puuc3",
+          "src": "/appui-images/netflix/IMG_0190.webp",
+          "filename": "IMG_0190.webp",
+          "components": [
+            "プロフィール",
+            "ボタン",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gy5cld8",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "izppblk",
+          "src": "/appui-images/netflix/IMG_0172.webp",
+          "filename": "IMG_0172.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "juvlo0r",
+          "src": "/appui-images/netflix/IMG_0173.webp",
+          "filename": "IMG_0173.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "kmy9vxu",
+          "src": "/appui-images/netflix/IMG_0174.webp",
+          "filename": "IMG_0174.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "xxbsvfm",
+          "src": "/appui-images/netflix/IMG_0175.webp",
+          "filename": "IMG_0175.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o7pvro9",
+      "title": "ホームのカテゴリ選択",
+      "images": [
+        {
+          "id": "d4a7qtz",
+          "src": "/appui-images/netflix/IMG_0187.webp",
+          "filename": "IMG_0187.webp",
+          "components": [
+            "ヘッダー",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gy4lk4l",
+      "title": "作品詳細",
+      "images": [
+        {
+          "id": "j94agpb",
+          "src": "/appui-images/netflix/IMG_0176.webp",
+          "filename": "IMG_0176.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "7rv7k9k",
+          "src": "/appui-images/netflix/IMG_0177.webp",
+          "filename": "IMG_0177.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ffcgzf9",
+          "src": "/appui-images/netflix/IMG_0178.webp",
+          "filename": "IMG_0178.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "i8scm80",
+          "src": "/appui-images/netflix/IMG_0179.webp",
+          "filename": "IMG_0179.webp",
+          "components": [
+            "ヘッダー",
+            "ボタン",
+            "カード",
+            "リスト",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w0wn7xq",
+      "title": "シリーズ・映画",
+      "images": [
+        {
+          "id": "5fiy76z",
+          "src": "/appui-images/netflix/IMG_0180.webp",
+          "filename": "IMG_0180.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "jvrdkz0",
+          "src": "/appui-images/netflix/IMG_0181.webp",
+          "filename": "IMG_0181.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yymz2n1",
+      "title": "新着＆ホット",
+      "images": [
+        {
+          "id": "0f6n59w",
+          "src": "/appui-images/netflix/IMG_0188.webp",
+          "filename": "IMG_0188.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gr4mo54",
+      "title": "カテゴリ閲覧",
+      "images": [
+        {
+          "id": "vh2aefn",
+          "src": "/appui-images/netflix/IMG_0184.webp",
+          "filename": "IMG_0184.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poekooc",
+      "title": "検索",
+      "images": [
+        {
+          "id": "jqv71r0",
+          "src": "/appui-images/netflix/IMG_0185.webp",
+          "filename": "IMG_0185.webp",
+          "components": [
+            "検索",
+            "ヘッダー",
+            "リスト",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ubvhke6",
+      "title": "ダウンロード",
+      "images": [
+        {
+          "id": "ii5q7kn",
+          "src": "/appui-images/netflix/IMG_0182.webp",
+          "filename": "IMG_0182.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "ボタン",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "qm2q5to",
+          "src": "/appui-images/netflix/IMG_0183.webp",
+          "filename": "IMG_0183.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "ボタン",
+            "フォーム",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "netflix"
+}

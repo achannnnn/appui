@@ -1,0 +1,567 @@
+{
+  "id": "lawson-1786626052212",
+  "name": "ローソン",
+  "description": "ローソン公式アプリ。クーポンやポイント、店舗検索が使える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/9a/9b/969a9bd2-01bc-ca2d-45a3-63c03092c824/LawsonAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id515191813",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "オンボーディング",
+    "ヘッダー",
+    "リスト",
+    "ボタン",
+    "ボトム ナビゲーション",
+    "カード",
+    "ダッシュボード",
+    "モーダル・ボトムシート",
+    "フォーム",
+    "タブ・セグメントコントロール",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "md289m6",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "h26dkwt",
+          "src": "/appui-images/lawson/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w93q7xo",
+          "src": "/appui-images/lawson/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2rqsb72",
+          "src": "/appui-images/lawson/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "35qkmo5",
+          "src": "/appui-images/lawson/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jeivk8x",
+          "src": "/appui-images/lawson/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fic14dw",
+          "src": "/appui-images/lawson/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4yv2ei6",
+          "src": "/appui-images/lawson/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2qtsj6q",
+          "src": "/appui-images/lawson/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ymgtjvc",
+          "src": "/appui-images/lawson/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "see5tdw",
+      "title": "起動・規約",
+      "images": [
+        {
+          "id": "bq9i1jp",
+          "src": "/appui-images/lawson/IMG_0630.webp",
+          "filename": "IMG_0630.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "k3vp4k0",
+          "src": "/appui-images/lawson/IMG_0631.webp",
+          "filename": "IMG_0631.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2qsszs",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "5hkwgr8",
+          "src": "/appui-images/lawson/IMG_0632.webp",
+          "filename": "IMG_0632.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "bovaum0",
+          "src": "/appui-images/lawson/IMG_0633.webp",
+          "filename": "IMG_0633.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hshptr6",
+          "src": "/appui-images/lawson/IMG_0634.webp",
+          "filename": "IMG_0634.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "5r6baab",
+          "src": "/appui-images/lawson/IMG_0635.webp",
+          "filename": "IMG_0635.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cc75qdn",
+      "title": "ローソンID登録",
+      "images": [
+        {
+          "id": "yyigc2d",
+          "src": "/appui-images/lawson/IMG_0636.webp",
+          "filename": "IMG_0636.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "a9adtrr",
+          "src": "/appui-images/lawson/IMG_0637.webp",
+          "filename": "IMG_0637.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "oyd7oks",
+          "src": "/appui-images/lawson/IMG_0638.webp",
+          "filename": "IMG_0638.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "byrepgj",
+          "src": "/appui-images/lawson/IMG_0639.webp",
+          "filename": "IMG_0639.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edci96w",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "yopw33s",
+          "src": "/appui-images/lawson/IMG_0640.webp",
+          "filename": "IMG_0640.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        },
+        {
+          "id": "iq6pn69",
+          "src": "/appui-images/lawson/IMG_0659.webp",
+          "filename": "IMG_0659.webp",
+          "components": [
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dvfxffi",
+      "title": "クーポン",
+      "images": [
+        {
+          "id": "pd0jn9d",
+          "src": "/appui-images/lawson/IMG_0641.webp",
+          "filename": "IMG_0641.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "urpiszq",
+          "src": "/appui-images/lawson/IMG_0644.webp",
+          "filename": "IMG_0644.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "h1yc895",
+          "src": "/appui-images/lawson/IMG_0647.webp",
+          "filename": "IMG_0647.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "2eu5j4u",
+          "src": "/appui-images/lawson/IMG_0648.webp",
+          "filename": "IMG_0648.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "349k4k2",
+      "title": "MY BOX",
+      "images": [
+        {
+          "id": "gafhice",
+          "src": "/appui-images/lawson/IMG_0642.webp",
+          "filename": "IMG_0642.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "01xpiq0",
+          "src": "/appui-images/lawson/IMG_0643.webp",
+          "filename": "IMG_0643.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hvr54ke",
+      "title": "ヘルプ",
+      "images": [
+        {
+          "id": "9711710",
+          "src": "/appui-images/lawson/IMG_0645.webp",
+          "filename": "IMG_0645.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ucxqd49",
+          "src": "/appui-images/lawson/IMG_0646.webp",
+          "filename": "IMG_0646.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ytrj1e",
+      "title": "キャンペーン",
+      "images": [
+        {
+          "id": "b374t0t",
+          "src": "/appui-images/lawson/IMG_0649.webp",
+          "filename": "IMG_0649.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ch5celv",
+      "title": "トピックス",
+      "images": [
+        {
+          "id": "eggm0ee",
+          "src": "/appui-images/lawson/IMG_0650.webp",
+          "filename": "IMG_0650.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptbfuug",
+      "title": "設定",
+      "images": [
+        {
+          "id": "vhrlin7",
+          "src": "/appui-images/lawson/IMG_0651.webp",
+          "filename": "IMG_0651.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "8ta359g",
+          "src": "/appui-images/lawson/IMG_0652.webp",
+          "filename": "IMG_0652.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "u8hlbyq",
+          "src": "/appui-images/lawson/IMG_0653.webp",
+          "filename": "IMG_0653.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        },
+        {
+          "id": "49zxvc1",
+          "src": "/appui-images/lawson/IMG_0658.webp",
+          "filename": "IMG_0658.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン",
+            "カード",
+            "モーダル・ボトムシート",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qcgu63v",
+      "title": "購入・予約履歴",
+      "images": [
+        {
+          "id": "k861lk6",
+          "src": "/appui-images/lawson/IMG_0654.webp",
+          "filename": "IMG_0654.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "3nunlh9",
+          "src": "/appui-images/lawson/IMG_0655.webp",
+          "filename": "IMG_0655.webp",
+          "components": [
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qe6shnr",
+      "title": "FAQ",
+      "images": [
+        {
+          "id": "3cqpbsv",
+          "src": "/appui-images/lawson/IMG_0656.webp",
+          "filename": "IMG_0656.webp",
+          "components": [
+            "ヘッダー",
+            "リスト"
+          ]
+        },
+        {
+          "id": "8mbsqj4",
+          "src": "/appui-images/lawson/IMG_0657.webp",
+          "filename": "IMG_0657.webp",
+          "components": [
+            "ヘッダー",
+            "リスト"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ローソン"
+}

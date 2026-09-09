@@ -1,0 +1,308 @@
+{
+  "id": "welcia-1786626010104",
+  "name": "ウエルシア",
+  "description": "ウエルシアグループ公式アプリ。店舗クーポンやポイント、お薬手帳が使える。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/f9/19/80f91938-37fc-925b-a83d-2648bcb12a3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id1095620617",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "オンボーディング",
+    "フォーム",
+    "ボタン",
+    "ヘッダー",
+    "ボトム ナビゲーション",
+    "カード",
+    "ダッシュボード",
+    "リスト",
+    "タブ・セグメントコントロール",
+    "プロフィール",
+    "モーダル・ボトムシート"
+  ],
+  "sections": [
+    {
+      "id": "cmbvt8y",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "aa07kpx",
+          "src": "/appui-images/welcia/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zwz4ytg",
+          "src": "/appui-images/welcia/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "v1axh79",
+          "src": "/appui-images/welcia/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xgervoa",
+      "title": "起動・オンボーディング",
+      "images": [
+        {
+          "id": "80pxwgp",
+          "src": "/appui-images/welcia/IMG_0506.webp",
+          "filename": "IMG_0506.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "mv16oqe",
+          "src": "/appui-images/welcia/IMG_0507.webp",
+          "filename": "IMG_0507.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aqmwjt8",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "mer6ql0",
+          "src": "/appui-images/welcia/IMG_0508.webp",
+          "filename": "IMG_0508.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "dhu9xct",
+          "src": "/appui-images/welcia/IMG_0509.webp",
+          "filename": "IMG_0509.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ダッシュボード",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v3z3ez5",
+      "title": "メニュー・サービス",
+      "images": [
+        {
+          "id": "piw5v6b",
+          "src": "/appui-images/welcia/IMG_0510.webp",
+          "filename": "IMG_0510.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ncklm92",
+          "src": "/appui-images/welcia/IMG_0511.webp",
+          "filename": "IMG_0511.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "6rztfhz",
+          "src": "/appui-images/welcia/IMG_0512.webp",
+          "filename": "IMG_0512.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3bc9l46",
+      "title": "ポイントカード連携",
+      "images": [
+        {
+          "id": "ie7bo6x",
+          "src": "/appui-images/welcia/IMG_0513.webp",
+          "filename": "IMG_0513.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "028qfss",
+          "src": "/appui-images/welcia/IMG_0514.webp",
+          "filename": "IMG_0514.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4o149e2",
+      "title": "会計時クーポン",
+      "images": [
+        {
+          "id": "7m01zy0",
+          "src": "/appui-images/welcia/IMG_0515.webp",
+          "filename": "IMG_0515.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "806webe",
+          "src": "/appui-images/welcia/IMG_0516.webp",
+          "filename": "IMG_0516.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "so13it5",
+          "src": "/appui-images/welcia/IMG_0517.webp",
+          "filename": "IMG_0517.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        },
+        {
+          "id": "0vnsjf3",
+          "src": "/appui-images/welcia/IMG_0518.webp",
+          "filename": "IMG_0518.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン",
+            "オンボーディング"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m9658c6",
+      "title": "通知情報",
+      "images": [
+        {
+          "id": "w0wyit2",
+          "src": "/appui-images/welcia/IMG_0519.webp",
+          "filename": "IMG_0519.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3nbnbj",
+      "title": "マイページ・設定",
+      "images": [
+        {
+          "id": "g3vqfjo",
+          "src": "/appui-images/welcia/IMG_0520.webp",
+          "filename": "IMG_0520.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "プロフィール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7lmcax7",
+      "title": "お支払い",
+      "images": [
+        {
+          "id": "w7e9iat",
+          "src": "/appui-images/welcia/IMG_0521.webp",
+          "filename": "IMG_0521.webp",
+          "components": [
+            "モーダル・ボトムシート",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ウエルシア"
+}

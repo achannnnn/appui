@@ -1,0 +1,129 @@
+{
+  "id": "wolt-1786626222603",
+  "name": "Wolt",
+  "description": "フードデリバリー「Wolt」。地図から店舗を選んで出前を頼める。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/25/ff/e925ffb9-0269-cb75-e5b9-8b66836546fc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id943905271",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "k6979wt",
+      "title": "スクリーンショット",
+      "images": [
+        {
+          "id": "v6wl4xx",
+          "src": "/appui-images/wolt/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5v51vt1",
+          "src": "/appui-images/wolt/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lqj0zan",
+          "src": "/appui-images/wolt/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hpd58l4",
+          "src": "/appui-images/wolt/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qj2u351",
+          "src": "/appui-images/wolt/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ovw60zg",
+          "src": "/appui-images/wolt/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4xoqe4l",
+          "src": "/appui-images/wolt/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "npj0bsh",
+          "src": "/appui-images/wolt/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "wolt"
+}

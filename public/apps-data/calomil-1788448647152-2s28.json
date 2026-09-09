@@ -1,0 +1,1174 @@
+{
+  "id": "calomil-1788448647152-2s28",
+  "name": "カロミル",
+  "description": "カロリーのみでなく、糖質やたんぱく質の管理ができるようになっていますので、ロカボ・ダイエットや糖質制限にもご活用いただけます。 また、塩分や食物繊維の計算・記録もできますので、ダイエットのみならず、栄養バランス管理で健康管理にお役立ていただ…",
+  "iconUrl": "/appui-images/calomil/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%AB%E3%83%AD%E3%83%9F%E3%83%AB-%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88-%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC-pfc%E7%AE%A1%E7%90%86%E3%81%AE%E5%81%A5%E5%BA%B7%E3%82%A2%E3%83%97%E3%83%AA/id963055562?uo=4",
+  "categories": [
+    "健康・フィットネス"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター",
+    "グラフ"
+  ],
+  "sections": [
+    {
+      "id": "vu1hncw",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "c0msovp",
+          "src": "/appui-images/calomil/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rvo2yk2",
+          "src": "/appui-images/calomil/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q2g3o5b",
+          "src": "/appui-images/calomil/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qw6cc03",
+          "src": "/appui-images/calomil/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u2ihwyd",
+          "src": "/appui-images/calomil/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sosxhw6",
+          "src": "/appui-images/calomil/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uugayhu",
+          "src": "/appui-images/calomil/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ymkhv7a",
+          "src": "/appui-images/calomil/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rs4zvk1",
+          "src": "/appui-images/calomil/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orloytj",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "sgf3pnd",
+          "src": "/appui-images/calomil/IMG_3156.webp",
+          "filename": "IMG_3156.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "q1xuo0q",
+          "src": "/appui-images/calomil/IMG_3157.webp",
+          "filename": "IMG_3157.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qa72t25",
+          "src": "/appui-images/calomil/IMG_3158.webp",
+          "filename": "IMG_3158.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "um54fkv",
+          "src": "/appui-images/calomil/IMG_3159.webp",
+          "filename": "IMG_3159.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "csxgcu5",
+          "src": "/appui-images/calomil/IMG_3160.webp",
+          "filename": "IMG_3160.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "nrg0gab",
+          "src": "/appui-images/calomil/IMG_3161.webp",
+          "filename": "IMG_3161.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "d79s03w",
+          "src": "/appui-images/calomil/IMG_3162.webp",
+          "filename": "IMG_3162.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "ofjl5ex",
+          "src": "/appui-images/calomil/IMG_3163.webp",
+          "filename": "IMG_3163.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qe9ijkw",
+          "src": "/appui-images/calomil/IMG_3164.webp",
+          "filename": "IMG_3164.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gg61op0",
+      "title": "食事記録",
+      "images": [
+        {
+          "id": "cnwwweg",
+          "src": "/appui-images/calomil/IMG_3165.webp",
+          "filename": "IMG_3165.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "zqkf5hp",
+          "src": "/appui-images/calomil/IMG_3166.webp",
+          "filename": "IMG_3166.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "r2sv3uh",
+          "src": "/appui-images/calomil/IMG_3167.webp",
+          "filename": "IMG_3167.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "gqkuei6",
+          "src": "/appui-images/calomil/IMG_3168.webp",
+          "filename": "IMG_3168.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "yy59cpx",
+          "src": "/appui-images/calomil/IMG_3169.webp",
+          "filename": "IMG_3169.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "h2izt7u",
+          "src": "/appui-images/calomil/IMG_3170.webp",
+          "filename": "IMG_3170.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "fc2aiyc",
+          "src": "/appui-images/calomil/IMG_3171.webp",
+          "filename": "IMG_3171.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "3zd98fn",
+          "src": "/appui-images/calomil/IMG_3172.webp",
+          "filename": "IMG_3172.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "bad4ite",
+          "src": "/appui-images/calomil/IMG_3173.webp",
+          "filename": "IMG_3173.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "f9yc459",
+          "src": "/appui-images/calomil/IMG_3174.webp",
+          "filename": "IMG_3174.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "bp80hyz",
+          "src": "/appui-images/calomil/IMG_3175.webp",
+          "filename": "IMG_3175.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "3i5otgx",
+          "src": "/appui-images/calomil/IMG_3176.webp",
+          "filename": "IMG_3176.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "wsmdyu0",
+          "src": "/appui-images/calomil/IMG_3177.webp",
+          "filename": "IMG_3177.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "g07uoyh",
+          "src": "/appui-images/calomil/IMG_3178.webp",
+          "filename": "IMG_3178.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "pj6iyr4",
+          "src": "/appui-images/calomil/IMG_3189.webp",
+          "filename": "IMG_3189.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "2z98nuf",
+          "src": "/appui-images/calomil/IMG_3190.webp",
+          "filename": "IMG_3190.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "pl9ggb5",
+          "src": "/appui-images/calomil/IMG_3191.webp",
+          "filename": "IMG_3191.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "80pnyyq",
+          "src": "/appui-images/calomil/IMG_3193.webp",
+          "filename": "IMG_3193.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "p1zra25",
+          "src": "/appui-images/calomil/IMG_3194.webp",
+          "filename": "IMG_3194.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "amxlb0o",
+          "src": "/appui-images/calomil/IMG_3195.webp",
+          "filename": "IMG_3195.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "pa4tf9x",
+          "src": "/appui-images/calomil/IMG_3196.webp",
+          "filename": "IMG_3196.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "sh8m9zj",
+          "src": "/appui-images/calomil/IMG_3197.webp",
+          "filename": "IMG_3197.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "kpcy0xg",
+          "src": "/appui-images/calomil/IMG_3198.webp",
+          "filename": "IMG_3198.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "wl1v13s",
+          "src": "/appui-images/calomil/IMG_3199.webp",
+          "filename": "IMG_3199.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "vjrogc0",
+          "src": "/appui-images/calomil/IMG_3200.webp",
+          "filename": "IMG_3200.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "n07zd6i",
+          "src": "/appui-images/calomil/IMG_3201.webp",
+          "filename": "IMG_3201.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "dz1ix49",
+          "src": "/appui-images/calomil/IMG_3202.webp",
+          "filename": "IMG_3202.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "tqjfzeo",
+          "src": "/appui-images/calomil/IMG_3203.webp",
+          "filename": "IMG_3203.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30gcpgz",
+      "title": "栄養グラフ",
+      "images": [
+        {
+          "id": "z12zdj1",
+          "src": "/appui-images/calomil/IMG_3179.webp",
+          "filename": "IMG_3179.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "hn06fvl",
+          "src": "/appui-images/calomil/IMG_3180.webp",
+          "filename": "IMG_3180.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "n1irvf9",
+          "src": "/appui-images/calomil/IMG_3181.webp",
+          "filename": "IMG_3181.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "sdrzocq",
+          "src": "/appui-images/calomil/IMG_3182.webp",
+          "filename": "IMG_3182.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "d1fnmjl",
+          "src": "/appui-images/calomil/IMG_3183.webp",
+          "filename": "IMG_3183.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "cx57e5g",
+          "src": "/appui-images/calomil/IMG_3184.webp",
+          "filename": "IMG_3184.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "973jovp",
+          "src": "/appui-images/calomil/IMG_3185.webp",
+          "filename": "IMG_3185.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1th08rv",
+          "src": "/appui-images/calomil/IMG_3186.webp",
+          "filename": "IMG_3186.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "kyjrnmc",
+          "src": "/appui-images/calomil/IMG_3187.webp",
+          "filename": "IMG_3187.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "ywt2cyr",
+          "src": "/appui-images/calomil/IMG_3188.webp",
+          "filename": "IMG_3188.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "cli6p1r",
+          "src": "/appui-images/calomil/IMG_3236.webp",
+          "filename": "IMG_3236.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "07xneb1",
+          "src": "/appui-images/calomil/IMG_3237.webp",
+          "filename": "IMG_3237.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1co06kt",
+          "src": "/appui-images/calomil/IMG_3238.webp",
+          "filename": "IMG_3238.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "220yo5a",
+      "title": "体重・バイタル",
+      "images": [
+        {
+          "id": "os548hv",
+          "src": "/appui-images/calomil/IMG_3204.webp",
+          "filename": "IMG_3204.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "rag308w",
+          "src": "/appui-images/calomil/IMG_3205.webp",
+          "filename": "IMG_3205.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "iuztcfa",
+          "src": "/appui-images/calomil/IMG_3206.webp",
+          "filename": "IMG_3206.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "rd5jwsr",
+          "src": "/appui-images/calomil/IMG_3207.webp",
+          "filename": "IMG_3207.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "aisgmqt",
+          "src": "/appui-images/calomil/IMG_3208.webp",
+          "filename": "IMG_3208.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "xb9fkfy",
+          "src": "/appui-images/calomil/IMG_3209.webp",
+          "filename": "IMG_3209.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "khsxrau",
+          "src": "/appui-images/calomil/IMG_3210.webp",
+          "filename": "IMG_3210.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "l4ofqho",
+          "src": "/appui-images/calomil/IMG_3211.webp",
+          "filename": "IMG_3211.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "nsmf5qu",
+          "src": "/appui-images/calomil/IMG_3212.webp",
+          "filename": "IMG_3212.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "whlj9no",
+          "src": "/appui-images/calomil/IMG_3213.webp",
+          "filename": "IMG_3213.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xmnsw3k",
+      "title": "運動",
+      "images": [
+        {
+          "id": "kpfe55j",
+          "src": "/appui-images/calomil/IMG_3214.webp",
+          "filename": "IMG_3214.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "j4cixpc",
+          "src": "/appui-images/calomil/IMG_3215.webp",
+          "filename": "IMG_3215.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "ly33yic",
+          "src": "/appui-images/calomil/IMG_3216.webp",
+          "filename": "IMG_3216.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "8rj4j6c",
+          "src": "/appui-images/calomil/IMG_3217.webp",
+          "filename": "IMG_3217.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "j9fa0ob",
+          "src": "/appui-images/calomil/IMG_3218.webp",
+          "filename": "IMG_3218.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "6kfuxmb",
+          "src": "/appui-images/calomil/IMG_3219.webp",
+          "filename": "IMG_3219.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "443mvw7",
+          "src": "/appui-images/calomil/IMG_3220.webp",
+          "filename": "IMG_3220.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "zf1rn17",
+          "src": "/appui-images/calomil/IMG_3221.webp",
+          "filename": "IMG_3221.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "qkedu3r",
+          "src": "/appui-images/calomil/IMG_3222.webp",
+          "filename": "IMG_3222.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "x2rtb0b",
+          "src": "/appui-images/calomil/IMG_3223.webp",
+          "filename": "IMG_3223.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "m22cvnp",
+          "src": "/appui-images/calomil/IMG_3224.webp",
+          "filename": "IMG_3224.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n8cassf",
+      "title": "チーム",
+      "images": [
+        {
+          "id": "ipt107q",
+          "src": "/appui-images/calomil/IMG_3225.webp",
+          "filename": "IMG_3225.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "06701rd",
+          "src": "/appui-images/calomil/IMG_3226.webp",
+          "filename": "IMG_3226.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1fjm62r",
+          "src": "/appui-images/calomil/IMG_3227.webp",
+          "filename": "IMG_3227.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xvaxu9i",
+      "title": "目標設定・メニュー",
+      "images": [
+        {
+          "id": "h3lkfrj",
+          "src": "/appui-images/calomil/IMG_3228.webp",
+          "filename": "IMG_3228.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "1ance4d",
+          "src": "/appui-images/calomil/IMG_3229.webp",
+          "filename": "IMG_3229.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "itc5g9z",
+          "src": "/appui-images/calomil/IMG_3230.webp",
+          "filename": "IMG_3230.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "w4npr63",
+          "src": "/appui-images/calomil/IMG_3231.webp",
+          "filename": "IMG_3231.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "45rtwi6",
+          "src": "/appui-images/calomil/IMG_3232.webp",
+          "filename": "IMG_3232.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "s4c8qj7",
+          "src": "/appui-images/calomil/IMG_3233.webp",
+          "filename": "IMG_3233.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "4xjvawd",
+          "src": "/appui-images/calomil/IMG_3234.webp",
+          "filename": "IMG_3234.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "f9pgwmv",
+          "src": "/appui-images/calomil/IMG_3235.webp",
+          "filename": "IMG_3235.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        },
+        {
+          "id": "7iy4ju0",
+          "src": "/appui-images/calomil/IMG_3239.webp",
+          "filename": "IMG_3239.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "グラフ"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "calomil"
+}

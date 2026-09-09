@@ -1,0 +1,1514 @@
+{
+  "id": "uber-1787066685465",
+  "name": "Uber",
+  "description": "配車アプリ「Uber」。地図上で乗車位置を指定して、タクシーやライドを呼べる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/e1/71/c9e171ab-26ea-d0a5-7d36-ab6f376d0136/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id368677368",
+  "categories": [
+    "旅行"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "カード",
+    "ヘッダー",
+    "リスト",
+    "検索",
+    "フィルター",
+    "フォーム",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション",
+    "ダッシュボード",
+    "プロフィール",
+    "タブ・セグメントコントロール",
+    "マップ"
+  ],
+  "sections": [
+    {
+      "id": "jvaxuv0",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "l3jwvpm",
+          "src": "/appui-images/uber/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lrss03x",
+          "src": "/appui-images/uber/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4j31f4m",
+          "src": "/appui-images/uber/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dr2e82d",
+          "src": "/appui-images/uber/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6yujrde",
+          "src": "/appui-images/uber/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sx13fdh",
+          "src": "/appui-images/uber/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kta1qps",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "dy3b2k6",
+          "src": "/appui-images/uber/IMG_1280.webp",
+          "filename": "IMG_1280.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "da6kaz9",
+          "src": "/appui-images/uber/IMG_1281.webp",
+          "filename": "IMG_1281.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "wzduswf",
+          "src": "/appui-images/uber/IMG_1282.webp",
+          "filename": "IMG_1282.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "4n9p0p7",
+          "src": "/appui-images/uber/IMG_1283.webp",
+          "filename": "IMG_1283.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "y6okkfw",
+          "src": "/appui-images/uber/IMG_1284.webp",
+          "filename": "IMG_1284.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "s0abuw8",
+          "src": "/appui-images/uber/IMG_1285.webp",
+          "filename": "IMG_1285.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lzbtu7g",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "abu0xn5",
+          "src": "/appui-images/uber/IMG_1286.webp",
+          "filename": "IMG_1286.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "7wc004b",
+          "src": "/appui-images/uber/IMG_1287.webp",
+          "filename": "IMG_1287.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "3v51o1t",
+          "src": "/appui-images/uber/IMG_1288.webp",
+          "filename": "IMG_1288.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "qss86bi",
+          "src": "/appui-images/uber/IMG_1289.webp",
+          "filename": "IMG_1289.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "ho1iaf5",
+          "src": "/appui-images/uber/IMG_1300.webp",
+          "filename": "IMG_1300.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        },
+        {
+          "id": "m5o9989",
+          "src": "/appui-images/uber/IMG_1335.webp",
+          "filename": "IMG_1335.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "ダッシュボード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iuq6smb",
+      "title": "配車",
+      "images": [
+        {
+          "id": "vaq4pyl",
+          "src": "/appui-images/uber/IMG_1290.webp",
+          "filename": "IMG_1290.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "k4dytro",
+          "src": "/appui-images/uber/IMG_1291.webp",
+          "filename": "IMG_1291.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "qugah7n",
+          "src": "/appui-images/uber/IMG_1292.webp",
+          "filename": "IMG_1292.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "xc6zxia",
+          "src": "/appui-images/uber/IMG_1293.webp",
+          "filename": "IMG_1293.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "ovpth0k",
+          "src": "/appui-images/uber/IMG_1294.webp",
+          "filename": "IMG_1294.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "k6ev6l0",
+          "src": "/appui-images/uber/IMG_1295.webp",
+          "filename": "IMG_1295.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "p9yi0rt",
+          "src": "/appui-images/uber/IMG_1296.webp",
+          "filename": "IMG_1296.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "gogu6fr",
+          "src": "/appui-images/uber/IMG_1297.webp",
+          "filename": "IMG_1297.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "gdr2zv5",
+          "src": "/appui-images/uber/IMG_1298.webp",
+          "filename": "IMG_1298.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "l8fxq36",
+          "src": "/appui-images/uber/IMG_1299.webp",
+          "filename": "IMG_1299.webp",
+          "components": [
+            "マップ",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "of8997w",
+      "title": "Uber Eats",
+      "images": [
+        {
+          "id": "r5mgf0i",
+          "src": "/appui-images/uber/IMG_1301.webp",
+          "filename": "IMG_1301.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "kjrixm8",
+          "src": "/appui-images/uber/IMG_1302.webp",
+          "filename": "IMG_1302.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1wxe86q",
+          "src": "/appui-images/uber/IMG_1309.webp",
+          "filename": "IMG_1309.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "za8g0m6",
+          "src": "/appui-images/uber/IMG_1310.webp",
+          "filename": "IMG_1310.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "alu3hjt",
+          "src": "/appui-images/uber/IMG_1311.webp",
+          "filename": "IMG_1311.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "fnxfhg1",
+          "src": "/appui-images/uber/IMG_1312.webp",
+          "filename": "IMG_1312.webp",
+          "components": [
+            "検索",
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "フィルター",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uyc51vm",
+      "title": "配達先",
+      "images": [
+        {
+          "id": "hh8hqf3",
+          "src": "/appui-images/uber/IMG_1303.webp",
+          "filename": "IMG_1303.webp",
+          "components": [
+            "マップ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "afnc2u3",
+          "src": "/appui-images/uber/IMG_1304.webp",
+          "filename": "IMG_1304.webp",
+          "components": [
+            "マップ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "8rws6jq",
+          "src": "/appui-images/uber/IMG_1305.webp",
+          "filename": "IMG_1305.webp",
+          "components": [
+            "マップ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rc2p6xr",
+          "src": "/appui-images/uber/IMG_1306.webp",
+          "filename": "IMG_1306.webp",
+          "components": [
+            "マップ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "sbxcwb3",
+          "src": "/appui-images/uber/IMG_1307.webp",
+          "filename": "IMG_1307.webp",
+          "components": [
+            "マップ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "jxydk68",
+          "src": "/appui-images/uber/IMG_1308.webp",
+          "filename": "IMG_1308.webp",
+          "components": [
+            "マップ",
+            "フォーム",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z6r4ec8",
+      "title": "店舗・メニュー",
+      "images": [
+        {
+          "id": "y19fwl9",
+          "src": "/appui-images/uber/IMG_1313.webp",
+          "filename": "IMG_1313.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "x80su6b",
+          "src": "/appui-images/uber/IMG_1314.webp",
+          "filename": "IMG_1314.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "c2fp344",
+          "src": "/appui-images/uber/IMG_1315.webp",
+          "filename": "IMG_1315.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "0qhyhc0",
+          "src": "/appui-images/uber/IMG_1316.webp",
+          "filename": "IMG_1316.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "rc0jvll",
+          "src": "/appui-images/uber/IMG_1317.webp",
+          "filename": "IMG_1317.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "ofsopgq",
+          "src": "/appui-images/uber/IMG_1318.webp",
+          "filename": "IMG_1318.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "2zycp1m",
+          "src": "/appui-images/uber/IMG_1319.webp",
+          "filename": "IMG_1319.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "5dfqh5i",
+          "src": "/appui-images/uber/IMG_1320.webp",
+          "filename": "IMG_1320.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "r167pcl",
+          "src": "/appui-images/uber/IMG_1321.webp",
+          "filename": "IMG_1321.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "ct33xia",
+          "src": "/appui-images/uber/IMG_1322.webp",
+          "filename": "IMG_1322.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "lhpkr9x",
+          "src": "/appui-images/uber/IMG_1323.webp",
+          "filename": "IMG_1323.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "jskjg2g",
+          "src": "/appui-images/uber/IMG_1324.webp",
+          "filename": "IMG_1324.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "zxuz216",
+          "src": "/appui-images/uber/IMG_1325.webp",
+          "filename": "IMG_1325.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "khmes48",
+          "src": "/appui-images/uber/IMG_1326.webp",
+          "filename": "IMG_1326.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "7bd18fj",
+          "src": "/appui-images/uber/IMG_1327.webp",
+          "filename": "IMG_1327.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "3c0rdl2",
+          "src": "/appui-images/uber/IMG_1328.webp",
+          "filename": "IMG_1328.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "a1uksyb",
+          "src": "/appui-images/uber/IMG_1329.webp",
+          "filename": "IMG_1329.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        },
+        {
+          "id": "l0nu6t1",
+          "src": "/appui-images/uber/IMG_1330.webp",
+          "filename": "IMG_1330.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9n0pzt",
+      "title": "荷物配送",
+      "images": [
+        {
+          "id": "nqqtbd9",
+          "src": "/appui-images/uber/IMG_1331.webp",
+          "filename": "IMG_1331.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qa3lgto",
+      "title": "スーパー",
+      "images": [
+        {
+          "id": "94k8j76",
+          "src": "/appui-images/uber/IMG_1332.webp",
+          "filename": "IMG_1332.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "c0qiohy",
+          "src": "/appui-images/uber/IMG_1333.webp",
+          "filename": "IMG_1333.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vjcwkst",
+          "src": "/appui-images/uber/IMG_1334.webp",
+          "filename": "IMG_1334.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tykfrx8",
+      "title": "カート・ギフト",
+      "images": [
+        {
+          "id": "nb5f19m",
+          "src": "/appui-images/uber/IMG_1336.webp",
+          "filename": "IMG_1336.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vq9w7j4",
+          "src": "/appui-images/uber/IMG_1337.webp",
+          "filename": "IMG_1337.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "g6823gw",
+          "src": "/appui-images/uber/IMG_1338.webp",
+          "filename": "IMG_1338.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "rwvoxf9",
+          "src": "/appui-images/uber/IMG_1339.webp",
+          "filename": "IMG_1339.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "dspu18q",
+          "src": "/appui-images/uber/IMG_1340.webp",
+          "filename": "IMG_1340.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4kfpnxe",
+          "src": "/appui-images/uber/IMG_1341.webp",
+          "filename": "IMG_1341.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "k6qiga1",
+          "src": "/appui-images/uber/IMG_1342.webp",
+          "filename": "IMG_1342.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "xguft3t",
+          "src": "/appui-images/uber/IMG_1343.webp",
+          "filename": "IMG_1343.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0nh673q",
+      "title": "サービス",
+      "images": [
+        {
+          "id": "7udxqwe",
+          "src": "/appui-images/uber/IMG_1344.webp",
+          "filename": "IMG_1344.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "xjkuq59",
+          "src": "/appui-images/uber/IMG_1345.webp",
+          "filename": "IMG_1345.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "5i9om3y",
+          "src": "/appui-images/uber/IMG_1346.webp",
+          "filename": "IMG_1346.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "ryrtu9p",
+          "src": "/appui-images/uber/IMG_1347.webp",
+          "filename": "IMG_1347.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "u4gc0qd",
+          "src": "/appui-images/uber/IMG_1348.webp",
+          "filename": "IMG_1348.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "8pi1hld",
+          "src": "/appui-images/uber/IMG_1349.webp",
+          "filename": "IMG_1349.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ボトム ナビゲーション",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y6llmel",
+      "title": "アクティビティ",
+      "images": [
+        {
+          "id": "6h52yqe",
+          "src": "/appui-images/uber/IMG_1350.webp",
+          "filename": "IMG_1350.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "d8941ze",
+          "src": "/appui-images/uber/IMG_1351.webp",
+          "filename": "IMG_1351.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "a6602w1",
+          "src": "/appui-images/uber/IMG_1352.webp",
+          "filename": "IMG_1352.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8a6fovu",
+          "src": "/appui-images/uber/IMG_1353.webp",
+          "filename": "IMG_1353.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "8rabbn3",
+          "src": "/appui-images/uber/IMG_1354.webp",
+          "filename": "IMG_1354.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        },
+        {
+          "id": "am2mqzc",
+          "src": "/appui-images/uber/IMG_1355.webp",
+          "filename": "IMG_1355.webp",
+          "components": [
+            "リスト",
+            "カード",
+            "タブ・セグメントコントロール",
+            "ボトム ナビゲーション"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "it6in5d",
+      "title": "アカウント",
+      "images": [
+        {
+          "id": "u5eo6uu",
+          "src": "/appui-images/uber/IMG_1356.webp",
+          "filename": "IMG_1356.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "jlyphwd",
+          "src": "/appui-images/uber/IMG_1357.webp",
+          "filename": "IMG_1357.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "xh6zltu",
+          "src": "/appui-images/uber/IMG_1358.webp",
+          "filename": "IMG_1358.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "6ch10sf",
+          "src": "/appui-images/uber/IMG_1359.webp",
+          "filename": "IMG_1359.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "g9wv6lu",
+          "src": "/appui-images/uber/IMG_1360.webp",
+          "filename": "IMG_1360.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "mok9sk7",
+          "src": "/appui-images/uber/IMG_1361.webp",
+          "filename": "IMG_1361.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "n9zalcl",
+          "src": "/appui-images/uber/IMG_1362.webp",
+          "filename": "IMG_1362.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "t8a1i61",
+          "src": "/appui-images/uber/IMG_1363.webp",
+          "filename": "IMG_1363.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "ivgak5k",
+          "src": "/appui-images/uber/IMG_1364.webp",
+          "filename": "IMG_1364.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        },
+        {
+          "id": "bh7berd",
+          "src": "/appui-images/uber/IMG_1365.webp",
+          "filename": "IMG_1365.webp",
+          "components": [
+            "リスト",
+            "プロフィール",
+            "ヘッダー",
+            "ボトム ナビゲーション",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7b3yoa",
+      "title": "安全性",
+      "images": [
+        {
+          "id": "966rqqk",
+          "src": "/appui-images/uber/IMG_1366.webp",
+          "filename": "IMG_1366.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "md4c08g",
+          "src": "/appui-images/uber/IMG_1367.webp",
+          "filename": "IMG_1367.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "q0knhw2",
+          "src": "/appui-images/uber/IMG_1368.webp",
+          "filename": "IMG_1368.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhi91e9",
+      "title": "家族",
+      "images": [
+        {
+          "id": "8t2ovgq",
+          "src": "/appui-images/uber/IMG_1369.webp",
+          "filename": "IMG_1369.webp",
+          "components": [
+            "カード",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1sk1tqb",
+      "title": "設定",
+      "images": [
+        {
+          "id": "zow34h5",
+          "src": "/appui-images/uber/IMG_1370.webp",
+          "filename": "IMG_1370.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "vlipk44",
+          "src": "/appui-images/uber/IMG_1371.webp",
+          "filename": "IMG_1371.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "3bexyle",
+          "src": "/appui-images/uber/IMG_1372.webp",
+          "filename": "IMG_1372.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "9qxap2g",
+          "src": "/appui-images/uber/IMG_1373.webp",
+          "filename": "IMG_1373.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "aznfr8z",
+          "src": "/appui-images/uber/IMG_1374.webp",
+          "filename": "IMG_1374.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "bmgm5ax",
+          "src": "/appui-images/uber/IMG_1375.webp",
+          "filename": "IMG_1375.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "wiyvmv3",
+          "src": "/appui-images/uber/IMG_1376.webp",
+          "filename": "IMG_1376.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "v2caldb",
+          "src": "/appui-images/uber/IMG_1377.webp",
+          "filename": "IMG_1377.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "jz58jcb",
+          "src": "/appui-images/uber/IMG_1378.webp",
+          "filename": "IMG_1378.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "j9k1rfu",
+          "src": "/appui-images/uber/IMG_1379.webp",
+          "filename": "IMG_1379.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "b3vpkn8",
+          "src": "/appui-images/uber/IMG_1380.webp",
+          "filename": "IMG_1380.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1wi1w0t",
+          "src": "/appui-images/uber/IMG_1381.webp",
+          "filename": "IMG_1381.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "zm3m14a",
+          "src": "/appui-images/uber/IMG_1382.webp",
+          "filename": "IMG_1382.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "プロフィール",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iddf1bh",
+      "title": "プライバシー・通知",
+      "images": [
+        {
+          "id": "fdm91xw",
+          "src": "/appui-images/uber/IMG_1383.webp",
+          "filename": "IMG_1383.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "6bfyeuq",
+          "src": "/appui-images/uber/IMG_1384.webp",
+          "filename": "IMG_1384.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "sc7os4v",
+          "src": "/appui-images/uber/IMG_1385.webp",
+          "filename": "IMG_1385.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "aiuvivh",
+          "src": "/appui-images/uber/IMG_1386.webp",
+          "filename": "IMG_1386.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "sjprp4g",
+          "src": "/appui-images/uber/IMG_1387.webp",
+          "filename": "IMG_1387.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "5hsquvx",
+          "src": "/appui-images/uber/IMG_1388.webp",
+          "filename": "IMG_1388.webp",
+          "components": [
+            "リスト",
+            "フォーム",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4oypjg3",
+      "title": "評価",
+      "images": [
+        {
+          "id": "mvpw6km",
+          "src": "/appui-images/uber/IMG_1389.webp",
+          "filename": "IMG_1389.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "aduf7ua",
+          "src": "/appui-images/uber/IMG_1390.webp",
+          "filename": "IMG_1390.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "d99xahu",
+          "src": "/appui-images/uber/IMG_1391.webp",
+          "filename": "IMG_1391.webp",
+          "components": [
+            "リスト",
+            "ヘッダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "uber"
+}

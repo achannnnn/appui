@@ -1,0 +1,912 @@
+{
+  "id": "hotpepper-1788097727766-yoyl",
+  "name": "ホットペッパービューティー",
+  "description": "ホットペッパービューティーは国内最大級のヘア・ネイル・まつげ・リラク・エステサロンの検索＆予約アプリです。アプリから24時間いつでも・どこでもサロンを検索＆予約できます。 ■■■あなたにぴったりのサロンが探せる■■■■ ■国内最大級の掲載情…",
+  "iconUrl": "/appui-images/hotpepper/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%9B%E3%83%83%E3%83%88%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC-%E7%BE%8E%E5%AE%B9%E9%99%A2-%E3%83%8D%E3%82%A4%E3%83%AB%E3%81%AA%E3%81%A9%E3%81%AE%E3%82%B5%E3%83%AD%E3%83%B3%E4%BA%88%E7%B4%84/id385724144?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター",
+    "地図",
+    "タブ・セグメントコントロール",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "lzhynjk",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "kiqt18i",
+          "src": "/appui-images/hotpepper/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dpovbbh",
+          "src": "/appui-images/hotpepper/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xd2b9wi",
+          "src": "/appui-images/hotpepper/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6g85164",
+          "src": "/appui-images/hotpepper/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "is81zq7",
+          "src": "/appui-images/hotpepper/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6cwmyju",
+          "src": "/appui-images/hotpepper/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7q6hpuj",
+          "src": "/appui-images/hotpepper/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kczj8zh",
+          "src": "/appui-images/hotpepper/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ikzk3dr",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "c29m02t",
+          "src": "/appui-images/hotpepper/IMG_2501.webp",
+          "filename": "IMG_2501.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "80wveax",
+          "src": "/appui-images/hotpepper/IMG_2502.webp",
+          "filename": "IMG_2502.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b9fi6z8",
+          "src": "/appui-images/hotpepper/IMG_2503.webp",
+          "filename": "IMG_2503.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qit4o1z",
+          "src": "/appui-images/hotpepper/IMG_2504.webp",
+          "filename": "IMG_2504.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54x0t2w",
+      "title": "検索",
+      "images": [
+        {
+          "id": "wzovnll",
+          "src": "/appui-images/hotpepper/IMG_2505.webp",
+          "filename": "IMG_2505.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dtgsjjq",
+          "src": "/appui-images/hotpepper/IMG_2506.webp",
+          "filename": "IMG_2506.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qlzwiik",
+          "src": "/appui-images/hotpepper/IMG_2507.webp",
+          "filename": "IMG_2507.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i0dqqe5",
+          "src": "/appui-images/hotpepper/IMG_2508.webp",
+          "filename": "IMG_2508.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ase7eqk",
+          "src": "/appui-images/hotpepper/IMG_2509.webp",
+          "filename": "IMG_2509.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lfh20z8",
+          "src": "/appui-images/hotpepper/IMG_2510.webp",
+          "filename": "IMG_2510.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "y9rgphq",
+          "src": "/appui-images/hotpepper/IMG_2511.webp",
+          "filename": "IMG_2511.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4cevoew",
+          "src": "/appui-images/hotpepper/IMG_2512.webp",
+          "filename": "IMG_2512.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0qxyson",
+          "src": "/appui-images/hotpepper/IMG_2513.webp",
+          "filename": "IMG_2513.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b5olqrd",
+          "src": "/appui-images/hotpepper/IMG_2514.webp",
+          "filename": "IMG_2514.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yxo3m5a",
+          "src": "/appui-images/hotpepper/IMG_2515.webp",
+          "filename": "IMG_2515.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ef4y4xz",
+          "src": "/appui-images/hotpepper/IMG_2516.webp",
+          "filename": "IMG_2516.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kzz4txv",
+          "src": "/appui-images/hotpepper/IMG_2517.webp",
+          "filename": "IMG_2517.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p9xtdzc",
+          "src": "/appui-images/hotpepper/IMG_2518.webp",
+          "filename": "IMG_2518.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0qd3bg9",
+          "src": "/appui-images/hotpepper/IMG_2519.webp",
+          "filename": "IMG_2519.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02c7x88",
+      "title": "サロン",
+      "images": [
+        {
+          "id": "msdz9gu",
+          "src": "/appui-images/hotpepper/IMG_2520.webp",
+          "filename": "IMG_2520.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6rv65n5",
+          "src": "/appui-images/hotpepper/IMG_2521.webp",
+          "filename": "IMG_2521.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "92et5fb",
+          "src": "/appui-images/hotpepper/IMG_2522.webp",
+          "filename": "IMG_2522.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u1c06l2",
+          "src": "/appui-images/hotpepper/IMG_2523.webp",
+          "filename": "IMG_2523.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "57f5g19",
+          "src": "/appui-images/hotpepper/IMG_2524.webp",
+          "filename": "IMG_2524.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3vncwqd",
+          "src": "/appui-images/hotpepper/IMG_2525.webp",
+          "filename": "IMG_2525.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "87a5psi",
+          "src": "/appui-images/hotpepper/IMG_2526.webp",
+          "filename": "IMG_2526.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j6qv1mz",
+          "src": "/appui-images/hotpepper/IMG_2527.webp",
+          "filename": "IMG_2527.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m3lepak",
+          "src": "/appui-images/hotpepper/IMG_2531.webp",
+          "filename": "IMG_2531.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fmuo5kx",
+      "title": "予約",
+      "images": [
+        {
+          "id": "gdvszyn",
+          "src": "/appui-images/hotpepper/IMG_2528.webp",
+          "filename": "IMG_2528.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wt7dh8i",
+          "src": "/appui-images/hotpepper/IMG_2529.webp",
+          "filename": "IMG_2529.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z8g2lbs",
+          "src": "/appui-images/hotpepper/IMG_2530.webp",
+          "filename": "IMG_2530.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gup9mal",
+      "title": "スタイル",
+      "images": [
+        {
+          "id": "z7eicem",
+          "src": "/appui-images/hotpepper/IMG_2532.webp",
+          "filename": "IMG_2532.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l0qz9a0",
+          "src": "/appui-images/hotpepper/IMG_2533.webp",
+          "filename": "IMG_2533.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1begxjx",
+          "src": "/appui-images/hotpepper/IMG_2534.webp",
+          "filename": "IMG_2534.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ywcrw34",
+          "src": "/appui-images/hotpepper/IMG_2535.webp",
+          "filename": "IMG_2535.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zpy7giv",
+          "src": "/appui-images/hotpepper/IMG_2543.webp",
+          "filename": "IMG_2543.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k6u8voj",
+          "src": "/appui-images/hotpepper/IMG_2544.webp",
+          "filename": "IMG_2544.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "07663ds",
+          "src": "/appui-images/hotpepper/IMG_2545.webp",
+          "filename": "IMG_2545.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4vd6ugo",
+          "src": "/appui-images/hotpepper/IMG_2546.webp",
+          "filename": "IMG_2546.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rzdrh25",
+          "src": "/appui-images/hotpepper/IMG_2547.webp",
+          "filename": "IMG_2547.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u7x71qj",
+          "src": "/appui-images/hotpepper/IMG_2548.webp",
+          "filename": "IMG_2548.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uw0dmjd",
+          "src": "/appui-images/hotpepper/IMG_2549.webp",
+          "filename": "IMG_2549.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bhqf1n6",
+          "src": "/appui-images/hotpepper/IMG_2550.webp",
+          "filename": "IMG_2550.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3xbjjt9",
+          "src": "/appui-images/hotpepper/IMG_2551.webp",
+          "filename": "IMG_2551.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bg5hkfq",
+          "src": "/appui-images/hotpepper/IMG_2552.webp",
+          "filename": "IMG_2552.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mcndsoc",
+          "src": "/appui-images/hotpepper/IMG_2553.webp",
+          "filename": "IMG_2553.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z9lp7j9",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "ucxxn4o",
+          "src": "/appui-images/hotpepper/IMG_2536.webp",
+          "filename": "IMG_2536.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w4xsitf",
+          "src": "/appui-images/hotpepper/IMG_2537.webp",
+          "filename": "IMG_2537.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "264yu33",
+          "src": "/appui-images/hotpepper/IMG_2538.webp",
+          "filename": "IMG_2538.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ombaf40",
+          "src": "/appui-images/hotpepper/IMG_2539.webp",
+          "filename": "IMG_2539.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ixiwacv",
+          "src": "/appui-images/hotpepper/IMG_2540.webp",
+          "filename": "IMG_2540.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "y3c9if1",
+          "src": "/appui-images/hotpepper/IMG_2541.webp",
+          "filename": "IMG_2541.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sl151kp",
+          "src": "/appui-images/hotpepper/IMG_2542.webp",
+          "filename": "IMG_2542.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xmozdn6",
+      "title": "ブログ・口コミ",
+      "images": [
+        {
+          "id": "t9u6ojy",
+          "src": "/appui-images/hotpepper/IMG_2554.webp",
+          "filename": "IMG_2554.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w1xa472",
+          "src": "/appui-images/hotpepper/IMG_2555.webp",
+          "filename": "IMG_2555.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lg6z1er",
+          "src": "/appui-images/hotpepper/IMG_2556.webp",
+          "filename": "IMG_2556.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i5oyz9h",
+          "src": "/appui-images/hotpepper/IMG_2557.webp",
+          "filename": "IMG_2557.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1dputlm",
+          "src": "/appui-images/hotpepper/IMG_2558.webp",
+          "filename": "IMG_2558.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l7e028s",
+          "src": "/appui-images/hotpepper/IMG_2559.webp",
+          "filename": "IMG_2559.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ulkiq5x",
+          "src": "/appui-images/hotpepper/IMG_2560.webp",
+          "filename": "IMG_2560.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mql5298",
+          "src": "/appui-images/hotpepper/IMG_2561.webp",
+          "filename": "IMG_2561.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s3gedcq",
+          "src": "/appui-images/hotpepper/IMG_2562.webp",
+          "filename": "IMG_2562.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "hotpepper"
+}

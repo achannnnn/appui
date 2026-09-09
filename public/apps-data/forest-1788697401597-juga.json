@@ -1,0 +1,662 @@
+{
+  "id": "forest-1788697401597-juga",
+  "name": "Forest",
+  "description": "スマホを置いて集中すれば木が育つ。早くやめれば木は枯れる。それがForest ―― 全世界6,000万人が使う集中タイマーです。 136カ国でトップの生産性アプリ。ニューヨーク・タイムズとビジネスインサイダーが推薦。 「Forestはよくで…",
+  "iconUrl": "/appui-images/forest/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/forest-%E9%9B%86%E4%B8%AD-%E5%8B%89%E5%BC%B7%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC/id866450515?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "タイマー"
+  ],
+  "sections": [
+    {
+      "id": "5qnwxmk",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "6xiujsl",
+          "src": "/appui-images/forest/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ef9vmea",
+          "src": "/appui-images/forest/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "hk0fbgw",
+          "src": "/appui-images/forest/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "b1djark",
+          "src": "/appui-images/forest/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "p5kz19j",
+          "src": "/appui-images/forest/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "hvbx286",
+          "src": "/appui-images/forest/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "h2ibahn",
+          "src": "/appui-images/forest/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "2jxy662",
+          "src": "/appui-images/forest/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w1xvdwv",
+      "title": "植林・タイマー",
+      "images": [
+        {
+          "id": "yycewh1",
+          "src": "/appui-images/forest/IMG_3581.webp",
+          "filename": "IMG_3581.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "fmsnvt2",
+          "src": "/appui-images/forest/IMG_3583.webp",
+          "filename": "IMG_3583.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "8a152tl",
+          "src": "/appui-images/forest/IMG_3584.webp",
+          "filename": "IMG_3584.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "yj9km3w",
+          "src": "/appui-images/forest/IMG_3585.webp",
+          "filename": "IMG_3585.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "kol8jaz",
+          "src": "/appui-images/forest/IMG_3588.webp",
+          "filename": "IMG_3588.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "gjxs6s1",
+          "src": "/appui-images/forest/IMG_3590.webp",
+          "filename": "IMG_3590.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "gnitm56",
+          "src": "/appui-images/forest/IMG_3591.webp",
+          "filename": "IMG_3591.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "96hiaux",
+          "src": "/appui-images/forest/IMG_3592.webp",
+          "filename": "IMG_3592.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "kctehhz",
+          "src": "/appui-images/forest/IMG_3593.webp",
+          "filename": "IMG_3593.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9w2vk3z",
+          "src": "/appui-images/forest/IMG_3597.webp",
+          "filename": "IMG_3597.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "i8vwzxy",
+          "src": "/appui-images/forest/IMG_3599.webp",
+          "filename": "IMG_3599.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "79sdj5b",
+          "src": "/appui-images/forest/IMG_3600.webp",
+          "filename": "IMG_3600.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "jc7g41o",
+          "src": "/appui-images/forest/IMG_3601.webp",
+          "filename": "IMG_3601.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "gsm19fi",
+          "src": "/appui-images/forest/IMG_3603.webp",
+          "filename": "IMG_3603.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "2bcbb9s",
+          "src": "/appui-images/forest/IMG_3604.webp",
+          "filename": "IMG_3604.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "j4y3lzl",
+          "src": "/appui-images/forest/IMG_3605.webp",
+          "filename": "IMG_3605.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "gtxtabb",
+          "src": "/appui-images/forest/IMG_3606.webp",
+          "filename": "IMG_3606.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "hp58sdu",
+          "src": "/appui-images/forest/IMG_3607.webp",
+          "filename": "IMG_3607.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "1w35lht",
+          "src": "/appui-images/forest/IMG_3608.webp",
+          "filename": "IMG_3608.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9c4sgtw",
+          "src": "/appui-images/forest/IMG_3609.webp",
+          "filename": "IMG_3609.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "54lrynd",
+          "src": "/appui-images/forest/IMG_3610.webp",
+          "filename": "IMG_3610.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "f42tpcq",
+          "src": "/appui-images/forest/IMG_3611.webp",
+          "filename": "IMG_3611.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "8lvpljv",
+          "src": "/appui-images/forest/IMG_3612.webp",
+          "filename": "IMG_3612.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "vhbrmd5",
+          "src": "/appui-images/forest/IMG_3613.webp",
+          "filename": "IMG_3613.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "x35x9hm",
+          "src": "/appui-images/forest/IMG_3618.webp",
+          "filename": "IMG_3618.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "f74krjb",
+          "src": "/appui-images/forest/IMG_3619.webp",
+          "filename": "IMG_3619.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ydh9l0k",
+          "src": "/appui-images/forest/IMG_3620.webp",
+          "filename": "IMG_3620.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "wjdv48n",
+          "src": "/appui-images/forest/IMG_3621.webp",
+          "filename": "IMG_3621.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "y1br1am",
+          "src": "/appui-images/forest/IMG_3622.webp",
+          "filename": "IMG_3622.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "75a3kao",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "s9dujre",
+          "src": "/appui-images/forest/IMG_3582.webp",
+          "filename": "IMG_3582.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "eds9avt",
+          "src": "/appui-images/forest/IMG_3587.webp",
+          "filename": "IMG_3587.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "bgu4566",
+          "src": "/appui-images/forest/IMG_3594.webp",
+          "filename": "IMG_3594.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "pt1qm2f",
+          "src": "/appui-images/forest/IMG_3595.webp",
+          "filename": "IMG_3595.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "rc705z2",
+          "src": "/appui-images/forest/IMG_3596.webp",
+          "filename": "IMG_3596.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "6n0vrpm",
+          "src": "/appui-images/forest/IMG_3614.webp",
+          "filename": "IMG_3614.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9dygvjv",
+          "src": "/appui-images/forest/IMG_3615.webp",
+          "filename": "IMG_3615.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9l09v4z",
+          "src": "/appui-images/forest/IMG_3616.webp",
+          "filename": "IMG_3616.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "z4gewx2",
+          "src": "/appui-images/forest/IMG_3623.webp",
+          "filename": "IMG_3623.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "0dwq3p1",
+          "src": "/appui-images/forest/IMG_3624.webp",
+          "filename": "IMG_3624.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45oj8uh",
+      "title": "森・コレクション",
+      "images": [
+        {
+          "id": "yi5kpvk",
+          "src": "/appui-images/forest/IMG_3586.webp",
+          "filename": "IMG_3586.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "tklaobv",
+          "src": "/appui-images/forest/IMG_3598.webp",
+          "filename": "IMG_3598.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "lcc8mqf",
+          "src": "/appui-images/forest/IMG_3617.webp",
+          "filename": "IMG_3617.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qmflo4m",
+      "title": "設定",
+      "images": [
+        {
+          "id": "vrvoozz",
+          "src": "/appui-images/forest/IMG_3589.webp",
+          "filename": "IMG_3589.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "forest"
+}

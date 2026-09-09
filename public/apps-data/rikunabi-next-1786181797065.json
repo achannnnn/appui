@@ -1,0 +1,878 @@
+{
+  "id": "rikunabi-next-1786181797065",
+  "name": "リクナビNEXT",
+  "description": "求人情報サイト「リクナビNEXT」の公式アプリ。業界最大級の求人数から条件検索でき、興味のある企業からのスカウトも受け取れる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/7e/ee/c17eee8a-bbf2-efad-9873-ad6a578b0a75/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id562127186",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "ヘッダー",
+    "カード",
+    "プロフィール",
+    "フォーム",
+    "リスト",
+    "検索",
+    "タブ・セグメントコントロール",
+    "モーダル・ボトムシート",
+    "ボトム ナビゲーション",
+    "フィルター",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "f9zxmd4",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "e4exqdy",
+          "src": "/appui-images/rikunabi-next/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fscg27e",
+          "src": "/appui-images/rikunabi-next/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3kwityk",
+          "src": "/appui-images/rikunabi-next/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mtseshs",
+          "src": "/appui-images/rikunabi-next/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "754mk5h",
+          "src": "/appui-images/rikunabi-next/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gg6261c",
+          "src": "/appui-images/rikunabi-next/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1k3po1i",
+          "src": "/appui-images/rikunabi-next/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24qa28d",
+      "title": "ログイン・会員登録",
+      "images": [
+        {
+          "id": "fgfd6x8",
+          "src": "/appui-images/rikunabi-next/IMG_9288.webp",
+          "filename": "IMG_9288.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36blmwm",
+      "title": "レジュメ登録",
+      "images": [
+        {
+          "id": "k2w1eoq",
+          "src": "/appui-images/rikunabi-next/IMG_9289.webp",
+          "filename": "IMG_9289.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "2za38p2",
+          "src": "/appui-images/rikunabi-next/IMG_9290.webp",
+          "filename": "IMG_9290.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "70guw7u",
+          "src": "/appui-images/rikunabi-next/IMG_9291.webp",
+          "filename": "IMG_9291.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "1rurn98",
+          "src": "/appui-images/rikunabi-next/IMG_9292.webp",
+          "filename": "IMG_9292.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "2d5js83",
+          "src": "/appui-images/rikunabi-next/IMG_9293.webp",
+          "filename": "IMG_9293.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "4v5s8ng",
+          "src": "/appui-images/rikunabi-next/IMG_9294.webp",
+          "filename": "IMG_9294.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "6o5il8b",
+          "src": "/appui-images/rikunabi-next/IMG_9295.webp",
+          "filename": "IMG_9295.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "qoro4gc",
+          "src": "/appui-images/rikunabi-next/IMG_9296.webp",
+          "filename": "IMG_9296.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "0g4x7pb",
+          "src": "/appui-images/rikunabi-next/IMG_9297.webp",
+          "filename": "IMG_9297.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "d7n5rit",
+          "src": "/appui-images/rikunabi-next/IMG_9298.webp",
+          "filename": "IMG_9298.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "wpdt511",
+          "src": "/appui-images/rikunabi-next/IMG_9299.webp",
+          "filename": "IMG_9299.webp",
+          "components": [
+            "オンボーディング",
+            "プロフィール",
+            "フォーム",
+            "リスト",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dot2jrn",
+      "title": "オファー・スカウト設定",
+      "images": [
+        {
+          "id": "46shi80",
+          "src": "/appui-images/rikunabi-next/IMG_9300.webp",
+          "filename": "IMG_9300.webp",
+          "components": [
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "7d9yxlq",
+          "src": "/appui-images/rikunabi-next/IMG_9301.webp",
+          "filename": "IMG_9301.webp",
+          "components": [
+            "オンボーディング",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "カード",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kl50i89",
+      "title": "求人検索",
+      "images": [
+        {
+          "id": "gbrwvic",
+          "src": "/appui-images/rikunabi-next/IMG_9302.webp",
+          "filename": "IMG_9302.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "090m36v",
+          "src": "/appui-images/rikunabi-next/IMG_9303.webp",
+          "filename": "IMG_9303.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "jlrggud",
+          "src": "/appui-images/rikunabi-next/IMG_9304.webp",
+          "filename": "IMG_9304.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "9z5wql7",
+          "src": "/appui-images/rikunabi-next/IMG_9315.webp",
+          "filename": "IMG_9315.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "t1fiwqs",
+          "src": "/appui-images/rikunabi-next/IMG_9316.webp",
+          "filename": "IMG_9316.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "xa751rh",
+          "src": "/appui-images/rikunabi-next/IMG_9317.webp",
+          "filename": "IMG_9317.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "xxnpi1m",
+          "src": "/appui-images/rikunabi-next/IMG_9318.webp",
+          "filename": "IMG_9318.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "検索",
+            "フィルター",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ofg4rqw",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "5qju3vy",
+          "src": "/appui-images/rikunabi-next/IMG_9305.webp",
+          "filename": "IMG_9305.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "nc5fz9n",
+          "src": "/appui-images/rikunabi-next/IMG_9319.webp",
+          "filename": "IMG_9319.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "syaoubv",
+          "src": "/appui-images/rikunabi-next/IMG_9320.webp",
+          "filename": "IMG_9320.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "b1h3cg3",
+          "src": "/appui-images/rikunabi-next/IMG_9321.webp",
+          "filename": "IMG_9321.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "hegznxv",
+          "src": "/appui-images/rikunabi-next/IMG_9322.webp",
+          "filename": "IMG_9322.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "mc6xjk6",
+          "src": "/appui-images/rikunabi-next/IMG_9323.webp",
+          "filename": "IMG_9323.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "pqj6g2d",
+          "src": "/appui-images/rikunabi-next/IMG_9324.webp",
+          "filename": "IMG_9324.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j9nx0up",
+      "title": "オファー",
+      "images": [
+        {
+          "id": "2rfgleh",
+          "src": "/appui-images/rikunabi-next/IMG_9306.webp",
+          "filename": "IMG_9306.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5eagib",
+      "title": "気になる",
+      "images": [
+        {
+          "id": "rqytgwf",
+          "src": "/appui-images/rikunabi-next/IMG_9307.webp",
+          "filename": "IMG_9307.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "カード",
+            "ヘッダー",
+            "オンボーディング",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z0rbqm8",
+      "title": "希望条件診断",
+      "images": [
+        {
+          "id": "nqn8czk",
+          "src": "/appui-images/rikunabi-next/IMG_9308.webp",
+          "filename": "IMG_9308.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "gzuzwve",
+          "src": "/appui-images/rikunabi-next/IMG_9309.webp",
+          "filename": "IMG_9309.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "vasnekm",
+          "src": "/appui-images/rikunabi-next/IMG_9310.webp",
+          "filename": "IMG_9310.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ywd7e25",
+          "src": "/appui-images/rikunabi-next/IMG_9311.webp",
+          "filename": "IMG_9311.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "eghcayz",
+          "src": "/appui-images/rikunabi-next/IMG_9312.webp",
+          "filename": "IMG_9312.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "l8dr3n8",
+          "src": "/appui-images/rikunabi-next/IMG_9313.webp",
+          "filename": "IMG_9313.webp",
+          "components": [
+            "オンボーディング",
+            "フォーム",
+            "ヘッダー",
+            "カード",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "337dvso",
+      "title": "履歴",
+      "images": [
+        {
+          "id": "vzr2h0w",
+          "src": "/appui-images/rikunabi-next/IMG_9314.webp",
+          "filename": "IMG_9314.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "lcnl4a3",
+          "src": "/appui-images/rikunabi-next/IMG_9335.webp",
+          "filename": "IMG_9335.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "n12nu3r",
+          "src": "/appui-images/rikunabi-next/IMG_9336.webp",
+          "filename": "IMG_9336.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "en03bx9",
+      "title": "応募",
+      "images": [
+        {
+          "id": "zvevdvj",
+          "src": "/appui-images/rikunabi-next/IMG_9325.webp",
+          "filename": "IMG_9325.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "プロフィール",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "czeuwt1",
+          "src": "/appui-images/rikunabi-next/IMG_9326.webp",
+          "filename": "IMG_9326.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "プロフィール",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "019gb5q",
+          "src": "/appui-images/rikunabi-next/IMG_9327.webp",
+          "filename": "IMG_9327.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "プロフィール",
+            "ボタン",
+            "ヘッダー"
+          ]
+        },
+        {
+          "id": "xyvq3rj",
+          "src": "/appui-images/rikunabi-next/IMG_9328.webp",
+          "filename": "IMG_9328.webp",
+          "components": [
+            "フォーム",
+            "カード",
+            "プロフィール",
+            "ボタン",
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zgg60fe",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "48ms4yd",
+          "src": "/appui-images/rikunabi-next/IMG_9329.webp",
+          "filename": "IMG_9329.webp",
+          "components": [
+            "ヘッダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xuej7vq",
+      "title": "マイページ・設定",
+      "images": [
+        {
+          "id": "l9ka9v7",
+          "src": "/appui-images/rikunabi-next/IMG_9330.webp",
+          "filename": "IMG_9330.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "k9rm1s8",
+          "src": "/appui-images/rikunabi-next/IMG_9331.webp",
+          "filename": "IMG_9331.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フォーム"
+          ]
+        },
+        {
+          "id": "yfkxy94",
+          "src": "/appui-images/rikunabi-next/IMG_9332.webp",
+          "filename": "IMG_9332.webp",
+          "components": [
+            "プロフィール",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "ボタン",
+            "フォーム"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7ifwy3j",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "5yb8vwt",
+          "src": "/appui-images/rikunabi-next/IMG_9333.webp",
+          "filename": "IMG_9333.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ダッシュボード",
+            "検索",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "547xca9",
+          "src": "/appui-images/rikunabi-next/IMG_9334.webp",
+          "filename": "IMG_9334.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ダッシュボード",
+            "検索",
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "リクナビnext"
+}

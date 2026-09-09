@@ -1,0 +1,394 @@
+{
+  "id": "beself-1777786579132",
+  "name": "beSelf - マインドフルネス・性格診断・ジャーナリング",
+  "description": "かんたんメソッドでこころのケアを、もっと手軽に習慣化！",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/5e/b8/cd5eb886-79c9-31be-e5bf-8011c92f15ed/Placeholder.mill/200x200bb-75.webp 200w",
+  "externalUrl": "https://apps.apple.com/jp/app/beself-マインドフルネス-性格診断-ジャーナリング/id6502703642",
+  "categories": [
+    "ヘルスケア"
+  ],
+  "components": [],
+  "sections": [
+    {
+      "id": "3hl55o6",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "74j55br",
+          "src": "/appui-images/beself-1777786579132/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a8lg2au",
+          "src": "/appui-images/beself-1777786579132/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hgh99ra",
+          "src": "/appui-images/beself-1777786579132/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rfk8xwl",
+          "src": "/appui-images/beself-1777786579132/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bjsek0c",
+          "src": "/appui-images/beself-1777786579132/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j2cdnz5",
+          "src": "/appui-images/beself-1777786579132/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4pcievp",
+          "src": "/appui-images/beself-1777786579132/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "f18lqp7",
+          "src": "/appui-images/beself-1777786579132/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gdzq38w",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "jn9zd46",
+          "src": "/appui-images/beself-1777786579132/IMG_7956.webp",
+          "filename": "IMG_7956.webp"
+        },
+        {
+          "id": "8glo3si",
+          "src": "/appui-images/beself-1777786579132/IMG_7957.webp",
+          "filename": "IMG_7957.webp"
+        },
+        {
+          "id": "vxs07tf",
+          "src": "/appui-images/beself-1777786579132/IMG_7958.webp",
+          "filename": "IMG_7958.webp"
+        },
+        {
+          "id": "v7ond8t",
+          "src": "/appui-images/beself-1777786579132/IMG_7970.webp",
+          "filename": "IMG_7970.webp"
+        },
+        {
+          "id": "x48gk0t",
+          "src": "/appui-images/beself-1777786579132/IMG_7968.webp",
+          "filename": "IMG_7968.webp"
+        },
+        {
+          "id": "8mon1w4",
+          "src": "/appui-images/beself-1777786579132/IMG_7977.webp",
+          "filename": "IMG_7977.webp"
+        },
+        {
+          "id": "q7oursb",
+          "src": "/appui-images/beself-1777786579132/IMG_7978.webp",
+          "filename": "IMG_7978.webp"
+        },
+        {
+          "id": "5fder2k",
+          "src": "/appui-images/beself-1777786579132/IMG_7979.webp",
+          "filename": "IMG_7979.webp"
+        },
+        {
+          "id": "y52495x",
+          "src": "/appui-images/beself-1777786579132/IMG_7980.webp",
+          "filename": "IMG_7980.webp"
+        }
+      ]
+    },
+    {
+      "id": "gmqknxs",
+      "title": "計測",
+      "images": [
+        {
+          "id": "n1fp4q7",
+          "src": "/appui-images/beself-1777786579132/IMG_7959.webp",
+          "filename": "IMG_7959.webp"
+        },
+        {
+          "id": "b9raslg",
+          "src": "/appui-images/beself-1777786579132/IMG_7960.webp",
+          "filename": "IMG_7960.webp"
+        },
+        {
+          "id": "zcf5cfk",
+          "src": "/appui-images/beself-1777786579132/IMG_7961.webp",
+          "filename": "IMG_7961.webp"
+        },
+        {
+          "id": "g7l739h",
+          "src": "/appui-images/beself-1777786579132/IMG_7962.webp",
+          "filename": "IMG_7962.webp"
+        },
+        {
+          "id": "k1vey8p",
+          "src": "/appui-images/beself-1777786579132/IMG_7963.webp",
+          "filename": "IMG_7963.webp"
+        },
+        {
+          "id": "yh0tf1a",
+          "src": "/appui-images/beself-1777786579132/IMG_7964.webp",
+          "filename": "IMG_7964.webp"
+        },
+        {
+          "id": "uocqdx8",
+          "src": "/appui-images/beself-1777786579132/IMG_7965.webp",
+          "filename": "IMG_7965.webp"
+        },
+        {
+          "id": "vpo4tl1",
+          "src": "/appui-images/beself-1777786579132/IMG_7966.webp",
+          "filename": "IMG_7966.webp"
+        },
+        {
+          "id": "vajgoe7",
+          "src": "/appui-images/beself-1777786579132/IMG_7967.webp",
+          "filename": "IMG_7967.webp"
+        }
+      ]
+    },
+    {
+      "id": "8860z39",
+      "title": "インサイト",
+      "images": [
+        {
+          "id": "oioj3aw",
+          "src": "/appui-images/beself-1777786579132/IMG_7971.webp",
+          "filename": "IMG_7971.webp"
+        },
+        {
+          "id": "sn5dvnw",
+          "src": "/appui-images/beself-1777786579132/IMG_7972.webp",
+          "filename": "IMG_7972.webp"
+        },
+        {
+          "id": "66sigwu",
+          "src": "/appui-images/beself-1777786579132/IMG_7973.webp",
+          "filename": "IMG_7973.webp"
+        },
+        {
+          "id": "oewzama",
+          "src": "/appui-images/beself-1777786579132/IMG_7974.webp",
+          "filename": "IMG_7974.webp"
+        },
+        {
+          "id": "x8hd45c",
+          "src": "/appui-images/beself-1777786579132/IMG_7975.webp",
+          "filename": "IMG_7975.webp"
+        },
+        {
+          "id": "8ru92m5",
+          "src": "/appui-images/beself-1777786579132/IMG_7976.webp",
+          "filename": "IMG_7976.webp"
+        }
+      ]
+    },
+    {
+      "id": "ugp4grc",
+      "title": "性格",
+      "images": [
+        {
+          "id": "vlu4scp",
+          "src": "/appui-images/beself-1777786579132/IMG_7981.webp",
+          "filename": "IMG_7981.webp"
+        },
+        {
+          "id": "8snwv5i",
+          "src": "/appui-images/beself-1777786579132/IMG_7982.webp",
+          "filename": "IMG_7982.webp"
+        },
+        {
+          "id": "yhb5myp",
+          "src": "/appui-images/beself-1777786579132/IMG_7983.webp",
+          "filename": "IMG_7983.webp"
+        },
+        {
+          "id": "20sbigo",
+          "src": "/appui-images/beself-1777786579132/IMG_7984.webp",
+          "filename": "IMG_7984.webp"
+        }
+      ]
+    },
+    {
+      "id": "ckwggrb",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "qa8w2yv",
+          "src": "/appui-images/beself-1777786579132/IMG_7987.webp",
+          "filename": "IMG_7987.webp"
+        },
+        {
+          "id": "as797xj",
+          "src": "/appui-images/beself-1777786579132/IMG_7988.webp",
+          "filename": "IMG_7988.webp"
+        },
+        {
+          "id": "mc5bpf2",
+          "src": "/appui-images/beself-1777786579132/IMG_7989.webp",
+          "filename": "IMG_7989.webp"
+        }
+      ]
+    },
+    {
+      "id": "vu2m4fj",
+      "title": "設定",
+      "images": [
+        {
+          "id": "spdlmec",
+          "src": "/appui-images/beself-1777786579132/IMG_7990.webp",
+          "filename": "IMG_7990.webp"
+        },
+        {
+          "id": "pcmhxgf",
+          "src": "/appui-images/beself-1777786579132/IMG_7991.webp",
+          "filename": "IMG_7991.webp"
+        },
+        {
+          "id": "exf9o7w",
+          "src": "/appui-images/beself-1777786579132/IMG_7992.webp",
+          "filename": "IMG_7992.webp"
+        },
+        {
+          "id": "xvz8xo1",
+          "src": "/appui-images/beself-1777786579132/IMG_7993.webp",
+          "filename": "IMG_7993.webp"
+        },
+        {
+          "id": "j6bc2rc",
+          "src": "/appui-images/beself-1777786579132/IMG_7994.webp",
+          "filename": "IMG_7994.webp"
+        },
+        {
+          "id": "x21pwcq",
+          "src": "/appui-images/beself-1777786579132/IMG_7995.webp",
+          "filename": "IMG_7995.webp"
+        }
+      ]
+    },
+    {
+      "id": "xx7br1x",
+      "title": "ストレスチェック",
+      "images": [
+        {
+          "id": "juw0tcn",
+          "src": "/appui-images/beself-1777786579132/IMG_7996.webp",
+          "filename": "IMG_7996.webp"
+        },
+        {
+          "id": "q3fhden",
+          "src": "/appui-images/beself-1777786579132/IMG_7997.webp",
+          "filename": "IMG_7997.webp"
+        },
+        {
+          "id": "tjq3293",
+          "src": "/appui-images/beself-1777786579132/IMG_7998.webp",
+          "filename": "IMG_7998.webp"
+        },
+        {
+          "id": "scmpme6",
+          "src": "/appui-images/beself-1777786579132/IMG_7999.webp",
+          "filename": "IMG_7999.webp"
+        },
+        {
+          "id": "y1zx9jq",
+          "src": "/appui-images/beself-1777786579132/IMG_8001.webp",
+          "filename": "IMG_8001.webp"
+        },
+        {
+          "id": "06lvtb6",
+          "src": "/appui-images/beself-1777786579132/IMG_8002.webp",
+          "filename": "IMG_8002.webp"
+        }
+      ]
+    },
+    {
+      "id": "ureq6gh",
+      "title": "記事",
+      "images": [
+        {
+          "id": "i26opfn",
+          "src": "/appui-images/beself-1777786579132/IMG_8003.webp",
+          "filename": "IMG_8003.webp"
+        },
+        {
+          "id": "eqck8qo",
+          "src": "/appui-images/beself-1777786579132/IMG_8004.webp",
+          "filename": "IMG_8004.webp"
+        },
+        {
+          "id": "q7nl4my",
+          "src": "/appui-images/beself-1777786579132/IMG_8005.webp",
+          "filename": "IMG_8005.webp"
+        }
+      ]
+    }
+  ],
+  "slug": "beself-マインドフルネス・性格診断・ジャーナリング"
+}

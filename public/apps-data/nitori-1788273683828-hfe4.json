@@ -1,0 +1,562 @@
+{
+  "id": "nitori-1788273683828-hfe4",
+  "name": "ニトリ",
+  "description": "～ニトリアプリ会員登録者数 累計2,500万人！！！～(※1) 【家具・インテリア雑貨が簡単に見つかる！コーディネートの悩みも解決！引っ越し・新生活はもちろん、ニトリアプリで日々の暮らしをもっと便利に！】 ■お、トクなアプリ新規入会特典！…",
+  "iconUrl": "/appui-images/nitori/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%8B%E3%83%88%E3%83%AA%E3%82%A2%E3%83%97%E3%83%AA-%E5%AE%B6%E5%85%B7-%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%81%AE%E6%AC%B2%E3%81%97%E3%81%84%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%8B/id814928018?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター",
+    "地図"
+  ],
+  "sections": [
+    {
+      "id": "uxtenpp",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "atduf6f",
+          "src": "/appui-images/nitori/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8joxxp7",
+          "src": "/appui-images/nitori/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "asjdnzb",
+          "src": "/appui-images/nitori/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uokcfdi",
+          "src": "/appui-images/nitori/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4ytjx4v",
+          "src": "/appui-images/nitori/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44k2ic1",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "w48xnod",
+          "src": "/appui-images/nitori/IMG_2740.webp",
+          "filename": "IMG_2740.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dauax40",
+          "src": "/appui-images/nitori/IMG_2741.webp",
+          "filename": "IMG_2741.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k5b4bqi",
+          "src": "/appui-images/nitori/IMG_2742.webp",
+          "filename": "IMG_2742.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "oeaec66",
+          "src": "/appui-images/nitori/IMG_2749.webp",
+          "filename": "IMG_2749.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4hyky6y",
+      "title": "商品詳細",
+      "images": [
+        {
+          "id": "jgfmo67",
+          "src": "/appui-images/nitori/IMG_2743.webp",
+          "filename": "IMG_2743.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3fthywd",
+          "src": "/appui-images/nitori/IMG_2744.webp",
+          "filename": "IMG_2744.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5hjw2y2",
+          "src": "/appui-images/nitori/IMG_2745.webp",
+          "filename": "IMG_2745.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4epb1t0",
+          "src": "/appui-images/nitori/IMG_2746.webp",
+          "filename": "IMG_2746.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2khxopi",
+          "src": "/appui-images/nitori/IMG_2750.webp",
+          "filename": "IMG_2750.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zlz4978",
+          "src": "/appui-images/nitori/IMG_2751.webp",
+          "filename": "IMG_2751.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yv9ws4z",
+          "src": "/appui-images/nitori/IMG_2752.webp",
+          "filename": "IMG_2752.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1hvnjla",
+          "src": "/appui-images/nitori/IMG_2753.webp",
+          "filename": "IMG_2753.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "21vydy2",
+          "src": "/appui-images/nitori/IMG_2754.webp",
+          "filename": "IMG_2754.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oyk1upv",
+      "title": "会員登録",
+      "images": [
+        {
+          "id": "cky65y0",
+          "src": "/appui-images/nitori/IMG_2747.webp",
+          "filename": "IMG_2747.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a4u1o8u",
+          "src": "/appui-images/nitori/IMG_2748.webp",
+          "filename": "IMG_2748.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7f45lyw",
+          "src": "/appui-images/nitori/IMG_2774.webp",
+          "filename": "IMG_2774.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d0anabn",
+          "src": "/appui-images/nitori/IMG_2775.webp",
+          "filename": "IMG_2775.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d469ie6",
+      "title": "カテゴリ",
+      "images": [
+        {
+          "id": "t6wwxdv",
+          "src": "/appui-images/nitori/IMG_2756.webp",
+          "filename": "IMG_2756.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "w4x29cs",
+          "src": "/appui-images/nitori/IMG_2757.webp",
+          "filename": "IMG_2757.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "c6vhs8i",
+          "src": "/appui-images/nitori/IMG_2758.webp",
+          "filename": "IMG_2758.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2x376av",
+          "src": "/appui-images/nitori/IMG_2759.webp",
+          "filename": "IMG_2759.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0u1i7es",
+          "src": "/appui-images/nitori/IMG_2760.webp",
+          "filename": "IMG_2760.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zs62yat",
+          "src": "/appui-images/nitori/IMG_2761.webp",
+          "filename": "IMG_2761.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "19b7d3k",
+          "src": "/appui-images/nitori/IMG_2762.webp",
+          "filename": "IMG_2762.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0zb7tz4",
+          "src": "/appui-images/nitori/IMG_2763.webp",
+          "filename": "IMG_2763.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rtpr39t",
+      "title": "比較",
+      "images": [
+        {
+          "id": "kk0lygu",
+          "src": "/appui-images/nitori/IMG_2764.webp",
+          "filename": "IMG_2764.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0rqm1qv",
+          "src": "/appui-images/nitori/IMG_2765.webp",
+          "filename": "IMG_2765.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b27ogzo",
+          "src": "/appui-images/nitori/IMG_2766.webp",
+          "filename": "IMG_2766.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wqdonil",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "5pujvc2",
+          "src": "/appui-images/nitori/IMG_2755.webp",
+          "filename": "IMG_2755.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gf3fkkv",
+      "title": "在庫・店舗",
+      "images": [
+        {
+          "id": "9g232lk",
+          "src": "/appui-images/nitori/IMG_2767.webp",
+          "filename": "IMG_2767.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b0r6od2",
+          "src": "/appui-images/nitori/IMG_2768.webp",
+          "filename": "IMG_2768.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cm8o2az",
+          "src": "/appui-images/nitori/IMG_2769.webp",
+          "filename": "IMG_2769.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ha5smyd",
+          "src": "/appui-images/nitori/IMG_2770.webp",
+          "filename": "IMG_2770.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "01kbszg",
+          "src": "/appui-images/nitori/IMG_2771.webp",
+          "filename": "IMG_2771.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "shlip0m",
+          "src": "/appui-images/nitori/IMG_2772.webp",
+          "filename": "IMG_2772.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s95jk73",
+          "src": "/appui-images/nitori/IMG_2773.webp",
+          "filename": "IMG_2773.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "nitori"
+}

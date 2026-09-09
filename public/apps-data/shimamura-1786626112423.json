@@ -1,0 +1,702 @@
+{
+  "id": "shimamura-1786626112423",
+  "name": "しまむらパーク",
+  "description": "しまむら公式アプリ。チラシ・クーポンと店舗情報がまとめて見られる。",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/7b/57/417b5762-7da0-9781-b23e-6f45dbc5ab76/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "externalUrl": "https://apps.apple.com/jp/app/id732775964",
+  "categories": [
+    "ショッピング"
+  ],
+  "components": [
+    "ボトム ナビゲーション",
+    "タブ・セグメントコントロール",
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "モーダル・ボトムシート",
+    "ボタン",
+    "フォーム",
+    "オンボーディング",
+    "プロフィール",
+    "検索",
+    "フィルター",
+    "ダッシュボード"
+  ],
+  "sections": [
+    {
+      "id": "qfkvmtc",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "4hrb6qe",
+          "src": "/appui-images/shimamura/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zreux24",
+          "src": "/appui-images/shimamura/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "msenny8",
+          "src": "/appui-images/shimamura/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0snoyl1",
+          "src": "/appui-images/shimamura/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vbtrsgi",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "c2y4o69",
+          "src": "/appui-images/shimamura/IMG_0960.webp",
+          "filename": "IMG_0960.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "bbgypj8",
+          "src": "/appui-images/shimamura/IMG_0961.webp",
+          "filename": "IMG_0961.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "kzn4r9p",
+          "src": "/appui-images/shimamura/IMG_0962.webp",
+          "filename": "IMG_0962.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "yb300q0",
+          "src": "/appui-images/shimamura/IMG_0963.webp",
+          "filename": "IMG_0963.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "dwjlv3w",
+          "src": "/appui-images/shimamura/IMG_0964.webp",
+          "filename": "IMG_0964.webp",
+          "components": [
+            "オンボーディング",
+            "カード",
+            "ボタン",
+            "ヘッダー",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44c7pm7",
+      "title": "起動・ログイン",
+      "images": [
+        {
+          "id": "6vwhbxx",
+          "src": "/appui-images/shimamura/IMG_0965.webp",
+          "filename": "IMG_0965.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "8oevlwv",
+          "src": "/appui-images/shimamura/IMG_0966.webp",
+          "filename": "IMG_0966.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        },
+        {
+          "id": "jzr3myw",
+          "src": "/appui-images/shimamura/IMG_0967.webp",
+          "filename": "IMG_0967.webp",
+          "components": [
+            "オンボーディング",
+            "ヘッダー",
+            "フォーム",
+            "ボタン",
+            "モーダル・ボトムシート"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ki8fs1f",
+      "title": "新規会員登録",
+      "images": [
+        {
+          "id": "ovgbeqa",
+          "src": "/appui-images/shimamura/IMG_0968.webp",
+          "filename": "IMG_0968.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "p7howsf",
+          "src": "/appui-images/shimamura/IMG_0969.webp",
+          "filename": "IMG_0969.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "1h1b0em",
+          "src": "/appui-images/shimamura/IMG_0970.webp",
+          "filename": "IMG_0970.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "og9556x",
+          "src": "/appui-images/shimamura/IMG_0971.webp",
+          "filename": "IMG_0971.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "4mjyzfl",
+          "src": "/appui-images/shimamura/IMG_0972.webp",
+          "filename": "IMG_0972.webp",
+          "components": [
+            "ヘッダー",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y2npun8",
+      "title": "会員証",
+      "images": [
+        {
+          "id": "20p2onn",
+          "src": "/appui-images/shimamura/IMG_0974.webp",
+          "filename": "IMG_0974.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "w4z80fe",
+          "src": "/appui-images/shimamura/IMG_0975.webp",
+          "filename": "IMG_0975.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ip7dlet",
+      "title": "ポイント",
+      "images": [
+        {
+          "id": "ubb0kz0",
+          "src": "/appui-images/shimamura/IMG_0976.webp",
+          "filename": "IMG_0976.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "my9h040",
+      "title": "クーポン",
+      "images": [
+        {
+          "id": "0d8tar6",
+          "src": "/appui-images/shimamura/IMG_0977.webp",
+          "filename": "IMG_0977.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "hzktr1q",
+          "src": "/appui-images/shimamura/IMG_0978.webp",
+          "filename": "IMG_0978.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "ujlbt4n",
+          "src": "/appui-images/shimamura/IMG_0979.webp",
+          "filename": "IMG_0979.webp",
+          "components": [
+            "ヘッダー",
+            "タブ・セグメントコントロール",
+            "フィルター",
+            "ボタン",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbmy2jw",
+      "title": "会員特典",
+      "images": [
+        {
+          "id": "5ekzpap",
+          "src": "/appui-images/shimamura/IMG_0980.webp",
+          "filename": "IMG_0980.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "フィルター",
+            "リスト",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "f1rh00g",
+          "src": "/appui-images/shimamura/IMG_0981.webp",
+          "filename": "IMG_0981.webp",
+          "components": [
+            "ヘッダー",
+            "カード",
+            "フィルター",
+            "リスト",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "507ai7d",
+      "title": "マイページ・設定",
+      "images": [
+        {
+          "id": "ik3r9c4",
+          "src": "/appui-images/shimamura/IMG_0982.webp",
+          "filename": "IMG_0982.webp",
+          "components": [
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "r69pjx4",
+          "src": "/appui-images/shimamura/IMG_0983.webp",
+          "filename": "IMG_0983.webp",
+          "components": [
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        },
+        {
+          "id": "hkx8dg2",
+          "src": "/appui-images/shimamura/IMG_0984.webp",
+          "filename": "IMG_0984.webp",
+          "components": [
+            "ヘッダー",
+            "プロフィール",
+            "リスト",
+            "フォーム",
+            "ボタン",
+            "検索",
+            "タブ・セグメントコントロール"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qrlce7r",
+      "title": "お知らせ",
+      "images": [
+        {
+          "id": "rw2cf3j",
+          "src": "/appui-images/shimamura/IMG_0985.webp",
+          "filename": "IMG_0985.webp",
+          "components": [
+            "ヘッダー",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5rq70k4",
+      "title": "探す",
+      "images": [
+        {
+          "id": "4k0zjpe",
+          "src": "/appui-images/shimamura/IMG_0986.webp",
+          "filename": "IMG_0986.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "lg1ynta",
+          "src": "/appui-images/shimamura/IMG_0987.webp",
+          "filename": "IMG_0987.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "tra2mxe",
+          "src": "/appui-images/shimamura/IMG_0988.webp",
+          "filename": "IMG_0988.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "heatb9s",
+          "src": "/appui-images/shimamura/IMG_0989.webp",
+          "filename": "IMG_0989.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "ep7kn6v",
+          "src": "/appui-images/shimamura/IMG_0990.webp",
+          "filename": "IMG_0990.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "フォーム",
+            "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w6nvwuv",
+      "title": "カテゴリ・商品一覧",
+      "images": [
+        {
+          "id": "zgranyq",
+          "src": "/appui-images/shimamura/IMG_0991.webp",
+          "filename": "IMG_0991.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "afd99cj",
+          "src": "/appui-images/shimamura/IMG_0992.webp",
+          "filename": "IMG_0992.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xnm4b9e",
+          "src": "/appui-images/shimamura/IMG_0993.webp",
+          "filename": "IMG_0993.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eogt3e1",
+          "src": "/appui-images/shimamura/IMG_0994.webp",
+          "filename": "IMG_0994.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "リスト",
+            "カード",
+            "フィルター",
+            "モーダル・ボトムシート",
+            "フォーム",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ipsnjp1",
+      "title": "商品詳細・店舗在庫",
+      "images": [
+        {
+          "id": "qexs9ck",
+          "src": "/appui-images/shimamura/IMG_0995.webp",
+          "filename": "IMG_0995.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "71ihhox",
+          "src": "/appui-images/shimamura/IMG_0996.webp",
+          "filename": "IMG_0996.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "9lrdeja",
+          "src": "/appui-images/shimamura/IMG_0997.webp",
+          "filename": "IMG_0997.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "リスト"
+          ]
+        },
+        {
+          "id": "b2q185p",
+          "src": "/appui-images/shimamura/IMG_0998.webp",
+          "filename": "IMG_0998.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "カード",
+            "フォーム",
+            "ボタン",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22yomkc",
+      "title": "オンラインストア",
+      "images": [
+        {
+          "id": "gtrssts",
+          "src": "/appui-images/shimamura/IMG_0999.webp",
+          "filename": "IMG_0999.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "fqcx2le",
+          "src": "/appui-images/shimamura/IMG_1001.webp",
+          "filename": "IMG_1001.webp",
+          "components": [
+            "ボトム ナビゲーション",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ccj1jct",
+      "title": "サイドメニュー・お問い合わせ",
+      "images": [
+        {
+          "id": "4nx56fc",
+          "src": "/appui-images/shimamura/IMG_1002.webp",
+          "filename": "IMG_1002.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        },
+        {
+          "id": "0zwgmq4",
+          "src": "/appui-images/shimamura/IMG_1003.webp",
+          "filename": "IMG_1003.webp",
+          "components": [
+            "リスト",
+            "ヘッダー",
+            "検索",
+            "タブ・セグメントコントロール",
+            "モーダル・ボトムシート",
+            "ボタン"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "しまむらパーク"
+}

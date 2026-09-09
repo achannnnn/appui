@@ -1,0 +1,1227 @@
+{
+  "id": "mynavi-2028-1788875197580-otvm",
+  "name": "マイナビ2028",
+  "description": "／ マイナビは「就職情報サイト利用度No.1」の就活準備アプリ ＼ ※「就職情報サイトに関する調査結果より／調査委託先：株式会社Skyfall（2026年2月) 豊富なインターンシップ＆キャリアの情報はもちろん、自己分析ツール・適性検査・W…",
+  "iconUrl": "/appui-images/mynavi-2028/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%932028-%E5%B0%B1%E6%B4%BB-%E5%B0%B1%E8%81%B7%E6%83%85%E5%A0%B1-%E6%96%B0%E5%8D%92-28%E5%B9%B4%E5%8D%92%E5%90%91%E3%81%91/id6756093148?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "2vterax",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "p9ai5i9",
+          "src": "/appui-images/mynavi-2028/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jkite74",
+          "src": "/appui-images/mynavi-2028/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3vy7ja8",
+          "src": "/appui-images/mynavi-2028/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kpzqbf2",
+          "src": "/appui-images/mynavi-2028/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hgcbp4k",
+          "src": "/appui-images/mynavi-2028/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zy21n4f",
+          "src": "/appui-images/mynavi-2028/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8wech6s",
+          "src": "/appui-images/mynavi-2028/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9pk1f3i",
+          "src": "/appui-images/mynavi-2028/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uicfyww",
+          "src": "/appui-images/mynavi-2028/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zf2wh0h",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "grpozi9",
+          "src": "/appui-images/mynavi-2028/IMG_4874.webp",
+          "filename": "IMG_4874.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6l52hmf",
+          "src": "/appui-images/mynavi-2028/IMG_4875.webp",
+          "filename": "IMG_4875.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "r6fjpa0",
+          "src": "/appui-images/mynavi-2028/IMG_4876.webp",
+          "filename": "IMG_4876.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fagvkxu",
+          "src": "/appui-images/mynavi-2028/IMG_4877.webp",
+          "filename": "IMG_4877.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "etdhtav",
+          "src": "/appui-images/mynavi-2028/IMG_4911.webp",
+          "filename": "IMG_4911.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t31ycht",
+          "src": "/appui-images/mynavi-2028/IMG_4912.webp",
+          "filename": "IMG_4912.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x018c7i",
+          "src": "/appui-images/mynavi-2028/IMG_4934.webp",
+          "filename": "IMG_4934.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5m9299",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "0j4jvy8",
+          "src": "/appui-images/mynavi-2028/IMG_4878.webp",
+          "filename": "IMG_4878.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rcsqdzi",
+          "src": "/appui-images/mynavi-2028/IMG_4892.webp",
+          "filename": "IMG_4892.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3l77s3o",
+          "src": "/appui-images/mynavi-2028/IMG_4893.webp",
+          "filename": "IMG_4893.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zu7shix",
+          "src": "/appui-images/mynavi-2028/IMG_4894.webp",
+          "filename": "IMG_4894.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jg6y20m",
+          "src": "/appui-images/mynavi-2028/IMG_4895.webp",
+          "filename": "IMG_4895.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ctcowqn",
+          "src": "/appui-images/mynavi-2028/IMG_4896.webp",
+          "filename": "IMG_4896.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hmwo7eq",
+          "src": "/appui-images/mynavi-2028/IMG_4897.webp",
+          "filename": "IMG_4897.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e9jdzb9",
+          "src": "/appui-images/mynavi-2028/IMG_4898.webp",
+          "filename": "IMG_4898.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2irn1qr",
+          "src": "/appui-images/mynavi-2028/IMG_4899.webp",
+          "filename": "IMG_4899.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o790ffp",
+          "src": "/appui-images/mynavi-2028/IMG_4900.webp",
+          "filename": "IMG_4900.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7as2y6p",
+          "src": "/appui-images/mynavi-2028/IMG_4901.webp",
+          "filename": "IMG_4901.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kf7h1y3",
+          "src": "/appui-images/mynavi-2028/IMG_4902.webp",
+          "filename": "IMG_4902.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mijtv0l",
+          "src": "/appui-images/mynavi-2028/IMG_4903.webp",
+          "filename": "IMG_4903.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3mpgapv",
+          "src": "/appui-images/mynavi-2028/IMG_4904.webp",
+          "filename": "IMG_4904.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fvsen0p",
+          "src": "/appui-images/mynavi-2028/IMG_4905.webp",
+          "filename": "IMG_4905.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zw4t8ri",
+          "src": "/appui-images/mynavi-2028/IMG_4906.webp",
+          "filename": "IMG_4906.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gaz3a9l",
+          "src": "/appui-images/mynavi-2028/IMG_4913.webp",
+          "filename": "IMG_4913.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "prq4g1t",
+          "src": "/appui-images/mynavi-2028/IMG_4914.webp",
+          "filename": "IMG_4914.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kc38da4",
+          "src": "/appui-images/mynavi-2028/IMG_4915.webp",
+          "filename": "IMG_4915.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a2htoqp",
+          "src": "/appui-images/mynavi-2028/IMG_4916.webp",
+          "filename": "IMG_4916.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vfbuung",
+          "src": "/appui-images/mynavi-2028/IMG_4917.webp",
+          "filename": "IMG_4917.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "09nnbbx",
+          "src": "/appui-images/mynavi-2028/IMG_4930.webp",
+          "filename": "IMG_4930.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2vtoc69",
+          "src": "/appui-images/mynavi-2028/IMG_4933.webp",
+          "filename": "IMG_4933.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "x2nb4p9",
+          "src": "/appui-images/mynavi-2028/IMG_4941.webp",
+          "filename": "IMG_4941.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m9plbh6",
+          "src": "/appui-images/mynavi-2028/IMG_4942.webp",
+          "filename": "IMG_4942.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nx2hjgb",
+          "src": "/appui-images/mynavi-2028/IMG_4944.webp",
+          "filename": "IMG_4944.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "notsa1l",
+          "src": "/appui-images/mynavi-2028/IMG_4945.webp",
+          "filename": "IMG_4945.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6cpxawk",
+          "src": "/appui-images/mynavi-2028/IMG_4946.webp",
+          "filename": "IMG_4946.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "diryw5f",
+          "src": "/appui-images/mynavi-2028/IMG_4947.webp",
+          "filename": "IMG_4947.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "67ag9d1",
+          "src": "/appui-images/mynavi-2028/IMG_4950.webp",
+          "filename": "IMG_4950.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fzwo3t0",
+          "src": "/appui-images/mynavi-2028/IMG_4951.webp",
+          "filename": "IMG_4951.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gc7efcv",
+          "src": "/appui-images/mynavi-2028/IMG_4953.webp",
+          "filename": "IMG_4953.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "klbdi0f",
+          "src": "/appui-images/mynavi-2028/IMG_4955.webp",
+          "filename": "IMG_4955.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mb5ktpi",
+          "src": "/appui-images/mynavi-2028/IMG_4958.webp",
+          "filename": "IMG_4958.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ue7a1nh",
+          "src": "/appui-images/mynavi-2028/IMG_4959.webp",
+          "filename": "IMG_4959.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gcv49ro",
+          "src": "/appui-images/mynavi-2028/IMG_4960.webp",
+          "filename": "IMG_4960.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wldpbzi",
+      "title": "登録・プロフィール",
+      "images": [
+        {
+          "id": "o15zg2o",
+          "src": "/appui-images/mynavi-2028/IMG_4879.webp",
+          "filename": "IMG_4879.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qn380rm",
+          "src": "/appui-images/mynavi-2028/IMG_4880.webp",
+          "filename": "IMG_4880.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hpl8wu5",
+          "src": "/appui-images/mynavi-2028/IMG_4881.webp",
+          "filename": "IMG_4881.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hem5dyn",
+          "src": "/appui-images/mynavi-2028/IMG_4882.webp",
+          "filename": "IMG_4882.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nrxevbj",
+          "src": "/appui-images/mynavi-2028/IMG_4883.webp",
+          "filename": "IMG_4883.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2x5txra",
+          "src": "/appui-images/mynavi-2028/IMG_4884.webp",
+          "filename": "IMG_4884.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "it8h7sq",
+          "src": "/appui-images/mynavi-2028/IMG_4885.webp",
+          "filename": "IMG_4885.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d2i3f29",
+          "src": "/appui-images/mynavi-2028/IMG_4886.webp",
+          "filename": "IMG_4886.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q7y7xky",
+          "src": "/appui-images/mynavi-2028/IMG_4887.webp",
+          "filename": "IMG_4887.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nbqe8mj",
+          "src": "/appui-images/mynavi-2028/IMG_4889.webp",
+          "filename": "IMG_4889.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kv4jrxc",
+          "src": "/appui-images/mynavi-2028/IMG_4890.webp",
+          "filename": "IMG_4890.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "taacd5x",
+          "src": "/appui-images/mynavi-2028/IMG_4891.webp",
+          "filename": "IMG_4891.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j64b6au",
+          "src": "/appui-images/mynavi-2028/IMG_4929.webp",
+          "filename": "IMG_4929.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qq0sps0",
+          "src": "/appui-images/mynavi-2028/IMG_4935.webp",
+          "filename": "IMG_4935.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ic5g7an",
+          "src": "/appui-images/mynavi-2028/IMG_4936.webp",
+          "filename": "IMG_4936.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u8f4iq0",
+          "src": "/appui-images/mynavi-2028/IMG_4938.webp",
+          "filename": "IMG_4938.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7sunmk9",
+          "src": "/appui-images/mynavi-2028/IMG_4939.webp",
+          "filename": "IMG_4939.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "512e6ni",
+          "src": "/appui-images/mynavi-2028/IMG_4940.webp",
+          "filename": "IMG_4940.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3fb2sr2",
+          "src": "/appui-images/mynavi-2028/IMG_4943.webp",
+          "filename": "IMG_4943.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nyorjd0",
+          "src": "/appui-images/mynavi-2028/IMG_4948.webp",
+          "filename": "IMG_4948.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tprn1d3",
+          "src": "/appui-images/mynavi-2028/IMG_4949.webp",
+          "filename": "IMG_4949.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bosuco6",
+          "src": "/appui-images/mynavi-2028/IMG_4952.webp",
+          "filename": "IMG_4952.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7d669jq",
+          "src": "/appui-images/mynavi-2028/IMG_4954.webp",
+          "filename": "IMG_4954.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1984pn7",
+      "title": "イベント・メッセージ",
+      "images": [
+        {
+          "id": "tjzh6uu",
+          "src": "/appui-images/mynavi-2028/IMG_4907.webp",
+          "filename": "IMG_4907.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "x7i4sn7",
+      "title": "企業検索・一覧",
+      "images": [
+        {
+          "id": "3pfc7pj",
+          "src": "/appui-images/mynavi-2028/IMG_4908.webp",
+          "filename": "IMG_4908.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hxsxjz7",
+          "src": "/appui-images/mynavi-2028/IMG_4909.webp",
+          "filename": "IMG_4909.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sws9zys",
+          "src": "/appui-images/mynavi-2028/IMG_4910.webp",
+          "filename": "IMG_4910.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7ulk1jf",
+          "src": "/appui-images/mynavi-2028/IMG_4918.webp",
+          "filename": "IMG_4918.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6ogc3mq",
+          "src": "/appui-images/mynavi-2028/IMG_4919.webp",
+          "filename": "IMG_4919.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vnpryj7",
+          "src": "/appui-images/mynavi-2028/IMG_4920.webp",
+          "filename": "IMG_4920.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bqrluan",
+          "src": "/appui-images/mynavi-2028/IMG_4921.webp",
+          "filename": "IMG_4921.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hxxkdk5",
+          "src": "/appui-images/mynavi-2028/IMG_4922.webp",
+          "filename": "IMG_4922.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0hcvycx",
+          "src": "/appui-images/mynavi-2028/IMG_4923.webp",
+          "filename": "IMG_4923.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bwrqpfg",
+          "src": "/appui-images/mynavi-2028/IMG_4924.webp",
+          "filename": "IMG_4924.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rt6hpe7",
+          "src": "/appui-images/mynavi-2028/IMG_4931.webp",
+          "filename": "IMG_4931.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ccywhrx",
+          "src": "/appui-images/mynavi-2028/IMG_4932.webp",
+          "filename": "IMG_4932.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vswvmux",
+          "src": "/appui-images/mynavi-2028/IMG_4937.webp",
+          "filename": "IMG_4937.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "khuc3a6",
+          "src": "/appui-images/mynavi-2028/IMG_4956.webp",
+          "filename": "IMG_4956.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qgohtkn",
+          "src": "/appui-images/mynavi-2028/IMG_4957.webp",
+          "filename": "IMG_4957.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zr6hq05",
+          "src": "/appui-images/mynavi-2028/IMG_4961.webp",
+          "filename": "IMG_4961.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gb70m3m",
+          "src": "/appui-images/mynavi-2028/IMG_4962.webp",
+          "filename": "IMG_4962.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s9ufzhq",
+      "title": "企業詳細",
+      "images": [
+        {
+          "id": "23vknc7",
+          "src": "/appui-images/mynavi-2028/IMG_4925.webp",
+          "filename": "IMG_4925.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sxbj5ag",
+          "src": "/appui-images/mynavi-2028/IMG_4926.webp",
+          "filename": "IMG_4926.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ektwr7f",
+          "src": "/appui-images/mynavi-2028/IMG_4927.webp",
+          "filename": "IMG_4927.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4t85fge",
+          "src": "/appui-images/mynavi-2028/IMG_4928.webp",
+          "filename": "IMG_4928.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "mynavi-2028"
+}

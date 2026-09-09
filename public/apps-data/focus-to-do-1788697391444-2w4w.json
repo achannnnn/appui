@@ -1,0 +1,597 @@
+{
+  "id": "focus-to-do-1788697391444-2w4w",
+  "name": "Focus To-Do",
+  "description": "Focus To-Doは、ポモドーロタイマーとタスク管理を組み合わせたアプリです。ポモドーロタイマーは集中力持続に関する科学的根拠に基づいており、集中力を効率よく維持してタスクを行うことができます。 Focus To-Doは、ポモドーロテク…",
+  "iconUrl": "/appui-images/focus-to-do/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/focus-to-do-%E3%83%9D%E3%83%A2%E3%83%89%E3%83%BC%E3%83%AD%E6%8A%80%E8%A1%93-%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86/id966057213?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "タイマー",
+    "チェック"
+  ],
+  "sections": [
+    {
+      "id": "bd85xgj",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "6a4a0t1",
+          "src": "/appui-images/focus-to-do/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "uik6rq4",
+          "src": "/appui-images/focus-to-do/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "b59ger6",
+          "src": "/appui-images/focus-to-do/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "v0jxjtm",
+          "src": "/appui-images/focus-to-do/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "k6thrm8",
+          "src": "/appui-images/focus-to-do/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "6vx0gzs",
+          "src": "/appui-images/focus-to-do/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "98jpdx4",
+          "src": "/appui-images/focus-to-do/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "bsm6uxg",
+          "src": "/appui-images/focus-to-do/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "bedo2q1",
+          "src": "/appui-images/focus-to-do/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "9u1d3j2",
+          "src": "/appui-images/focus-to-do/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lx942qj",
+      "title": "タスク",
+      "images": [
+        {
+          "id": "afyy54j",
+          "src": "/appui-images/focus-to-do/IMG_3543.webp",
+          "filename": "IMG_3543.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "5m561xt",
+          "src": "/appui-images/focus-to-do/IMG_3544.webp",
+          "filename": "IMG_3544.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "aj5zj6q",
+          "src": "/appui-images/focus-to-do/IMG_3545.webp",
+          "filename": "IMG_3545.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ghyaxc3",
+          "src": "/appui-images/focus-to-do/IMG_3546.webp",
+          "filename": "IMG_3546.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "axw3xxo",
+          "src": "/appui-images/focus-to-do/IMG_3547.webp",
+          "filename": "IMG_3547.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "8hdd178",
+          "src": "/appui-images/focus-to-do/IMG_3548.webp",
+          "filename": "IMG_3548.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "pr4axhf",
+          "src": "/appui-images/focus-to-do/IMG_3549.webp",
+          "filename": "IMG_3549.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "r79ne0g",
+          "src": "/appui-images/focus-to-do/IMG_3550.webp",
+          "filename": "IMG_3550.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "jz43owb",
+          "src": "/appui-images/focus-to-do/IMG_3551.webp",
+          "filename": "IMG_3551.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "3vp1rds",
+          "src": "/appui-images/focus-to-do/IMG_3554.webp",
+          "filename": "IMG_3554.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ieisl9w",
+          "src": "/appui-images/focus-to-do/IMG_3555.webp",
+          "filename": "IMG_3555.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "4dtymhl",
+          "src": "/appui-images/focus-to-do/IMG_3556.webp",
+          "filename": "IMG_3556.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "tcgzf2n",
+          "src": "/appui-images/focus-to-do/IMG_3557.webp",
+          "filename": "IMG_3557.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "y7zfxho",
+          "src": "/appui-images/focus-to-do/IMG_3558.webp",
+          "filename": "IMG_3558.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ujh8r1t",
+          "src": "/appui-images/focus-to-do/IMG_3559.webp",
+          "filename": "IMG_3559.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "w2qy2gw",
+          "src": "/appui-images/focus-to-do/IMG_3560.webp",
+          "filename": "IMG_3560.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "bt2e6pl",
+          "src": "/appui-images/focus-to-do/IMG_3561.webp",
+          "filename": "IMG_3561.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "o05dwy7",
+          "src": "/appui-images/focus-to-do/IMG_3562.webp",
+          "filename": "IMG_3562.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "l6g07qw",
+          "src": "/appui-images/focus-to-do/IMG_3563.webp",
+          "filename": "IMG_3563.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "qp0m6yt",
+          "src": "/appui-images/focus-to-do/IMG_3564.webp",
+          "filename": "IMG_3564.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "4kalgao",
+          "src": "/appui-images/focus-to-do/IMG_3565.webp",
+          "filename": "IMG_3565.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "ccq1ltm",
+          "src": "/appui-images/focus-to-do/IMG_3566.webp",
+          "filename": "IMG_3566.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "qcavyaf",
+          "src": "/appui-images/focus-to-do/IMG_3567.webp",
+          "filename": "IMG_3567.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "sotiiko",
+          "src": "/appui-images/focus-to-do/IMG_3568.webp",
+          "filename": "IMG_3568.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "m1tpipd",
+          "src": "/appui-images/focus-to-do/IMG_3569.webp",
+          "filename": "IMG_3569.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "v9ocyub",
+          "src": "/appui-images/focus-to-do/IMG_3570.webp",
+          "filename": "IMG_3570.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "2qou3qg",
+          "src": "/appui-images/focus-to-do/IMG_3573.webp",
+          "filename": "IMG_3573.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "d5y86fb",
+          "src": "/appui-images/focus-to-do/IMG_3576.webp",
+          "filename": "IMG_3576.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "4a7f8bv",
+          "src": "/appui-images/focus-to-do/IMG_3577.webp",
+          "filename": "IMG_3577.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "av5n0bm",
+          "src": "/appui-images/focus-to-do/IMG_3578.webp",
+          "filename": "IMG_3578.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zry1pz0",
+      "title": "ポモドーロ",
+      "images": [
+        {
+          "id": "z9phuln",
+          "src": "/appui-images/focus-to-do/IMG_3552.webp",
+          "filename": "IMG_3552.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "3bk9uwj",
+          "src": "/appui-images/focus-to-do/IMG_3553.webp",
+          "filename": "IMG_3553.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "p01tz2r",
+          "src": "/appui-images/focus-to-do/IMG_3571.webp",
+          "filename": "IMG_3571.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "utpltzs",
+          "src": "/appui-images/focus-to-do/IMG_3572.webp",
+          "filename": "IMG_3572.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        },
+        {
+          "id": "z3z8lf6",
+          "src": "/appui-images/focus-to-do/IMG_3574.webp",
+          "filename": "IMG_3574.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ncfrqqf",
+      "title": "設定",
+      "images": [
+        {
+          "id": "c2v64w0",
+          "src": "/appui-images/focus-to-do/IMG_3575.webp",
+          "filename": "IMG_3575.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タイマー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "focus-to-do"
+}
