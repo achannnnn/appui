@@ -28,12 +28,16 @@ export function PrivacyPage() {
             掲載スクリーンショットに個人情報が写り込まないようマスクしていますが、問題を発見した場合は運営までご連絡ください。
           </p>
           <p>
-            問い合わせ: GitHub リポジトリ（appui）の Issues をご利用ください。
+            問い合わせ・掲載の追加／削除依頼は
+            <Link to="/request" className="mx-1 underline underline-offset-2 hover:opacity-70">
+              掲載の依頼
+            </Link>
+            フォームから送れます。
           </p>
         </section>
         <footer className="flex gap-4 text-[13px] text-[#595959]">
-          <Link to="/about" className="underline underline-offset-2 hover:text-[#333]">
-            このサイトについて
+          <Link to="/request" className="underline underline-offset-2 hover:text-[#333]">
+            掲載の依頼
           </Link>
           <Link to="/" className="underline underline-offset-2 hover:text-[#333]">
             一覧へ戻る

@@ -12,7 +12,9 @@
     "リスト",
     "ヘッダー",
     "ボタン",
-    "検索"
+    "検索",
+    "タブ",
+    "ボトム ナビゲーション"
   ],
   "sections": [
     {
@@ -94,6 +96,810 @@
             "リスト",
             "ヘッダー",
             "ボタン"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6i4muw0",
+      "title": "その他",
+      "images": [
+        {
+          "id": "x2i0ays",
+          "src": "/appui-images/ameba/IMG_2067.webp",
+          "filename": "IMG_2067.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nbl23c3",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "ttc2av2",
+          "src": "/appui-images/ameba/IMG_2068.webp",
+          "filename": "IMG_2068.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "lqnrrf6",
+          "src": "/appui-images/ameba/IMG_2069.webp",
+          "filename": "IMG_2069.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "wvmw2ad",
+          "src": "/appui-images/ameba/IMG_2072.webp",
+          "filename": "IMG_2072.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "9s21wwn",
+          "src": "/appui-images/ameba/IMG_2082.webp",
+          "filename": "IMG_2082.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "q477468",
+          "src": "/appui-images/ameba/IMG_2083.webp",
+          "filename": "IMG_2083.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "q5e7rvm",
+          "src": "/appui-images/ameba/IMG_2097.webp",
+          "filename": "IMG_2097.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "3pct70y",
+          "src": "/appui-images/ameba/IMG_2110.webp",
+          "filename": "IMG_2110.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "nhsnbh6",
+          "src": "/appui-images/ameba/IMG_2111.webp",
+          "filename": "IMG_2111.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pit8g4q",
+      "title": "設定",
+      "images": [
+        {
+          "id": "9o5e5jz",
+          "src": "/appui-images/ameba/IMG_2070.webp",
+          "filename": "IMG_2070.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "24fl189",
+          "src": "/appui-images/ameba/IMG_2071.webp",
+          "filename": "IMG_2071.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "gddc6vs",
+          "src": "/appui-images/ameba/IMG_2076.webp",
+          "filename": "IMG_2076.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "2rttgr4",
+          "src": "/appui-images/ameba/IMG_2087.webp",
+          "filename": "IMG_2087.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "moipqsm",
+          "src": "/appui-images/ameba/IMG_2112.webp",
+          "filename": "IMG_2112.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "t7m5o6e",
+          "src": "/appui-images/ameba/IMG_2127.webp",
+          "filename": "IMG_2127.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ufqku7d",
+      "title": "プロフィール",
+      "images": [
+        {
+          "id": "jdks0d7",
+          "src": "/appui-images/ameba/IMG_2073.webp",
+          "filename": "IMG_2073.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "6dd6tcw",
+          "src": "/appui-images/ameba/IMG_2077.webp",
+          "filename": "IMG_2077.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "cvlp4gg",
+          "src": "/appui-images/ameba/IMG_2078.webp",
+          "filename": "IMG_2078.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "2arya16",
+          "src": "/appui-images/ameba/IMG_2079.webp",
+          "filename": "IMG_2079.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "1cbsumj",
+          "src": "/appui-images/ameba/IMG_2080.webp",
+          "filename": "IMG_2080.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "5x3a9fg",
+          "src": "/appui-images/ameba/IMG_2081.webp",
+          "filename": "IMG_2081.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "nb6a8km",
+          "src": "/appui-images/ameba/IMG_2125.webp",
+          "filename": "IMG_2125.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yinaohm",
+      "title": "ピグ・コミュニティ",
+      "images": [
+        {
+          "id": "fuzjmba",
+          "src": "/appui-images/ameba/IMG_2074.webp",
+          "filename": "IMG_2074.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d0u34j",
+      "title": "ブログ",
+      "images": [
+        {
+          "id": "251chup",
+          "src": "/appui-images/ameba/IMG_2075.webp",
+          "filename": "IMG_2075.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "msdklr3",
+          "src": "/appui-images/ameba/IMG_2089.webp",
+          "filename": "IMG_2089.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "q3dxkp8",
+          "src": "/appui-images/ameba/IMG_2109.webp",
+          "filename": "IMG_2109.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "fa1yt3p",
+          "src": "/appui-images/ameba/IMG_2113.webp",
+          "filename": "IMG_2113.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "qr8tpid",
+          "src": "/appui-images/ameba/IMG_2118.webp",
+          "filename": "IMG_2118.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "9m1kkgc",
+          "src": "/appui-images/ameba/IMG_2119.webp",
+          "filename": "IMG_2119.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "f1rnclh",
+          "src": "/appui-images/ameba/IMG_2120.webp",
+          "filename": "IMG_2120.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "t44xn4o",
+          "src": "/appui-images/ameba/IMG_2122.webp",
+          "filename": "IMG_2122.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "klst7yy",
+          "src": "/appui-images/ameba/IMG_2123.webp",
+          "filename": "IMG_2123.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "xst348m",
+          "src": "/appui-images/ameba/IMG_2124.webp",
+          "filename": "IMG_2124.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "avudpwj",
+          "src": "/appui-images/ameba/IMG_2128.webp",
+          "filename": "IMG_2128.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "zfxuex6",
+          "src": "/appui-images/ameba/IMG_2129.webp",
+          "filename": "IMG_2129.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ltwb38s",
+      "title": "ホーム・タイムライン",
+      "images": [
+        {
+          "id": "bk434qi",
+          "src": "/appui-images/ameba/IMG_2084.webp",
+          "filename": "IMG_2084.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "kt190ox",
+          "src": "/appui-images/ameba/IMG_2085.webp",
+          "filename": "IMG_2085.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "2uxcdwx",
+          "src": "/appui-images/ameba/IMG_2088.webp",
+          "filename": "IMG_2088.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "f8d48r8",
+          "src": "/appui-images/ameba/IMG_2090.webp",
+          "filename": "IMG_2090.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "gsfc7lb",
+          "src": "/appui-images/ameba/IMG_2091.webp",
+          "filename": "IMG_2091.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "spuhfuq",
+          "src": "/appui-images/ameba/IMG_2092.webp",
+          "filename": "IMG_2092.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "i4wsry5",
+          "src": "/appui-images/ameba/IMG_2093.webp",
+          "filename": "IMG_2093.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "u6baial",
+          "src": "/appui-images/ameba/IMG_2094.webp",
+          "filename": "IMG_2094.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "hipzrht",
+          "src": "/appui-images/ameba/IMG_2095.webp",
+          "filename": "IMG_2095.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "036uifr",
+          "src": "/appui-images/ameba/IMG_2096.webp",
+          "filename": "IMG_2096.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "b46wliw",
+          "src": "/appui-images/ameba/IMG_2098.webp",
+          "filename": "IMG_2098.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "ggufmpd",
+          "src": "/appui-images/ameba/IMG_2099.webp",
+          "filename": "IMG_2099.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "d1pv6x8",
+          "src": "/appui-images/ameba/IMG_2100.webp",
+          "filename": "IMG_2100.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "qktpwva",
+          "src": "/appui-images/ameba/IMG_2101.webp",
+          "filename": "IMG_2101.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "155zfjp",
+          "src": "/appui-images/ameba/IMG_2102.webp",
+          "filename": "IMG_2102.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "x41tks5",
+          "src": "/appui-images/ameba/IMG_2103.webp",
+          "filename": "IMG_2103.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "blf5zzq",
+          "src": "/appui-images/ameba/IMG_2104.webp",
+          "filename": "IMG_2104.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "8po67jw",
+          "src": "/appui-images/ameba/IMG_2105.webp",
+          "filename": "IMG_2105.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "bwyj8d1",
+          "src": "/appui-images/ameba/IMG_2106.webp",
+          "filename": "IMG_2106.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "3txmskr",
+          "src": "/appui-images/ameba/IMG_2107.webp",
+          "filename": "IMG_2107.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "4ep7t9k",
+          "src": "/appui-images/ameba/IMG_2108.webp",
+          "filename": "IMG_2108.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "1ihyhr2",
+          "src": "/appui-images/ameba/IMG_2115.webp",
+          "filename": "IMG_2115.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "mjzzu8h",
+          "src": "/appui-images/ameba/IMG_2116.webp",
+          "filename": "IMG_2116.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "ls6pmhr",
+          "src": "/appui-images/ameba/IMG_2117.webp",
+          "filename": "IMG_2117.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "c3rqz4t",
+          "src": "/appui-images/ameba/IMG_2121.webp",
+          "filename": "IMG_2121.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "ot3q06v",
+          "src": "/appui-images/ameba/IMG_2130.webp",
+          "filename": "IMG_2130.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        },
+        {
+          "id": "03goyv1",
+          "src": "/appui-images/ameba/IMG_2131.webp",
+          "filename": "IMG_2131.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kjh1lq5",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "fyfnth6",
+          "src": "/appui-images/ameba/IMG_2126.webp",
+          "filename": "IMG_2126.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "タブ"
           ]
         }
       ]

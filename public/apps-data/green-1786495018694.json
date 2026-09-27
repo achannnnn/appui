@@ -544,18 +544,6 @@
             "リスト",
             "ボタン"
           ]
-        },
-        {
-          "id": "03o5aou",
-          "src": "/appui-images/green/IMG_9835.webp",
-          "filename": "IMG_9835.webp",
-          "components": [
-            "ヘッダー",
-            "タブ・セグメントコントロール",
-            "カード",
-            "リスト",
-            "ボタン"
-          ]
         }
       ]
     },

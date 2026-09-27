@@ -1,0 +1,422 @@
+{
+  "id": "tone-1789304031118-l1ro",
+  "name": "tone",
+  "description": "tone は、写真を孔版印刷のような風合いに変える画像加工アプリです。 写真を選ぶと、ハーフトーンの細かなドットとインクの重なりで、 二色刷りのポスターやZINEのような一枚に仕上がります。 かんたんモードなら、ランダムボタンを押すだけで…",
+  "iconUrl": "/appui-images/tone/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/tone-%E7%B4%99%E3%81%AB%E5%88%B7%E3%81%A3%E3%81%9F%E3%82%88%E3%81%86%E3%81%AA%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5/id6792391699?uo=4",
+  "categories": [
+    "写真・ビデオ"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "フィルター"
+  ],
+  "sections": [
+    {
+      "id": "wvs021f",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "0krdu8n",
+          "src": "/appui-images/tone/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "l7cx81t",
+          "src": "/appui-images/tone/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "u0r9zv6",
+          "src": "/appui-images/tone/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "0t10w04",
+          "src": "/appui-images/tone/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yeg9s5f",
+      "title": "その他",
+      "images": [
+        {
+          "id": "vypww9d",
+          "src": "/appui-images/tone/IMG_5370.webp",
+          "filename": "IMG_5370.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "ipe3dtl",
+          "src": "/appui-images/tone/IMG_5371.webp",
+          "filename": "IMG_5371.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4lyp3jx",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "z1hi68s",
+          "src": "/appui-images/tone/IMG_5372.webp",
+          "filename": "IMG_5372.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "xd0uyln",
+          "src": "/appui-images/tone/IMG_5373.webp",
+          "filename": "IMG_5373.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "178mfd9",
+          "src": "/appui-images/tone/IMG_5374.webp",
+          "filename": "IMG_5374.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "76oa1wb",
+          "src": "/appui-images/tone/IMG_5375.webp",
+          "filename": "IMG_5375.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "bdzu1vp",
+          "src": "/appui-images/tone/IMG_5376.webp",
+          "filename": "IMG_5376.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8ablj4",
+      "title": "ホーム・ライブラリ",
+      "images": [
+        {
+          "id": "jhsh0sw",
+          "src": "/appui-images/tone/IMG_5377.webp",
+          "filename": "IMG_5377.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "vgercf2",
+          "src": "/appui-images/tone/IMG_5378.webp",
+          "filename": "IMG_5378.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "xm8lyu3",
+          "src": "/appui-images/tone/IMG_5379.webp",
+          "filename": "IMG_5379.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "07l17kg",
+          "src": "/appui-images/tone/IMG_5380.webp",
+          "filename": "IMG_5380.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "2iuos31",
+          "src": "/appui-images/tone/IMG_5381.webp",
+          "filename": "IMG_5381.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "lxi6h2h",
+          "src": "/appui-images/tone/IMG_5382.webp",
+          "filename": "IMG_5382.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "ny1nrgw",
+          "src": "/appui-images/tone/IMG_5383.webp",
+          "filename": "IMG_5383.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "i6ubdfj",
+          "src": "/appui-images/tone/IMG_5384.webp",
+          "filename": "IMG_5384.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "30z78v7",
+          "src": "/appui-images/tone/IMG_5385.webp",
+          "filename": "IMG_5385.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "0k78h86",
+          "src": "/appui-images/tone/IMG_5395.webp",
+          "filename": "IMG_5395.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97of9te",
+      "title": "編集",
+      "images": [
+        {
+          "id": "4hwuyft",
+          "src": "/appui-images/tone/IMG_5386.webp",
+          "filename": "IMG_5386.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "oa1vype",
+          "src": "/appui-images/tone/IMG_5387.webp",
+          "filename": "IMG_5387.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "fe9uxnr",
+          "src": "/appui-images/tone/IMG_5388.webp",
+          "filename": "IMG_5388.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "8boa5ts",
+          "src": "/appui-images/tone/IMG_5390.webp",
+          "filename": "IMG_5390.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd21s6y",
+      "title": "フィルター・効果",
+      "images": [
+        {
+          "id": "ps6m98u",
+          "src": "/appui-images/tone/IMG_5389.webp",
+          "filename": "IMG_5389.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7lesdx",
+      "title": "設定",
+      "images": [
+        {
+          "id": "kxt6r91",
+          "src": "/appui-images/tone/IMG_5391.webp",
+          "filename": "IMG_5391.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "tyquq11",
+          "src": "/appui-images/tone/IMG_5392.webp",
+          "filename": "IMG_5392.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "l95mocu",
+          "src": "/appui-images/tone/IMG_5393.webp",
+          "filename": "IMG_5393.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        },
+        {
+          "id": "hltwo6b",
+          "src": "/appui-images/tone/IMG_5394.webp",
+          "filename": "IMG_5394.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "フィルター"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "tone"
+}

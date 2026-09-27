@@ -1,447 +1,504 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:5173/</loc>
+    <loc>https://appui.refdesk.jp/</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/about</loc>
+    <loc>https://appui.refdesk.jp/about</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/privacy</loc>
+    <loc>https://appui.refdesk.jp/privacy</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/野球スコア</loc>
+    <loc>https://appui.refdesk.jp/apps/野球スコア</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/airbnb</loc>
+    <loc>https://appui.refdesk.jp/apps/airbnb</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/スターバックス-ジャパン公式モバイルアプリ</loc>
+    <loc>https://appui.refdesk.jp/apps/スターバックス-ジャパン公式モバイルアプリ</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/tver(ティーバー)-民放公式テレビ配信サービス</loc>
+    <loc>https://appui.refdesk.jp/apps/tver(ティーバー)-民放公式テレビ配信サービス</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/あすけん-ダイエット・ヘルスケアのカロリー計算や体重管理に</loc>
+    <loc>https://appui.refdesk.jp/apps/あすけん-ダイエット・ヘルスケアのカロリー計算や体重管理に</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/英語勉強-mikan-英語の学習-英検®-英会話-英文法</loc>
+    <loc>https://appui.refdesk.jp/apps/英語勉強-mikan-英語の学習-英検®-英会話-英文法</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/スポナビ-野球速報</loc>
+    <loc>https://appui.refdesk.jp/apps/スポナビ-野球速報</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/beself-マインドフルネス・性格診断・ジャーナリング</loc>
+    <loc>https://appui.refdesk.jp/apps/beself-マインドフルネス・性格診断・ジャーナリング</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/読書メモ管理-bookclip</loc>
+    <loc>https://appui.refdesk.jp/apps/読書メモ管理-bookclip</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/マイナビ転職</loc>
+    <loc>https://appui.refdesk.jp/apps/マイナビ転職</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/リクナビnext</loc>
+    <loc>https://appui.refdesk.jp/apps/リクナビnext</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/doda</loc>
+    <loc>https://appui.refdesk.jp/apps/doda</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ビズリーチ</loc>
+    <loc>https://appui.refdesk.jp/apps/ビズリーチ</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/エン転職</loc>
+    <loc>https://appui.refdesk.jp/apps/エン転職</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/バイトル</loc>
+    <loc>https://appui.refdesk.jp/apps/バイトル</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/タウンワーク</loc>
+    <loc>https://appui.refdesk.jp/apps/タウンワーク</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/タイミー</loc>
+    <loc>https://appui.refdesk.jp/apps/タイミー</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/シェアフル</loc>
+    <loc>https://appui.refdesk.jp/apps/シェアフル</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/wantedly</loc>
+    <loc>https://appui.refdesk.jp/apps/wantedly</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/green</loc>
+    <loc>https://appui.refdesk.jp/apps/green</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ミイダス</loc>
+    <loc>https://appui.refdesk.jp/apps/ミイダス</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/indeed</loc>
+    <loc>https://appui.refdesk.jp/apps/indeed</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/openwork</loc>
+    <loc>https://appui.refdesk.jp/apps/openwork</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/amazon-prime-video</loc>
+    <loc>https://appui.refdesk.jp/apps/amazon-prime-video</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/hulu</loc>
+    <loc>https://appui.refdesk.jp/apps/hulu</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/dazn</loc>
+    <loc>https://appui.refdesk.jp/apps/dazn</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/u-next</loc>
+    <loc>https://appui.refdesk.jp/apps/u-next</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/netflix</loc>
+    <loc>https://appui.refdesk.jp/apps/netflix</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/abema</loc>
+    <loc>https://appui.refdesk.jp/apps/abema</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/suumo</loc>
+    <loc>https://appui.refdesk.jp/apps/suumo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/home's</loc>
+    <loc>https://appui.refdesk.jp/apps/home's</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/アットホーム</loc>
+    <loc>https://appui.refdesk.jp/apps/アットホーム</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/いい部屋ネット</loc>
+    <loc>https://appui.refdesk.jp/apps/いい部屋ネット</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/マツキヨココカラ</loc>
+    <loc>https://appui.refdesk.jp/apps/マツキヨココカラ</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ウエルシア</loc>
+    <loc>https://appui.refdesk.jp/apps/ウエルシア</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/スギ薬局</loc>
+    <loc>https://appui.refdesk.jp/apps/スギ薬局</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ツルハドラッグ</loc>
+    <loc>https://appui.refdesk.jp/apps/ツルハドラッグ</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ファミペイ</loc>
+    <loc>https://appui.refdesk.jp/apps/ファミペイ</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ローソン</loc>
+    <loc>https://appui.refdesk.jp/apps/ローソン</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/iaeon</loc>
+    <loc>https://appui.refdesk.jp/apps/muji</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/muji</loc>
+    <loc>https://appui.refdesk.jp/apps/uniqlo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/uniqlo</loc>
+    <loc>https://appui.refdesk.jp/apps/gu</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/gu</loc>
+    <loc>https://appui.refdesk.jp/apps/zozotown</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/zozotown</loc>
+    <loc>https://appui.refdesk.jp/apps/ワークマン</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ワークマン</loc>
+    <loc>https://appui.refdesk.jp/apps/しまむらパーク</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/しまむらパーク</loc>
+    <loc>https://appui.refdesk.jp/apps/zara</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/zara</loc>
+    <loc>https://appui.refdesk.jp/apps/h&amp;m</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/h&amp;m</loc>
+    <loc>https://appui.refdesk.jp/apps/go</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/go</loc>
+    <loc>https://appui.refdesk.jp/apps/didi</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/didi</loc>
+    <loc>https://appui.refdesk.jp/apps/uber-taxi</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/uber-taxi</loc>
+    <loc>https://appui.refdesk.jp/apps/s.ride</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/s.ride</loc>
+    <loc>https://appui.refdesk.jp/apps/uber-eats</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/uber-eats</loc>
+    <loc>https://appui.refdesk.jp/apps/出前館</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/出前館</loc>
+    <loc>https://appui.refdesk.jp/apps/menu</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/menu</loc>
+    <loc>https://appui.refdesk.jp/apps/rocket-now</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/rocket-now</loc>
+    <loc>https://appui.refdesk.jp/apps/wolt</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/wolt</loc>
+    <loc>https://appui.refdesk.jp/apps/マイナビバイト留学生</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/マイナビバイト留学生</loc>
+    <loc>https://appui.refdesk.jp/apps/カイテク</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/カイテク</loc>
+    <loc>https://appui.refdesk.jp/apps/uber</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/uber</loc>
+    <loc>https://appui.refdesk.jp/apps/フルキャスト</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/フルキャスト</loc>
+    <loc>https://appui.refdesk.jp/apps/ギガバイト</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ギガバイト</loc>
+    <loc>https://appui.refdesk.jp/apps/スポットバイトル</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/スポットバイトル</loc>
+    <loc>https://appui.refdesk.jp/apps/マイナビバイト</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/マイナビバイト</loc>
+    <loc>https://appui.refdesk.jp/apps/kuu</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/kuu</loc>
+    <loc>https://appui.refdesk.jp/apps/koe</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/koe</loc>
+    <loc>https://appui.refdesk.jp/apps/club31</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/club31</loc>
+    <loc>https://appui.refdesk.jp/apps/todo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/todo</loc>
+    <loc>https://appui.refdesk.jp/apps/keizoku-suru-gijutsu</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/keizoku-suru-gijutsu</loc>
+    <loc>https://appui.refdesk.jp/apps/abceed</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/abceed</loc>
+    <loc>https://appui.refdesk.jp/apps/tiimo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/tiimo</loc>
+    <loc>https://appui.refdesk.jp/apps/icoca</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/icoca</loc>
+    <loc>https://appui.refdesk.jp/apps/ahamo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ahamo</loc>
+    <loc>https://appui.refdesk.jp/apps/ameba</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/ameba</loc>
+    <loc>https://appui.refdesk.jp/apps/note</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/note</loc>
+    <loc>https://appui.refdesk.jp/apps/hatena-blog</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/hatena-blog</loc>
+    <loc>https://appui.refdesk.jp/apps/smartnews</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/smartnews</loc>
+    <loc>https://appui.refdesk.jp/apps/repov</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/repov</loc>
+    <loc>https://appui.refdesk.jp/apps/livedoor-blog</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/livedoor-blog</loc>
+    <loc>https://appui.refdesk.jp/apps/rarejob</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/rarejob</loc>
+    <loc>https://appui.refdesk.jp/apps/urban-research</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/urban-research</loc>
+    <loc>https://appui.refdesk.jp/apps/united-arrows</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/united-arrows</loc>
+    <loc>https://appui.refdesk.jp/apps/hotpepper</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/hotpepper</loc>
+    <loc>https://appui.refdesk.jp/apps/mcdonalds</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/mcdonalds</loc>
+    <loc>https://appui.refdesk.jp/apps/mister-donut</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/mister-donut</loc>
+    <loc>https://appui.refdesk.jp/apps/share-lounge</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/share-lounge</loc>
+    <loc>https://appui.refdesk.jp/apps/lowya</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/lowya</loc>
+    <loc>https://appui.refdesk.jp/apps/nitori</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/nitori</loc>
+    <loc>https://appui.refdesk.jp/apps/yamazaki</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/yamazaki</loc>
+    <loc>https://appui.refdesk.jp/apps/dl-library</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/dl-library</loc>
+    <loc>https://appui.refdesk.jp/apps/duolingo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/duolingo</loc>
+    <loc>https://appui.refdesk.jp/apps/webry</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/webry</loc>
+    <loc>https://appui.refdesk.jp/apps/hobonichi-techo</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/hobonichi-techo</loc>
+    <loc>https://appui.refdesk.jp/apps/calomil</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/calomil</loc>
+    <loc>https://appui.refdesk.jp/apps/twitch</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/twitch</loc>
+    <loc>https://appui.refdesk.jp/apps/nikki</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/nikki</loc>
+    <loc>https://appui.refdesk.jp/apps/my-nicca</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/my-nicca</loc>
+    <loc>https://appui.refdesk.jp/apps/hikidashi-nikki</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/hikidashi-nikki</loc>
+    <loc>https://appui.refdesk.jp/apps/seeklog</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/seeklog</loc>
+    <loc>https://appui.refdesk.jp/apps/tokyo-bosai</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/tokyo-bosai</loc>
+    <loc>https://appui.refdesk.jp/apps/nerv-bosai</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/nerv-bosai</loc>
+    <loc>https://appui.refdesk.jp/apps/daiso</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/daiso</loc>
+    <loc>https://appui.refdesk.jp/apps/tomostudy</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/tomostudy</loc>
+    <loc>https://appui.refdesk.jp/apps/shuchu</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/shuchu</loc>
+    <loc>https://appui.refdesk.jp/apps/focus-to-do</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/focus-to-do</loc>
+    <loc>https://appui.refdesk.jp/apps/forest</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/forest</loc>
+    <loc>https://appui.refdesk.jp/apps/dothabit</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/dothabit</loc>
+    <loc>https://appui.refdesk.jp/apps/mainichi-mame</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/apps/mainichi-mame</loc>
+    <loc>https://appui.refdesk.jp/apps/minchalle</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84</loc>
+    <loc>https://appui.refdesk.jp/apps/komeda</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E6%97%85%E8%A1%8C</loc>
+    <loc>https://appui.refdesk.jp/apps/blockin</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%83%95%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF</loc>
+    <loc>https://appui.refdesk.jp/apps/line-manga</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88</loc>
+    <loc>https://appui.refdesk.jp/apps/piccoma</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E5%81%A5%E5%BA%B7%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9</loc>
+    <loc>https://appui.refdesk.jp/apps/yanjan-plus</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E6%95%99%E8%82%B2</loc>
+    <loc>https://appui.refdesk.jp/apps/chargespot</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%83%98%E3%83%AB%E3%82%B9%E3%82%B1%E3%82%A2</loc>
+    <loc>https://appui.refdesk.jp/apps/weathernews</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96</loc>
+    <loc>https://appui.refdesk.jp/apps/kurashiru</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%83%90%E3%82%A4%E3%83%88</loc>
+    <loc>https://appui.refdesk.jp/apps/mynavi-2028</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</loc>
+    <loc>https://appui.refdesk.jp/apps/careertas</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0</loc>
+    <loc>https://appui.refdesk.jp/apps/webgym</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB</loc>
+    <loc>https://appui.refdesk.jp/apps/roughly</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E9%87%91%E8%9E%8D</loc>
+    <loc>https://appui.refdesk.jp/apps/zaim</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0</loc>
+    <loc>https://appui.refdesk.jp/apps/tone</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/category/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9</loc>
+    <loc>https://appui.refdesk.jp/apps/cookpad</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%9C%E3%83%88%E3%83%A0%20%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</loc>
+    <loc>https://appui.refdesk.jp/apps/routinery</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%BF%E3%83%96%E3%83%BB%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB</loc>
+    <loc>https://appui.refdesk.jp/apps/ticktick</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%AB%E3%83%BC%E3%83%89</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%AA%E3%82%B9%E3%83%88</loc>
+    <loc>https://appui.refdesk.jp/category/%E6%97%85%E8%A1%8C</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%98%E3%83%83%E3%83%80%E3%83%BC</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%83%95%E3%83%BC%E3%83%89%E3%83%BB%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB%E3%83%BB%E3%83%9C%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%9C%E3%82%BF%E3%83%B3</loc>
+    <loc>https://appui.refdesk.jp/category/%E5%81%A5%E5%BA%B7%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0</loc>
+    <loc>https://appui.refdesk.jp/category/%E6%95%99%E8%82%B2</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%AA%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0</loc>
+    <loc>https://appui.refdesk.jp/category/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%83%90%E3%82%A4%E3%83%88</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E6%A4%9C%E7%B4%A2</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%82%B7%E3%83%A7%E3%83%83%E3%83%94%E3%83%B3%E3%82%B0</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%9E%E3%83%83%E3%83%97</loc>
+    <loc>https://appui.refdesk.jp/category/%E9%87%91%E8%9E%8D</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%A8%E3%83%B3%E3%83%97%E3%83%86%E3%82%A3%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC</loc>
+    <loc>https://appui.refdesk.jp/category/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%AB</loc>
+    <loc>https://appui.refdesk.jp/category/%E5%86%99%E7%9C%9F%E3%83%BB%E3%83%93%E3%83%87%E3%82%AA</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF</loc>
+    <loc>https://appui.refdesk.jp/component/%E3%83%9C%E3%83%88%E3%83%A0%20%E3%83%8A%E3%83%93%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E5%9C%B0%E5%9B%B3</loc>
+    <loc>https://appui.refdesk.jp/component/%E3%82%BF%E3%83%96%E3%83%BB%E3%82%BB%E3%82%B0%E3%83%A1%E3%83%B3%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%B0%E3%83%A9%E3%83%95</loc>
+    <loc>https://appui.refdesk.jp/component/%E3%82%AB%E3%83%BC%E3%83%89</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC</loc>
+    <loc>https://appui.refdesk.jp/component/%E3%83%AA%E3%82%B9%E3%83%88</loc>
   </url>
   <url>
-    <loc>http://localhost:5173/component/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF</loc>
+    <loc>https://appui.refdesk.jp/component/%E3%83%98%E3%83%83%E3%83%80%E3%83%BC</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%A2%E3%83%BC%E3%83%80%E3%83%AB%E3%83%BB%E3%83%9C%E3%83%88%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%9C%E3%82%BF%E3%83%B3</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%AA%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E6%A4%9C%E7%B4%A2</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%80%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%9E%E3%83%83%E3%83%97</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%A8%E3%83%B3%E3%83%97%E3%83%86%E3%82%A3%E3%82%B9%E3%83%86%E3%83%BC%E3%83%88</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%AB</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%BF%E3%83%96</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E5%9C%B0%E5%9B%B3</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%B0%E3%83%A9%E3%83%95</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E5%8B%95%E7%94%BB</loc>
   </url>
 </urlset>

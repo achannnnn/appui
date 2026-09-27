@@ -26,10 +26,17 @@ export function AboutPage() {
             デザイナーやプロダクト担当者が、参考UIを素早く探せることを目的にしています。App Store の公開情報と、実機で撮影した画面を組み合わせて掲載しています。
           </p>
           <p>
-            掲載内容は参考用途です。各アプリの権利はそれぞれの権利者に帰属します。個人が特定されうる情報は掲載前にマスクする方針です。
+            掲載内容は参考用途です。各アプリの権利はそれぞれの権利者に帰属します。個人が特定されうる情報は掲載前にマスクする方針です。追加・削除のご依頼は
+            <Link to="/request" className="mx-1 underline underline-offset-2 hover:opacity-70">
+              掲載の依頼
+            </Link>
+            から送れます。
           </p>
         </section>
         <footer className="flex gap-4 text-[13px] text-[#595959]">
+          <Link to="/request" className="underline underline-offset-2 hover:text-[#333]">
+            掲載の依頼
+          </Link>
           <Link to="/privacy" className="underline underline-offset-2 hover:text-[#333]">
             プライバシー
           </Link>

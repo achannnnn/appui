@@ -52,8 +52,6 @@ type IconCircleButtonProps = {
 };
 
 type HoverActionsProps = {
-  isFavorite: boolean;
-  onToggleFavorite: () => void;
   onDownload: () => void;
   downloading: boolean;
   compareActive?: boolean;
@@ -62,13 +60,9 @@ type HoverActionsProps = {
 
 type SectionRowProps = {
   section: GallerySection;
-  imageFavorites: Set<string>;
-  onToggleImageFavorite: (id: string) => void;
   onDownloadImage: (image: GalleryImage) => Promise<void>;
-  onDownloadSection: (section: GallerySection) => Promise<void>;
   onOpenImage: (id: string) => void;
   downloadingImageId: string | null;
-  downloadingSectionId: string | null;
   isCompared?: (imageId: string) => boolean;
   onToggleCompare?: (image: GalleryImage, sectionTitle: string) => void;
 };
@@ -77,12 +71,10 @@ type ImageModalProps = {
   image: GalleryImage;
   imageIndex: number;
   imageCount: number;
-  imageFavorite: boolean;
   downloadingImage: boolean;
   onClose: () => void;
   onPrev: () => void;
   onNext: () => void;
-  onToggleImageFavorite: () => void;
   onDownloadImage: () => void;
   onOpenExternal: () => void;
   appName: string;
@@ -140,8 +132,6 @@ async function triggerDownload(src: string, filename: string) {
 }
 
 function HoverActions({
-  isFavorite,
-  onToggleFavorite,
   onDownload,
   downloading,
   compareActive,
@@ -168,20 +158,6 @@ function HoverActions({
         )}
         <div className="pointer-events-auto">
           <IconCircleButton
-            active={isFavorite}
-            label="お気に入り"
-            onClick={(event) => {
-              event.stopPropagation();
-              onToggleFavorite();
-            }}
-            style="dark"
-            size="lg"
-          >
-            <Heart fill={isFavorite ? "currentColor" : "none"} size={18} />
-          </IconCircleButton>
-        </div>
-        <div className="pointer-events-auto">
-          <IconCircleButton
             disabled={downloading}
             label="ダウンロード"
             onClick={(event) => {
@@ -201,22 +177,18 @@ function HoverActions({
 
 type OrientedThumbProps = {
   image: GalleryImage;
-  isFavorite: boolean;
   isDownloading: boolean;
   compareActive: boolean;
   onOpen: () => void;
-  onToggleFavorite: () => void;
   onDownload: () => void;
   onToggleCompare?: () => void;
 };
 
 function OrientedThumb({
   image,
-  isFavorite,
   isDownloading,
   compareActive,
   onOpen,
-  onToggleFavorite,
   onDownload,
   onToggleCompare,
 }: OrientedThumbProps) {
@@ -258,10 +230,8 @@ function OrientedThumb({
       <HoverActions
         compareActive={compareActive}
         downloading={isDownloading}
-        isFavorite={isFavorite}
         onDownload={onDownload}
         onToggleCompare={onToggleCompare}
-        onToggleFavorite={onToggleFavorite}
       />
     </div>
   );
@@ -269,30 +239,12 @@ function OrientedThumb({
 
 function SectionRow({
   section,
-  imageFavorites,
-  onToggleImageFavorite,
   onDownloadImage,
-  onDownloadSection,
   onOpenImage,
   downloadingImageId,
-  downloadingSectionId,
   isCompared,
   onToggleCompare,
 }: SectionRowProps) {
-  const sectionFavorite = section.images.every((image) => imageFavorites.has(image.id));
-
-  const handleToggleSectionFavorite = () => {
-    const shouldFavorite = !sectionFavorite;
-    section.images.forEach((image) => {
-      if (shouldFavorite && !imageFavorites.has(image.id)) {
-        onToggleImageFavorite(image.id);
-      }
-      if (!shouldFavorite && imageFavorites.has(image.id)) {
-        onToggleImageFavorite(image.id);
-      }
-    });
-  };
-
   return (
     <section className="flex w-full flex-col gap-3 md:gap-4">
       <div className="flex items-end justify-between">
@@ -304,30 +256,9 @@ function SectionRow({
             {section.images.length}画面
           </p>
         </div>
-        <div className="flex items-center gap-2">
-          <IconCircleButton
-            active={sectionFavorite}
-            label="セクションをお気に入り"
-            onClick={handleToggleSectionFavorite}
-            size="lg"
-          >
-            <Heart fill={sectionFavorite ? "currentColor" : "none"} size={18} />
-          </IconCircleButton>
-          <IconCircleButton
-            disabled={downloadingSectionId === section.id}
-            label="セクション画像をダウンロード"
-            onClick={() => {
-              void onDownloadSection(section);
-            }}
-            size="lg"
-          >
-            <Download size={18} />
-          </IconCircleButton>
-        </div>
       </div>
       <div className="flex flex-wrap content-start gap-2 md:gap-3">
         {section.images.map((image) => {
-          const isFavorite = imageFavorites.has(image.id);
           const isDownloading = downloadingImageId === image.id;
           const compareActive = isCompared?.(image.id) ?? false;
           return (
@@ -335,7 +266,6 @@ function SectionRow({
               compareActive={compareActive}
               image={image}
               isDownloading={isDownloading}
-              isFavorite={isFavorite}
               key={image.id}
               onDownload={() => {
                 void onDownloadImage(image);
@@ -346,7 +276,6 @@ function SectionRow({
                   ? () => onToggleCompare(image, section.title)
                   : undefined
               }
-              onToggleFavorite={() => onToggleImageFavorite(image.id)}
             />
           );
         })}
@@ -360,12 +289,10 @@ function ImageModal({
   image,
   imageIndex,
   imageCount,
-  imageFavorite,
   downloadingImage,
   onClose,
   onPrev,
   onNext,
-  onToggleImageFavorite,
   onDownloadImage,
   onOpenExternal,
   appName,
@@ -444,7 +371,11 @@ function ImageModal({
                       <ChevronRight size={22} />
                     </button>
                     <button
-                      className="absolute left-[calc(100%+0.5rem)] top-1 whitespace-nowrap rounded-full border border-[#333] bg-white px-3 py-1 font-['Noto_Sans_JP:Bold',sans-serif] text-[14px] text-[#333] transition-opacity hover:opacity-70 md:left-[calc(100%+2rem)]"
+                      className={`absolute top-1 whitespace-nowrap rounded-full border border-[#333] bg-white px-3 py-1 font-['Noto_Sans_JP:Bold',sans-serif] text-[14px] text-[#333] transition-opacity hover:opacity-70 ${
+                        landscape
+                          ? "right-0 translate-y-[-120%] md:right-0"
+                          : "left-[calc(100%+0.5rem)] md:left-[calc(100%+2rem)]"
+                      }`}
                       onClick={onClose}
                       type="button"
                     >
@@ -453,7 +384,13 @@ function ImageModal({
                   </div>
                 </div>
 
-                <div className="hidden w-[220px] flex-col gap-4 md:absolute md:bottom-0 md:left-[calc(100%+2rem)] md:flex">
+                <div
+                  className={`hidden w-[220px] flex-col gap-4 md:flex ${
+                    landscape
+                      ? "md:relative md:mt-2 md:w-full md:max-w-[min(88vw,860px)] md:flex-row md:flex-wrap md:items-center md:justify-between"
+                      : "md:absolute md:bottom-0 md:left-[calc(100%+2rem)]"
+                  }`}
+                >
                   <div className="flex items-center text-[12px] text-[#717171]">
                     <span>
                       {imageIndex + 1} / {imageCount}
@@ -479,14 +416,6 @@ function ImageModal({
                     )}
                     <IconCircleButton label="外部リンク" onClick={onOpenExternal} size="lg">
                       <ExternalLink size={18} />
-                    </IconCircleButton>
-                    <IconCircleButton
-                      active={imageFavorite}
-                      label="画像をお気に入り"
-                      onClick={() => onToggleImageFavorite()}
-                      size="lg"
-                    >
-                      <Heart fill={imageFavorite ? "currentColor" : "none"} size={18} />
                     </IconCircleButton>
                     <IconCircleButton
                       disabled={downloadingImage}
@@ -518,14 +447,6 @@ function ImageModal({
                     <ExternalLink size={18} />
                   </IconCircleButton>
                   <IconCircleButton
-                    active={imageFavorite}
-                    label="画像をお気に入り"
-                    onClick={() => onToggleImageFavorite()}
-                    size="lg"
-                  >
-                    <Heart fill={imageFavorite ? "currentColor" : "none"} size={18} />
-                  </IconCircleButton>
-                  <IconCircleButton
                     disabled={downloadingImage}
                     label="画像をダウンロード"
                     onClick={() => onDownloadImage()}
@@ -545,12 +466,8 @@ function ImageModal({
 
 export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: DetailScreenProps) {
   const APP_FAVORITES_KEY = `ui-zukan:app-favorites:${app.id}`;
-  const IMAGE_FAVORITES_KEY = `ui-zukan:image-favorites:${app.id}`;
   const [appFavorites, setAppFavorites] = useState<Set<string>>(new Set());
-  const [imageFavorites, setImageFavorites] = useState<Set<string>>(new Set());
   const [downloadingImageId, setDownloadingImageId] = useState<string | null>(null);
-  const [downloadingSectionId, setDownloadingSectionId] = useState<string | null>(null);
-  const [downloadingAll, setDownloadingAll] = useState(false);
   const [selectedImageIndex, setSelectedImageIndex] = useState<number | null>(null);
 
   const allImages = useMemo(() => app.sections.flatMap((section) => section.images), [app.sections]);
@@ -587,7 +504,6 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
 
   useEffect(() => {
     const savedAppFavorites = window.localStorage.getItem(APP_FAVORITES_KEY);
-    const savedImageFavorites = window.localStorage.getItem(IMAGE_FAVORITES_KEY);
 
     if (savedAppFavorites) {
       try {
@@ -599,24 +515,11 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
     } else if (isAppFavorited(app.id)) {
       setAppFavorites(new Set([app.id]));
     }
-
-    if (savedImageFavorites) {
-      try {
-        const parsed = JSON.parse(savedImageFavorites) as string[];
-        setImageFavorites(new Set(parsed));
-      } catch {
-        setImageFavorites(new Set());
-      }
-    }
-  }, [APP_FAVORITES_KEY, IMAGE_FAVORITES_KEY, app.id]);
+  }, [APP_FAVORITES_KEY, app.id]);
 
   useEffect(() => {
     window.localStorage.setItem(APP_FAVORITES_KEY, JSON.stringify(Array.from(appFavorites)));
-  }, [appFavorites]);
-
-  useEffect(() => {
-    window.localStorage.setItem(IMAGE_FAVORITES_KEY, JSON.stringify(Array.from(imageFavorites)));
-  }, [imageFavorites]);
+  }, [APP_FAVORITES_KEY, appFavorites]);
 
   const toggleAppFavorite = () => {
     setAppFavorites((previous) => {
@@ -651,18 +554,6 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
     window.open(url, '_blank', 'noopener,noreferrer');
   };
 
-  const toggleImageFavorite = (imageId: string) => {
-    setImageFavorites((previous) => {
-      const next = new Set(previous);
-      if (next.has(imageId)) {
-        next.delete(imageId);
-      } else {
-        next.add(imageId);
-      }
-      return next;
-    });
-  };
-
   const downloadImage = async (image: GalleryImage) => {
     try {
       setDownloadingImageId(image.id);
@@ -671,32 +562,6 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
       // no-op
     } finally {
       setDownloadingImageId(null);
-    }
-  };
-
-  const downloadSectionImages = async (section: GallerySection) => {
-    try {
-      setDownloadingSectionId(section.id);
-      for (const image of section.images) {
-        await triggerDownload(image.src, image.filename);
-      }
-    } catch {
-      // no-op
-    } finally {
-      setDownloadingSectionId(null);
-    }
-  };
-
-  const downloadAllImages = async () => {
-    try {
-      setDownloadingAll(true);
-      for (const image of allImages) {
-        await triggerDownload(image.src, image.filename);
-      }
-    } catch {
-      // no-op
-    } finally {
-      setDownloadingAll(false);
     }
   };
 
@@ -759,15 +624,13 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
 
   const selectedImage =
     selectedImageIndex === null ? null : allImages[selectedImageIndex] ?? null;
-  const selectedImageFavorite =
-    selectedImage === null ? false : imageFavorites.has(selectedImage.id);
   const selectedImageDownloading =
     selectedImage === null ? false : downloadingImageId === selectedImage.id;
 
   return (
-    <div className="min-h-screen w-full bg-[#efede4] px-4 pb-12 pt-6 md:px-8 md:pt-8">
+    <div className="min-h-screen w-full bg-[#efede4] px-4 pb-12 md:px-8">
       <div className="mx-auto flex w-full max-w-[1460px] flex-col gap-8 md:gap-10">
-        <header className="flex flex-col gap-5">
+        <header className="sticky top-0 z-40 -mx-4 md:-mx-8 bg-[#efede4]/95 px-4 md:px-8 pt-6 md:pt-8 pb-3 md:pb-4 backdrop-blur-[8px]">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-3">
               <button
@@ -824,16 +687,6 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
             >
               <Heart fill={appFavorite ? "currentColor" : "none"} size={18} />
             </IconCircleButton>
-            <IconCircleButton
-              disabled={downloadingAll}
-              label="このアプリの全画像をダウンロード"
-              onClick={() => {
-                void downloadAllImages();
-              }}
-              size="lg"
-            >
-              <Download size={18} />
-            </IconCircleButton>
             {shareMessage ? (
               <span className="font-['Noto_Sans_JP:Medium',sans-serif] text-[11px] text-[#166534]">{shareMessage}</span>
             ) : null}
@@ -852,15 +705,11 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
           {app.sections.map((section) => (
             <SectionRow
               downloadingImageId={downloadingImageId}
-              downloadingSectionId={downloadingSectionId}
-              imageFavorites={imageFavorites}
               isCompared={isCompared}
               key={section.id}
               onDownloadImage={downloadImage}
-              onDownloadSection={downloadSectionImages}
               onOpenImage={openImageModal}
               onToggleCompare={onToggleCompare ? handleToggleCompareImage : undefined}
-              onToggleImageFavorite={toggleImageFavorite}
               section={section}
             />
           ))}
@@ -872,7 +721,6 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
           downloadingImage={selectedImageDownloading}
           image={selectedImage}
           imageCount={allImages.length}
-          imageFavorite={selectedImageFavorite}
           imageIndex={selectedImageIndex ?? 0}
           onClose={closeImageModal}
           onDownloadImage={() => {
@@ -890,7 +738,6 @@ export function DetailScreen({ onBack, app, compareKeys, onToggleCompare }: Deta
                   )
               : undefined
           }
-          onToggleImageFavorite={() => toggleImageFavorite(selectedImage.id)}
           appName={app.name}
           tags={[...app.categories, ...app.components]}
         />

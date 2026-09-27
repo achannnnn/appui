@@ -16,21 +16,13 @@ import { encodeFilterSlug } from "./lib/slug";
 import { readFavoriteAppIds } from "./lib/favorites";
 import { DEFAULT_DESCRIPTION, SITE_NAME } from "./lib/site";
 
-function Frame22({ onAdminClick }: { onAdminClick?: () => void }) {
+function Frame22() {
   return (
     <div className="content-stretch flex flex-col md:flex-row gap-[8px] md:gap-[16px] items-start md:items-center leading-[20px] not-italic relative shrink-0 text-[#333]">
       <Link to="/" className="font-['Noto_Sans_JP:Bold',sans-serif] relative shrink-0 text-[16px] md:text-[18px] tracking-[0.792px] whitespace-nowrap hover:opacity-70">
         アプリUI図鑑
       </Link>
       <p className="font-['Noto_Sans_JP:Regular',sans-serif] relative shrink-0 text-[9px] md:text-[10px] tracking-[0.44px]">アプリデザインの参考になるギャラリーサイト</p>
-      {onAdminClick && (
-        <button
-          onClick={onAdminClick}
-          className="ml-auto px-3 py-1 text-[12px] font-['Noto_Sans_JP:Medium',sans-serif] bg-[#333] text-white rounded-md hover:bg-[#1a1a1a] transition-colors"
-        >
-          管理画面
-        </button>
-      )}
     </div>
   );
 }
@@ -63,10 +55,10 @@ function Frame3({ searchValue = '', onSearchChange }: { searchValue?: string; on
   );
 }
 
-function Frame({ searchValue = '', onSearchChange, onAdminClick }: { searchValue?: string; onSearchChange: (value: string) => void; onAdminClick?: () => void }) {
+function Frame({ searchValue = '', onSearchChange }: { searchValue?: string; onSearchChange: (value: string) => void }) {
   return (
     <div className="content-stretch flex flex-col md:flex-row md:items-center md:justify-between gap-[20px] md:gap-0 relative shrink-0 w-full">
-      <Frame22 onAdminClick={onAdminClick} />
+      <Frame22 />
       <Frame3 searchValue={searchValue} onSearchChange={onSearchChange} />
     </div>
   );
@@ -358,10 +350,10 @@ function Frame1({ onCategoryClick, onComponentClick, showCategoryDropdown, showC
   );
 }
 
-function Frame4({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onAdminClick, componentOptions, totalAppCount, visibleAppCount, screenshotCount, componentMode, appsLoading, favoritesActive, onFavoritesClick }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onAdminClick?: () => void; componentOptions: string[]; totalAppCount: number; visibleAppCount: number; screenshotCount: number; componentMode: boolean; appsLoading: boolean; favoritesActive?: boolean; onFavoritesClick?: () => void }) {
+function Frame4({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, componentOptions, totalAppCount, visibleAppCount, screenshotCount, componentMode, appsLoading, favoritesActive, onFavoritesClick }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; componentOptions: string[]; totalAppCount: number; visibleAppCount: number; screenshotCount: number; componentMode: boolean; appsLoading: boolean; favoritesActive?: boolean; onFavoritesClick?: () => void }) {
   return (
     <div className="content-stretch flex flex-col gap-[25px] md:gap-[40px] items-start relative shrink-0 w-full">
-      <Frame searchValue={searchValue} onSearchChange={onSearchChange} onAdminClick={onAdminClick} />
+      <Frame searchValue={searchValue} onSearchChange={onSearchChange} />
       <Frame1 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} categoryRef={categoryRef} componentRef={componentRef} componentOptions={componentOptions} totalAppCount={totalAppCount} visibleAppCount={visibleAppCount} screenshotCount={screenshotCount} componentMode={componentMode} appsLoading={appsLoading} favoritesActive={favoritesActive} onFavoritesClick={onFavoritesClick} />
     </div>
   );
@@ -774,7 +766,7 @@ function Frame14({ layout, apps, appsLoading, onOpenDetail, selectedComponent, s
     return (
       <div className="w-full py-20 text-center">
         <p className="font-['Noto_Sans_JP:Bold',sans-serif] text-[16px] text-[#333] mb-2">まだアプリが登録されていません</p>
-        <p className="font-['Noto_Sans_JP:Regular',sans-serif] text-[13px] text-[#737373]">管理画面からアプリを追加してください</p>
+        <p className="font-['Noto_Sans_JP:Regular',sans-serif] text-[13px] text-[#737373]">アプリが登録されるとここに表示されます</p>
       </div>
     );
   }
@@ -784,7 +776,7 @@ function Frame14({ layout, apps, appsLoading, onOpenDetail, selectedComponent, s
       return (
         <div className="w-full py-20 text-center">
           <p className="font-['Noto_Sans_JP:Bold',sans-serif] text-[16px] text-[#333] mb-2">該当するスクリーンショットがありません</p>
-          <p className="font-['Noto_Sans_JP:Regular',sans-serif] text-[13px] text-[#737373]">別のコンポーネントを選ぶか、管理画面で画像コンポーネントを追加してください</p>
+          <p className="font-['Noto_Sans_JP:Regular',sans-serif] text-[13px] text-[#737373]">別のコンポーネントを選ぶか、条件を変えてみてください</p>
         </div>
       );
     }
@@ -807,10 +799,12 @@ function Frame14({ layout, apps, appsLoading, onOpenDetail, selectedComponent, s
   );
 }
 
-function Frame12({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, selectedComponent, selectedCategory, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onOpenDetail, onAdminClick, apps, appsLoading, screenshots, componentOptions, totalAppCount, favoritesActive, onFavoritesClick }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; selectedComponent: string | null; selectedCategory: string | null; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onOpenDetail: (app: AppData) => void; onAdminClick?: () => void; apps: AppData[]; appsLoading: boolean; screenshots: FilteredScreenshot[]; componentOptions: string[]; totalAppCount: number; favoritesActive?: boolean; onFavoritesClick?: () => void }) {
+function Frame12({ onCategoryClick, onComponentClick, showCategoryDropdown, showComponentDropdown, layout, onLayoutChange, selectedComponent, selectedCategory, onComponentSelect, onCategorySelect, onResetClick, searchValue = '', onSearchChange, categoryRef, componentRef, onOpenDetail, apps, appsLoading, screenshots, componentOptions, totalAppCount, favoritesActive, onFavoritesClick }: { onCategoryClick: () => void; onComponentClick: () => void; showCategoryDropdown: boolean; showComponentDropdown: boolean; layout: '3column' | '2column'; onLayoutChange: (layout: '3column' | '2column') => void; selectedComponent: string | null; selectedCategory: string | null; onComponentSelect: (item: string) => void; onCategorySelect: (item: string) => void; onResetClick: () => void; searchValue?: string; onSearchChange: (value: string) => void; categoryRef: React.RefObject<HTMLDivElement>; componentRef: React.RefObject<HTMLDivElement>; onOpenDetail: (app: AppData) => void; apps: AppData[]; appsLoading: boolean; screenshots: FilteredScreenshot[]; componentOptions: string[]; totalAppCount: number; favoritesActive?: boolean; onFavoritesClick?: () => void }) {
   return (
-    <div className="mx-auto content-stretch flex flex-col gap-[30px] md:gap-[51px] items-start w-full max-w-[1600px] px-[20px] md:px-[24px] pt-[20px] md:pt-[33px] pb-[40px]">
-      <Frame4 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} searchValue={searchValue} onSearchChange={onSearchChange} categoryRef={categoryRef} componentRef={componentRef} onAdminClick={onAdminClick} componentOptions={componentOptions} totalAppCount={totalAppCount} visibleAppCount={apps.length} screenshotCount={screenshots.length} componentMode={Boolean(selectedComponent)} appsLoading={appsLoading} favoritesActive={favoritesActive} onFavoritesClick={onFavoritesClick} />
+    <div className="mx-auto content-stretch flex flex-col gap-[30px] md:gap-[51px] items-start w-full max-w-[1600px] px-[20px] md:px-[24px] pb-[40px]">
+      <div className="sticky top-0 z-40 -mx-[20px] md:-mx-[24px] w-[calc(100%+40px)] md:w-[calc(100%+48px)] bg-[#efede4]/95 px-[20px] md:px-[24px] pt-[20px] md:pt-[33px] pb-[12px] md:pb-[16px] backdrop-blur-[8px]">
+        <Frame4 onCategoryClick={onCategoryClick} onComponentClick={onComponentClick} showCategoryDropdown={showCategoryDropdown} showComponentDropdown={showComponentDropdown} layout={layout} onLayoutChange={onLayoutChange} onComponentSelect={onComponentSelect} onCategorySelect={onCategorySelect} onResetClick={onResetClick} searchValue={searchValue} onSearchChange={onSearchChange} categoryRef={categoryRef} componentRef={componentRef} componentOptions={componentOptions} totalAppCount={totalAppCount} visibleAppCount={apps.length} screenshotCount={screenshots.length} componentMode={Boolean(selectedComponent)} appsLoading={appsLoading} favoritesActive={favoritesActive} onFavoritesClick={onFavoritesClick} />
+      </div>
       {(selectedComponent || selectedCategory) ? (
         <h1 className="font-['Noto_Sans_JP:Bold',sans-serif] text-[20px] md:text-[28px] text-[#333] leading-none">{selectedComponent || selectedCategory}</h1>
       ) : (
@@ -819,6 +813,7 @@ function Frame12({ onCategoryClick, onComponentClick, showCategoryDropdown, show
       <Frame14 layout={layout} apps={apps} appsLoading={appsLoading} onOpenDetail={onOpenDetail} selectedComponent={selectedComponent} screenshots={screenshots} />
       <footer className="flex flex-wrap gap-4 pt-4 text-[12px] text-[#717171] font-['Noto_Sans_JP:Regular',sans-serif]">
         <Link to="/about" className="underline underline-offset-2 hover:text-[#333]">このサイトについて</Link>
+        <Link to="/request" className="underline underline-offset-2 hover:text-[#333]">掲載の依頼</Link>
         <Link to="/privacy" className="underline underline-offset-2 hover:text-[#333]">プライバシー</Link>
       </footer>
     </div>
@@ -1047,8 +1042,6 @@ export default function App({ initialCategory = null, initialComponent = null }:
     navigate(`/apps/${slug}`);
   };
 
-  const handleOpenAdmin = () => navigate('/admin');
-
   const seoTitle = selectedComponent
     ? `${selectedComponent}のUIデザイン例`
     : selectedCategory
@@ -1085,7 +1078,6 @@ export default function App({ initialCategory = null, initialComponent = null }:
         categoryRef={categoryRef}
         componentRef={componentRef}
         onOpenDetail={handleOpenDetail}
-        onAdminClick={handleOpenAdmin}
         apps={filteredApps}
         appsLoading={appsLoading}
         screenshots={filteredScreenshots}

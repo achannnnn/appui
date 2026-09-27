@@ -399,7 +399,7 @@
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/5e/b8/cd5eb886-79c9-31be-e5bf-8011c92f15ed/Placeholder.mill/200x200bb-75.webp 200w",
     "externalUrl": "https://apps.apple.com/jp/app/beself-マインドフルネス-性格診断-ジャーナリング/id6502703642",
     "categories": [
-      "ヘルスケア"
+      "健康・フィットネス"
     ],
     "components": [],
     "sections": [
@@ -2529,75 +2529,6 @@
           {
             "id": "2rqsb72",
             "src": "/appui-images/lawson/screen-03.webp",
-            "filename": "screen-03.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "iaeon-1786626059890",
-    "slug": "iaeon",
-    "name": "iAEON",
-    "description": "イオンの公式アプリ「iAEON」。イオンペイとWAON POINTが使える。",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/98/0a/2f980a26-4a55-a13f-58e3-30ea3d5982fa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-    "externalUrl": "https://apps.apple.com/jp/app/id1565489157",
-    "categories": [
-      "金融"
-    ],
-    "components": [
-      "ボトム ナビゲーション",
-      "タブ・セグメントコントロール",
-      "カード",
-      "リスト",
-      "ヘッダー",
-      "モーダル・ボトムシート",
-      "ボタン",
-      "フォーム",
-      "オンボーディング",
-      "プロフィール",
-      "検索",
-      "フィルター"
-    ],
-    "sections": [
-      {
-        "id": "pk0enne",
-        "title": "スクリーンショット",
-        "images": [
-          {
-            "id": "7ala1ix",
-            "src": "/appui-images/iaeon/screen-01.webp",
-            "filename": "screen-01.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          },
-          {
-            "id": "3kpesv5",
-            "src": "/appui-images/iaeon/screen-02.webp",
-            "filename": "screen-02.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          },
-          {
-            "id": "xl6syp0",
-            "src": "/appui-images/iaeon/screen-03.webp",
             "filename": "screen-03.webp",
             "components": [
               "カード",
@@ -4874,7 +4805,9 @@
       "リスト",
       "ヘッダー",
       "ボタン",
-      "検索"
+      "検索",
+      "タブ",
+      "ボトム ナビゲーション"
     ],
     "sections": [
       {
@@ -7571,68 +7504,6 @@
     ]
   },
   {
-    "id": "eight-1788875175432-r7i6",
-    "slug": "eight",
-    "name": "Eight",
-    "description": "Eightは価値ある出会いをつなぐ、ビジネスのための名刺アプリです。 Eightで交換したデジタル名刺なら、ただ名刺管理できるだけでなく、昇進・異動・転職などの情報が自動で更新されるため、相手の近況をスマートに把握できます。 ■Eightの…",
-    "iconUrl": "/appui-images/eight/icon.webp",
-    "externalUrl": "https://apps.apple.com/jp/app/%E5%90%8D%E5%88%BA%E3%82%A2%E3%83%97%E3%83%AA-eight-%E5%90%8D%E5%88%BA%E4%BA%A4%E6%8F%9B%E3%82%84-%E5%90%8D%E5%88%BA%E7%AE%A1%E7%90%86%E3%81%AB/id444423637?uo=4",
-    "categories": [
-      "仕事効率化"
-    ],
-    "components": [
-      "カード",
-      "リスト",
-      "ヘッダー",
-      "ボタン",
-      "検索"
-    ],
-    "sections": [
-      {
-        "id": "jd6zqbx",
-        "title": "ストア画像",
-        "images": [
-          {
-            "id": "3xwemy6",
-            "src": "/appui-images/eight/screen-01.webp",
-            "filename": "screen-01.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          },
-          {
-            "id": "0hl9x4o",
-            "src": "/appui-images/eight/screen-02.webp",
-            "filename": "screen-02.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          },
-          {
-            "id": "0oyq1pz",
-            "src": "/appui-images/eight/screen-03.webp",
-            "filename": "screen-03.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "kurashiru-1788875185106-yiqf",
     "slug": "kurashiru",
     "name": "クラシル",
@@ -8004,6 +7875,259 @@
               "ヘッダー",
               "ボタン",
               "グラフ"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tone-1789304031118-l1ro",
+    "slug": "tone",
+    "name": "tone",
+    "description": "tone は、写真を孔版印刷のような風合いに変える画像加工アプリです。 写真を選ぶと、ハーフトーンの細かなドットとインクの重なりで、 二色刷りのポスターやZINEのような一枚に仕上がります。 かんたんモードなら、ランダムボタンを押すだけで…",
+    "iconUrl": "/appui-images/tone/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/tone-%E7%B4%99%E3%81%AB%E5%88%B7%E3%81%A3%E3%81%9F%E3%82%88%E3%81%86%E3%81%AA%E5%86%99%E7%9C%9F%E5%8A%A0%E5%B7%A5/id6792391699?uo=4",
+    "categories": [
+      "写真・ビデオ"
+    ],
+    "components": [
+      "カード",
+      "リスト",
+      "ヘッダー",
+      "ボタン",
+      "フィルター"
+    ],
+    "sections": [
+      {
+        "id": "wvs021f",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "0krdu8n",
+            "src": "/appui-images/tone/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "フィルター"
+            ]
+          },
+          {
+            "id": "l7cx81t",
+            "src": "/appui-images/tone/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "フィルター"
+            ]
+          },
+          {
+            "id": "u0r9zv6",
+            "src": "/appui-images/tone/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "フィルター"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cookpad-1789304042897-coyj",
+    "slug": "cookpad",
+    "name": "クックパッド",
+    "description": "◆クックパッドとは クックパッドは、利用者数 No.1のレシピサービス（iOSアプリ1日あたりのアクティブユーザー数 2024年7月〜9月 Data.ai より）です。料理中も見やすいレシピ、広告も一切なし、食材検索するだけで今日つくるもの…",
+    "iconUrl": "/appui-images/cookpad/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AF%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89-no1%E7%AF%80%E7%B4%84%E6%96%99%E7%90%86%E3%82%84%E7%8C%AE%E7%AB%8B%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%82%A2%E3%83%97%E3%83%AA/id340368403?uo=4",
+    "categories": [
+      "フード・ドリンク"
+    ],
+    "components": [
+      "カード",
+      "リスト",
+      "ヘッダー",
+      "ボタン",
+      "検索",
+      "フィルター",
+      "ボトム ナビゲーション"
+    ],
+    "sections": [
+      {
+        "id": "uzzk4ck",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "ob935xz",
+            "src": "/appui-images/cookpad/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2akv1bn",
+            "src": "/appui-images/cookpad/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "58vjl87",
+            "src": "/appui-images/cookpad/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "routinery-1789304053988-ormv",
+    "slug": "routinery",
+    "name": "Routinery",
+    "description": "「計画倒れ」はもう終わり。ルーティンを、ただ「こなす」ものから「当たり前の生活」へ。 Routinery（ルーティナリー）は、単なる計画アプリではありません。音声ガイド付きタイマー、通知、そして日常生活に寄り添う柔軟な設計で、あなたの「行動…",
+    "iconUrl": "/appui-images/routinery/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E7%BF%92%E6%85%A3%E5%8C%96%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%83%AA%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%80%E3%83%BC-%E7%9B%AE%E6%A8%99%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC/id1450486923?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "カード",
+      "リスト",
+      "ヘッダー",
+      "ボタン",
+      "グラフ",
+      "フォーム"
+    ],
+    "sections": [
+      {
+        "id": "qkghsue",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "h10isjr",
+            "src": "/appui-images/routinery/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "グラフ"
+            ]
+          },
+          {
+            "id": "d0xs2qg",
+            "src": "/appui-images/routinery/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "グラフ"
+            ]
+          },
+          {
+            "id": "8o1gznl",
+            "src": "/appui-images/routinery/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "グラフ"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ticktick-1789304107640-8yzg",
+    "slug": "ticktick",
+    "name": "TickTick",
+    "description": "TickTickは、クラウドによって、すべてのデバイスでシームレスに同期できる強力なTodoタスク管理アプリケーションです。 あなたが手にしたいアイデア、あなたが達成したいと思っている個人的な目標、達成すべき仕事のタスク、または同僚と共同作…",
+    "iconUrl": "/appui-images/ticktick/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/ticktick-todo%E3%83%AA%E3%82%B9%E3%83%88%E3%81%A8%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%81%A8%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC/id626144601?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "カード",
+      "リスト",
+      "ヘッダー",
+      "ボタン",
+      "カレンダー",
+      "フォーム",
+      "ボトム ナビゲーション"
+    ],
+    "sections": [
+      {
+        "id": "ixyzdc3",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "q42d6vf",
+            "src": "/appui-images/ticktick/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "カレンダー"
+            ]
+          },
+          {
+            "id": "pa90e4x",
+            "src": "/appui-images/ticktick/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "カレンダー"
+            ]
+          },
+          {
+            "id": "nsy2w0q",
+            "src": "/appui-images/ticktick/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "カレンダー"
             ]
           }
         ]

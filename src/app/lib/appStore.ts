@@ -11,8 +11,8 @@ export type AppStoreSearchResult = {
 };
 
 const GENRE_TO_CATEGORY: Record<string, string> = {
-  'ソーシャルネットワーキング': 'ソーシャル ネットワーキング',
-  'Social Networking': 'ソーシャル ネットワーキング',
+  'ソーシャルネットワーキング': 'ソーシャルネットワーキング',
+  'Social Networking': 'ソーシャルネットワーキング',
   'ユーティリティ': '仕事効率化',
   Utilities: '仕事効率化',
   '仕事効率化': '仕事効率化',

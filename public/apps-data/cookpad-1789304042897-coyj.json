@@ -1,0 +1,934 @@
+{
+  "id": "cookpad-1789304042897-coyj",
+  "name": "クックパッド",
+  "description": "◆クックパッドとは クックパッドは、利用者数 No.1のレシピサービス（iOSアプリ1日あたりのアクティブユーザー数 2024年7月〜9月 Data.ai より）です。料理中も見やすいレシピ、広告も一切なし、食材検索するだけで今日つくるもの…",
+  "iconUrl": "/appui-images/cookpad/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AF%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89-no1%E7%AF%80%E7%B4%84%E6%96%99%E7%90%86%E3%82%84%E7%8C%AE%E7%AB%8B%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%82%A2%E3%83%97%E3%83%AA/id340368403?uo=4",
+  "categories": [
+    "フード・ドリンク"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "検索",
+    "フィルター",
+    "ボトム ナビゲーション"
+  ],
+  "sections": [
+    {
+      "id": "uzzk4ck",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "ob935xz",
+          "src": "/appui-images/cookpad/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2akv1bn",
+          "src": "/appui-images/cookpad/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "58vjl87",
+          "src": "/appui-images/cookpad/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ox2lyvm",
+          "src": "/appui-images/cookpad/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q72j9js",
+          "src": "/appui-images/cookpad/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b77x0rm",
+          "src": "/appui-images/cookpad/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1g5fq9m",
+          "src": "/appui-images/cookpad/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "x0cua8l",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "ffhxobf",
+          "src": "/appui-images/cookpad/IMG_5398.webp",
+          "filename": "IMG_5398.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cidiapv",
+          "src": "/appui-images/cookpad/IMG_5399.webp",
+          "filename": "IMG_5399.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "slzp4ei",
+          "src": "/appui-images/cookpad/IMG_5400.webp",
+          "filename": "IMG_5400.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1jlljof",
+          "src": "/appui-images/cookpad/IMG_5401.webp",
+          "filename": "IMG_5401.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "urpn0hw",
+          "src": "/appui-images/cookpad/IMG_5403.webp",
+          "filename": "IMG_5403.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "df3h521",
+          "src": "/appui-images/cookpad/IMG_5404.webp",
+          "filename": "IMG_5404.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "py528ot",
+          "src": "/appui-images/cookpad/IMG_5405.webp",
+          "filename": "IMG_5405.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8yg8ihw",
+          "src": "/appui-images/cookpad/IMG_5406.webp",
+          "filename": "IMG_5406.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9xepfoj",
+          "src": "/appui-images/cookpad/IMG_5407.webp",
+          "filename": "IMG_5407.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ve7x4sy",
+          "src": "/appui-images/cookpad/IMG_5410.webp",
+          "filename": "IMG_5410.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sbkw7or",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "dlhwdpd",
+          "src": "/appui-images/cookpad/IMG_5402.webp",
+          "filename": "IMG_5402.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cef5hmf",
+          "src": "/appui-images/cookpad/IMG_5411.webp",
+          "filename": "IMG_5411.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e95ixvd",
+          "src": "/appui-images/cookpad/IMG_5412.webp",
+          "filename": "IMG_5412.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wxxf0vx",
+          "src": "/appui-images/cookpad/IMG_5413.webp",
+          "filename": "IMG_5413.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0pt6adr",
+          "src": "/appui-images/cookpad/IMG_5414.webp",
+          "filename": "IMG_5414.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sq2mx7m",
+          "src": "/appui-images/cookpad/IMG_5415.webp",
+          "filename": "IMG_5415.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1r1qwn9",
+          "src": "/appui-images/cookpad/IMG_5459.webp",
+          "filename": "IMG_5459.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qfdss4d",
+      "title": "献立・買い物",
+      "images": [
+        {
+          "id": "8qw6ea9",
+          "src": "/appui-images/cookpad/IMG_5408.webp",
+          "filename": "IMG_5408.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uihya1l",
+          "src": "/appui-images/cookpad/IMG_5409.webp",
+          "filename": "IMG_5409.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l6sxq4q",
+          "src": "/appui-images/cookpad/IMG_5441.webp",
+          "filename": "IMG_5441.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lxp5a7v",
+          "src": "/appui-images/cookpad/IMG_5442.webp",
+          "filename": "IMG_5442.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fod128t",
+          "src": "/appui-images/cookpad/IMG_5443.webp",
+          "filename": "IMG_5443.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "owhghni",
+          "src": "/appui-images/cookpad/IMG_5444.webp",
+          "filename": "IMG_5444.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1t3ksxr",
+          "src": "/appui-images/cookpad/IMG_5445.webp",
+          "filename": "IMG_5445.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7wmtcv3",
+          "src": "/appui-images/cookpad/IMG_5446.webp",
+          "filename": "IMG_5446.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lpbj6cy",
+          "src": "/appui-images/cookpad/IMG_5447.webp",
+          "filename": "IMG_5447.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7jwjluc",
+          "src": "/appui-images/cookpad/IMG_5448.webp",
+          "filename": "IMG_5448.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o5pv22z",
+          "src": "/appui-images/cookpad/IMG_5449.webp",
+          "filename": "IMG_5449.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xf4f797",
+          "src": "/appui-images/cookpad/IMG_5450.webp",
+          "filename": "IMG_5450.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mg71wdf",
+          "src": "/appui-images/cookpad/IMG_5451.webp",
+          "filename": "IMG_5451.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zdrm7hx",
+          "src": "/appui-images/cookpad/IMG_5453.webp",
+          "filename": "IMG_5453.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "13zd2l8",
+          "src": "/appui-images/cookpad/IMG_5457.webp",
+          "filename": "IMG_5457.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "usxu9mm",
+      "title": "レシピ詳細",
+      "images": [
+        {
+          "id": "bu2uhd1",
+          "src": "/appui-images/cookpad/IMG_5416.webp",
+          "filename": "IMG_5416.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ltlghap",
+          "src": "/appui-images/cookpad/IMG_5418.webp",
+          "filename": "IMG_5418.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l1zuntc",
+          "src": "/appui-images/cookpad/IMG_5419.webp",
+          "filename": "IMG_5419.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yc564il",
+          "src": "/appui-images/cookpad/IMG_5420.webp",
+          "filename": "IMG_5420.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3dw5a2o",
+          "src": "/appui-images/cookpad/IMG_5421.webp",
+          "filename": "IMG_5421.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pwn5qsf",
+          "src": "/appui-images/cookpad/IMG_5423.webp",
+          "filename": "IMG_5423.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lfcrthr",
+          "src": "/appui-images/cookpad/IMG_5425.webp",
+          "filename": "IMG_5425.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dwto7k9",
+          "src": "/appui-images/cookpad/IMG_5426.webp",
+          "filename": "IMG_5426.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "23aq5q8",
+          "src": "/appui-images/cookpad/IMG_5427.webp",
+          "filename": "IMG_5427.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "po27e0e",
+          "src": "/appui-images/cookpad/IMG_5428.webp",
+          "filename": "IMG_5428.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bm47g6w",
+          "src": "/appui-images/cookpad/IMG_5429.webp",
+          "filename": "IMG_5429.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jgdmh89",
+          "src": "/appui-images/cookpad/IMG_5430.webp",
+          "filename": "IMG_5430.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ekshl6u",
+          "src": "/appui-images/cookpad/IMG_5431.webp",
+          "filename": "IMG_5431.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "444whk5",
+          "src": "/appui-images/cookpad/IMG_5432.webp",
+          "filename": "IMG_5432.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q3qnjzf",
+          "src": "/appui-images/cookpad/IMG_5452.webp",
+          "filename": "IMG_5452.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j8c2zeo",
+          "src": "/appui-images/cookpad/IMG_5458.webp",
+          "filename": "IMG_5458.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rw2zav1",
+      "title": "検索",
+      "images": [
+        {
+          "id": "shwefe1",
+          "src": "/appui-images/cookpad/IMG_5417.webp",
+          "filename": "IMG_5417.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9bj8maf",
+          "src": "/appui-images/cookpad/IMG_5422.webp",
+          "filename": "IMG_5422.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "55qq5e3",
+          "src": "/appui-images/cookpad/IMG_5433.webp",
+          "filename": "IMG_5433.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8one1x1",
+          "src": "/appui-images/cookpad/IMG_5434.webp",
+          "filename": "IMG_5434.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "95qvixz",
+          "src": "/appui-images/cookpad/IMG_5435.webp",
+          "filename": "IMG_5435.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "linec08",
+          "src": "/appui-images/cookpad/IMG_5436.webp",
+          "filename": "IMG_5436.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e66wqec",
+          "src": "/appui-images/cookpad/IMG_5437.webp",
+          "filename": "IMG_5437.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4m9udn1",
+          "src": "/appui-images/cookpad/IMG_5438.webp",
+          "filename": "IMG_5438.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h1uc87a",
+          "src": "/appui-images/cookpad/IMG_5439.webp",
+          "filename": "IMG_5439.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i46v8wu",
+          "src": "/appui-images/cookpad/IMG_5440.webp",
+          "filename": "IMG_5440.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rgkka3k",
+      "title": "マイページ・設定",
+      "images": [
+        {
+          "id": "186kto6",
+          "src": "/appui-images/cookpad/IMG_5424.webp",
+          "filename": "IMG_5424.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n40qjug",
+          "src": "/appui-images/cookpad/IMG_5454.webp",
+          "filename": "IMG_5454.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2mkmnw1",
+          "src": "/appui-images/cookpad/IMG_5456.webp",
+          "filename": "IMG_5456.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bze5inu",
+          "src": "/appui-images/cookpad/IMG_5460.webp",
+          "filename": "IMG_5460.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "84w2wx6",
+          "src": "/appui-images/cookpad/IMG_5461.webp",
+          "filename": "IMG_5461.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7iy5oil",
+          "src": "/appui-images/cookpad/IMG_5462.webp",
+          "filename": "IMG_5462.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6cx3xh",
+      "title": "投稿・つくれぽ",
+      "images": [
+        {
+          "id": "r4dr4ba",
+          "src": "/appui-images/cookpad/IMG_5455.webp",
+          "filename": "IMG_5455.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "cookpad"
+}

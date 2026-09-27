@@ -1,12 +1,12 @@
 import { Navigate, Route, Routes, useNavigate, useParams } from 'react-router'
-import { useEffect, useState } from 'react'
+import { lazy, Suspense, useEffect, useState } from 'react'
 import App from './App'
-import { AdminScreen } from './components/AdminScreen'
 import { DetailScreen } from './components/DetailScreen'
 import { CompareTray, CompareView } from './components/ComparePanel'
 import { Seo } from './components/Seo'
 import { AboutPage } from './pages/AboutPage'
 import { PrivacyPage } from './pages/PrivacyPage'
+import { RequestPage } from './pages/RequestPage'
 import { decodeFilterSlug } from './lib/slug'
 import {
   compareSlotCount,
@@ -15,40 +15,9 @@ import {
 } from './lib/compare'
 import type { AppData } from '../types/app'
 
-function AdminRoute() {
-  const navigate = useNavigate()
-  const [apps, setApps] = useState<AppData[]>([])
-
-  useEffect(() => {
-    let canceled = false
-    ;(async () => {
-      try {
-        const response = await fetch('/apps.json', { cache: 'no-store' })
-        const data = (await response.json()) as AppData[]
-        if (!canceled) setApps(Array.isArray(data) ? data : [])
-      } catch {
-        if (!canceled) setApps([])
-      }
-    })()
-    return () => {
-      canceled = true
-    }
-  }, [])
-
-  return (
-    <>
-      <Seo title="管理画面" path="/admin" noindex description="管理画面" />
-      <AdminScreen
-        apps={apps}
-        onBack={() => navigate('/')}
-        onRegistered={() => {
-          void fetch('/api/admin/split-apps', { method: 'POST' }).catch(() => {})
-          navigate('/')
-        }}
-      />
-    </>
-  )
-}
+const AdminRoute = import.meta.env.DEV
+  ? lazy(() => import('./AdminRoute'))
+  : null
 
 function AppDetailRoute() {
   const { slug = '' } = useParams()
@@ -186,7 +155,17 @@ export function AppRouter() {
       <Route path="/component/:slug" element={<ComponentRoute />} />
       <Route path="/about" element={<AboutPage />} />
       <Route path="/privacy" element={<PrivacyPage />} />
-      <Route path="/admin" element={<AdminRoute />} />
+      <Route path="/request" element={<RequestPage />} />
+      {import.meta.env.DEV && AdminRoute ? (
+        <Route
+          path="/admin"
+          element={
+            <Suspense fallback={null}>
+              <AdminRoute />
+            </Suspense>
+          }
+        />
+      ) : null}
       <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>
   )

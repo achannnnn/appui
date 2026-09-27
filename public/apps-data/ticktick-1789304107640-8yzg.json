@@ -1,0 +1,1024 @@
+{
+  "id": "ticktick-1789304107640-8yzg",
+  "name": "TickTick",
+  "description": "TickTickは、クラウドによって、すべてのデバイスでシームレスに同期できる強力なTodoタスク管理アプリケーションです。 あなたが手にしたいアイデア、あなたが達成したいと思っている個人的な目標、達成すべき仕事のタスク、または同僚と共同作…",
+  "iconUrl": "/appui-images/ticktick/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/ticktick-todo%E3%83%AA%E3%82%B9%E3%83%88%E3%81%A8%E3%82%BF%E3%82%B9%E3%82%AF%E7%AE%A1%E7%90%86%E3%81%A8%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC/id626144601?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "カード",
+    "リスト",
+    "ヘッダー",
+    "ボタン",
+    "カレンダー",
+    "フォーム",
+    "ボトム ナビゲーション"
+  ],
+  "sections": [
+    {
+      "id": "ixyzdc3",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "q42d6vf",
+          "src": "/appui-images/ticktick/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "pa90e4x",
+          "src": "/appui-images/ticktick/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "nsy2w0q",
+          "src": "/appui-images/ticktick/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "xtfb3ty",
+          "src": "/appui-images/ticktick/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "5nmpmi8",
+          "src": "/appui-images/ticktick/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "w5yu09u",
+          "src": "/appui-images/ticktick/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "qi1r3qo",
+          "src": "/appui-images/ticktick/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "x02mfts",
+          "src": "/appui-images/ticktick/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "mtjfgyb",
+          "src": "/appui-images/ticktick/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "kwfgw75",
+          "src": "/appui-images/ticktick/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63n5gci",
+      "title": "その他",
+      "images": [
+        {
+          "id": "ps48e4i",
+          "src": "/appui-images/ticktick/IMG_5518.webp",
+          "filename": "IMG_5518.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iz4gm2n",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "3s6yyrt",
+          "src": "/appui-images/ticktick/IMG_5519.webp",
+          "filename": "IMG_5519.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "89xl14t",
+          "src": "/appui-images/ticktick/IMG_5526.webp",
+          "filename": "IMG_5526.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "bx39b8k",
+          "src": "/appui-images/ticktick/IMG_5527.webp",
+          "filename": "IMG_5527.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "kps6t3f",
+          "src": "/appui-images/ticktick/IMG_5528.webp",
+          "filename": "IMG_5528.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "z2jb8bq",
+          "src": "/appui-images/ticktick/IMG_5529.webp",
+          "filename": "IMG_5529.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "h5hajrg",
+          "src": "/appui-images/ticktick/IMG_5531.webp",
+          "filename": "IMG_5531.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rc3vw1y",
+          "src": "/appui-images/ticktick/IMG_5534.webp",
+          "filename": "IMG_5534.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "4raijf2",
+          "src": "/appui-images/ticktick/IMG_5535.webp",
+          "filename": "IMG_5535.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "lc29i01",
+          "src": "/appui-images/ticktick/IMG_5539.webp",
+          "filename": "IMG_5539.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "m0vc5pc",
+          "src": "/appui-images/ticktick/IMG_5540.webp",
+          "filename": "IMG_5540.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "sosckz7",
+          "src": "/appui-images/ticktick/IMG_5543.webp",
+          "filename": "IMG_5543.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "juuhrkv",
+          "src": "/appui-images/ticktick/IMG_5544.webp",
+          "filename": "IMG_5544.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "82ueay7",
+          "src": "/appui-images/ticktick/IMG_5545.webp",
+          "filename": "IMG_5545.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vwlzkn9",
+          "src": "/appui-images/ticktick/IMG_5546.webp",
+          "filename": "IMG_5546.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "yzc4x5c",
+          "src": "/appui-images/ticktick/IMG_5548.webp",
+          "filename": "IMG_5548.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "hrz0n6j",
+          "src": "/appui-images/ticktick/IMG_5571.webp",
+          "filename": "IMG_5571.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "mqqwscq",
+          "src": "/appui-images/ticktick/IMG_5572.webp",
+          "filename": "IMG_5572.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "up8k1w3",
+      "title": "タスク一覧",
+      "images": [
+        {
+          "id": "qflblmu",
+          "src": "/appui-images/ticktick/IMG_5520.webp",
+          "filename": "IMG_5520.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "iiygmdb",
+          "src": "/appui-images/ticktick/IMG_5532.webp",
+          "filename": "IMG_5532.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "30a2q3y",
+          "src": "/appui-images/ticktick/IMG_5533.webp",
+          "filename": "IMG_5533.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "kdtchq3",
+          "src": "/appui-images/ticktick/IMG_5541.webp",
+          "filename": "IMG_5541.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "bj4jdb1",
+          "src": "/appui-images/ticktick/IMG_5542.webp",
+          "filename": "IMG_5542.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "i9jlxbm",
+          "src": "/appui-images/ticktick/IMG_5547.webp",
+          "filename": "IMG_5547.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ab69syw",
+          "src": "/appui-images/ticktick/IMG_5549.webp",
+          "filename": "IMG_5549.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "d96kqh1",
+          "src": "/appui-images/ticktick/IMG_5550.webp",
+          "filename": "IMG_5550.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vnsp8ct",
+          "src": "/appui-images/ticktick/IMG_5553.webp",
+          "filename": "IMG_5553.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "w650fko",
+          "src": "/appui-images/ticktick/IMG_5554.webp",
+          "filename": "IMG_5554.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "q0e90xt",
+          "src": "/appui-images/ticktick/IMG_5555.webp",
+          "filename": "IMG_5555.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wwbjzo8",
+          "src": "/appui-images/ticktick/IMG_5556.webp",
+          "filename": "IMG_5556.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "bx7fs7a",
+          "src": "/appui-images/ticktick/IMG_5557.webp",
+          "filename": "IMG_5557.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "2trsmwd",
+          "src": "/appui-images/ticktick/IMG_5558.webp",
+          "filename": "IMG_5558.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "dxyhefp",
+          "src": "/appui-images/ticktick/IMG_5559.webp",
+          "filename": "IMG_5559.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "umxv3e4",
+          "src": "/appui-images/ticktick/IMG_5560.webp",
+          "filename": "IMG_5560.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rpod73a",
+          "src": "/appui-images/ticktick/IMG_5561.webp",
+          "filename": "IMG_5561.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "1ixtizk",
+          "src": "/appui-images/ticktick/IMG_5562.webp",
+          "filename": "IMG_5562.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "o8v50lb",
+          "src": "/appui-images/ticktick/IMG_5563.webp",
+          "filename": "IMG_5563.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "m030v9l",
+          "src": "/appui-images/ticktick/IMG_5564.webp",
+          "filename": "IMG_5564.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "9b993ll",
+          "src": "/appui-images/ticktick/IMG_5565.webp",
+          "filename": "IMG_5565.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "0quwfin",
+          "src": "/appui-images/ticktick/IMG_5566.webp",
+          "filename": "IMG_5566.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "v3rpxso",
+          "src": "/appui-images/ticktick/IMG_5567.webp",
+          "filename": "IMG_5567.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "rxtbxen",
+          "src": "/appui-images/ticktick/IMG_5568.webp",
+          "filename": "IMG_5568.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "8effgrp",
+          "src": "/appui-images/ticktick/IMG_5569.webp",
+          "filename": "IMG_5569.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "2usjqkb",
+          "src": "/appui-images/ticktick/IMG_5570.webp",
+          "filename": "IMG_5570.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "45vyryb",
+          "src": "/appui-images/ticktick/IMG_5573.webp",
+          "filename": "IMG_5573.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wybddvj",
+          "src": "/appui-images/ticktick/IMG_5574.webp",
+          "filename": "IMG_5574.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ohbb8bi",
+          "src": "/appui-images/ticktick/IMG_5581.webp",
+          "filename": "IMG_5581.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "fza0907",
+          "src": "/appui-images/ticktick/IMG_5582.webp",
+          "filename": "IMG_5582.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k8iize0",
+      "title": "習慣・ポモドーロ",
+      "images": [
+        {
+          "id": "sd8d4uj",
+          "src": "/appui-images/ticktick/IMG_5521.webp",
+          "filename": "IMG_5521.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "t42y1g8",
+          "src": "/appui-images/ticktick/IMG_5522.webp",
+          "filename": "IMG_5522.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "8qrk39n",
+          "src": "/appui-images/ticktick/IMG_5523.webp",
+          "filename": "IMG_5523.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "phdjjaq",
+          "src": "/appui-images/ticktick/IMG_5524.webp",
+          "filename": "IMG_5524.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "j07jum8",
+          "src": "/appui-images/ticktick/IMG_5525.webp",
+          "filename": "IMG_5525.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "o7amcwd",
+          "src": "/appui-images/ticktick/IMG_5536.webp",
+          "filename": "IMG_5536.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "wdt130t",
+          "src": "/appui-images/ticktick/IMG_5551.webp",
+          "filename": "IMG_5551.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "vo14cng",
+          "src": "/appui-images/ticktick/IMG_5575.webp",
+          "filename": "IMG_5575.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "uf2gscu",
+          "src": "/appui-images/ticktick/IMG_5576.webp",
+          "filename": "IMG_5576.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "mko1xcq",
+          "src": "/appui-images/ticktick/IMG_5577.webp",
+          "filename": "IMG_5577.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "h0mw168",
+          "src": "/appui-images/ticktick/IMG_5578.webp",
+          "filename": "IMG_5578.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "qi7wqr3",
+          "src": "/appui-images/ticktick/IMG_5579.webp",
+          "filename": "IMG_5579.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "noxctyx",
+          "src": "/appui-images/ticktick/IMG_5580.webp",
+          "filename": "IMG_5580.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "y5undxf",
+          "src": "/appui-images/ticktick/IMG_5587.webp",
+          "filename": "IMG_5587.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6hpp87s",
+      "title": "設定",
+      "images": [
+        {
+          "id": "1l06215",
+          "src": "/appui-images/ticktick/IMG_5530.webp",
+          "filename": "IMG_5530.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "1k2zpte",
+          "src": "/appui-images/ticktick/IMG_5537.webp",
+          "filename": "IMG_5537.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "ol23amz",
+          "src": "/appui-images/ticktick/IMG_5538.webp",
+          "filename": "IMG_5538.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "misr7ew",
+          "src": "/appui-images/ticktick/IMG_5583.webp",
+          "filename": "IMG_5583.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "097nign",
+          "src": "/appui-images/ticktick/IMG_5584.webp",
+          "filename": "IMG_5584.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "mxk2oee",
+          "src": "/appui-images/ticktick/IMG_5585.webp",
+          "filename": "IMG_5585.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        },
+        {
+          "id": "pipv0jr",
+          "src": "/appui-images/ticktick/IMG_5586.webp",
+          "filename": "IMG_5586.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t6s6nej",
+      "title": "追加・編集",
+      "images": [
+        {
+          "id": "0xtz5ca",
+          "src": "/appui-images/ticktick/IMG_5552.webp",
+          "filename": "IMG_5552.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "カレンダー"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "ticktick"
+}
