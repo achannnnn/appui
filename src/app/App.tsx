@@ -1,5 +1,5 @@
-import { useState, useEffect, useRef, useMemo } from "react";
-import { Link, useNavigate } from "react-router";
+import { useState, useEffect, useLayoutEffect, useRef, useMemo } from "react";
+import { Link, useLocation, useNavigate, useNavigationType } from "react-router";
 import svgPaths from "../imports/svg-zbe04r0wo2";
 import imgRectangle2 from "figma:asset/f25f24d67f1a004fb0091bf57a8e29903664f47b.png";
 import imgRectangle3 from "figma:asset/3ae44375b3580a8cb906e49ac8c42a2b5bf74fde.png";
@@ -14,6 +14,7 @@ import {
 } from "./lib/compare";
 import { encodeFilterSlug } from "./lib/slug";
 import { readFavoriteAppIds } from "./lib/favorites";
+import { readListScroll, saveListScroll } from "./lib/listScroll";
 import { DEFAULT_DESCRIPTION, SITE_NAME } from "./lib/site";
 
 function Frame22() {
@@ -827,6 +828,8 @@ type AppProps = {
 
 export default function App({ initialCategory = null, initialComponent = null }: AppProps) {
   const navigate = useNavigate();
+  const location = useLocation();
+  const navigationType = useNavigationType();
   const [showCategoryDropdown, setShowCategoryDropdown] = useState(false);
   const [showComponentDropdown, setShowComponentDropdown] = useState(false);
   const [layout, setLayout] = useState<'3column' | '2column'>('3column');
@@ -846,6 +849,36 @@ export default function App({ initialCategory = null, initialComponent = null }:
     setSelectedCategory(initialCategory);
     setSelectedComponent(initialComponent);
   }, [initialCategory, initialComponent]);
+
+  useEffect(() => {
+    const previous = history.scrollRestoration
+    history.scrollRestoration = 'manual'
+    return () => {
+      history.scrollRestoration = previous
+    }
+  }, [])
+
+  useLayoutEffect(() => {
+    const path = `${location.pathname}${location.search}`
+    if (navigationType !== 'POP') {
+      window.scrollTo(0, 0)
+      return
+    }
+    if (appsLoading) return
+    const y = readListScroll(path)
+    if (!y) return
+
+    let frames = 0
+    let raf = 0
+    const apply = () => {
+      window.scrollTo(0, y)
+      frames += 1
+      const maxScroll = document.documentElement.scrollHeight - window.innerHeight
+      if (y > maxScroll + 24 && frames < 12) raf = requestAnimationFrame(apply)
+    }
+    apply()
+    return () => cancelAnimationFrame(raf)
+  }, [appsLoading, location.pathname, location.search, navigationType])
 
   useEffect(() => {
     setFavoriteIds(readFavoriteAppIds());
@@ -896,7 +929,8 @@ export default function App({ initialCategory = null, initialComponent = null }:
         const response = await fetch('/apps-index.json');
         if (!response.ok) throw new Error('apps-index.jsonの取得に失敗しました');
         const data = (await response.json()) as AppData[];
-        if (!canceled) setApps(Array.isArray(data) ? data : []);
+        const list = Array.isArray(data) ? data : [];
+        if (!canceled) setApps(list.slice().reverse());
       } catch {
         if (!canceled) setApps([]);
       } finally {
@@ -942,7 +976,7 @@ export default function App({ initialCategory = null, initialComponent = null }:
       const matchesComponent = !selectedComponentToken
         || componentTokens.some((token) => token.includes(selectedComponentToken) || selectedComponentToken.includes(token));
       const matchesFavorite = !favoritesOnly || favoriteIds.includes(app.id);
-      return matchesSearch && matchesCategory && matchesComponent && matchesFavorite;
+      return !app.hidden && matchesSearch && matchesCategory && matchesComponent && matchesFavorite;
     });
   }, [apps, searchValue, selectedCategory, selectedComponent, favoritesOnly, favoriteIds]);
 
@@ -952,7 +986,7 @@ export default function App({ initialCategory = null, initialComponent = null }:
     const appById = new Map(apps.map((app) => [app.id, app]));
     return componentHits.flatMap((hit) => {
       const app = appById.get(hit.appId);
-      if (!app) return [];
+      if (!app || app.hidden) return [];
       const matchesSearch = !searchValue.trim()
         || app.name.toLowerCase().includes(searchValue.trim().toLowerCase());
       if (!matchesSearch) return [];
@@ -1038,8 +1072,9 @@ export default function App({ initialCategory = null, initialComponent = null }:
   const handleOpenDetail = (app: AppData) => {
     const slug = app.slug;
     if (!slug) return;
-    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-    navigate(`/apps/${slug}`);
+    const listPath = `${location.pathname}${location.search}`
+    saveListScroll(listPath, window.scrollY)
+    navigate(`/apps/${slug}`, { state: { from: listPath } });
   };
 
   const seoTitle = selectedComponent
@@ -1082,7 +1117,7 @@ export default function App({ initialCategory = null, initialComponent = null }:
         appsLoading={appsLoading}
         screenshots={filteredScreenshots}
         componentOptions={availableComponents}
-        totalAppCount={apps.length}
+        totalAppCount={apps.filter((app) => !app.hidden).length}
         favoritesActive={favoritesOnly}
         onFavoritesClick={() => setFavoritesOnly((value) => !value)}
       />

@@ -19,6 +19,985 @@
     "ボトム ナビゲーション",
     "フォーム"
   ],
-  "sections": [],
+  "sections": [
+    {
+      "id": "8vxzvjs",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "ymmkx63",
+          "src": "/appui-images/satofuru/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "51pipz2",
+          "src": "/appui-images/satofuru/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "k5ez1z3",
+          "src": "/appui-images/satofuru/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "3tgpena",
+          "src": "/appui-images/satofuru/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "4dc0bh6",
+          "src": "/appui-images/satofuru/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "q0eh63j",
+          "src": "/appui-images/satofuru/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        },
+        {
+          "id": "uibo7z3",
+          "src": "/appui-images/satofuru/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "カード",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "soajokk",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "g79s47e",
+          "src": "/appui-images/satofuru/4460FEAD-870E-4438-91BE-E698671D89E5.webp",
+          "filename": "4460FEAD-870E-4438-91BE-E698671D89E5.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ue52ds4",
+          "src": "/appui-images/satofuru/81E43A70-20C2-4871-AF08-B5EE95FA3232.webp",
+          "filename": "81E43A70-20C2-4871-AF08-B5EE95FA3232.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3kwcygd",
+          "src": "/appui-images/satofuru/92061177-F3EC-4128-9775-33BBDBEC9D9B.webp",
+          "filename": "92061177-F3EC-4128-9775-33BBDBEC9D9B.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gsbitxt",
+          "src": "/appui-images/satofuru/B90C9FA6-06AC-49DA-BCDE-B984207EC59A.webp",
+          "filename": "B90C9FA6-06AC-49DA-BCDE-B984207EC59A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "m0sas9s",
+          "src": "/appui-images/satofuru/FBE38045-F24E-40F1-ABA1-C7C42AA22631.webp",
+          "filename": "FBE38045-F24E-40F1-ABA1-C7C42AA22631.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adgf55c",
+      "title": "返礼品詳細",
+      "images": [
+        {
+          "id": "vet7isv",
+          "src": "/appui-images/satofuru/9FB018E8-49EE-414D-81CE-38F477642A5E.webp",
+          "filename": "9FB018E8-49EE-414D-81CE-38F477642A5E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ifxjizx",
+          "src": "/appui-images/satofuru/DAD8E459-F5FC-4572-BDD2-A03FAA4018B6.webp",
+          "filename": "DAD8E459-F5FC-4572-BDD2-A03FAA4018B6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "an56akw",
+          "src": "/appui-images/satofuru/A7D1B68F-8E59-4208-9B84-A1162651E621.webp",
+          "filename": "A7D1B68F-8E59-4208-9B84-A1162651E621.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e6bylhd",
+          "src": "/appui-images/satofuru/DA71B1A3-B661-418D-AAD5-682B8E87AB6F.webp",
+          "filename": "DA71B1A3-B661-418D-AAD5-682B8E87AB6F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "owx779r",
+          "src": "/appui-images/satofuru/6B527D75-91E2-4062-8B70-D8E9200A6D26.webp",
+          "filename": "6B527D75-91E2-4062-8B70-D8E9200A6D26.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9vklqq6",
+          "src": "/appui-images/satofuru/CCADC461-EC02-4044-8E58-BB9E850B785B.webp",
+          "filename": "CCADC461-EC02-4044-8E58-BB9E850B785B.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "d23ylfx",
+          "src": "/appui-images/satofuru/FEE9DE2B-F4CE-4465-935C-5D71B9C8DFF5.webp",
+          "filename": "FEE9DE2B-F4CE-4465-935C-5D71B9C8DFF5.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "367zczn",
+          "src": "/appui-images/satofuru/39CA70F7-F9B3-4FBE-862C-9BC7FE77FFAD.webp",
+          "filename": "39CA70F7-F9B3-4FBE-862C-9BC7FE77FFAD.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9bd9n6j",
+          "src": "/appui-images/satofuru/E088320F-EDE6-4BA3-B17A-AFE2694B5FD8.webp",
+          "filename": "E088320F-EDE6-4BA3-B17A-AFE2694B5FD8.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4n0iybd",
+          "src": "/appui-images/satofuru/BAB68EDF-456A-46EB-B2F2-24153BCE7B6C.webp",
+          "filename": "BAB68EDF-456A-46EB-B2F2-24153BCE7B6C.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "b11d288",
+          "src": "/appui-images/satofuru/1440FCC3-22F3-4AA0-8DE8-2915D6CA0F15.webp",
+          "filename": "1440FCC3-22F3-4AA0-8DE8-2915D6CA0F15.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l9rv770",
+          "src": "/appui-images/satofuru/6A3266F4-C973-4A37-96E9-935724F37EED.webp",
+          "filename": "6A3266F4-C973-4A37-96E9-935724F37EED.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a7hmbph",
+          "src": "/appui-images/satofuru/07EE51E0-A1D8-4BDA-9A89-2C9167701F4C.webp",
+          "filename": "07EE51E0-A1D8-4BDA-9A89-2C9167701F4C.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0xcva80",
+          "src": "/appui-images/satofuru/DB511A00-C680-4AA2-A7FB-E8B2784BB798.webp",
+          "filename": "DB511A00-C680-4AA2-A7FB-E8B2784BB798.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "oxxt0y5",
+          "src": "/appui-images/satofuru/158C2093-0AF5-42FC-A180-C30F3D88CDE9.webp",
+          "filename": "158C2093-0AF5-42FC-A180-C30F3D88CDE9.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hdmyy2h",
+          "src": "/appui-images/satofuru/B9C26962-1ED7-48BB-8CD2-F23126BB81E2.webp",
+          "filename": "B9C26962-1ED7-48BB-8CD2-F23126BB81E2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "k5wgmkq",
+          "src": "/appui-images/satofuru/87ED48FC-769A-4078-A93F-3E1BD135A691.webp",
+          "filename": "87ED48FC-769A-4078-A93F-3E1BD135A691.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iubyvg5",
+          "src": "/appui-images/satofuru/71215A19-FB16-4B4A-8228-6698E133D100.webp",
+          "filename": "71215A19-FB16-4B4A-8228-6698E133D100.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yb4tslq",
+          "src": "/appui-images/satofuru/0F3B2CA0-FD73-49EC-949F-5E035D3BE3BC.webp",
+          "filename": "0F3B2CA0-FD73-49EC-949F-5E035D3BE3BC.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "94yoez2",
+          "src": "/appui-images/satofuru/3AA8214D-2B1F-48E4-A50B-5511AE4409E6.webp",
+          "filename": "3AA8214D-2B1F-48E4-A50B-5511AE4409E6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "s4riezs",
+          "src": "/appui-images/satofuru/C68328F3-6F06-4348-ADB0-BEF144BFEC81.webp",
+          "filename": "C68328F3-6F06-4348-ADB0-BEF144BFEC81.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n9sazyg",
+          "src": "/appui-images/satofuru/61B63C35-41D1-4E1E-9B7D-41A28E42604D.webp",
+          "filename": "61B63C35-41D1-4E1E-9B7D-41A28E42604D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "13xz7nv",
+          "src": "/appui-images/satofuru/8D2DCA70-0250-47EF-9565-411E88ED3E12.webp",
+          "filename": "8D2DCA70-0250-47EF-9565-411E88ED3E12.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9yq1gfj",
+          "src": "/appui-images/satofuru/30689282-4B18-4246-8D28-2208F8D16496.webp",
+          "filename": "30689282-4B18-4246-8D28-2208F8D16496.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1u664x1",
+          "src": "/appui-images/satofuru/7B3D8B63-7A38-49FD-B5EB-D43490856A2E.webp",
+          "filename": "7B3D8B63-7A38-49FD-B5EB-D43490856A2E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e60wj23",
+          "src": "/appui-images/satofuru/E781476E-E7E6-4EE4-B28E-67414701A882.webp",
+          "filename": "E781476E-E7E6-4EE4-B28E-67414701A882.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n9mqx7p",
+          "src": "/appui-images/satofuru/00A8A40F-4534-457C-AB6C-E25D7D323486.webp",
+          "filename": "00A8A40F-4534-457C-AB6C-E25D7D323486.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "y53zral",
+          "src": "/appui-images/satofuru/94932D36-FFDE-4D5C-A08F-43A3E6C3052C.webp",
+          "filename": "94932D36-FFDE-4D5C-A08F-43A3E6C3052C.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "axy56ah",
+          "src": "/appui-images/satofuru/71CF0236-4073-4DFE-A3DC-D539A3753EAE.webp",
+          "filename": "71CF0236-4073-4DFE-A3DC-D539A3753EAE.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "n3spe86",
+          "src": "/appui-images/satofuru/63386221-CFD6-41EE-9214-843E0B1AAEAB.webp",
+          "filename": "63386221-CFD6-41EE-9214-843E0B1AAEAB.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "v1d67uz",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "sfbcswi",
+          "src": "/appui-images/satofuru/3590991A-A05E-414A-8E7D-5837CF595372.webp",
+          "filename": "3590991A-A05E-414A-8E7D-5837CF595372.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cvdy8fo",
+          "src": "/appui-images/satofuru/44D54D2E-F2C7-4A26-AC1B-968E68AE3773.webp",
+          "filename": "44D54D2E-F2C7-4A26-AC1B-968E68AE3773.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cnmgnv7",
+          "src": "/appui-images/satofuru/A9C94E39-9C3F-4F15-A064-DFB6614E8971.webp",
+          "filename": "A9C94E39-9C3F-4F15-A064-DFB6614E8971.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e56ope",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "au51e6p",
+          "src": "/appui-images/satofuru/3B2EEB9B-C4E4-4C80-B915-C8EC2593C902.webp",
+          "filename": "3B2EEB9B-C4E4-4C80-B915-C8EC2593C902.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kxlig2d",
+          "src": "/appui-images/satofuru/8BA73D6D-BF19-4F42-A1DD-E9108DEAB054.webp",
+          "filename": "8BA73D6D-BF19-4F42-A1DD-E9108DEAB054.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j89tr6x",
+          "src": "/appui-images/satofuru/03146AF4-4DF1-4984-8B5C-444233573844.webp",
+          "filename": "03146AF4-4DF1-4984-8B5C-444233573844.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "18egfmh",
+          "src": "/appui-images/satofuru/CA50C15C-1026-45FD-AA40-07E0E41917DD.webp",
+          "filename": "CA50C15C-1026-45FD-AA40-07E0E41917DD.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kdza65x",
+          "src": "/appui-images/satofuru/8C875305-8501-481E-9C5F-91BE16E7EAF5.webp",
+          "filename": "8C875305-8501-481E-9C5F-91BE16E7EAF5.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2mijl0o",
+          "src": "/appui-images/satofuru/55CB9A5E-349A-4C50-9E3C-AE2AFBD4FB04.webp",
+          "filename": "55CB9A5E-349A-4C50-9E3C-AE2AFBD4FB04.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t5crj66",
+          "src": "/appui-images/satofuru/E5C58EFC-DB0D-474D-AEB9-B7C0DB6E0748.webp",
+          "filename": "E5C58EFC-DB0D-474D-AEB9-B7C0DB6E0748.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tjx6qir",
+          "src": "/appui-images/satofuru/45098623-F47A-43D2-BE72-781E7AE05DF0.webp",
+          "filename": "45098623-F47A-43D2-BE72-781E7AE05DF0.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "p6cb7lb",
+          "src": "/appui-images/satofuru/16ED010D-639E-48B5-844D-3EF976358988.webp",
+          "filename": "16ED010D-639E-48B5-844D-3EF976358988.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ea2652h",
+          "src": "/appui-images/satofuru/183D4A7D-3EEE-4D2A-97BB-550008F50D35.webp",
+          "filename": "183D4A7D-3EEE-4D2A-97BB-550008F50D35.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "jnirm9q",
+          "src": "/appui-images/satofuru/D050C32A-F68B-40D3-95A3-B1D17979506F.webp",
+          "filename": "D050C32A-F68B-40D3-95A3-B1D17979506F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lleqja6",
+          "src": "/appui-images/satofuru/192DC6A3-9503-4A4A-B82B-D3FB9E48A62E.webp",
+          "filename": "192DC6A3-9503-4A4A-B82B-D3FB9E48A62E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bsic250",
+          "src": "/appui-images/satofuru/79387FAA-D028-4C3F-86A6-9770F15C5308.webp",
+          "filename": "79387FAA-D028-4C3F-86A6-9770F15C5308.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l06j32a",
+          "src": "/appui-images/satofuru/FD1DB36D-2268-463A-B8E9-98CDA6BD39C6.webp",
+          "filename": "FD1DB36D-2268-463A-B8E9-98CDA6BD39C6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bevhcwp",
+          "src": "/appui-images/satofuru/9748806F-195E-479F-A53B-9936ADCC1CCE.webp",
+          "filename": "9748806F-195E-479F-A53B-9936ADCC1CCE.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hr2431q",
+          "src": "/appui-images/satofuru/468F45EB-9177-4994-9DF8-59B25100A490.webp",
+          "filename": "468F45EB-9177-4994-9DF8-59B25100A490.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hbeux6t",
+          "src": "/appui-images/satofuru/3C1C650B-A723-4898-BC64-911EA1001310.webp",
+          "filename": "3C1C650B-A723-4898-BC64-911EA1001310.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1e2keyg",
+          "src": "/appui-images/satofuru/D8BE7173-14D2-4627-BEEF-2993A5C83772.webp",
+          "filename": "D8BE7173-14D2-4627-BEEF-2993A5C83772.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85oha8e",
+      "title": "検索・一覧",
+      "images": [
+        {
+          "id": "m0bfye4",
+          "src": "/appui-images/satofuru/15EB8082-2191-45A8-AB4A-C2150F32A6D3.webp",
+          "filename": "15EB8082-2191-45A8-AB4A-C2150F32A6D3.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e0toirq",
+          "src": "/appui-images/satofuru/A171CDFF-141F-4E5B-8F4F-636F2E2D9F18.webp",
+          "filename": "A171CDFF-141F-4E5B-8F4F-636F2E2D9F18.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "q9vc4rt",
+          "src": "/appui-images/satofuru/906E0173-89A8-49C7-950F-7BE3DFA3BF48.webp",
+          "filename": "906E0173-89A8-49C7-950F-7BE3DFA3BF48.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iiamb1z",
+          "src": "/appui-images/satofuru/BF7359C4-77B3-4FE3-8536-77AEC55AA9E3.webp",
+          "filename": "BF7359C4-77B3-4FE3-8536-77AEC55AA9E3.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "phw4vxo",
+          "src": "/appui-images/satofuru/23375D04-EE5E-4BF9-BF33-D725C3581729.webp",
+          "filename": "23375D04-EE5E-4BF9-BF33-D725C3581729.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3ttvemr",
+          "src": "/appui-images/satofuru/4A752A2C-2D6F-481D-9AF5-965AB7C3B1F8.webp",
+          "filename": "4A752A2C-2D6F-481D-9AF5-965AB7C3B1F8.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "oedvj6t",
+          "src": "/appui-images/satofuru/5AC96DF8-6E07-4E9D-918B-A8FBDA76CC25.webp",
+          "filename": "5AC96DF8-6E07-4E9D-918B-A8FBDA76CC25.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "39etn58",
+          "src": "/appui-images/satofuru/3FDC0637-173E-4E04-90D6-F9DD1E65C331.webp",
+          "filename": "3FDC0637-173E-4E04-90D6-F9DD1E65C331.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "sfsj0d3",
+          "src": "/appui-images/satofuru/C2286F0D-A66C-4FFE-8511-A11E3584A96A.webp",
+          "filename": "C2286F0D-A66C-4FFE-8511-A11E3584A96A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "igo6plv",
+          "src": "/appui-images/satofuru/2DB2008B-E098-48D1-827C-3E0CCD0C1D39.webp",
+          "filename": "2DB2008B-E098-48D1-827C-3E0CCD0C1D39.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2p4vn4b",
+          "src": "/appui-images/satofuru/168B0B0B-99EF-45EB-BF19-430814CED7EA.webp",
+          "filename": "168B0B0B-99EF-45EB-BF19-430814CED7EA.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u09n9l2",
+          "src": "/appui-images/satofuru/5A351C61-6A38-4429-BDAA-481E53DA02E2.webp",
+          "filename": "5A351C61-6A38-4429-BDAA-481E53DA02E2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d1a019h",
+      "title": "カート・寄付",
+      "images": [
+        {
+          "id": "fyzqmu7",
+          "src": "/appui-images/satofuru/61F04C18-7161-4412-8748-C67BF7D50532.webp",
+          "filename": "61F04C18-7161-4412-8748-C67BF7D50532.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t8gpn82",
+          "src": "/appui-images/satofuru/B44EA0C0-052D-4879-B877-245D0A97AC24.webp",
+          "filename": "B44EA0C0-052D-4879-B877-245D0A97AC24.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qz6npu7",
+          "src": "/appui-images/satofuru/5CB870E1-1FE6-406F-B258-E6934E2F7D24.webp",
+          "filename": "5CB870E1-1FE6-406F-B258-E6934E2F7D24.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
   "slug": "satofuru"
 }

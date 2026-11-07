@@ -1,61 +1,5 @@
 [
   {
-    "id": "app-1777392918596",
-    "slug": "野球スコア",
-    "name": "野球スコア",
-    "description": "打順・スコア・成績をまとめて管理",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/a5/5e/84a55ee4-afd2-80cb-ecb2-f67bf363cc3e/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
-    "externalUrl": "https://apps.apple.com/jp/app/野球スコア/id6757233153",
-    "categories": [
-      "スポーツ"
-    ],
-    "components": [],
-    "sections": [
-      {
-        "id": "1dzmt4t",
-        "title": "ストア画像",
-        "images": [
-          {
-            "id": "6u1m1vd",
-            "src": "/appui-images/app-1777392918596/screen-01.webp",
-            "filename": "screen-01.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          },
-          {
-            "id": "gdem0f0",
-            "src": "/appui-images/app-1777392918596/screen-02.webp",
-            "filename": "screen-02.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          },
-          {
-            "id": "z8k9fy7",
-            "src": "/appui-images/app-1777392918596/screen-03.webp",
-            "filename": "screen-03.webp",
-            "components": [
-              "カード",
-              "リスト",
-              "ヘッダー",
-              "ボタン",
-              "検索"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "airbnb-1777562505673",
     "slug": "airbnb",
     "name": "Airbnb",
@@ -8156,7 +8100,50 @@
       "プロフィール",
       "ボトム ナビゲーション"
     ],
-    "sections": []
+    "sections": [
+      {
+        "id": "i6tofqc",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "b1vdlwd",
+            "src": "/appui-images/campus/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "97y4u7w",
+            "src": "/appui-images/campus/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "d6p1w9k",
+            "src": "/appui-images/campus/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "kyujin-box-1794033031436-6ji1",
@@ -8180,7 +8167,50 @@
       "タブ・セグメントコントロール",
       "ボトム ナビゲーション"
     ],
-    "sections": []
+    "sections": [
+      {
+        "id": "c28xdxy",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "yco6zc7",
+            "src": "/appui-images/kyujin-box/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "7031f1t",
+            "src": "/appui-images/kyujin-box/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "l4zvde2",
+            "src": "/appui-images/kyujin-box/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "standby-1794033032183-3g2e",
@@ -8204,7 +8234,50 @@
       "タブ・セグメントコントロール",
       "ボトム ナビゲーション"
     ],
-    "sections": []
+    "sections": [
+      {
+        "id": "w1hvvml",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "i9f3oc6",
+            "src": "/appui-images/standby/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "ngl17pe",
+            "src": "/appui-images/standby/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "7ae0mt6",
+            "src": "/appui-images/standby/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": "satofuru-1794033032669-11tz",
@@ -8228,10 +8301,53 @@
       "ボトム ナビゲーション",
       "フォーム"
     ],
-    "sections": []
+    "sections": [
+      {
+        "id": "8vxzvjs",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "ymmkx63",
+            "src": "/appui-images/satofuru/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "51pipz2",
+            "src": "/appui-images/satofuru/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "k5ez1z3",
+            "src": "/appui-images/satofuru/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
-    "id": "crowdworks-1794039824516-674e",
+    "id": "crowdworks-1794040938903-us0l",
     "slug": "crowdworks",
     "name": "クラウドワークス",
     "description": "＼国内シェア＆取引額No.1！会員数600万人突破／ フリーランス・副業・在宅向けのお仕事アプリです。 お仕事ジャンルは200種類、発注数570万件以上。 いつでもどこでも、お仕事の検索やメッセージのやりとりがおこなえます。 通知がくるので…",
@@ -8250,8 +8366,53 @@
       "検索",
       "フィルター",
       "タブ・セグメントコントロール",
-      "ボトム ナビゲーション"
+      "ボトム ナビゲーション",
+      "メッセージ",
+      "プロフィール"
     ],
-    "sections": []
+    "sections": [
+      {
+        "id": "ffhny68",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "20ntd44",
+            "src": "/appui-images/crowdworks/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "7hvywjd",
+            "src": "/appui-images/crowdworks/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "rcyotyi",
+            "src": "/appui-images/crowdworks/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

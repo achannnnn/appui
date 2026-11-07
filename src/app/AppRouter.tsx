@@ -1,4 +1,4 @@
-import { Navigate, Route, Routes, useNavigate, useParams } from 'react-router'
+import { Navigate, Route, Routes, useLocation, useNavigate, useParams } from 'react-router'
 import { lazy, Suspense, useEffect, useState } from 'react'
 import App from './App'
 import { DetailScreen } from './components/DetailScreen'
@@ -19,9 +19,17 @@ const AdminRoute = import.meta.env.DEV
   ? lazy(() => import('./AdminRoute'))
   : null
 
+function listPathFromState(state: unknown) {
+  const from = state && typeof state === 'object' && 'from' in state ? String((state as { from?: string }).from || '') : ''
+  if (from.startsWith('/') && !from.startsWith('/apps/')) return from
+  return ''
+}
+
 function AppDetailRoute() {
   const { slug = '' } = useParams()
   const navigate = useNavigate()
+  const location = useLocation()
+  const listPath = listPathFromState(location.state)
   const [app, setApp] = useState<AppData | null>(null)
   const [loading, setLoading] = useState(true)
   const [compareSlots, setCompareSlots] = useState<[CompareItem | null, CompareItem | null]>([null, null])
@@ -93,7 +101,10 @@ function AppDetailRoute() {
       <DetailScreen
         app={app}
         compareKeys={compareKeys}
-        onBack={() => navigate('/')}
+        onBack={() => {
+          if (listPath) navigate(-1)
+          else navigate('/')
+        }}
         onToggleCompare={(item) => {
           setCompareSlots((previous) => {
             const next = toggleCompareSlot(previous, item)

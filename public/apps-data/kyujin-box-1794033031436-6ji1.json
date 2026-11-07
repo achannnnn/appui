@@ -19,6 +19,673 @@
     "タブ・セグメントコントロール",
     "ボトム ナビゲーション"
   ],
-  "sections": [],
+  "sections": [
+    {
+      "id": "c28xdxy",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "yco6zc7",
+          "src": "/appui-images/kyujin-box/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "7031f1t",
+          "src": "/appui-images/kyujin-box/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "l4zvde2",
+          "src": "/appui-images/kyujin-box/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "rf3w20w",
+          "src": "/appui-images/kyujin-box/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "qfnzfhv",
+          "src": "/appui-images/kyujin-box/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "neh0ks7",
+          "src": "/appui-images/kyujin-box/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "bbm1h8p",
+          "src": "/appui-images/kyujin-box/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "di7p6iu",
+          "src": "/appui-images/kyujin-box/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "jeg2m0x",
+          "src": "/appui-images/kyujin-box/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71ldkh2",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "wovqh2s",
+          "src": "/appui-images/kyujin-box/2D40F448-F71B-4517-8220-CD774D0B351E.webp",
+          "filename": "2D40F448-F71B-4517-8220-CD774D0B351E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e4s6j5z",
+          "src": "/appui-images/kyujin-box/1A91872E-E4A7-403E-9755-0B3966A98E4B.webp",
+          "filename": "1A91872E-E4A7-403E-9755-0B3966A98E4B.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "uhmzr9x",
+          "src": "/appui-images/kyujin-box/82FAB364-C42E-4360-BA7E-FCAABC8ED2C5.webp",
+          "filename": "82FAB364-C42E-4360-BA7E-FCAABC8ED2C5.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6z25t7x",
+          "src": "/appui-images/kyujin-box/B46D6073-FB4C-4A98-ADB2-CD7C856E2D87.webp",
+          "filename": "B46D6073-FB4C-4A98-ADB2-CD7C856E2D87.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o83lso5",
+          "src": "/appui-images/kyujin-box/6B100E72-9673-4FF8-939E-58C24A6087DE.webp",
+          "filename": "6B100E72-9673-4FF8-939E-58C24A6087DE.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ace8lu1",
+          "src": "/appui-images/kyujin-box/C80286AB-9FE7-4E8C-91CD-F295A7802379.webp",
+          "filename": "C80286AB-9FE7-4E8C-91CD-F295A7802379.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xbjukk3",
+          "src": "/appui-images/kyujin-box/B758D02D-813D-438C-B3AE-58289F72D048.webp",
+          "filename": "B758D02D-813D-438C-B3AE-58289F72D048.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1r1vbd0",
+          "src": "/appui-images/kyujin-box/52A40F61-3AC3-4CEE-BF88-FE396AA2DF49.webp",
+          "filename": "52A40F61-3AC3-4CEE-BF88-FE396AA2DF49.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j6rlydc",
+          "src": "/appui-images/kyujin-box/8C332043-A2A2-482F-B7C0-0763926AD303.webp",
+          "filename": "8C332043-A2A2-482F-B7C0-0763926AD303.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "9ddk4wb",
+          "src": "/appui-images/kyujin-box/463C235C-2F1B-45CB-8512-38009318B65E.webp",
+          "filename": "463C235C-2F1B-45CB-8512-38009318B65E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "an9tu9s",
+          "src": "/appui-images/kyujin-box/326D57F1-F53F-4E7B-8610-6AA42F8D26FC.webp",
+          "filename": "326D57F1-F53F-4E7B-8610-6AA42F8D26FC.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z1kbkyx",
+          "src": "/appui-images/kyujin-box/1CB0AD93-2CC7-4479-B4A3-8CCCAD962A06.webp",
+          "filename": "1CB0AD93-2CC7-4479-B4A3-8CCCAD962A06.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bd3xqn1",
+          "src": "/appui-images/kyujin-box/5A27D669-026C-4AC1-A71E-301C33D01219.webp",
+          "filename": "5A27D669-026C-4AC1-A71E-301C33D01219.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ijl6xkf",
+          "src": "/appui-images/kyujin-box/9CE0B8FE-1BB8-427C-9582-5190807C1706.webp",
+          "filename": "9CE0B8FE-1BB8-427C-9582-5190807C1706.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qspp6vr",
+          "src": "/appui-images/kyujin-box/6BDBFFAD-EF10-498D-B700-AA4F201EE73B.webp",
+          "filename": "6BDBFFAD-EF10-498D-B700-AA4F201EE73B.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "orzk4su",
+      "title": "求人検索",
+      "images": [
+        {
+          "id": "whbq18c",
+          "src": "/appui-images/kyujin-box/E6C1D5E8-729C-4D84-82ED-AF15FF0F8D75.webp",
+          "filename": "E6C1D5E8-729C-4D84-82ED-AF15FF0F8D75.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "u2cpxsv",
+          "src": "/appui-images/kyujin-box/B1095C10-1A08-469A-ACCA-92457F1DE8C5.webp",
+          "filename": "B1095C10-1A08-469A-ACCA-92457F1DE8C5.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "iabl7yt",
+          "src": "/appui-images/kyujin-box/C31D861F-5E85-4DAC-B7C6-C7720065DFB5.webp",
+          "filename": "C31D861F-5E85-4DAC-B7C6-C7720065DFB5.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "gpi1t9s",
+          "src": "/appui-images/kyujin-box/60F7CA1E-BECC-4801-89B2-02CBBD1B0612.webp",
+          "filename": "60F7CA1E-BECC-4801-89B2-02CBBD1B0612.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4nkvfa",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "xqznjmw",
+          "src": "/appui-images/kyujin-box/B2874B48-67EC-4A45-BB90-1ED25E80B25F.webp",
+          "filename": "B2874B48-67EC-4A45-BB90-1ED25E80B25F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j223sr1",
+          "src": "/appui-images/kyujin-box/4DC3972D-0C7E-4045-B685-FBB26986A125.webp",
+          "filename": "4DC3972D-0C7E-4045-B685-FBB26986A125.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z2f7jtj",
+          "src": "/appui-images/kyujin-box/BF97DC29-105E-4785-ABFB-755957812824.webp",
+          "filename": "BF97DC29-105E-4785-ABFB-755957812824.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wijj51g",
+          "src": "/appui-images/kyujin-box/AFD72885-C885-4755-8C8C-B38708C4362A.webp",
+          "filename": "AFD72885-C885-4755-8C8C-B38708C4362A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "r2aielp",
+          "src": "/appui-images/kyujin-box/21BAF6BA-B263-495F-BB38-3063B06DF9C0.webp",
+          "filename": "21BAF6BA-B263-495F-BB38-3063B06DF9C0.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3dhevwe",
+          "src": "/appui-images/kyujin-box/68F87A61-C549-4B74-A582-65854269E03D.webp",
+          "filename": "68F87A61-C549-4B74-A582-65854269E03D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yi64xzp",
+          "src": "/appui-images/kyujin-box/BE0D2BA7-84C9-46D2-874C-57BD670A3638.webp",
+          "filename": "BE0D2BA7-84C9-46D2-874C-57BD670A3638.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "j5u0aw1",
+          "src": "/appui-images/kyujin-box/98CF8065-1B1C-4070-A493-B957E87CE090.webp",
+          "filename": "98CF8065-1B1C-4070-A493-B957E87CE090.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1clhrr0",
+          "src": "/appui-images/kyujin-box/2CDE6E3F-656B-47F7-9226-75E44C11AD5F.webp",
+          "filename": "2CDE6E3F-656B-47F7-9226-75E44C11AD5F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8zevi65",
+          "src": "/appui-images/kyujin-box/CF27303C-7C03-43B7-A739-AF5A946E17ED.webp",
+          "filename": "CF27303C-7C03-43B7-A739-AF5A946E17ED.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6ccrkbq",
+          "src": "/appui-images/kyujin-box/20E27759-2978-41DF-BBEE-DA2C33F89E1A.webp",
+          "filename": "20E27759-2978-41DF-BBEE-DA2C33F89E1A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "krpkagb",
+          "src": "/appui-images/kyujin-box/AA36691B-2E49-43AA-9745-ABD135C861A3.webp",
+          "filename": "AA36691B-2E49-43AA-9745-ABD135C861A3.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "zh8qb5c",
+          "src": "/appui-images/kyujin-box/C3B4FAC5-5422-4D86-9A7A-8877BCAC28C6.webp",
+          "filename": "C3B4FAC5-5422-4D86-9A7A-8877BCAC28C6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "g3bg4do",
+          "src": "/appui-images/kyujin-box/1719CF65-3565-4277-B1DE-BFAC087EF59F.webp",
+          "filename": "1719CF65-3565-4277-B1DE-BFAC087EF59F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "qnsww60",
+      "title": "求人詳細",
+      "images": [
+        {
+          "id": "ejqp41l",
+          "src": "/appui-images/kyujin-box/881FA346-B3E0-44D4-BAFD-47350D2A88A4.webp",
+          "filename": "881FA346-B3E0-44D4-BAFD-47350D2A88A4.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "8wkycm1",
+          "src": "/appui-images/kyujin-box/4CE93DD2-1198-489B-84A7-F3E22389FD55.webp",
+          "filename": "4CE93DD2-1198-489B-84A7-F3E22389FD55.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ojq6e5x",
+          "src": "/appui-images/kyujin-box/307AC464-6C6F-47A3-87CB-A473C9250C88.webp",
+          "filename": "307AC464-6C6F-47A3-87CB-A473C9250C88.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h3gj5b1",
+          "src": "/appui-images/kyujin-box/8A441398-2063-4DBA-BC1E-4E941417CFAB.webp",
+          "filename": "8A441398-2063-4DBA-BC1E-4E941417CFAB.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "kveubso",
+          "src": "/appui-images/kyujin-box/3BF380B4-910E-4E63-B51B-23080261776A.webp",
+          "filename": "3BF380B4-910E-4E63-B51B-23080261776A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "2feiq7h",
+          "src": "/appui-images/kyujin-box/C25C18EF-057E-44A9-8859-94628278AAC3.webp",
+          "filename": "C25C18EF-057E-44A9-8859-94628278AAC3.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l73yjco",
+          "src": "/appui-images/kyujin-box/28F495BE-0C38-49DF-B13F-D4F70AF06AEC.webp",
+          "filename": "28F495BE-0C38-49DF-B13F-D4F70AF06AEC.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rko079x",
+          "src": "/appui-images/kyujin-box/83E25A7A-FA63-4153-A051-4668EA31913A.webp",
+          "filename": "83E25A7A-FA63-4153-A051-4668EA31913A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "qusbv5r",
+          "src": "/appui-images/kyujin-box/7AB5CDFC-A9EC-44C8-AC32-FCBBD8A14D8D.webp",
+          "filename": "7AB5CDFC-A9EC-44C8-AC32-FCBBD8A14D8D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4jhp3zd",
+          "src": "/appui-images/kyujin-box/9A2B3BEB-8CEB-4215-9FEE-1379EDA85F88.webp",
+          "filename": "9A2B3BEB-8CEB-4215-9FEE-1379EDA85F88.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "mwf1xby",
+          "src": "/appui-images/kyujin-box/06271601-D7FD-4E5D-A254-F78A31347F69.webp",
+          "filename": "06271601-D7FD-4E5D-A254-F78A31347F69.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
   "slug": "kyujin-box"
 }
