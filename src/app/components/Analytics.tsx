@@ -15,8 +15,9 @@ function ensureGtag(id: string) {
   if (window.gtag) return
 
   window.dataLayer = window.dataLayer || []
-  window.gtag = function gtag(...args: unknown[]) {
-    window.dataLayer?.push(args)
+  // gtag.js only runs commands pushed as an Arguments object, not a real Array.
+  window.gtag = function gtag() {
+    window.dataLayer?.push(arguments)
   }
   window.gtag('js', new Date())
   window.gtag('config', id, { send_page_view: false })
