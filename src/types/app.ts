@@ -21,6 +21,7 @@ export type AppData = {
   categories: string[];
   components: string[];
   sections: AppSection[];
+  hidden?: boolean;
 };
 
 export type AppIndexItem = AppData;

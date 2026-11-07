@@ -93,6 +93,7 @@ export async function splitAppsData() {
 
   for (const app of withSlugs) {
     await fs.writeFile(path.join(DATA_DIR, `${app.id}.json`), `${JSON.stringify(app, null, 2)}\n`, 'utf-8')
+    if (app.hidden) continue
     index.push(toIndexEntry(app))
     for (const section of app.sections || []) {
       for (const image of section.images || []) {

@@ -132,6 +132,7 @@ async function main() {
   const components = new Set()
 
   for (const app of apps) {
+    if (app.hidden) continue
     const slug = app.slug
     if (!slug) continue
     const pagePath = `/apps/${slug}`

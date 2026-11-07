@@ -1,0 +1,885 @@
+{
+  "id": "crowdworks-1794040938903-us0l",
+  "name": "クラウドワークス",
+  "description": "＼国内シェア＆取引額No.1！会員数600万人突破／ フリーランス・副業・在宅向けのお仕事アプリです。 お仕事ジャンルは200種類、発注数570万件以上。 いつでもどこでも、お仕事の検索やメッセージのやりとりがおこなえます。 通知がくるので…",
+  "iconUrl": "/appui-images/crowdworks/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9-%E5%89%AF%E6%A5%AD-%E5%9C%A8%E5%AE%85%E3%83%AF%E3%83%BC%E3%82%AF/id1013797155?uo=4",
+  "categories": [
+    "仕事効率化"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "ヘッダー",
+    "フォーム",
+    "リスト",
+    "カード",
+    "検索",
+    "フィルター",
+    "タブ・セグメントコントロール",
+    "ボトム ナビゲーション",
+    "メッセージ",
+    "プロフィール"
+  ],
+  "sections": [
+    {
+      "id": "ffhny68",
+      "title": "ストア画像",
+      "images": [
+        {
+          "id": "20ntd44",
+          "src": "/appui-images/crowdworks/screen-01.webp",
+          "filename": "screen-01.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "7hvywjd",
+          "src": "/appui-images/crowdworks/screen-02.webp",
+          "filename": "screen-02.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "rcyotyi",
+          "src": "/appui-images/crowdworks/screen-03.webp",
+          "filename": "screen-03.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "divq88l",
+          "src": "/appui-images/crowdworks/screen-04.webp",
+          "filename": "screen-04.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "qv1i80u",
+          "src": "/appui-images/crowdworks/screen-05.webp",
+          "filename": "screen-05.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "j4nciel",
+          "src": "/appui-images/crowdworks/screen-06.webp",
+          "filename": "screen-06.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "wsdyd24",
+          "src": "/appui-images/crowdworks/screen-07.webp",
+          "filename": "screen-07.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "pdtv5uu",
+          "src": "/appui-images/crowdworks/screen-08.webp",
+          "filename": "screen-08.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "hifcnxp",
+          "src": "/appui-images/crowdworks/screen-09.webp",
+          "filename": "screen-09.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        },
+        {
+          "id": "9m8syl6",
+          "src": "/appui-images/crowdworks/screen-10.webp",
+          "filename": "screen-10.webp",
+          "components": [
+            "オンボーディング",
+            "ボタン",
+            "ヘッダー",
+            "フォーム",
+            "リスト"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mswrm6f",
+      "title": "オンボーディング",
+      "images": [
+        {
+          "id": "30cn4lg",
+          "src": "/appui-images/crowdworks/9530393D-B333-473A-A139-ED4E4E6F9493.webp",
+          "filename": "9530393D-B333-473A-A139-ED4E4E6F9493.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "njdqy1j",
+          "src": "/appui-images/crowdworks/D775DACA-1D72-4C63-AD6B-D75F9950F695.webp",
+          "filename": "D775DACA-1D72-4C63-AD6B-D75F9950F695.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "en27atu",
+          "src": "/appui-images/crowdworks/0D09434C-2A12-4F8C-A379-8C176EA77527.webp",
+          "filename": "0D09434C-2A12-4F8C-A379-8C176EA77527.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "96qi4j2",
+          "src": "/appui-images/crowdworks/620A29B1-B2DA-45EA-9686-2F5F02E5E081.webp",
+          "filename": "620A29B1-B2DA-45EA-9686-2F5F02E5E081.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "vpoegxt",
+          "src": "/appui-images/crowdworks/0E2AD90F-4CD2-42EE-B352-D8B1ED4A388E.webp",
+          "filename": "0E2AD90F-4CD2-42EE-B352-D8B1ED4A388E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "a7fjkar",
+          "src": "/appui-images/crowdworks/87DD23A1-AD0C-4D94-AD8E-0A9DA7BD3C14.webp",
+          "filename": "87DD23A1-AD0C-4D94-AD8E-0A9DA7BD3C14.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "tg584zt",
+          "src": "/appui-images/crowdworks/C1DAF0B8-3657-4725-A4D8-E4EA960E5F54.webp",
+          "filename": "C1DAF0B8-3657-4725-A4D8-E4EA960E5F54.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pa1n2oe",
+          "src": "/appui-images/crowdworks/2A828E91-DC56-4187-878A-62D47B974D78.webp",
+          "filename": "2A828E91-DC56-4187-878A-62D47B974D78.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "hrfh1fd",
+          "src": "/appui-images/crowdworks/DA5655A2-8947-475F-9C1C-741B1BCD2C90.webp",
+          "filename": "DA5655A2-8947-475F-9C1C-741B1BCD2C90.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ma32f0s",
+          "src": "/appui-images/crowdworks/B9B686FA-1ADD-4381-AB20-883CBFB81DDE.webp",
+          "filename": "B9B686FA-1ADD-4381-AB20-883CBFB81DDE.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ura8dk1",
+          "src": "/appui-images/crowdworks/71708AB5-7B75-4DD0-8963-729CA2E3B1E2.webp",
+          "filename": "71708AB5-7B75-4DD0-8963-729CA2E3B1E2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0vq40jp",
+          "src": "/appui-images/crowdworks/B30FBAB8-735D-47DD-A46D-B57821EB8CFA.webp",
+          "filename": "B30FBAB8-735D-47DD-A46D-B57821EB8CFA.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ph6lt0a",
+          "src": "/appui-images/crowdworks/F2FDFED2-3DBE-4FE8-8DA3-CB23850E770C.webp",
+          "filename": "F2FDFED2-3DBE-4FE8-8DA3-CB23850E770C.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "wxmvx9d",
+          "src": "/appui-images/crowdworks/B4EF29F2-43CD-40BB-B34A-DA64B707CE33.webp",
+          "filename": "B4EF29F2-43CD-40BB-B34A-DA64B707CE33.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "htzpujq",
+      "title": "仕事詳細",
+      "images": [
+        {
+          "id": "733q4lk",
+          "src": "/appui-images/crowdworks/F218D3EA-FD43-43DB-B263-9C42E6C754D6.webp",
+          "filename": "F218D3EA-FD43-43DB-B263-9C42E6C754D6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "61i8pxe",
+          "src": "/appui-images/crowdworks/0A41ABF5-F8AA-4A9A-A69A-CEBFA2240EA8.webp",
+          "filename": "0A41ABF5-F8AA-4A9A-A69A-CEBFA2240EA8.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "30lwo1x",
+          "src": "/appui-images/crowdworks/863A616C-9170-47B3-9726-8378C11B55D1.webp",
+          "filename": "863A616C-9170-47B3-9726-8378C11B55D1.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z5o2020",
+          "src": "/appui-images/crowdworks/DB4A55E6-2894-4CEB-A46B-C529907C0610.webp",
+          "filename": "DB4A55E6-2894-4CEB-A46B-C529907C0610.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "z0vmd7w",
+          "src": "/appui-images/crowdworks/6E3D4C20-3291-4543-96C6-D12DDB332D4A.webp",
+          "filename": "6E3D4C20-3291-4543-96C6-D12DDB332D4A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "akjehc6",
+          "src": "/appui-images/crowdworks/D8430E8E-741E-4058-B3B7-2C6CC8C873D8.webp",
+          "filename": "D8430E8E-741E-4058-B3B7-2C6CC8C873D8.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "e1rfqlx",
+          "src": "/appui-images/crowdworks/2E2A2C26-C17D-426F-BF12-647D2A0E9801.webp",
+          "filename": "2E2A2C26-C17D-426F-BF12-647D2A0E9801.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "dz1u5uy",
+          "src": "/appui-images/crowdworks/5A7450A0-06B1-4016-949D-43DA24DED036.webp",
+          "filename": "5A7450A0-06B1-4016-949D-43DA24DED036.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nqdfdxq",
+          "src": "/appui-images/crowdworks/A2E6C6C3-4895-4F84-8FAE-3F0B090F578A.webp",
+          "filename": "A2E6C6C3-4895-4F84-8FAE-3F0B090F578A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "0qk8zzt",
+          "src": "/appui-images/crowdworks/834E6901-BE3D-4CA6-AE06-DF6730E0021A.webp",
+          "filename": "834E6901-BE3D-4CA6-AE06-DF6730E0021A.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "yq3abtw",
+          "src": "/appui-images/crowdworks/F9340B01-0B20-4811-8C32-CE599EEAEFE4.webp",
+          "filename": "F9340B01-0B20-4811-8C32-CE599EEAEFE4.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jlbo8ko",
+      "title": "ホーム",
+      "images": [
+        {
+          "id": "5c6ko2g",
+          "src": "/appui-images/crowdworks/98AC6F38-4DB5-4935-ACDD-889CD6C925AF.webp",
+          "filename": "98AC6F38-4DB5-4935-ACDD-889CD6C925AF.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "6y6wi5s",
+          "src": "/appui-images/crowdworks/58E955C0-4CF6-4093-BEC4-BBFCE47F4242.webp",
+          "filename": "58E955C0-4CF6-4093-BEC4-BBFCE47F4242.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i3arect",
+          "src": "/appui-images/crowdworks/6D37D47D-5A41-4EC7-8C68-C300990C8F66.webp",
+          "filename": "6D37D47D-5A41-4EC7-8C68-C300990C8F66.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "bybawcc",
+          "src": "/appui-images/crowdworks/7F2D8BF6-5646-4BE7-A5D9-47E883BE3BC6.webp",
+          "filename": "7F2D8BF6-5646-4BE7-A5D9-47E883BE3BC6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "l51f2w7",
+          "src": "/appui-images/crowdworks/AC8238E8-1F66-4304-8B04-D3493B3FEF7D.webp",
+          "filename": "AC8238E8-1F66-4304-8B04-D3493B3FEF7D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "lauhd66",
+          "src": "/appui-images/crowdworks/454741BA-EC2B-442F-945C-ACA0F14AF26F.webp",
+          "filename": "454741BA-EC2B-442F-945C-ACA0F14AF26F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5y17b7j",
+          "src": "/appui-images/crowdworks/E66B627A-2A09-46CD-A4F3-97CA2BB472EB.webp",
+          "filename": "E66B627A-2A09-46CD-A4F3-97CA2BB472EB.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "nae1okp",
+          "src": "/appui-images/crowdworks/0412F893-872B-4774-B821-F0E8F11D07AD.webp",
+          "filename": "0412F893-872B-4774-B821-F0E8F11D07AD.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "by3yqjn",
+          "src": "/appui-images/crowdworks/89034786-13FA-4B4B-94BC-B0F6A1F0010F.webp",
+          "filename": "89034786-13FA-4B4B-94BC-B0F6A1F0010F.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "ej0wqm4",
+          "src": "/appui-images/crowdworks/2E6F0903-58F3-43D0-A390-16B22A65511D.webp",
+          "filename": "2E6F0903-58F3-43D0-A390-16B22A65511D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "5bb2cih",
+          "src": "/appui-images/crowdworks/15BBE9B4-1385-4990-A9E5-E846B6E9EC59.webp",
+          "filename": "15BBE9B4-1385-4990-A9E5-E846B6E9EC59.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "h11inc9",
+          "src": "/appui-images/crowdworks/FFB4B07C-FF5C-40A0-97E7-6B1ACAF7E3B7.webp",
+          "filename": "FFB4B07C-FF5C-40A0-97E7-6B1ACAF7E3B7.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2z8ikgd",
+      "title": "検索・一覧",
+      "images": [
+        {
+          "id": "e0l5yvc",
+          "src": "/appui-images/crowdworks/65B05A2E-E51C-4A01-A00A-4A5E21381874.webp",
+          "filename": "65B05A2E-E51C-4A01-A00A-4A5E21381874.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cdfb9oe",
+          "src": "/appui-images/crowdworks/C81B7C49-1587-4531-BD07-A9A7F449EAEF.webp",
+          "filename": "C81B7C49-1587-4531-BD07-A9A7F449EAEF.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "skk1lhx",
+          "src": "/appui-images/crowdworks/D28AB095-105C-4E17-86E0-033C7D979D0D.webp",
+          "filename": "D28AB095-105C-4E17-86E0-033C7D979D0D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "1n1uyr1",
+          "src": "/appui-images/crowdworks/3342DDDE-C360-4286-9678-224FF3A70A78.webp",
+          "filename": "3342DDDE-C360-4286-9678-224FF3A70A78.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "cn0keku",
+          "src": "/appui-images/crowdworks/43F1992A-F548-4490-9F1D-671109BBDBD6.webp",
+          "filename": "43F1992A-F548-4490-9F1D-671109BBDBD6.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "t8uxnph",
+          "src": "/appui-images/crowdworks/BD358098-C09B-45D9-91D2-AFE679100B01.webp",
+          "filename": "BD358098-C09B-45D9-91D2-AFE679100B01.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "fuf2er1",
+          "src": "/appui-images/crowdworks/B6BBC561-2838-4BC1-B41B-6749AF25FE97.webp",
+          "filename": "B6BBC561-2838-4BC1-B41B-6749AF25FE97.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7rx2ikp",
+          "src": "/appui-images/crowdworks/BF1F6830-F85B-4328-92E9-DF0A604CF7A0.webp",
+          "filename": "BF1F6830-F85B-4328-92E9-DF0A604CF7A0.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "xj2emkg",
+          "src": "/appui-images/crowdworks/0D18914D-2D04-47D6-B48C-92763F9619C0.webp",
+          "filename": "0D18914D-2D04-47D6-B48C-92763F9619C0.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "eztbjqe",
+          "src": "/appui-images/crowdworks/21F1C182-DFD0-4BEE-AA7E-0797EEA36135.webp",
+          "filename": "21F1C182-DFD0-4BEE-AA7E-0797EEA36135.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "901m827",
+          "src": "/appui-images/crowdworks/873E4D93-33A9-467F-BB21-C5F0CA255533.webp",
+          "filename": "873E4D93-33A9-467F-BB21-C5F0CA255533.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "4l90vx4",
+          "src": "/appui-images/crowdworks/8E4300B0-79ED-432D-8079-1902A0ACA157.webp",
+          "filename": "8E4300B0-79ED-432D-8079-1902A0ACA157.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "pmx9okj",
+          "src": "/appui-images/crowdworks/4D5BC181-65C8-4683-9039-11574C842571.webp",
+          "filename": "4D5BC181-65C8-4683-9039-11574C842571.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "3xh9o8h",
+          "src": "/appui-images/crowdworks/2A293E3B-8389-47D9-B5F5-00013C996D0B.webp",
+          "filename": "2A293E3B-8389-47D9-B5F5-00013C996D0B.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "i2gt8j6",
+          "src": "/appui-images/crowdworks/CF6C2853-69A0-4C73-98E6-5C9C47CB3B4B.webp",
+          "filename": "CF6C2853-69A0-4C73-98E6-5C9C47CB3B4B.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "rjiil58",
+          "src": "/appui-images/crowdworks/E7992709-60B6-49AC-AEE9-339E97A4E0A0.webp",
+          "filename": "E7992709-60B6-49AC-AEE9-339E97A4E0A0.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "7jdmrnh",
+          "src": "/appui-images/crowdworks/B98C0957-103B-4675-9094-C35C3706645D.webp",
+          "filename": "B98C0957-103B-4675-9094-C35C3706645D.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2uahcf1",
+      "title": "マイページ",
+      "images": [
+        {
+          "id": "vhce9fv",
+          "src": "/appui-images/crowdworks/296F4EE6-AAB7-4DF2-89A0-FFF328F45305.webp",
+          "filename": "296F4EE6-AAB7-4DF2-89A0-FFF328F45305.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t8otew9",
+      "title": "メッセージ",
+      "images": [
+        {
+          "id": "8zfpd95",
+          "src": "/appui-images/crowdworks/B9540268-C2C2-457D-A257-8856D934F3A0.webp",
+          "filename": "B9540268-C2C2-457D-A257-8856D934F3A0.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "o1ebmyh",
+          "src": "/appui-images/crowdworks/B9442BD2-7B6D-4486-9FD4-EF4A4191D7B2.webp",
+          "filename": "B9442BD2-7B6D-4486-9FD4-EF4A4191D7B2.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        },
+        {
+          "id": "allngf4",
+          "src": "/appui-images/crowdworks/8457D6B4-D3EA-41AC-B589-C406BCCF263E.webp",
+          "filename": "8457D6B4-D3EA-41AC-B589-C406BCCF263E.webp",
+          "components": [
+            "カード",
+            "リスト",
+            "ヘッダー",
+            "ボタン",
+            "検索"
+          ]
+        }
+      ]
+    }
+  ],
+  "slug": "crowdworks"
+}

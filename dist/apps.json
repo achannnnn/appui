@@ -179,7 +179,8 @@
         ]
       }
     ],
-    "slug": "野球スコア"
+    "slug": "野球スコア",
+    "hidden": true
   },
   {
     "id": "airbnb-1777562505673",
@@ -87078,5 +87079,4086 @@
       }
     ],
     "slug": "ticktick"
+  },
+  {
+    "id": "campus-1794033030755-by3t",
+    "name": "キャンパス",
+    "description": "ビズリーチから登場した『ビズリーチ・キャンパス』は、自分の大学の卒業生と繋がれる‟OB/OG訪問ができる“就活アプリです。 社会で活躍する先輩との対話が、キャリア選択の手がかりになります。 ◆◆◆ビズリーチ・キャンパスの特徴◆◆◆ ＜幅広い…",
+    "iconUrl": "/appui-images/campus/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E5%B0%B1%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9-for-student/id1144836532?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "プロフィール",
+      "ボトム ナビゲーション"
+    ],
+    "sections": [
+      {
+        "id": "i6tofqc",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "b1vdlwd",
+            "src": "/appui-images/campus/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "97y4u7w",
+            "src": "/appui-images/campus/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "d6p1w9k",
+            "src": "/appui-images/campus/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "wp3kelu",
+            "src": "/appui-images/campus/screen-04.webp",
+            "filename": "screen-04.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "i3fr0zw",
+            "src": "/appui-images/campus/screen-05.webp",
+            "filename": "screen-05.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "o321mxq",
+            "src": "/appui-images/campus/screen-06.webp",
+            "filename": "screen-06.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "zc8ppmq",
+        "title": "オンボーディング",
+        "images": [
+          {
+            "id": "yn3895u",
+            "src": "/appui-images/campus/C8A44E80-9F8A-46D4-9A8A-42B9D5DBD397.webp",
+            "filename": "C8A44E80-9F8A-46D4-9A8A-42B9D5DBD397.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "nqn2hvh",
+            "src": "/appui-images/campus/29EF65FD-1751-4BD7-A5B6-073A24C8FBF8.webp",
+            "filename": "29EF65FD-1751-4BD7-A5B6-073A24C8FBF8.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "9hdgpa9",
+            "src": "/appui-images/campus/7F39E0A0-93A5-439B-ACDF-4D5DD09F2B01.webp",
+            "filename": "7F39E0A0-93A5-439B-ACDF-4D5DD09F2B01.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "or2x4n0",
+            "src": "/appui-images/campus/C9206978-30FD-4629-B3AC-1CF040CCB455.webp",
+            "filename": "C9206978-30FD-4629-B3AC-1CF040CCB455.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "qyegc91",
+            "src": "/appui-images/campus/727A3F1D-ADCA-4598-B310-10EF305B5E0B.webp",
+            "filename": "727A3F1D-ADCA-4598-B310-10EF305B5E0B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "34sow36",
+            "src": "/appui-images/campus/EA2D02D2-8D48-4824-8EFA-302D32AAA5E6.webp",
+            "filename": "EA2D02D2-8D48-4824-8EFA-302D32AAA5E6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "4bg9wm4",
+            "src": "/appui-images/campus/6BB24180-1970-4387-91BF-C57487B057C5.webp",
+            "filename": "6BB24180-1970-4387-91BF-C57487B057C5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ebden5f",
+            "src": "/appui-images/campus/0B9528BE-BB8E-4A3B-BBE7-D35CAF9FB8D0.webp",
+            "filename": "0B9528BE-BB8E-4A3B-BBE7-D35CAF9FB8D0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "jvh84cg",
+            "src": "/appui-images/campus/4ACFF0C9-A21B-4708-B07B-0D72B8EA444F.webp",
+            "filename": "4ACFF0C9-A21B-4708-B07B-0D72B8EA444F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ndkiq2c",
+            "src": "/appui-images/campus/959B63A0-FD7E-4DB6-B92F-D48C406D6A8E.webp",
+            "filename": "959B63A0-FD7E-4DB6-B92F-D48C406D6A8E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "sxvbjdk",
+            "src": "/appui-images/campus/C0F94F4C-2C05-4BF6-8B29-DEA74EA2C785.webp",
+            "filename": "C0F94F4C-2C05-4BF6-8B29-DEA74EA2C785.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cv7va39",
+            "src": "/appui-images/campus/BDC97F5F-915F-468D-8690-ED875F4ED94A.webp",
+            "filename": "BDC97F5F-915F-468D-8690-ED875F4ED94A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "hzjh9er",
+            "src": "/appui-images/campus/86B7DBBA-D26F-40CC-B507-721995CE13BF.webp",
+            "filename": "86B7DBBA-D26F-40CC-B507-721995CE13BF.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "msuqest",
+        "title": "検索・一覧",
+        "images": [
+          {
+            "id": "38a3cnm",
+            "src": "/appui-images/campus/F64CB0A8-B70A-4AF5-845B-CC2246823DC5.webp",
+            "filename": "F64CB0A8-B70A-4AF5-845B-CC2246823DC5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cpd4fwo",
+            "src": "/appui-images/campus/5D8440FD-D1D0-477E-B93B-1A2D450447E7.webp",
+            "filename": "5D8440FD-D1D0-477E-B93B-1A2D450447E7.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "5izp99i",
+            "src": "/appui-images/campus/5AF27109-1E7E-4C7D-8783-B05CB76C6F36.webp",
+            "filename": "5AF27109-1E7E-4C7D-8783-B05CB76C6F36.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "q7j60vh",
+            "src": "/appui-images/campus/85618703-66DA-47BB-8DD7-58E0DAD4C4D5.webp",
+            "filename": "85618703-66DA-47BB-8DD7-58E0DAD4C4D5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "evuiccp",
+            "src": "/appui-images/campus/9BEABCFF-49A2-4891-950E-AAA661FF5779.webp",
+            "filename": "9BEABCFF-49A2-4891-950E-AAA661FF5779.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "0euuesw",
+            "src": "/appui-images/campus/8211CF65-4042-49EC-B294-965B5A04659A.webp",
+            "filename": "8211CF65-4042-49EC-B294-965B5A04659A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "pkpjj8t",
+            "src": "/appui-images/campus/BDD0C269-635D-40EB-9BFD-915E59CD0E83.webp",
+            "filename": "BDD0C269-635D-40EB-9BFD-915E59CD0E83.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "183mth4",
+            "src": "/appui-images/campus/34823E1E-18DC-4600-ACA7-0DE54BAB0BB8.webp",
+            "filename": "34823E1E-18DC-4600-ACA7-0DE54BAB0BB8.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "8en0ae4",
+            "src": "/appui-images/campus/2BD699CA-5E27-4C77-A822-915A20D435CA.webp",
+            "filename": "2BD699CA-5E27-4C77-A822-915A20D435CA.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "14q1oae",
+            "src": "/appui-images/campus/9C3329E6-C2F9-46A7-9C75-85E3A84932CA.webp",
+            "filename": "9C3329E6-C2F9-46A7-9C75-85E3A84932CA.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "sgorw76",
+            "src": "/appui-images/campus/694BFF6B-4BED-4014-8928-93B27F751622.webp",
+            "filename": "694BFF6B-4BED-4014-8928-93B27F751622.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "qa2zvl9",
+            "src": "/appui-images/campus/1E50657A-E376-4348-BD5E-A110C5B3B55F.webp",
+            "filename": "1E50657A-E376-4348-BD5E-A110C5B3B55F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "w20yudp",
+            "src": "/appui-images/campus/0820B779-1D91-45A1-A980-4F80A3FC660E.webp",
+            "filename": "0820B779-1D91-45A1-A980-4F80A3FC660E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "5fvtplg",
+            "src": "/appui-images/campus/108F3C0A-8907-42C1-835D-B20347DEDE11.webp",
+            "filename": "108F3C0A-8907-42C1-835D-B20347DEDE11.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "40vwc08",
+            "src": "/appui-images/campus/43D39663-6453-42A2-9F16-38F0E7044194.webp",
+            "filename": "43D39663-6453-42A2-9F16-38F0E7044194.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "5zi1nef",
+            "src": "/appui-images/campus/A5ECF5FA-A542-4C43-A5C4-2D1481E71900.webp",
+            "filename": "A5ECF5FA-A542-4C43-A5C4-2D1481E71900.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "hfgecde",
+            "src": "/appui-images/campus/D47FA432-A7AB-4623-9250-DCDECC0FF4A7.webp",
+            "filename": "D47FA432-A7AB-4623-9250-DCDECC0FF4A7.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "kjtyqgz",
+            "src": "/appui-images/campus/0136418F-509C-4777-B21C-1396D0065A4E.webp",
+            "filename": "0136418F-509C-4777-B21C-1396D0065A4E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "t5pfij1",
+            "src": "/appui-images/campus/32D63060-8D52-4545-9723-0618D0DDD16B.webp",
+            "filename": "32D63060-8D52-4545-9723-0618D0DDD16B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "k5n1mjp",
+            "src": "/appui-images/campus/E1A23E7A-699E-4AC8-AF00-661E0601614A.webp",
+            "filename": "E1A23E7A-699E-4AC8-AF00-661E0601614A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2y35pk9",
+            "src": "/appui-images/campus/E2533E4C-F77B-43C5-85BE-332C93A34FA2.webp",
+            "filename": "E2533E4C-F77B-43C5-85BE-332C93A34FA2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "r481thv",
+            "src": "/appui-images/campus/CAE91E62-76B5-495B-ABBD-9396044B2879.webp",
+            "filename": "CAE91E62-76B5-495B-ABBD-9396044B2879.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "t30wyzp",
+            "src": "/appui-images/campus/78946D89-B602-40A7-ABF7-4B1181084A3B.webp",
+            "filename": "78946D89-B602-40A7-ABF7-4B1181084A3B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "j6glmrz",
+        "title": "メッセージ",
+        "images": [
+          {
+            "id": "qnxa2lk",
+            "src": "/appui-images/campus/AEF6FA5A-DAD7-4949-AB90-AD09AACA8865.webp",
+            "filename": "AEF6FA5A-DAD7-4949-AB90-AD09AACA8865.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "z5qsqyg",
+        "title": "プロフィール",
+        "images": [
+          {
+            "id": "lod025l",
+            "src": "/appui-images/campus/1B4F2136-8876-4535-BBCD-158C2B9324FA.webp",
+            "filename": "1B4F2136-8876-4535-BBCD-158C2B9324FA.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "wx39fla",
+            "src": "/appui-images/campus/B5BAE365-8A3D-48DC-8D78-9C9431425D2A.webp",
+            "filename": "B5BAE365-8A3D-48DC-8D78-9C9431425D2A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "xy2q6gt",
+            "src": "/appui-images/campus/774F8FE9-1D25-4480-8D00-678BECC67F15.webp",
+            "filename": "774F8FE9-1D25-4480-8D00-678BECC67F15.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "w05kvg1",
+            "src": "/appui-images/campus/5D2249DF-F19D-4808-A207-6A6B81693370.webp",
+            "filename": "5D2249DF-F19D-4808-A207-6A6B81693370.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "137urar",
+            "src": "/appui-images/campus/45FEF146-C667-4274-BDE8-2FF63B8BFFB3.webp",
+            "filename": "45FEF146-C667-4274-BDE8-2FF63B8BFFB3.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "q7968ww",
+        "title": "設定",
+        "images": [
+          {
+            "id": "j1ztqzi",
+            "src": "/appui-images/campus/24000212-EA83-4391-8D05-16785EF07A63.webp",
+            "filename": "24000212-EA83-4391-8D05-16785EF07A63.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "srfb76h",
+            "src": "/appui-images/campus/6F653E2E-5A49-4AED-83C3-083B7C80ED62.webp",
+            "filename": "6F653E2E-5A49-4AED-83C3-083B7C80ED62.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "campus"
+  },
+  {
+    "id": "kyujin-box-1794033031436-6ji1",
+    "name": "求人ボックス",
+    "description": "【求人ボックスとは】 求人ボックスアプリは、全国のバイト・パート・転職・派遣サイトなどから2,000万件以上のお仕事をまとめて掲載！サイト横断で検索できる求人検索アプリです。 アルバイト・パート・正社員・派遣社員・在宅ワーク・転職活動・就職…",
+    "iconUrl": "/appui-images/kyujin-box/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%90%E3%82%A4%E3%83%88%E3%81%AF%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E6%B4%BE%E9%81%A3-%E3%83%91%E3%83%BC%E3%83%88-%E5%9C%A8%E5%AE%85%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%82%92%E6%A4%9C%E7%B4%A2/id1635254205?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション"
+    ],
+    "sections": [
+      {
+        "id": "c28xdxy",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "yco6zc7",
+            "src": "/appui-images/kyujin-box/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "7031f1t",
+            "src": "/appui-images/kyujin-box/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "l4zvde2",
+            "src": "/appui-images/kyujin-box/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "rf3w20w",
+            "src": "/appui-images/kyujin-box/screen-04.webp",
+            "filename": "screen-04.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "qfnzfhv",
+            "src": "/appui-images/kyujin-box/screen-05.webp",
+            "filename": "screen-05.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "neh0ks7",
+            "src": "/appui-images/kyujin-box/screen-06.webp",
+            "filename": "screen-06.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "bbm1h8p",
+            "src": "/appui-images/kyujin-box/screen-07.webp",
+            "filename": "screen-07.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "di7p6iu",
+            "src": "/appui-images/kyujin-box/screen-08.webp",
+            "filename": "screen-08.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "jeg2m0x",
+            "src": "/appui-images/kyujin-box/screen-09.webp",
+            "filename": "screen-09.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "71ldkh2",
+        "title": "オンボーディング",
+        "images": [
+          {
+            "id": "wovqh2s",
+            "src": "/appui-images/kyujin-box/2D40F448-F71B-4517-8220-CD774D0B351E.webp",
+            "filename": "2D40F448-F71B-4517-8220-CD774D0B351E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "e4s6j5z",
+            "src": "/appui-images/kyujin-box/1A91872E-E4A7-403E-9755-0B3966A98E4B.webp",
+            "filename": "1A91872E-E4A7-403E-9755-0B3966A98E4B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "uhmzr9x",
+            "src": "/appui-images/kyujin-box/82FAB364-C42E-4360-BA7E-FCAABC8ED2C5.webp",
+            "filename": "82FAB364-C42E-4360-BA7E-FCAABC8ED2C5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "6z25t7x",
+            "src": "/appui-images/kyujin-box/B46D6073-FB4C-4A98-ADB2-CD7C856E2D87.webp",
+            "filename": "B46D6073-FB4C-4A98-ADB2-CD7C856E2D87.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "o83lso5",
+            "src": "/appui-images/kyujin-box/6B100E72-9673-4FF8-939E-58C24A6087DE.webp",
+            "filename": "6B100E72-9673-4FF8-939E-58C24A6087DE.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ace8lu1",
+            "src": "/appui-images/kyujin-box/C80286AB-9FE7-4E8C-91CD-F295A7802379.webp",
+            "filename": "C80286AB-9FE7-4E8C-91CD-F295A7802379.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "xbjukk3",
+            "src": "/appui-images/kyujin-box/B758D02D-813D-438C-B3AE-58289F72D048.webp",
+            "filename": "B758D02D-813D-438C-B3AE-58289F72D048.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "1r1vbd0",
+            "src": "/appui-images/kyujin-box/52A40F61-3AC3-4CEE-BF88-FE396AA2DF49.webp",
+            "filename": "52A40F61-3AC3-4CEE-BF88-FE396AA2DF49.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "j6rlydc",
+            "src": "/appui-images/kyujin-box/8C332043-A2A2-482F-B7C0-0763926AD303.webp",
+            "filename": "8C332043-A2A2-482F-B7C0-0763926AD303.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "9ddk4wb",
+            "src": "/appui-images/kyujin-box/463C235C-2F1B-45CB-8512-38009318B65E.webp",
+            "filename": "463C235C-2F1B-45CB-8512-38009318B65E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "an9tu9s",
+            "src": "/appui-images/kyujin-box/326D57F1-F53F-4E7B-8610-6AA42F8D26FC.webp",
+            "filename": "326D57F1-F53F-4E7B-8610-6AA42F8D26FC.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "z1kbkyx",
+            "src": "/appui-images/kyujin-box/1CB0AD93-2CC7-4479-B4A3-8CCCAD962A06.webp",
+            "filename": "1CB0AD93-2CC7-4479-B4A3-8CCCAD962A06.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "bd3xqn1",
+            "src": "/appui-images/kyujin-box/5A27D669-026C-4AC1-A71E-301C33D01219.webp",
+            "filename": "5A27D669-026C-4AC1-A71E-301C33D01219.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ijl6xkf",
+            "src": "/appui-images/kyujin-box/9CE0B8FE-1BB8-427C-9582-5190807C1706.webp",
+            "filename": "9CE0B8FE-1BB8-427C-9582-5190807C1706.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "qspp6vr",
+            "src": "/appui-images/kyujin-box/6BDBFFAD-EF10-498D-B700-AA4F201EE73B.webp",
+            "filename": "6BDBFFAD-EF10-498D-B700-AA4F201EE73B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "orzk4su",
+        "title": "求人検索",
+        "images": [
+          {
+            "id": "whbq18c",
+            "src": "/appui-images/kyujin-box/E6C1D5E8-729C-4D84-82ED-AF15FF0F8D75.webp",
+            "filename": "E6C1D5E8-729C-4D84-82ED-AF15FF0F8D75.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "u2cpxsv",
+            "src": "/appui-images/kyujin-box/B1095C10-1A08-469A-ACCA-92457F1DE8C5.webp",
+            "filename": "B1095C10-1A08-469A-ACCA-92457F1DE8C5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "iabl7yt",
+            "src": "/appui-images/kyujin-box/C31D861F-5E85-4DAC-B7C6-C7720065DFB5.webp",
+            "filename": "C31D861F-5E85-4DAC-B7C6-C7720065DFB5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "gpi1t9s",
+            "src": "/appui-images/kyujin-box/60F7CA1E-BECC-4801-89B2-02CBBD1B0612.webp",
+            "filename": "60F7CA1E-BECC-4801-89B2-02CBBD1B0612.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "c4nkvfa",
+        "title": "ホーム",
+        "images": [
+          {
+            "id": "xqznjmw",
+            "src": "/appui-images/kyujin-box/B2874B48-67EC-4A45-BB90-1ED25E80B25F.webp",
+            "filename": "B2874B48-67EC-4A45-BB90-1ED25E80B25F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "j223sr1",
+            "src": "/appui-images/kyujin-box/4DC3972D-0C7E-4045-B685-FBB26986A125.webp",
+            "filename": "4DC3972D-0C7E-4045-B685-FBB26986A125.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "z2f7jtj",
+            "src": "/appui-images/kyujin-box/BF97DC29-105E-4785-ABFB-755957812824.webp",
+            "filename": "BF97DC29-105E-4785-ABFB-755957812824.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "wijj51g",
+            "src": "/appui-images/kyujin-box/AFD72885-C885-4755-8C8C-B38708C4362A.webp",
+            "filename": "AFD72885-C885-4755-8C8C-B38708C4362A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "r2aielp",
+            "src": "/appui-images/kyujin-box/21BAF6BA-B263-495F-BB38-3063B06DF9C0.webp",
+            "filename": "21BAF6BA-B263-495F-BB38-3063B06DF9C0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "3dhevwe",
+            "src": "/appui-images/kyujin-box/68F87A61-C549-4B74-A582-65854269E03D.webp",
+            "filename": "68F87A61-C549-4B74-A582-65854269E03D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "yi64xzp",
+            "src": "/appui-images/kyujin-box/BE0D2BA7-84C9-46D2-874C-57BD670A3638.webp",
+            "filename": "BE0D2BA7-84C9-46D2-874C-57BD670A3638.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "j5u0aw1",
+            "src": "/appui-images/kyujin-box/98CF8065-1B1C-4070-A493-B957E87CE090.webp",
+            "filename": "98CF8065-1B1C-4070-A493-B957E87CE090.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "1clhrr0",
+            "src": "/appui-images/kyujin-box/2CDE6E3F-656B-47F7-9226-75E44C11AD5F.webp",
+            "filename": "2CDE6E3F-656B-47F7-9226-75E44C11AD5F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "8zevi65",
+            "src": "/appui-images/kyujin-box/CF27303C-7C03-43B7-A739-AF5A946E17ED.webp",
+            "filename": "CF27303C-7C03-43B7-A739-AF5A946E17ED.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "6ccrkbq",
+            "src": "/appui-images/kyujin-box/20E27759-2978-41DF-BBEE-DA2C33F89E1A.webp",
+            "filename": "20E27759-2978-41DF-BBEE-DA2C33F89E1A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "krpkagb",
+            "src": "/appui-images/kyujin-box/AA36691B-2E49-43AA-9745-ABD135C861A3.webp",
+            "filename": "AA36691B-2E49-43AA-9745-ABD135C861A3.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "zh8qb5c",
+            "src": "/appui-images/kyujin-box/C3B4FAC5-5422-4D86-9A7A-8877BCAC28C6.webp",
+            "filename": "C3B4FAC5-5422-4D86-9A7A-8877BCAC28C6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "g3bg4do",
+            "src": "/appui-images/kyujin-box/1719CF65-3565-4277-B1DE-BFAC087EF59F.webp",
+            "filename": "1719CF65-3565-4277-B1DE-BFAC087EF59F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "qnsww60",
+        "title": "求人詳細",
+        "images": [
+          {
+            "id": "ejqp41l",
+            "src": "/appui-images/kyujin-box/881FA346-B3E0-44D4-BAFD-47350D2A88A4.webp",
+            "filename": "881FA346-B3E0-44D4-BAFD-47350D2A88A4.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "8wkycm1",
+            "src": "/appui-images/kyujin-box/4CE93DD2-1198-489B-84A7-F3E22389FD55.webp",
+            "filename": "4CE93DD2-1198-489B-84A7-F3E22389FD55.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ojq6e5x",
+            "src": "/appui-images/kyujin-box/307AC464-6C6F-47A3-87CB-A473C9250C88.webp",
+            "filename": "307AC464-6C6F-47A3-87CB-A473C9250C88.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "h3gj5b1",
+            "src": "/appui-images/kyujin-box/8A441398-2063-4DBA-BC1E-4E941417CFAB.webp",
+            "filename": "8A441398-2063-4DBA-BC1E-4E941417CFAB.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "kveubso",
+            "src": "/appui-images/kyujin-box/3BF380B4-910E-4E63-B51B-23080261776A.webp",
+            "filename": "3BF380B4-910E-4E63-B51B-23080261776A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2feiq7h",
+            "src": "/appui-images/kyujin-box/C25C18EF-057E-44A9-8859-94628278AAC3.webp",
+            "filename": "C25C18EF-057E-44A9-8859-94628278AAC3.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "l73yjco",
+            "src": "/appui-images/kyujin-box/28F495BE-0C38-49DF-B13F-D4F70AF06AEC.webp",
+            "filename": "28F495BE-0C38-49DF-B13F-D4F70AF06AEC.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "rko079x",
+            "src": "/appui-images/kyujin-box/83E25A7A-FA63-4153-A051-4668EA31913A.webp",
+            "filename": "83E25A7A-FA63-4153-A051-4668EA31913A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "qusbv5r",
+            "src": "/appui-images/kyujin-box/7AB5CDFC-A9EC-44C8-AC32-FCBBD8A14D8D.webp",
+            "filename": "7AB5CDFC-A9EC-44C8-AC32-FCBBD8A14D8D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "4jhp3zd",
+            "src": "/appui-images/kyujin-box/9A2B3BEB-8CEB-4215-9FEE-1379EDA85F88.webp",
+            "filename": "9A2B3BEB-8CEB-4215-9FEE-1379EDA85F88.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "mwf1xby",
+            "src": "/appui-images/kyujin-box/06271601-D7FD-4E5D-A254-F78A31347F69.webp",
+            "filename": "06271601-D7FD-4E5D-A254-F78A31347F69.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "kyujin-box"
+  },
+  {
+    "id": "standby-1794033032183-3g2e",
+    "name": "スタンバイ",
+    "description": "求人掲載数*1,500万件以上！国内最大級の求人検索アプリ「スタンバイ」は、LINEヤフーとVisional（ビズリーチなどを運営）の合弁会社が運営していています。 正社員、アルバイト・パート、派遣社員、在宅ワークなど、あらゆる働き方の求人…",
+    "iconUrl": "/appui-images/standby/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E6%B1%82%E4%BA%BA%E3%81%AF%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%90%E3%82%A4-%E3%83%90%E3%82%A4%E3%83%88%E3%82%84%E8%BB%A2%E8%81%B7-%E6%B1%82%E4%BA%BA-%E5%B0%B1%E8%81%B7-%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97/id1516762850?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション"
+    ],
+    "sections": [
+      {
+        "id": "w1hvvml",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "i9f3oc6",
+            "src": "/appui-images/standby/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "ngl17pe",
+            "src": "/appui-images/standby/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "7ae0mt6",
+            "src": "/appui-images/standby/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "p849jf2",
+            "src": "/appui-images/standby/screen-04.webp",
+            "filename": "screen-04.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "o0rvjlk",
+            "src": "/appui-images/standby/screen-05.webp",
+            "filename": "screen-05.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "qmzy2ay",
+            "src": "/appui-images/standby/screen-06.webp",
+            "filename": "screen-06.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "hzwzwq1",
+            "src": "/appui-images/standby/screen-07.webp",
+            "filename": "screen-07.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "dqxweah",
+            "src": "/appui-images/standby/screen-08.webp",
+            "filename": "screen-08.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sgfhcb0",
+        "title": "その他",
+        "images": [
+          {
+            "id": "0osf216",
+            "src": "/appui-images/standby/3D36650E-2DAA-494B-BE71-599301AC819B.webp",
+            "filename": "3D36650E-2DAA-494B-BE71-599301AC819B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "27znr8q",
+        "title": "オンボーディング",
+        "images": [
+          {
+            "id": "jxcq9jt",
+            "src": "/appui-images/standby/77A95C33-3011-45BA-8E47-A69648319282.webp",
+            "filename": "77A95C33-3011-45BA-8E47-A69648319282.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "89mps5p",
+            "src": "/appui-images/standby/11EE07D9-423A-46C2-B8B5-64A5B040B21F.webp",
+            "filename": "11EE07D9-423A-46C2-B8B5-64A5B040B21F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2ljqarg",
+            "src": "/appui-images/standby/91053133-F6EA-475F-BEA1-E1728F8265A2.webp",
+            "filename": "91053133-F6EA-475F-BEA1-E1728F8265A2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "io3dkq5",
+            "src": "/appui-images/standby/EF677A19-41C5-4089-9093-ED1FE1602C31.webp",
+            "filename": "EF677A19-41C5-4089-9093-ED1FE1602C31.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2qnknr0",
+        "title": "求人検索",
+        "images": [
+          {
+            "id": "zo8f131",
+            "src": "/appui-images/standby/04D6B990-A52D-4136-97FB-08A6734DE5A3.webp",
+            "filename": "04D6B990-A52D-4136-97FB-08A6734DE5A3.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "o1fmb3v",
+            "src": "/appui-images/standby/E315AB53-34F8-40FC-98EA-1A57FD89CCE4.webp",
+            "filename": "E315AB53-34F8-40FC-98EA-1A57FD89CCE4.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "i0hex0a",
+            "src": "/appui-images/standby/30B2839A-31D9-447C-ADF1-308993C4A70D.webp",
+            "filename": "30B2839A-31D9-447C-ADF1-308993C4A70D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cxhn0ad",
+            "src": "/appui-images/standby/47FAD6A9-34F9-45DE-87A0-0E5B8DB18944.webp",
+            "filename": "47FAD6A9-34F9-45DE-87A0-0E5B8DB18944.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "y0xknr4",
+            "src": "/appui-images/standby/1DE4AB46-DD35-4009-AA7F-7AFDBBAEAEF1.webp",
+            "filename": "1DE4AB46-DD35-4009-AA7F-7AFDBBAEAEF1.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ami8fmn",
+            "src": "/appui-images/standby/83A22594-2028-4005-94E7-3ECF91F7B43C.webp",
+            "filename": "83A22594-2028-4005-94E7-3ECF91F7B43C.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "dfrfo2i",
+            "src": "/appui-images/standby/B45AEC9A-305D-4CD5-ADA2-DEA6D27B6004.webp",
+            "filename": "B45AEC9A-305D-4CD5-ADA2-DEA6D27B6004.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "nwihjap",
+            "src": "/appui-images/standby/4236B7A1-DEA0-4C59-BC98-5CF374D79A23.webp",
+            "filename": "4236B7A1-DEA0-4C59-BC98-5CF374D79A23.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "5wqnncq",
+            "src": "/appui-images/standby/E3CA9AA4-3323-4936-B273-C62E28A5A088.webp",
+            "filename": "E3CA9AA4-3323-4936-B273-C62E28A5A088.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "3lq1a3f",
+            "src": "/appui-images/standby/AF6BE9E5-A809-4B3C-8E6C-53061C33A17D.webp",
+            "filename": "AF6BE9E5-A809-4B3C-8E6C-53061C33A17D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "xdhb6wv",
+            "src": "/appui-images/standby/9F95F66C-F716-4DAA-A827-BE2F6CA14499.webp",
+            "filename": "9F95F66C-F716-4DAA-A827-BE2F6CA14499.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "3ypt32a",
+            "src": "/appui-images/standby/039106B3-2316-43D7-9087-BDC89A369D42.webp",
+            "filename": "039106B3-2316-43D7-9087-BDC89A369D42.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "8hn5ls0",
+            "src": "/appui-images/standby/231AE52D-F0A7-45BA-9024-4E93961AEDE9.webp",
+            "filename": "231AE52D-F0A7-45BA-9024-4E93961AEDE9.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "proe03o",
+            "src": "/appui-images/standby/3DC601F6-AD13-4F3D-A0C6-20E926576864.webp",
+            "filename": "3DC601F6-AD13-4F3D-A0C6-20E926576864.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ukkk1di",
+            "src": "/appui-images/standby/ED97C1D8-6DEE-498C-A443-2CDA75A9365F.webp",
+            "filename": "ED97C1D8-6DEE-498C-A443-2CDA75A9365F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "8zk69r8",
+            "src": "/appui-images/standby/B5FFA9B6-ABCD-49DA-9D8B-E0BE7C697A95.webp",
+            "filename": "B5FFA9B6-ABCD-49DA-9D8B-E0BE7C697A95.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "axuduxm",
+            "src": "/appui-images/standby/38E8ED8E-662B-4F39-A381-52D6C8E6BFE4.webp",
+            "filename": "38E8ED8E-662B-4F39-A381-52D6C8E6BFE4.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "vlh8uja",
+            "src": "/appui-images/standby/E0889023-C688-4A11-9F56-128E5EF42B40.webp",
+            "filename": "E0889023-C688-4A11-9F56-128E5EF42B40.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "svisvfp",
+            "src": "/appui-images/standby/E885D568-6E84-4D81-9619-7AFA6B296DFF.webp",
+            "filename": "E885D568-6E84-4D81-9619-7AFA6B296DFF.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2mm6m66",
+            "src": "/appui-images/standby/1C69EC17-F077-4C47-92F1-7BFC2CDCEDCD.webp",
+            "filename": "1C69EC17-F077-4C47-92F1-7BFC2CDCEDCD.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ae2rzeb",
+            "src": "/appui-images/standby/9A17217F-480A-488F-A103-9EB58785188F.webp",
+            "filename": "9A17217F-480A-488F-A103-9EB58785188F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "abla9w1",
+            "src": "/appui-images/standby/D015ACE7-8DDA-483C-9061-F3A3A8EA0B8D.webp",
+            "filename": "D015ACE7-8DDA-483C-9061-F3A3A8EA0B8D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "jdllubq",
+            "src": "/appui-images/standby/6032F0B6-9AF6-48A6-8B04-BDB15B449CB2.webp",
+            "filename": "6032F0B6-9AF6-48A6-8B04-BDB15B449CB2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "m8sdak4",
+        "title": "ホーム",
+        "images": [
+          {
+            "id": "ujzpjg1",
+            "src": "/appui-images/standby/7C0EF868-24FC-463C-9DA3-507AD6CACE62.webp",
+            "filename": "7C0EF868-24FC-463C-9DA3-507AD6CACE62.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "30albuu",
+            "src": "/appui-images/standby/F6C39186-1779-4269-AFED-9888B53BB1AD.webp",
+            "filename": "F6C39186-1779-4269-AFED-9888B53BB1AD.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "zi9bovi",
+            "src": "/appui-images/standby/F7523695-8C7F-42ED-B674-2A288A3FF843.webp",
+            "filename": "F7523695-8C7F-42ED-B674-2A288A3FF843.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "tgm4uec",
+            "src": "/appui-images/standby/24E7F56A-3019-4363-8DAD-E86169D12CE5.webp",
+            "filename": "24E7F56A-3019-4363-8DAD-E86169D12CE5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "wt3uwvk",
+            "src": "/appui-images/standby/D865C03C-6715-4C02-AD97-01395CAEC48D.webp",
+            "filename": "D865C03C-6715-4C02-AD97-01395CAEC48D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "pmm7q0x",
+            "src": "/appui-images/standby/2928DCB0-5B29-4D36-9B69-BF695ACB0287.webp",
+            "filename": "2928DCB0-5B29-4D36-9B69-BF695ACB0287.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "gf5qto5",
+            "src": "/appui-images/standby/D4C97D3D-9A22-45E4-9DA6-B09EC8FB4FAE.webp",
+            "filename": "D4C97D3D-9A22-45E4-9DA6-B09EC8FB4FAE.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60xqgvr",
+        "title": "マイページ・設定",
+        "images": [
+          {
+            "id": "sfyz0fz",
+            "src": "/appui-images/standby/07258D26-2DBF-485C-BF66-F992F91DBAF7.webp",
+            "filename": "07258D26-2DBF-485C-BF66-F992F91DBAF7.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "1tgx3jz",
+            "src": "/appui-images/standby/CCEB14B9-F623-46C3-823E-25D9AF9E374D.webp",
+            "filename": "CCEB14B9-F623-46C3-823E-25D9AF9E374D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "c25x30a",
+            "src": "/appui-images/standby/B5083D04-5716-42BE-AAFA-AC9587559357.webp",
+            "filename": "B5083D04-5716-42BE-AAFA-AC9587559357.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "al9oecb",
+            "src": "/appui-images/standby/B69EF8E8-1084-4803-825E-80558152F4D9.webp",
+            "filename": "B69EF8E8-1084-4803-825E-80558152F4D9.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "8r2z94f",
+            "src": "/appui-images/standby/33D69D6A-A624-46C5-AA60-C2526FA74846.webp",
+            "filename": "33D69D6A-A624-46C5-AA60-C2526FA74846.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "0z9ibyf",
+            "src": "/appui-images/standby/7199D1D0-EC4C-4A4D-9C32-91E54B3E8CCE.webp",
+            "filename": "7199D1D0-EC4C-4A4D-9C32-91E54B3E8CCE.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8fm8egs",
+        "title": "求人一覧",
+        "images": [
+          {
+            "id": "jgf1zsr",
+            "src": "/appui-images/standby/4B3194CA-D7DA-4E34-AEC1-6857B2EE1C0D.webp",
+            "filename": "4B3194CA-D7DA-4E34-AEC1-6857B2EE1C0D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ih5zqdt",
+            "src": "/appui-images/standby/98C1B3AA-7503-4E3F-8902-8D8F6EF86ABB.webp",
+            "filename": "98C1B3AA-7503-4E3F-8902-8D8F6EF86ABB.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ztx961m",
+            "src": "/appui-images/standby/8408B7F6-5CA3-43A3-96BA-5372C893C26B.webp",
+            "filename": "8408B7F6-5CA3-43A3-96BA-5372C893C26B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ueeojdc",
+            "src": "/appui-images/standby/7F967343-4591-4442-8FEA-5F084ECC54F0.webp",
+            "filename": "7F967343-4591-4442-8FEA-5F084ECC54F0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "541sb1n",
+            "src": "/appui-images/standby/D41D5236-A839-4176-9D18-2A0B8BA69DDA.webp",
+            "filename": "D41D5236-A839-4176-9D18-2A0B8BA69DDA.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "wm55wpp",
+            "src": "/appui-images/standby/D0E02E74-EBF3-420E-8F7F-62F23D52D35D.webp",
+            "filename": "D0E02E74-EBF3-420E-8F7F-62F23D52D35D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "jmtxue4",
+            "src": "/appui-images/standby/9DBBC91C-FD61-43C6-82FA-3D6B2358A372.webp",
+            "filename": "9DBBC91C-FD61-43C6-82FA-3D6B2358A372.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "aqj0uk0",
+            "src": "/appui-images/standby/0DE43685-C2F0-4773-A9A0-FB7443997382.webp",
+            "filename": "0DE43685-C2F0-4773-A9A0-FB7443997382.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cxdgwya",
+            "src": "/appui-images/standby/DD95AA87-8F5C-48F0-B2EC-FF900925ED57.webp",
+            "filename": "DD95AA87-8F5C-48F0-B2EC-FF900925ED57.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "fct9bx9",
+            "src": "/appui-images/standby/E9698841-5A95-4F21-8B90-29657F419173.webp",
+            "filename": "E9698841-5A95-4F21-8B90-29657F419173.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ep0ak4e",
+            "src": "/appui-images/standby/654CFC6E-6001-4959-9731-FAA901559BF1.webp",
+            "filename": "654CFC6E-6001-4959-9731-FAA901559BF1.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "qfkf39b",
+            "src": "/appui-images/standby/6942715A-A9B5-4E18-A0A9-8EE158E1D50A.webp",
+            "filename": "6942715A-A9B5-4E18-A0A9-8EE158E1D50A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "df24gip",
+        "title": "求人詳細",
+        "images": [
+          {
+            "id": "xz0rah6",
+            "src": "/appui-images/standby/FF01C99F-6822-4FAE-BBE8-AD8783910781.webp",
+            "filename": "FF01C99F-6822-4FAE-BBE8-AD8783910781.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "j6c6vni",
+            "src": "/appui-images/standby/F8C7D6A7-5421-47C4-B982-2EE9DA3246CF.webp",
+            "filename": "F8C7D6A7-5421-47C4-B982-2EE9DA3246CF.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ne9gupz",
+            "src": "/appui-images/standby/0BB7B30E-8455-4605-80E2-03AB61A39AE5.webp",
+            "filename": "0BB7B30E-8455-4605-80E2-03AB61A39AE5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "standby"
+  },
+  {
+    "id": "satofuru-1794033032669-11tz",
+    "name": "さとふる",
+    "description": "ふるさと納税 なら さとふる！認知度No.1※のふるさと納税 サイト「さとふる」の公式アプリ！ ※2026年1月時点 調査実施機関：(株) インテージ https://www.satofull.jp/static/research/no1_…",
+    "iconUrl": "/appui-images/satofuru/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E-%E3%81%95%E3%81%A8%E3%81%B5%E3%82%8B/id1523260652?uo=4",
+    "categories": [
+      "ライフスタイル"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "カード",
+      "リスト",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション",
+      "フォーム"
+    ],
+    "sections": [
+      {
+        "id": "8vxzvjs",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "ymmkx63",
+            "src": "/appui-images/satofuru/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "51pipz2",
+            "src": "/appui-images/satofuru/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "k5ez1z3",
+            "src": "/appui-images/satofuru/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "3tgpena",
+            "src": "/appui-images/satofuru/screen-04.webp",
+            "filename": "screen-04.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "4dc0bh6",
+            "src": "/appui-images/satofuru/screen-05.webp",
+            "filename": "screen-05.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "q0eh63j",
+            "src": "/appui-images/satofuru/screen-06.webp",
+            "filename": "screen-06.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          },
+          {
+            "id": "uibo7z3",
+            "src": "/appui-images/satofuru/screen-07.webp",
+            "filename": "screen-07.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "カード",
+              "リスト"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "soajokk",
+        "title": "オンボーディング",
+        "images": [
+          {
+            "id": "g79s47e",
+            "src": "/appui-images/satofuru/4460FEAD-870E-4438-91BE-E698671D89E5.webp",
+            "filename": "4460FEAD-870E-4438-91BE-E698671D89E5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ue52ds4",
+            "src": "/appui-images/satofuru/81E43A70-20C2-4871-AF08-B5EE95FA3232.webp",
+            "filename": "81E43A70-20C2-4871-AF08-B5EE95FA3232.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "3kwcygd",
+            "src": "/appui-images/satofuru/92061177-F3EC-4128-9775-33BBDBEC9D9B.webp",
+            "filename": "92061177-F3EC-4128-9775-33BBDBEC9D9B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "gsbitxt",
+            "src": "/appui-images/satofuru/B90C9FA6-06AC-49DA-BCDE-B984207EC59A.webp",
+            "filename": "B90C9FA6-06AC-49DA-BCDE-B984207EC59A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "m0sas9s",
+            "src": "/appui-images/satofuru/FBE38045-F24E-40F1-ABA1-C7C42AA22631.webp",
+            "filename": "FBE38045-F24E-40F1-ABA1-C7C42AA22631.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "adgf55c",
+        "title": "返礼品詳細",
+        "images": [
+          {
+            "id": "vet7isv",
+            "src": "/appui-images/satofuru/9FB018E8-49EE-414D-81CE-38F477642A5E.webp",
+            "filename": "9FB018E8-49EE-414D-81CE-38F477642A5E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ifxjizx",
+            "src": "/appui-images/satofuru/DAD8E459-F5FC-4572-BDD2-A03FAA4018B6.webp",
+            "filename": "DAD8E459-F5FC-4572-BDD2-A03FAA4018B6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "an56akw",
+            "src": "/appui-images/satofuru/A7D1B68F-8E59-4208-9B84-A1162651E621.webp",
+            "filename": "A7D1B68F-8E59-4208-9B84-A1162651E621.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "e6bylhd",
+            "src": "/appui-images/satofuru/DA71B1A3-B661-418D-AAD5-682B8E87AB6F.webp",
+            "filename": "DA71B1A3-B661-418D-AAD5-682B8E87AB6F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "owx779r",
+            "src": "/appui-images/satofuru/6B527D75-91E2-4062-8B70-D8E9200A6D26.webp",
+            "filename": "6B527D75-91E2-4062-8B70-D8E9200A6D26.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "9vklqq6",
+            "src": "/appui-images/satofuru/CCADC461-EC02-4044-8E58-BB9E850B785B.webp",
+            "filename": "CCADC461-EC02-4044-8E58-BB9E850B785B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "d23ylfx",
+            "src": "/appui-images/satofuru/FEE9DE2B-F4CE-4465-935C-5D71B9C8DFF5.webp",
+            "filename": "FEE9DE2B-F4CE-4465-935C-5D71B9C8DFF5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "367zczn",
+            "src": "/appui-images/satofuru/39CA70F7-F9B3-4FBE-862C-9BC7FE77FFAD.webp",
+            "filename": "39CA70F7-F9B3-4FBE-862C-9BC7FE77FFAD.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "9bd9n6j",
+            "src": "/appui-images/satofuru/E088320F-EDE6-4BA3-B17A-AFE2694B5FD8.webp",
+            "filename": "E088320F-EDE6-4BA3-B17A-AFE2694B5FD8.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "4n0iybd",
+            "src": "/appui-images/satofuru/BAB68EDF-456A-46EB-B2F2-24153BCE7B6C.webp",
+            "filename": "BAB68EDF-456A-46EB-B2F2-24153BCE7B6C.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "b11d288",
+            "src": "/appui-images/satofuru/1440FCC3-22F3-4AA0-8DE8-2915D6CA0F15.webp",
+            "filename": "1440FCC3-22F3-4AA0-8DE8-2915D6CA0F15.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "l9rv770",
+            "src": "/appui-images/satofuru/6A3266F4-C973-4A37-96E9-935724F37EED.webp",
+            "filename": "6A3266F4-C973-4A37-96E9-935724F37EED.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "a7hmbph",
+            "src": "/appui-images/satofuru/07EE51E0-A1D8-4BDA-9A89-2C9167701F4C.webp",
+            "filename": "07EE51E0-A1D8-4BDA-9A89-2C9167701F4C.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "0xcva80",
+            "src": "/appui-images/satofuru/DB511A00-C680-4AA2-A7FB-E8B2784BB798.webp",
+            "filename": "DB511A00-C680-4AA2-A7FB-E8B2784BB798.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "oxxt0y5",
+            "src": "/appui-images/satofuru/158C2093-0AF5-42FC-A180-C30F3D88CDE9.webp",
+            "filename": "158C2093-0AF5-42FC-A180-C30F3D88CDE9.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "hdmyy2h",
+            "src": "/appui-images/satofuru/B9C26962-1ED7-48BB-8CD2-F23126BB81E2.webp",
+            "filename": "B9C26962-1ED7-48BB-8CD2-F23126BB81E2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "k5wgmkq",
+            "src": "/appui-images/satofuru/87ED48FC-769A-4078-A93F-3E1BD135A691.webp",
+            "filename": "87ED48FC-769A-4078-A93F-3E1BD135A691.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "iubyvg5",
+            "src": "/appui-images/satofuru/71215A19-FB16-4B4A-8228-6698E133D100.webp",
+            "filename": "71215A19-FB16-4B4A-8228-6698E133D100.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "yb4tslq",
+            "src": "/appui-images/satofuru/0F3B2CA0-FD73-49EC-949F-5E035D3BE3BC.webp",
+            "filename": "0F3B2CA0-FD73-49EC-949F-5E035D3BE3BC.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "94yoez2",
+            "src": "/appui-images/satofuru/3AA8214D-2B1F-48E4-A50B-5511AE4409E6.webp",
+            "filename": "3AA8214D-2B1F-48E4-A50B-5511AE4409E6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "s4riezs",
+            "src": "/appui-images/satofuru/C68328F3-6F06-4348-ADB0-BEF144BFEC81.webp",
+            "filename": "C68328F3-6F06-4348-ADB0-BEF144BFEC81.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "n9sazyg",
+            "src": "/appui-images/satofuru/61B63C35-41D1-4E1E-9B7D-41A28E42604D.webp",
+            "filename": "61B63C35-41D1-4E1E-9B7D-41A28E42604D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "13xz7nv",
+            "src": "/appui-images/satofuru/8D2DCA70-0250-47EF-9565-411E88ED3E12.webp",
+            "filename": "8D2DCA70-0250-47EF-9565-411E88ED3E12.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "9yq1gfj",
+            "src": "/appui-images/satofuru/30689282-4B18-4246-8D28-2208F8D16496.webp",
+            "filename": "30689282-4B18-4246-8D28-2208F8D16496.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "1u664x1",
+            "src": "/appui-images/satofuru/7B3D8B63-7A38-49FD-B5EB-D43490856A2E.webp",
+            "filename": "7B3D8B63-7A38-49FD-B5EB-D43490856A2E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "e60wj23",
+            "src": "/appui-images/satofuru/E781476E-E7E6-4EE4-B28E-67414701A882.webp",
+            "filename": "E781476E-E7E6-4EE4-B28E-67414701A882.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "n9mqx7p",
+            "src": "/appui-images/satofuru/00A8A40F-4534-457C-AB6C-E25D7D323486.webp",
+            "filename": "00A8A40F-4534-457C-AB6C-E25D7D323486.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "y53zral",
+            "src": "/appui-images/satofuru/94932D36-FFDE-4D5C-A08F-43A3E6C3052C.webp",
+            "filename": "94932D36-FFDE-4D5C-A08F-43A3E6C3052C.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "axy56ah",
+            "src": "/appui-images/satofuru/71CF0236-4073-4DFE-A3DC-D539A3753EAE.webp",
+            "filename": "71CF0236-4073-4DFE-A3DC-D539A3753EAE.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "n3spe86",
+            "src": "/appui-images/satofuru/63386221-CFD6-41EE-9214-843E0B1AAEAB.webp",
+            "filename": "63386221-CFD6-41EE-9214-843E0B1AAEAB.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "v1d67uz",
+        "title": "マイページ",
+        "images": [
+          {
+            "id": "sfbcswi",
+            "src": "/appui-images/satofuru/3590991A-A05E-414A-8E7D-5837CF595372.webp",
+            "filename": "3590991A-A05E-414A-8E7D-5837CF595372.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cvdy8fo",
+            "src": "/appui-images/satofuru/44D54D2E-F2C7-4A26-AC1B-968E68AE3773.webp",
+            "filename": "44D54D2E-F2C7-4A26-AC1B-968E68AE3773.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cnmgnv7",
+            "src": "/appui-images/satofuru/A9C94E39-9C3F-4F15-A064-DFB6614E8971.webp",
+            "filename": "A9C94E39-9C3F-4F15-A064-DFB6614E8971.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7e56ope",
+        "title": "ホーム",
+        "images": [
+          {
+            "id": "au51e6p",
+            "src": "/appui-images/satofuru/3B2EEB9B-C4E4-4C80-B915-C8EC2593C902.webp",
+            "filename": "3B2EEB9B-C4E4-4C80-B915-C8EC2593C902.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "kxlig2d",
+            "src": "/appui-images/satofuru/8BA73D6D-BF19-4F42-A1DD-E9108DEAB054.webp",
+            "filename": "8BA73D6D-BF19-4F42-A1DD-E9108DEAB054.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "j89tr6x",
+            "src": "/appui-images/satofuru/03146AF4-4DF1-4984-8B5C-444233573844.webp",
+            "filename": "03146AF4-4DF1-4984-8B5C-444233573844.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "18egfmh",
+            "src": "/appui-images/satofuru/CA50C15C-1026-45FD-AA40-07E0E41917DD.webp",
+            "filename": "CA50C15C-1026-45FD-AA40-07E0E41917DD.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "kdza65x",
+            "src": "/appui-images/satofuru/8C875305-8501-481E-9C5F-91BE16E7EAF5.webp",
+            "filename": "8C875305-8501-481E-9C5F-91BE16E7EAF5.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2mijl0o",
+            "src": "/appui-images/satofuru/55CB9A5E-349A-4C50-9E3C-AE2AFBD4FB04.webp",
+            "filename": "55CB9A5E-349A-4C50-9E3C-AE2AFBD4FB04.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "t5crj66",
+            "src": "/appui-images/satofuru/E5C58EFC-DB0D-474D-AEB9-B7C0DB6E0748.webp",
+            "filename": "E5C58EFC-DB0D-474D-AEB9-B7C0DB6E0748.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "tjx6qir",
+            "src": "/appui-images/satofuru/45098623-F47A-43D2-BE72-781E7AE05DF0.webp",
+            "filename": "45098623-F47A-43D2-BE72-781E7AE05DF0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "p6cb7lb",
+            "src": "/appui-images/satofuru/16ED010D-639E-48B5-844D-3EF976358988.webp",
+            "filename": "16ED010D-639E-48B5-844D-3EF976358988.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ea2652h",
+            "src": "/appui-images/satofuru/183D4A7D-3EEE-4D2A-97BB-550008F50D35.webp",
+            "filename": "183D4A7D-3EEE-4D2A-97BB-550008F50D35.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "jnirm9q",
+            "src": "/appui-images/satofuru/D050C32A-F68B-40D3-95A3-B1D17979506F.webp",
+            "filename": "D050C32A-F68B-40D3-95A3-B1D17979506F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "lleqja6",
+            "src": "/appui-images/satofuru/192DC6A3-9503-4A4A-B82B-D3FB9E48A62E.webp",
+            "filename": "192DC6A3-9503-4A4A-B82B-D3FB9E48A62E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "bsic250",
+            "src": "/appui-images/satofuru/79387FAA-D028-4C3F-86A6-9770F15C5308.webp",
+            "filename": "79387FAA-D028-4C3F-86A6-9770F15C5308.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "l06j32a",
+            "src": "/appui-images/satofuru/FD1DB36D-2268-463A-B8E9-98CDA6BD39C6.webp",
+            "filename": "FD1DB36D-2268-463A-B8E9-98CDA6BD39C6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "bevhcwp",
+            "src": "/appui-images/satofuru/9748806F-195E-479F-A53B-9936ADCC1CCE.webp",
+            "filename": "9748806F-195E-479F-A53B-9936ADCC1CCE.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "hr2431q",
+            "src": "/appui-images/satofuru/468F45EB-9177-4994-9DF8-59B25100A490.webp",
+            "filename": "468F45EB-9177-4994-9DF8-59B25100A490.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "hbeux6t",
+            "src": "/appui-images/satofuru/3C1C650B-A723-4898-BC64-911EA1001310.webp",
+            "filename": "3C1C650B-A723-4898-BC64-911EA1001310.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "1e2keyg",
+            "src": "/appui-images/satofuru/D8BE7173-14D2-4627-BEEF-2993A5C83772.webp",
+            "filename": "D8BE7173-14D2-4627-BEEF-2993A5C83772.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "85oha8e",
+        "title": "検索・一覧",
+        "images": [
+          {
+            "id": "m0bfye4",
+            "src": "/appui-images/satofuru/15EB8082-2191-45A8-AB4A-C2150F32A6D3.webp",
+            "filename": "15EB8082-2191-45A8-AB4A-C2150F32A6D3.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "e0toirq",
+            "src": "/appui-images/satofuru/A171CDFF-141F-4E5B-8F4F-636F2E2D9F18.webp",
+            "filename": "A171CDFF-141F-4E5B-8F4F-636F2E2D9F18.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "q9vc4rt",
+            "src": "/appui-images/satofuru/906E0173-89A8-49C7-950F-7BE3DFA3BF48.webp",
+            "filename": "906E0173-89A8-49C7-950F-7BE3DFA3BF48.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "iiamb1z",
+            "src": "/appui-images/satofuru/BF7359C4-77B3-4FE3-8536-77AEC55AA9E3.webp",
+            "filename": "BF7359C4-77B3-4FE3-8536-77AEC55AA9E3.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "phw4vxo",
+            "src": "/appui-images/satofuru/23375D04-EE5E-4BF9-BF33-D725C3581729.webp",
+            "filename": "23375D04-EE5E-4BF9-BF33-D725C3581729.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "3ttvemr",
+            "src": "/appui-images/satofuru/4A752A2C-2D6F-481D-9AF5-965AB7C3B1F8.webp",
+            "filename": "4A752A2C-2D6F-481D-9AF5-965AB7C3B1F8.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "oedvj6t",
+            "src": "/appui-images/satofuru/5AC96DF8-6E07-4E9D-918B-A8FBDA76CC25.webp",
+            "filename": "5AC96DF8-6E07-4E9D-918B-A8FBDA76CC25.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "39etn58",
+            "src": "/appui-images/satofuru/3FDC0637-173E-4E04-90D6-F9DD1E65C331.webp",
+            "filename": "3FDC0637-173E-4E04-90D6-F9DD1E65C331.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "sfsj0d3",
+            "src": "/appui-images/satofuru/C2286F0D-A66C-4FFE-8511-A11E3584A96A.webp",
+            "filename": "C2286F0D-A66C-4FFE-8511-A11E3584A96A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "igo6plv",
+            "src": "/appui-images/satofuru/2DB2008B-E098-48D1-827C-3E0CCD0C1D39.webp",
+            "filename": "2DB2008B-E098-48D1-827C-3E0CCD0C1D39.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "2p4vn4b",
+            "src": "/appui-images/satofuru/168B0B0B-99EF-45EB-BF19-430814CED7EA.webp",
+            "filename": "168B0B0B-99EF-45EB-BF19-430814CED7EA.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "u09n9l2",
+            "src": "/appui-images/satofuru/5A351C61-6A38-4429-BDAA-481E53DA02E2.webp",
+            "filename": "5A351C61-6A38-4429-BDAA-481E53DA02E2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "d1a019h",
+        "title": "カート・寄付",
+        "images": [
+          {
+            "id": "fyzqmu7",
+            "src": "/appui-images/satofuru/61F04C18-7161-4412-8748-C67BF7D50532.webp",
+            "filename": "61F04C18-7161-4412-8748-C67BF7D50532.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "t8gpn82",
+            "src": "/appui-images/satofuru/B44EA0C0-052D-4879-B877-245D0A97AC24.webp",
+            "filename": "B44EA0C0-052D-4879-B877-245D0A97AC24.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "qz6npu7",
+            "src": "/appui-images/satofuru/5CB870E1-1FE6-406F-B258-E6934E2F7D24.webp",
+            "filename": "5CB870E1-1FE6-406F-B258-E6934E2F7D24.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "satofuru"
+  },
+  {
+    "id": "crowdworks-1794040938903-us0l",
+    "name": "クラウドワークス",
+    "description": "＼国内シェア＆取引額No.1！会員数600万人突破／ フリーランス・副業・在宅向けのお仕事アプリです。 お仕事ジャンルは200種類、発注数570万件以上。 いつでもどこでも、お仕事の検索やメッセージのやりとりがおこなえます。 通知がくるので…",
+    "iconUrl": "/appui-images/crowdworks/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B9-%E5%89%AF%E6%A5%AD-%E5%9C%A8%E5%AE%85%E3%83%AF%E3%83%BC%E3%82%AF/id1013797155?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション",
+      "メッセージ",
+      "プロフィール"
+    ],
+    "sections": [
+      {
+        "id": "ffhny68",
+        "title": "ストア画像",
+        "images": [
+          {
+            "id": "20ntd44",
+            "src": "/appui-images/crowdworks/screen-01.webp",
+            "filename": "screen-01.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "7hvywjd",
+            "src": "/appui-images/crowdworks/screen-02.webp",
+            "filename": "screen-02.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "rcyotyi",
+            "src": "/appui-images/crowdworks/screen-03.webp",
+            "filename": "screen-03.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "divq88l",
+            "src": "/appui-images/crowdworks/screen-04.webp",
+            "filename": "screen-04.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "qv1i80u",
+            "src": "/appui-images/crowdworks/screen-05.webp",
+            "filename": "screen-05.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "j4nciel",
+            "src": "/appui-images/crowdworks/screen-06.webp",
+            "filename": "screen-06.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "wsdyd24",
+            "src": "/appui-images/crowdworks/screen-07.webp",
+            "filename": "screen-07.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "pdtv5uu",
+            "src": "/appui-images/crowdworks/screen-08.webp",
+            "filename": "screen-08.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "hifcnxp",
+            "src": "/appui-images/crowdworks/screen-09.webp",
+            "filename": "screen-09.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          },
+          {
+            "id": "9m8syl6",
+            "src": "/appui-images/crowdworks/screen-10.webp",
+            "filename": "screen-10.webp",
+            "components": [
+              "オンボーディング",
+              "ボタン",
+              "ヘッダー",
+              "フォーム",
+              "リスト"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mswrm6f",
+        "title": "オンボーディング",
+        "images": [
+          {
+            "id": "30cn4lg",
+            "src": "/appui-images/crowdworks/9530393D-B333-473A-A139-ED4E4E6F9493.webp",
+            "filename": "9530393D-B333-473A-A139-ED4E4E6F9493.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "njdqy1j",
+            "src": "/appui-images/crowdworks/D775DACA-1D72-4C63-AD6B-D75F9950F695.webp",
+            "filename": "D775DACA-1D72-4C63-AD6B-D75F9950F695.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "en27atu",
+            "src": "/appui-images/crowdworks/0D09434C-2A12-4F8C-A379-8C176EA77527.webp",
+            "filename": "0D09434C-2A12-4F8C-A379-8C176EA77527.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "96qi4j2",
+            "src": "/appui-images/crowdworks/620A29B1-B2DA-45EA-9686-2F5F02E5E081.webp",
+            "filename": "620A29B1-B2DA-45EA-9686-2F5F02E5E081.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "vpoegxt",
+            "src": "/appui-images/crowdworks/0E2AD90F-4CD2-42EE-B352-D8B1ED4A388E.webp",
+            "filename": "0E2AD90F-4CD2-42EE-B352-D8B1ED4A388E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "a7fjkar",
+            "src": "/appui-images/crowdworks/87DD23A1-AD0C-4D94-AD8E-0A9DA7BD3C14.webp",
+            "filename": "87DD23A1-AD0C-4D94-AD8E-0A9DA7BD3C14.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "tg584zt",
+            "src": "/appui-images/crowdworks/C1DAF0B8-3657-4725-A4D8-E4EA960E5F54.webp",
+            "filename": "C1DAF0B8-3657-4725-A4D8-E4EA960E5F54.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "pa1n2oe",
+            "src": "/appui-images/crowdworks/2A828E91-DC56-4187-878A-62D47B974D78.webp",
+            "filename": "2A828E91-DC56-4187-878A-62D47B974D78.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "hrfh1fd",
+            "src": "/appui-images/crowdworks/DA5655A2-8947-475F-9C1C-741B1BCD2C90.webp",
+            "filename": "DA5655A2-8947-475F-9C1C-741B1BCD2C90.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ma32f0s",
+            "src": "/appui-images/crowdworks/B9B686FA-1ADD-4381-AB20-883CBFB81DDE.webp",
+            "filename": "B9B686FA-1ADD-4381-AB20-883CBFB81DDE.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ura8dk1",
+            "src": "/appui-images/crowdworks/71708AB5-7B75-4DD0-8963-729CA2E3B1E2.webp",
+            "filename": "71708AB5-7B75-4DD0-8963-729CA2E3B1E2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "0vq40jp",
+            "src": "/appui-images/crowdworks/B30FBAB8-735D-47DD-A46D-B57821EB8CFA.webp",
+            "filename": "B30FBAB8-735D-47DD-A46D-B57821EB8CFA.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ph6lt0a",
+            "src": "/appui-images/crowdworks/F2FDFED2-3DBE-4FE8-8DA3-CB23850E770C.webp",
+            "filename": "F2FDFED2-3DBE-4FE8-8DA3-CB23850E770C.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "wxmvx9d",
+            "src": "/appui-images/crowdworks/B4EF29F2-43CD-40BB-B34A-DA64B707CE33.webp",
+            "filename": "B4EF29F2-43CD-40BB-B34A-DA64B707CE33.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "htzpujq",
+        "title": "仕事詳細",
+        "images": [
+          {
+            "id": "733q4lk",
+            "src": "/appui-images/crowdworks/F218D3EA-FD43-43DB-B263-9C42E6C754D6.webp",
+            "filename": "F218D3EA-FD43-43DB-B263-9C42E6C754D6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "61i8pxe",
+            "src": "/appui-images/crowdworks/0A41ABF5-F8AA-4A9A-A69A-CEBFA2240EA8.webp",
+            "filename": "0A41ABF5-F8AA-4A9A-A69A-CEBFA2240EA8.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "30lwo1x",
+            "src": "/appui-images/crowdworks/863A616C-9170-47B3-9726-8378C11B55D1.webp",
+            "filename": "863A616C-9170-47B3-9726-8378C11B55D1.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "z5o2020",
+            "src": "/appui-images/crowdworks/DB4A55E6-2894-4CEB-A46B-C529907C0610.webp",
+            "filename": "DB4A55E6-2894-4CEB-A46B-C529907C0610.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "z0vmd7w",
+            "src": "/appui-images/crowdworks/6E3D4C20-3291-4543-96C6-D12DDB332D4A.webp",
+            "filename": "6E3D4C20-3291-4543-96C6-D12DDB332D4A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "akjehc6",
+            "src": "/appui-images/crowdworks/D8430E8E-741E-4058-B3B7-2C6CC8C873D8.webp",
+            "filename": "D8430E8E-741E-4058-B3B7-2C6CC8C873D8.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "e1rfqlx",
+            "src": "/appui-images/crowdworks/2E2A2C26-C17D-426F-BF12-647D2A0E9801.webp",
+            "filename": "2E2A2C26-C17D-426F-BF12-647D2A0E9801.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "dz1u5uy",
+            "src": "/appui-images/crowdworks/5A7450A0-06B1-4016-949D-43DA24DED036.webp",
+            "filename": "5A7450A0-06B1-4016-949D-43DA24DED036.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "nqdfdxq",
+            "src": "/appui-images/crowdworks/A2E6C6C3-4895-4F84-8FAE-3F0B090F578A.webp",
+            "filename": "A2E6C6C3-4895-4F84-8FAE-3F0B090F578A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "0qk8zzt",
+            "src": "/appui-images/crowdworks/834E6901-BE3D-4CA6-AE06-DF6730E0021A.webp",
+            "filename": "834E6901-BE3D-4CA6-AE06-DF6730E0021A.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "yq3abtw",
+            "src": "/appui-images/crowdworks/F9340B01-0B20-4811-8C32-CE599EEAEFE4.webp",
+            "filename": "F9340B01-0B20-4811-8C32-CE599EEAEFE4.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "jlbo8ko",
+        "title": "ホーム",
+        "images": [
+          {
+            "id": "5c6ko2g",
+            "src": "/appui-images/crowdworks/98AC6F38-4DB5-4935-ACDD-889CD6C925AF.webp",
+            "filename": "98AC6F38-4DB5-4935-ACDD-889CD6C925AF.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "6y6wi5s",
+            "src": "/appui-images/crowdworks/58E955C0-4CF6-4093-BEC4-BBFCE47F4242.webp",
+            "filename": "58E955C0-4CF6-4093-BEC4-BBFCE47F4242.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "i3arect",
+            "src": "/appui-images/crowdworks/6D37D47D-5A41-4EC7-8C68-C300990C8F66.webp",
+            "filename": "6D37D47D-5A41-4EC7-8C68-C300990C8F66.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "bybawcc",
+            "src": "/appui-images/crowdworks/7F2D8BF6-5646-4BE7-A5D9-47E883BE3BC6.webp",
+            "filename": "7F2D8BF6-5646-4BE7-A5D9-47E883BE3BC6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "l51f2w7",
+            "src": "/appui-images/crowdworks/AC8238E8-1F66-4304-8B04-D3493B3FEF7D.webp",
+            "filename": "AC8238E8-1F66-4304-8B04-D3493B3FEF7D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "lauhd66",
+            "src": "/appui-images/crowdworks/454741BA-EC2B-442F-945C-ACA0F14AF26F.webp",
+            "filename": "454741BA-EC2B-442F-945C-ACA0F14AF26F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "5y17b7j",
+            "src": "/appui-images/crowdworks/E66B627A-2A09-46CD-A4F3-97CA2BB472EB.webp",
+            "filename": "E66B627A-2A09-46CD-A4F3-97CA2BB472EB.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "nae1okp",
+            "src": "/appui-images/crowdworks/0412F893-872B-4774-B821-F0E8F11D07AD.webp",
+            "filename": "0412F893-872B-4774-B821-F0E8F11D07AD.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "by3yqjn",
+            "src": "/appui-images/crowdworks/89034786-13FA-4B4B-94BC-B0F6A1F0010F.webp",
+            "filename": "89034786-13FA-4B4B-94BC-B0F6A1F0010F.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "ej0wqm4",
+            "src": "/appui-images/crowdworks/2E6F0903-58F3-43D0-A390-16B22A65511D.webp",
+            "filename": "2E6F0903-58F3-43D0-A390-16B22A65511D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "5bb2cih",
+            "src": "/appui-images/crowdworks/15BBE9B4-1385-4990-A9E5-E846B6E9EC59.webp",
+            "filename": "15BBE9B4-1385-4990-A9E5-E846B6E9EC59.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "h11inc9",
+            "src": "/appui-images/crowdworks/FFB4B07C-FF5C-40A0-97E7-6B1ACAF7E3B7.webp",
+            "filename": "FFB4B07C-FF5C-40A0-97E7-6B1ACAF7E3B7.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2z8ikgd",
+        "title": "検索・一覧",
+        "images": [
+          {
+            "id": "e0l5yvc",
+            "src": "/appui-images/crowdworks/65B05A2E-E51C-4A01-A00A-4A5E21381874.webp",
+            "filename": "65B05A2E-E51C-4A01-A00A-4A5E21381874.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cdfb9oe",
+            "src": "/appui-images/crowdworks/C81B7C49-1587-4531-BD07-A9A7F449EAEF.webp",
+            "filename": "C81B7C49-1587-4531-BD07-A9A7F449EAEF.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "skk1lhx",
+            "src": "/appui-images/crowdworks/D28AB095-105C-4E17-86E0-033C7D979D0D.webp",
+            "filename": "D28AB095-105C-4E17-86E0-033C7D979D0D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "1n1uyr1",
+            "src": "/appui-images/crowdworks/3342DDDE-C360-4286-9678-224FF3A70A78.webp",
+            "filename": "3342DDDE-C360-4286-9678-224FF3A70A78.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "cn0keku",
+            "src": "/appui-images/crowdworks/43F1992A-F548-4490-9F1D-671109BBDBD6.webp",
+            "filename": "43F1992A-F548-4490-9F1D-671109BBDBD6.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "t8uxnph",
+            "src": "/appui-images/crowdworks/BD358098-C09B-45D9-91D2-AFE679100B01.webp",
+            "filename": "BD358098-C09B-45D9-91D2-AFE679100B01.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "fuf2er1",
+            "src": "/appui-images/crowdworks/B6BBC561-2838-4BC1-B41B-6749AF25FE97.webp",
+            "filename": "B6BBC561-2838-4BC1-B41B-6749AF25FE97.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "7rx2ikp",
+            "src": "/appui-images/crowdworks/BF1F6830-F85B-4328-92E9-DF0A604CF7A0.webp",
+            "filename": "BF1F6830-F85B-4328-92E9-DF0A604CF7A0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "xj2emkg",
+            "src": "/appui-images/crowdworks/0D18914D-2D04-47D6-B48C-92763F9619C0.webp",
+            "filename": "0D18914D-2D04-47D6-B48C-92763F9619C0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "eztbjqe",
+            "src": "/appui-images/crowdworks/21F1C182-DFD0-4BEE-AA7E-0797EEA36135.webp",
+            "filename": "21F1C182-DFD0-4BEE-AA7E-0797EEA36135.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "901m827",
+            "src": "/appui-images/crowdworks/873E4D93-33A9-467F-BB21-C5F0CA255533.webp",
+            "filename": "873E4D93-33A9-467F-BB21-C5F0CA255533.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "4l90vx4",
+            "src": "/appui-images/crowdworks/8E4300B0-79ED-432D-8079-1902A0ACA157.webp",
+            "filename": "8E4300B0-79ED-432D-8079-1902A0ACA157.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "pmx9okj",
+            "src": "/appui-images/crowdworks/4D5BC181-65C8-4683-9039-11574C842571.webp",
+            "filename": "4D5BC181-65C8-4683-9039-11574C842571.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "3xh9o8h",
+            "src": "/appui-images/crowdworks/2A293E3B-8389-47D9-B5F5-00013C996D0B.webp",
+            "filename": "2A293E3B-8389-47D9-B5F5-00013C996D0B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "i2gt8j6",
+            "src": "/appui-images/crowdworks/CF6C2853-69A0-4C73-98E6-5C9C47CB3B4B.webp",
+            "filename": "CF6C2853-69A0-4C73-98E6-5C9C47CB3B4B.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "rjiil58",
+            "src": "/appui-images/crowdworks/E7992709-60B6-49AC-AEE9-339E97A4E0A0.webp",
+            "filename": "E7992709-60B6-49AC-AEE9-339E97A4E0A0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "7jdmrnh",
+            "src": "/appui-images/crowdworks/B98C0957-103B-4675-9094-C35C3706645D.webp",
+            "filename": "B98C0957-103B-4675-9094-C35C3706645D.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2uahcf1",
+        "title": "マイページ",
+        "images": [
+          {
+            "id": "vhce9fv",
+            "src": "/appui-images/crowdworks/296F4EE6-AAB7-4DF2-89A0-FFF328F45305.webp",
+            "filename": "296F4EE6-AAB7-4DF2-89A0-FFF328F45305.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "t8otew9",
+        "title": "メッセージ",
+        "images": [
+          {
+            "id": "8zfpd95",
+            "src": "/appui-images/crowdworks/B9540268-C2C2-457D-A257-8856D934F3A0.webp",
+            "filename": "B9540268-C2C2-457D-A257-8856D934F3A0.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "o1ebmyh",
+            "src": "/appui-images/crowdworks/B9442BD2-7B6D-4486-9FD4-EF4A4191D7B2.webp",
+            "filename": "B9442BD2-7B6D-4486-9FD4-EF4A4191D7B2.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          },
+          {
+            "id": "allngf4",
+            "src": "/appui-images/crowdworks/8457D6B4-D3EA-41AC-B589-C406BCCF263E.webp",
+            "filename": "8457D6B4-D3EA-41AC-B589-C406BCCF263E.webp",
+            "components": [
+              "カード",
+              "リスト",
+              "ヘッダー",
+              "ボタン",
+              "検索"
+            ]
+          }
+        ]
+      }
+    ],
+    "slug": "crowdworks"
   }
 ]

@@ -10,9 +10,6 @@
     <loc>https://appui.refdesk.jp/privacy</loc>
   </url>
   <url>
-    <loc>https://appui.refdesk.jp/apps/野球スコア</loc>
-  </url>
-  <url>
     <loc>https://appui.refdesk.jp/apps/airbnb</loc>
   </url>
   <url>
@@ -385,7 +382,19 @@
     <loc>https://appui.refdesk.jp/apps/ticktick</loc>
   </url>
   <url>
-    <loc>https://appui.refdesk.jp/category/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84</loc>
+    <loc>https://appui.refdesk.jp/apps/campus</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/apps/kyujin-box</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/apps/standby</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/apps/satofuru</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/apps/crowdworks</loc>
   </url>
   <url>
     <loc>https://appui.refdesk.jp/category/%E6%97%85%E8%A1%8C</loc>
@@ -401,6 +410,9 @@
   </url>
   <url>
     <loc>https://appui.refdesk.jp/category/%E6%95%99%E8%82%B2</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/category/%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84</loc>
   </url>
   <url>
     <loc>https://appui.refdesk.jp/category/%E4%BB%95%E4%BA%8B%E5%8A%B9%E7%8E%87%E5%8C%96</loc>
@@ -500,5 +512,8 @@
   </url>
   <url>
     <loc>https://appui.refdesk.jp/component/%E5%8B%95%E7%94%BB</loc>
+  </url>
+  <url>
+    <loc>https://appui.refdesk.jp/component/%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8</loc>
   </url>
 </urlset>
