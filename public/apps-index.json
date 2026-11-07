@@ -8133,5 +8133,101 @@
         ]
       }
     ]
+  },
+  {
+    "id": "campus-1794033030755-by3t",
+    "slug": "campus",
+    "name": "キャンパス",
+    "description": "ビズリーチから登場した『ビズリーチ・キャンパス』は、自分の大学の卒業生と繋がれる‟OB/OG訪問ができる“就活アプリです。 社会で活躍する先輩との対話が、キャリア選択の手がかりになります。 ◆◆◆ビズリーチ・キャンパスの特徴◆◆◆ ＜幅広い…",
+    "iconUrl": "/appui-images/campus/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E5%B0%B1%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA-%E3%83%93%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%81-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9-for-student/id1144836532?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "プロフィール",
+      "ボトム ナビゲーション"
+    ],
+    "sections": []
+  },
+  {
+    "id": "kyujin-box-1794033031436-6ji1",
+    "slug": "kyujin-box",
+    "name": "求人ボックス",
+    "description": "【求人ボックスとは】 求人ボックスアプリは、全国のバイト・パート・転職・派遣サイトなどから2,000万件以上のお仕事をまとめて掲載！サイト横断で検索できる求人検索アプリです。 アルバイト・パート・正社員・派遣社員・在宅ワーク・転職活動・就職…",
+    "iconUrl": "/appui-images/kyujin-box/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E3%83%90%E3%82%A4%E3%83%88%E3%81%AF%E6%B1%82%E4%BA%BA%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E6%B4%BE%E9%81%A3-%E3%83%91%E3%83%BC%E3%83%88-%E5%9C%A8%E5%AE%85%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%82%92%E6%A4%9C%E7%B4%A2/id1635254205?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション"
+    ],
+    "sections": []
+  },
+  {
+    "id": "standby-1794033032183-3g2e",
+    "slug": "standby",
+    "name": "スタンバイ",
+    "description": "求人掲載数*1,500万件以上！国内最大級の求人検索アプリ「スタンバイ」は、LINEヤフーとVisional（ビズリーチなどを運営）の合弁会社が運営していています。 正社員、アルバイト・パート、派遣社員、在宅ワークなど、あらゆる働き方の求人…",
+    "iconUrl": "/appui-images/standby/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E8%BB%A2%E8%81%B7-%E6%B1%82%E4%BA%BA%E3%81%AF%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%90%E3%82%A4-%E3%83%90%E3%82%A4%E3%83%88%E3%82%84%E8%BB%A2%E8%81%B7-%E6%B1%82%E4%BA%BA-%E5%B0%B1%E8%81%B7-%E4%BB%95%E4%BA%8B%E6%8E%A2%E3%81%97/id1516762850?uo=4",
+    "categories": [
+      "仕事効率化"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "フォーム",
+      "リスト",
+      "カード",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション"
+    ],
+    "sections": []
+  },
+  {
+    "id": "satofuru-1794033032669-11tz",
+    "slug": "satofuru",
+    "name": "さとふる",
+    "description": "ふるさと納税 なら さとふる！認知度No.1※のふるさと納税 サイト「さとふる」の公式アプリ！ ※2026年1月時点 調査実施機関：(株) インテージ https://www.satofull.jp/static/research/no1_…",
+    "iconUrl": "/appui-images/satofuru/icon.webp",
+    "externalUrl": "https://apps.apple.com/jp/app/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E-%E3%81%95%E3%81%A8%E3%81%B5%E3%82%8B/id1523260652?uo=4",
+    "categories": [
+      "ライフスタイル"
+    ],
+    "components": [
+      "オンボーディング",
+      "ボタン",
+      "ヘッダー",
+      "カード",
+      "リスト",
+      "検索",
+      "フィルター",
+      "タブ・セグメントコントロール",
+      "ボトム ナビゲーション",
+      "フォーム"
+    ],
+    "sections": []
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "id": "satofuru-1794033032669-11tz",
+  "name": "さとふる",
+  "description": "ふるさと納税 なら さとふる！認知度No.1※のふるさと納税 サイト「さとふる」の公式アプリ！ ※2026年1月時点 調査実施機関：(株) インテージ https://www.satofull.jp/static/research/no1_…",
+  "iconUrl": "/appui-images/satofuru/icon.webp",
+  "externalUrl": "https://apps.apple.com/jp/app/%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E-%E3%81%95%E3%81%A8%E3%81%B5%E3%82%8B/id1523260652?uo=4",
+  "categories": [
+    "ライフスタイル"
+  ],
+  "components": [
+    "オンボーディング",
+    "ボタン",
+    "ヘッダー",
+    "カード",
+    "リスト",
+    "検索",
+    "フィルター",
+    "タブ・セグメントコントロール",
+    "ボトム ナビゲーション",
+    "フォーム"
+  ],
+  "sections": [],
+  "slug": "satofuru"
+}

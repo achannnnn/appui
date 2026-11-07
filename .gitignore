@@ -1,6 +1,9 @@
 scripts/ocr-text
 inbox/*
 !inbox/.gitkeep
+!inbox/*/
+!inbox/*/.gitkeep
+!inbox/*/README.txt
 .DS_Store
 node_modules/
 dist/
