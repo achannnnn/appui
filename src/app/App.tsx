@@ -820,6 +820,15 @@ function Frame12({ onCategoryClick, onComponentClick, showCategoryDropdown, show
   );
 }
 
+function shuffleApps(apps: AppData[]): AppData[] {
+  const next = [...apps];
+  for (let i = next.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [next[i], next[j]] = [next[j], next[i]];
+  }
+  return next;
+}
+
 type AppProps = {
   initialCategory?: string | null;
   initialComponent?: string | null;
@@ -896,7 +905,7 @@ export default function App({ initialCategory = null, initialComponent = null }:
         const response = await fetch('/apps-index.json');
         if (!response.ok) throw new Error('apps-index.jsonの取得に失敗しました');
         const data = (await response.json()) as AppData[];
-        if (!canceled) setApps(Array.isArray(data) ? data : []);
+        if (!canceled) setApps(shuffleApps(Array.isArray(data) ? data : []));
       } catch {
         if (!canceled) setApps([]);
       } finally {
